@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import argparse
+import logging
 import os
 
 from yaml import dump, Dumper
@@ -20,6 +21,19 @@ LANGCODE = {
     'raramuri': 'tar',
     'shipibo_konibo': 'shp',
     'wixarika': 'hch'
+}
+
+TOKENIZED_TRAIN = {
+    'ashaninka': False,
+    'aymara': False,
+    'bribri': True,
+    'guarani': False,
+    'hñähñu': True,
+    'nahuatl': True,
+    'quechua': False,
+    'raramuri': True,
+    'shipibo_konibo': False,
+    'wixarika': False
 }
 
 DEVSETS = ['aymara', 'bribri', 'nahuatl', 'quechua', 'raramuri', 'wixarika']
@@ -78,20 +92,34 @@ def main(output, workdir):
 
     steps = []
 
-    # Copy dev sets
-    for lang in DEVSETS:
-        for idx in [0, 1]:
-            steps.append({
-                'type': 'concatenate',
-                'parameters': {
-                    'inputs': [get_input_files(lang, prefix='dev')[idx]],
-                    'output': get_work_files(lang, prefix='dev')[idx]
-                }
-            })
+    # Detokenize train sets
+    for lang in LANGUAGES:
+        if not TOKENIZED_TRAIN[lang]:
+            continue
+        inputs = get_input_files(lang)  # train.lang
+        outputs = get_work_files(lang, 'train')
+        steps.append({
+            'type': 'preprocess',
+            'parameters': {
+                'inputs': inputs,
+                'outputs': outputs,
+                'preprocessors': [
+                    {'Detokenizer': {
+                        'tokenizer': 'moses',
+                        'languages': ['es', LANGCODE[lang]]
+                    }}
+                ]
+            }
+        })
+
+    # TODO: add extra cleaning for specific corpora?
 
     # Combine training data sets
     for lang in LANGUAGES:
-        inputs = [get_input_files(lang)]  # train.lang
+        if TOKENIZED_TRAIN[lang]:
+            inputs = [get_work_files(lang, 'train')]
+        else:
+            inputs = [get_input_files(lang)]
         if lang in EXTRA:
             for params in EXTRA[lang]:
                 inputs.append(get_input_files(lang, **params))
@@ -99,14 +127,25 @@ def main(output, workdir):
             steps.append({
                 'type': 'concatenate',
                 'parameters': {
-                    #'inputs': [get_input_files('quechua', code='quz')[idx],
-                    #           get_input_files('quechua', prefix='dict')[idx]],
                     'inputs': [f[idx] for f in inputs],
-                    'output': get_work_files(lang, 'input')[idx]
+                    'output': get_work_files(lang, 'combined')[idx]
                 }
             })
 
-    # remove duplicates
+    # Normalize whitespaces
+    for lang in LANGUAGES:
+        inputs = get_work_files(lang, 'combined')
+        outputs = get_work_files(lang, 'input')
+        steps.append({
+            'type': 'preprocess',
+            'parameters': {
+                'inputs': inputs,
+                'outputs': outputs,
+                'preprocessors': [{'WhitespaceNormalizer': {}}]
+            }
+        })
+
+    # Remove duplicates
     for lang in LANGUAGES:
         inputs = get_work_files(lang, 'input')
         steps.append({
@@ -154,6 +193,45 @@ def main(output, workdir):
             }
         })
 
+    # Tokenize training sets
+    # FIXME: does not work properly at least for wixarika
+    for lang in LANGUAGES:
+        inputs = get_work_files(lang, 'dedup_filtered')
+        outputs = get_work_files(lang, 'dedup_filtered_tokenized')
+        steps.append({
+            'type': 'preprocess',
+            'parameters': {
+                'inputs': inputs,
+                'outputs': outputs,
+                'preprocessors': [
+                    {'Tokenizer': {
+                        'tokenizer': 'moses',
+                        'languages': ['es', LANGCODE[lang]]
+                    }}
+                ]
+            }
+        })
+
+    # Tokenize dev sets
+    for lang in DEVSETS:
+        inputs = get_input_files(lang, prefix='dev')
+        outputs = get_work_files(lang, prefix='dev_tokenized')
+        steps.append({
+            'type': 'preprocess',
+            'parameters': {
+                'inputs': inputs,
+                'outputs': outputs,
+                'preprocessors': [
+                    {'Tokenizer': {
+                        'tokenizer': 'moses',
+                        'languages': ['es', LANGCODE[lang]]
+                    }}
+                ]
+            }
+        })
+
+    logging.info("%s steps generated for %s", len(steps), output)
+
     # Write YAML configuration for opusfilter
     config = {
         'common': {
@@ -175,4 +253,5 @@ if __name__ == '__main__':
     parser.add_argument('output', metavar='FILE', help='OpusFilter config file')
     parser.add_argument('workdir', metavar='DIR', help='Work directory for OpusFilter')
     args = parser.parse_args()
+    logging.basicConfig(level=logging.INFO)
     main(args.output, args.workdir)
