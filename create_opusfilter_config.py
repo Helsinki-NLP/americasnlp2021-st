@@ -25,6 +25,15 @@ LANGCODE = {
 DEVSETS = ['aymara', 'bribri', 'nahuatl', 'quechua', 'raramuri', 'wixarika']
 
 EXTRA = {
+    'aymara': [
+        {'prefix': 'parallel_data/es-aym/opus_globalvoices.es-aym'}
+    ],
+    'hñähñu': [
+        {'prefix': 'extra/mxconst'}
+    ],
+    'nahuatl': [
+        {'prefix': 'extra/mxconst'}
+    ],
     'quechua': [
         {'prefix': 'dict'},
         {'prefix': 'parallel_data/es-quy/dict_misc.quy-es'},
@@ -32,13 +41,16 @@ EXTRA = {
         {'prefix': 'parallel_data/es-quy/minedu.quy-es'},
         {'prefix': 'parallel_data/es-quz/jw300.es-quz', 'code': 'quz'},
     ],
-    'aymara': [
-        {'prefix': 'parallel_data/es-aym/opus_globalvoices.es-aym'}
+    'raramuri': [
+        {'prefix': 'extra/mxconst'}
     ],
     'shipibo_konibo': [
         {'prefix': 'parallel_data/dictionary'},
         {'prefix': 'parallel_data/educational'},
         {'prefix': 'parallel_data/flashcards'},
+    ],
+    'wixarika': [
+        {'prefix': 'extra/mxconst'}
     ]
 }
 
