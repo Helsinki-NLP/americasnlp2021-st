@@ -7,21 +7,40 @@ import os
 from yaml import dump, Dumper
 
 
-LANGUAGES = ['aymara', 'bribri', 'guarani', 'hñähñu', 'nahuatl', 'quechua', 'raramuri', 'shipibo_konibo', 'wixarika']
+LANGUAGES = ['ashaninka', 'aymara', 'bribri', 'guarani', 'hñähñu', 'nahuatl', 'quechua', 'raramuri', 'shipibo_konibo', 'wixarika']
 
 LANGCODE = {
+    'ashaninka': 'cni',
     'aymara': 'aym',
     'bribri': 'bzd',
     'guarani': 'gn',  
     'hñähñu': 'oto',
     'nahuatl': 'nah',
-    'quechua': 'quy',   # train file has 'guz'
+    'quechua': 'quy',
     'raramuri': 'tar',
-    'shipibo_konibo': 'shi',
+    'shipibo_konibo': 'shp',
     'wixarika': 'hch'
 }
 
 DEVSETS = ['aymara', 'bribri', 'nahuatl', 'quechua', 'raramuri', 'wixarika']
+
+EXTRA = {
+    'quechua': [
+        {'prefix': 'dict'},
+        {'prefix': 'parallel_data/es-quy/dict_misc.quy-es'},
+        {'prefix': 'parallel_data/es-quy/jw300.es-quy'},
+        {'prefix': 'parallel_data/es-quy/minedu.quy-es'},
+        {'prefix': 'parallel_data/es-quz/jw300.es-quz', 'code': 'quz'},
+    ],
+    'aymara': [
+        {'prefix': 'parallel_data/es-aym/opus_globalvoices.es-aym'}
+    ],
+    'shipibo_konibo': [
+        {'prefix': 'parallel_data/dictionary'},
+        {'prefix': 'parallel_data/educational'},
+        {'prefix': 'parallel_data/flashcards'},
+    ]
+}
 
 
 def get_input_files(lang, prefix='train', code=None):
@@ -58,23 +77,26 @@ def main(output, workdir):
                 }
             })
 
-    # quechua has train.guz and dict.guy -> combine
-    for idx in [0, 1]:
-        steps.append({
-            'type': 'concatenate',
-            'parameters': {
-                'inputs': [get_input_files('quechua', code='quz')[idx],
-                           get_input_files('quechua', prefix='dict')[idx]],
-                'output': get_work_files('quechua', 'input')[idx]
-            }
-        })
+    # Combine training data sets
+    for lang in LANGUAGES:
+        inputs = [get_input_files(lang)]  # train.lang
+        if lang in EXTRA:
+            for params in EXTRA[lang]:
+                inputs.append(get_input_files(lang, **params))
+        for idx in [0, 1]:
+            steps.append({
+                'type': 'concatenate',
+                'parameters': {
+                    #'inputs': [get_input_files('quechua', code='quz')[idx],
+                    #           get_input_files('quechua', prefix='dict')[idx]],
+                    'inputs': [f[idx] for f in inputs],
+                    'output': get_work_files(lang, 'input')[idx]
+                }
+            })
 
     # remove duplicates
     for lang in LANGUAGES:
-        if lang == 'quechua':
-            inputs = get_work_files(lang, 'input')
-        else:
-            inputs = get_input_files(lang)
+        inputs = get_work_files(lang, 'input')
         steps.append({
             'type': 'remove_duplicates',
             'parameters': {
@@ -82,8 +104,6 @@ def main(output, workdir):
                 'outputs': get_work_files(lang, 'dedup')
             }
         })
-
-    # TODO: other filtering
 
     filter_params = {
         'LengthFilter': {'unit': 'char', 'min_length': 1, 'max_length': 1000},
@@ -94,6 +114,7 @@ def main(output, workdir):
     }
     
     active_filters = {
+        'ashaninka': ['LengthRatioFilter'],
         'aymara': ['LengthFilter', 'LengthRatioFilter', 'CharacterScoreFilter',
                    'TerminalPunctuationFilter', 'NonZeroNumeralsFilter'],
         'bribri': [],
