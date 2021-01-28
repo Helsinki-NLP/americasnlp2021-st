@@ -4,6 +4,34 @@ This is the official repository for the [AmericasNLP 2021 Shared Task on Open Ma
 
 A example of data in the shared task's format can be found in ```pilot_data/```, and ```evaluate.py``` is an example of the metrics and evaluations that will be used for submitted MT systems.
 
+## Baselines
+The following results were obtained running the baseline system with the data without previous preprocessing.
+
+This first results use the first 500 sentences of the train set are used as dev and test (first dev, then test)
+
+| Languages              	| chrF2 	|  BLEU 	|
+|------------------------	|-------	|:-----:	|
+| Spanish→Aymara         	| 0.208 	| 2.34  	|
+| Spanish→Bribri         	| 0.236 	| 9.62  	|
+| Spanish→Guarani        	| 0.616 	| 37.79 	|
+| Spanish→Hñähñu (oto)   	| 0.221 	| 4.09  	|
+| Spanish→Nahuatl        	| 0.387 	| 12.57 	|
+| Spanish→Quechua        	| 0.339 	| 10.64 	|
+| Spanish→Raramuri (tnh) 	| 0.235 	| 3.76  	|
+| Spanish→Shipibo-Konibo 	| 0.166 	| 0.56  	|
+| Spanish→Wixarika       	| 0.280 	| 14.54 	|
+
+
+This results are computed on the dev set 
+
+| Languages              	| chrF2 	|  BLEU 	|
+|------------------------	|-------	|:-----:	|
+| Spanish→Aymara         	| 0.181 	| 0.35  	|
+| Spanish→Bribri         	| 0.073 	| 0.20  	|
+| Spanish→Nahuatl        	| 0.168 	| 0.13  	|
+| Spanish→Raramuri       	| 0.046 	| 0.01  	|
+| Spanish→Wixarika       	| 0.119 	| 4.26  	|
+
 ## Data sources
 
 If you use one or more of the datasets included in this repository, please do not forget to cite each of te original papers.
