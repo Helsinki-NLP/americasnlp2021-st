@@ -1,0 +1,31 @@
+# Overview of added data
+
+- ashaninka-spanish
+  - `mono`: from <https://github.com/iapucp/multilingual-data-peru/edit/master/ShaShiYaYi>
+- aymara-spanish
+  - `mono`: Wikipedia data from Tatoeba challenge
+- bribri-spanish
+  - nothing :(
+- guarani-spanish
+  - `mono`: Wikipedia data from Tatoeba challenge
+- hñähñu-spanish
+  - `extra`:
+    - dictionary from http://xixona.dlsi.ua.es/~fran/ote-spa.tsv
+	- mxconst
+  - `mono` = JW300 (Spanish alignment is not available)
+- nahuatl-spanish
+  - `extra`: mxconst
+  - `mono`: Wikipedia data from Tatoeba challenge
+- quechua-spanish
+  - `extra`: Tatoeba from Opus
+  - `mono`: Wikipedia data from Tatoeba challenge
+- raramuri-spanish
+  - `extra`: mxconst
+- shipibo_konibo-spanish
+  - `extra`: from <http://chana.inf.pucp.edu.pe/resources/parallel-corpus/>
+  - `mono`: from <https://github.com/iapucp/multilingual-data-peru/edit/master/ShaShiYaYi>
+- wixarika-spanish
+  - `extra`:
+    - mxconst
+	- from <https://github.com/pywirrarika/wixarikacorpora/tree/master/parallel-corp>
+  - `mono`: from <https://github.com/pywirrarika/wixarikacorpora/tree/master/wixmonolingual>
