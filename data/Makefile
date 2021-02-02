@@ -28,6 +28,8 @@ ${XMLALG}:
 		-trg ${lastword ${sort ${wildcard ${@:.alignxml=.*.sentxml}}}} \
 	2> $@.log | iconv -f UTF-8 -t LATIN1 > $@
 	opus2bitext \
-	-e $(patsubst %.sentxml,%.sent,${firstword ${sort ${wildcard ${@:.alignxml=.*.sentxml}}}}) \
-	-f $(patsubst %.sentxml,%.sent,${lastword ${sort ${wildcard ${@:.alignxml=.*.sentxml}}}}) \
+		-e ${dir $@}sent-${notdir $(patsubst %.sentxml,%,\
+			${firstword ${sort ${wildcard ${@:.alignxml=.*.sentxml}}}})} \
+		-f ${dir $@}sent-${notdir $(patsubst %.sentxml,%,\
+			${lastword ${sort ${wildcard ${@:.alignxml=.*.sentxml}}}})} \
 	$@
