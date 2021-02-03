@@ -43,10 +43,10 @@ EXTRA = {
         {'prefix': 'parallel_data/es-aym/opus_globalvoices.es-aym'}
     ],
     'hñähñu': [
-        {'prefix': 'extra/mxconst'}
+        {'prefix': 'extra/sent-mxconst'}
     ],
     'nahuatl': [
-        {'prefix': 'extra/mxconst'}
+        {'prefix': 'extra/sent-mxconst'}
     ],
     'quechua': [
         {'prefix': 'dict'},
@@ -54,17 +54,27 @@ EXTRA = {
         {'prefix': 'parallel_data/es-quy/jw300.es-quy'},
         {'prefix': 'parallel_data/es-quy/minedu.quy-es'},
         {'prefix': 'parallel_data/es-quz/jw300.es-quz', 'code': 'quz'},
+        {'prefix': 'extra/tatoeba_qu.raw', 'code': 'qu'}
     ],
     'raramuri': [
-        {'prefix': 'extra/mxconst'}
+        {'prefix': 'extra/sent-mxconst'}
     ],
     'shipibo_konibo': [
         {'prefix': 'parallel_data/dictionary'},
         {'prefix': 'parallel_data/educational'},
         {'prefix': 'parallel_data/flashcards'},
+        {'prefix': 'extra/Educational_0.4_2.4_35/train-es-shi', 'code': 'shi'},
+        {'prefix': 'extra/Educational_0.4_2.4_35/tune-es-shi', 'code': 'shi'},
+        {'prefix': 'extra/Educational_0.4_2.4_35/test-es-shi', 'code': 'shi'},
+        {'prefix': 'extra/Religious_0.2_2.4_35/train-es-shi', 'code': 'shi'},
+        {'prefix': 'extra/Religious_0.2_2.4_35/tune-es-shi', 'code': 'shi'},
+        {'prefix': 'extra/Religious_0.2_2.4_35/test-es-shi', 'code': 'shi'},
     ],
     'wixarika': [
-        {'prefix': 'extra/mxconst'}
+        {'prefix': 'extra/sent-mxconst'},
+        {'prefix': 'extra/corp-train', 'code': 'wix'},
+        {'prefix': 'extra/corp-dev', 'code': 'wix'},
+        {'prefix': 'extra/corp-test', 'code': 'wix'}
     ]
 }
 
