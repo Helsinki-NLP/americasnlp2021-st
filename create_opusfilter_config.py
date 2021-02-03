@@ -40,7 +40,8 @@ DEVSETS = ['aymara', 'bribri', 'nahuatl', 'quechua', 'raramuri', 'wixarika']
 
 EXTRA = {
     'aymara': [
-        {'prefix': 'parallel_data/es-aym/opus_globalvoices.es-aym'}
+        {'prefix': 'parallel_data/es-aym/opus_globalvoices.es-aym'},
+        {'prefix': 'extra/sent-boconst_aym'}
     ],
     'hñähñu': [
         {'prefix': 'extra/sent-mxconst'}
@@ -54,7 +55,9 @@ EXTRA = {
         {'prefix': 'parallel_data/es-quy/jw300.es-quy'},
         {'prefix': 'parallel_data/es-quy/minedu.quy-es'},
         {'prefix': 'parallel_data/es-quz/jw300.es-quz', 'code': 'quz'},
-        {'prefix': 'extra/tatoeba_qu.raw', 'code': 'qu'}
+        {'prefix': 'extra/tatoeba_qu.raw', 'code': 'qu'},
+        {'prefix': 'extra/sent-boconst_que', 'code': 'que'},
+        {'prefix': 'extra/sent-peconst', 'code': 'que'},
     ],
     'raramuri': [
         {'prefix': 'extra/sent-mxconst'}
