@@ -14,22 +14,25 @@ align-xml: ${XMLALG}
 ## add sentence IDs
 
 ${CORPUSFILES}: %.sentxml: %.xml
-	perl -pe 'if (/<s/){$$i++;s/<s/<s id="$$i"/;}' < $< > $@
+	perl -pe 'if (/<s>/){$$i++;s/<s/<s id="$$i">/;}' < $< > $@
 
 
 ## sentence align and extract plain text
 
 ${XMLALG}:
 	${MAKE} ${patsubst %.xml,%.sentxml,${wildcard ${@:.alignxml=}.*.xml}}
-	echo ${firstword ${sort ${wildcard ${@:.alignxml=.*.sentxml}}}}
-	echo ${lastword ${sort ${wildcard ${@:.alignxml=.*.sentxml}}}}
+	echo ${firstword ${sort ${patsubst %.xml,%.sentxml,${wildcard ${@:.alignxml=}.*.xml}}}}
+	echo ${lastword ${sort ${patsubst %.xml,%.sentxml,${wildcard ${@:.alignxml=}.*.xml}}}}
 	uplug align/sent \
-		-src ${firstword ${sort ${wildcard ${@:.alignxml=.*.sentxml}}}} \
-		-trg ${lastword ${sort ${wildcard ${@:.alignxml=.*.sentxml}}}} \
-	2> $@.log | iconv -f UTF-8 -t LATIN1 > $@
+		-src ${firstword ${sort ${patsubst %.xml,%.sentxml,\
+			${wildcard ${@:.alignxml=}.*.xml}}}} \
+		-trg ${lastword ${sort ${patsubst %.xml,%.sentxml,\
+			${wildcard ${@:.alignxml=}.*.xml}}}} | iconv -f UTF-8 -t LATIN1 > $@
 	opus2bitext \
 		-e ${dir $@}sent-${notdir $(patsubst %.sentxml,%,\
-			${firstword ${sort ${wildcard ${@:.alignxml=.*.sentxml}}}})} \
+			${firstword ${sort ${patsubst %.xml,%.sentxml,\
+				${wildcard ${@:.alignxml=}.*.xml}}}})} \
 		-f ${dir $@}sent-${notdir $(patsubst %.sentxml,%,\
-			${lastword ${sort ${wildcard ${@:.alignxml=.*.sentxml}}}})} \
+			${lastword ${sort ${patsubst %.xml,%.sentxml,\
+				${wildcard ${@:.alignxml=}.*.xml}}}})} \
 	$@
