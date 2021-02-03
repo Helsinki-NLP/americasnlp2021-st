@@ -1,2439 +1,2439 @@
-QALLTAWI 
-Nayra jaya jani amtkaya pachanakaruwa qullunakaxa utt’asipxana, jawiranakasa aksaru uksaru jithitatapxana ukatxa qutanakaru tukupxana. 
-Jiwasana ch’umi jawirasa uraqisa, jiwasana waña ch’umi uraqisa, jiwasana thaya uraqisa ukjamaraki jiwasanakana pampa ch’umi uraqisa, ukatxa llaphi uraqinakasanxa ch’uxña alinakata ukjamaraki panqaranakata ist’asitapxiwa. 
-Aka pachamamaza jarphipanxa kunaymana ajanuninakawa jakapxtanxa ukatxa kunaymana walja taqi jaqi yänaka ukjamaraki jakirinaka ukatxa qutu sarawinaka amuytanxa. ukjamata markanakaxa utt’aytana ukatxa janiwa kuna pachasa janchita jisk’achasiwi amuyktanti kunjamati nayra t’aqhisiña maranakanxa t’aqhisiwaytana. 
-Bolivia markaxa kunaymanata utt’ayata, nayra sarnaqawinakatpacha, nayra ch’axwawinaka uñjasa, indígena markanakasa janq’u janchini jaqinaka saykatasa, markachirina ch’axwapampi qhispiwi sapa jikina, indígenas ukanaka unxtasiwinakana ukjamaraki lapaka phaxsina, uraqita ch’axwawinakana, ukata ch’axwanakana jiwatanakata ukanakata machaqa marka utt’aytana. 
-Mä Estado ukjamanakana utt’ayatawa taqini kikipa ukatxa yäqata, soberania amtampi, jaqi kankaña, phuqachasiwimpi, yanapasiwimpi, munasiña chuymampi ukjamaraki kikipa t’aqanuqawi, ukjamaraki mayampi yänaka markachiritaki t’aqanuqawi taqi ukanakanxa suma qamañawa thaqhataraki; kunaymana qullqi irtasiwi, markachiri, jark’aqata, amta ukjamaraki sarawi taqi ukanaka aka uraqina jakiri markachirinakatakiwa yäqasiñapa; taqinisa umani, irnaqawini yatiqawini, qullawini ukjamaraki utani ukjamawa qutuchata ukanipxañasa. 
-Estado Colonial, republicano y neocolonial qhipharuwa jaythjtana. Estado Unitario Social de Derecho Plurinacional comunitario uka amtawxa taqiniwa utnuqaytanxa ukatxa taqi akanakaxa nayraru Bolivia marka democracia, productiva, t’auwina jakawina mayachi ukjamaraki chikañchi nayraru sarantañataki ukjamaraki markanaka qhispiyata sarnaqawipana. 
-Jiwasa warminakaxa ukjamaraki chachanakaxa. Asamblea Constituyente taypiwa poder originario del pueblo jiwasaxa marka mayachawinxa arsuraktanxa. 
-Markasanakana ch’amapampi pachamamana amuyupa phuqhasa ukatxa Dios awkiru yuspajarasa aka marka mayampi utt’aytana. Jallallatapana constituyente ukjamaraki qhisphita wakiyirinakani aka machaqa sarnaqawinaka ch’amt’atapata. 
-MACHAKA TAYKA KAMACHI NAYRÏRI T’AQA ESTADO UKANA ASKI AMTANAKA YÄQAÑANAKA, PHUQHAÑANAKA UKJAMRAKI GARANTÍAS NAYRÏRI UÑAÑCHAWI ESTADO UKANA ASKI AMTANAKA NAYRÏRI JALJA ESTADO UKANA THAKHINCHAPA 
-1 Kamachi. 
-Bolivia markaxa mayachata kunaymana pachpa markachirinakana lurawiparjama yäqata, amtaparjama, qhisphita, p’iqiñchata, p’iqiñchirixa markachirinakata chhijnuqata kunaymana nayra markanakata, pachpa markanakana amtaparjama, utt’ayatawa. 
-Bolivia markaxa kunaymana qutu marka a muyirinakata, qullqita a muyirinakata, taripañata, sarawinakata, arunakata mayachata utnuqayatawa. 
-2 Kamachi. 
-Kunjamatixa janira janq’u janchini jaqinaka purinipkana ukatpachawa aka pachpankiri markachirinakaxa qamasipxanxa pachpa uraqipanakana amtawinakapaxa Bolivia marka mayachasa yäqataxiwa ukjamaraki amtanakaparjamawa p’iqiñchirinakasa marka aqnaqasiñasa sarawinakarjamawa Tayka kamachi taypi phuqhasirakini. 
-3 Kamachi. 
-Bolivia markaxa chacha ukjamraki warmi ukatxa naciones y pueblos indígena originario campesinos ayllunakata ch’iyara janchini markachirinakata taqi markachirinaka utt’ayatawa. 
-4 Kamachi. 
-Estado ukaxa kunaymana yupaychawinaka sapa markana qamawiparjamawa yäqi ukjamaraki jay saraki. 
-Estado ukaxa yupaychawinxa qhisphitawa. 
-5 Kamachi. 
-I. Taqi markanakana, ayllunakana, pata jilatanakasana arsuwinakapaxa utjiwa, aymara, araona, baure, bésiro, canichana, cavineño, cayobaba, chacobo, chiman, ese ejja, guarani, guarasuawe, guarayu, itoname, leco, machajuyai – kallawaya, machineri, maropa, mojeño – trinitario, mojeño – ignaciano, moré, mosetén, movida, pacawara, puquina, quechua, siriono, tacana, tapiete, toromona, uru – chipaya, wenhayek, yaminawa,Auki, yuracaré, ukjamaraki zamuco taqi aka arunakawa estado taypixa yäqata arsuña arunakaxiwa 
-II. Gobierno Plurinacional ukjamaraki Gobiernos departamentales ukankirinakaxa pä aruta arsuripxañapawa. 
-Mayïrixa kastilla aru ukjarusti kawkniri aruya pachpa makachirinakana arsutachi taqina uñt’atachi uka aruwa arsutañapa. 
-Gobiernos autónomos chhijllatanakaxa pachpa qamawina arsutäki uka aru arsupxañapa ukatxa castilla aru arsupxañaparaki. 
-6 Kamachi. 
-I. Sucre markaxa capitalde Bolivia ukjamawa. 
-II. Chimpunakapaxa banderanxa kimsa saminakaniwa, chupika, q’illu, ch’uxña; Bolivia jaylliwi, escudo de armas; wiphala; escarapela; kantuta panqara pachparaki patuju panqara ukanakawa. 
-PAYÏRI JALJA ESTADO UKANA NAYRIRI AMTANAKA, ASKINAKA UKJAMARAKI PHUQHAÑANAKA 
-7 Kamachi. 
-Soberanía del pueblo boliviano ukaxa chiqapa ukjamaraki p’iqinchiripa taypiwa phuqhasi. 
-Ukakipanwa kunaymana delegación, funciones de los órganos del poder público saraqaraki; ukatxa inalienable ukjamaraki imprescriptible ukjamawa. 
-8 Kamachi. 
-I. Estado ukaxa apxaruwa ukjamaraki yäqiwa sumana qamaña - jakaña taqi markanakana: ama qhilla, ama llulla, ama suwa (jani jayramti, jani k’arimti, janiraki lunthatanti), suma qamaña ( vivir bien ), ñandereko (Vida armoniosa ), teko kavi (Vida Buena), ivi maraei (Tierra sin mal), ukjamaraki qhapajñan ( Camino o Vida noble). 
-II. Estado ukaxa mä amtawimpi, chikachawimpi, taqinimpi, yaqawimpi, amtawiparu sarnaqawimpi, yanapasiwimpi, aynimpi, yaqäwimpi, phuqachawimpi, sumana qamañampi, suma uñjawimpi, puraparu chikachasiwimpi, taqinisamayakiamuyawimpi, chachasa, warmisa mayaki amtawinakampi, suma qamawimpi, phuqawimpi, taqinitakisa mä phuqawimpi jaljawinakampi, ukjamaraki jalanuqawinakampi achunaka ukjamaraki aski yänaka, sumana jakañatakiwa amtaparu phuqani. 
-9 Kamachi. 
-Estado ukana jach’a amta phuqhawinakapawa ukjamarus tayka kamachina qillqata: 
-1. Markachirinaka aski qamawi, nayra amtawirjama, jani jisk’achasa, jani jawch’jasa, yaparu taripawina yäqata, taqi markana mayachañataki wakt’ayaña. 
-2 Aski qamawi, nayraru sartawi, suma uñjawi, jani walita jark’aqawi, Kikipata yäqasiwi, markachirinakampi, ukjamaraki ayllunakampi ukanaka jay saña ukatxa purapata yäqasiwi, sarawinakarjama arukipawi kunaymana pachpankiri arunakata ukanaka ch’amañchaña. 3. Marka mayachasa taqi markanaka utnuqayaña. 
-4. Nayrïri amtawinaka aski ch’amanchawi amtawinaka phuqhawinaka uñt’ata aka tayka kamachina yäqaña. 
-5. Markachirinakan yatiqawiparu janchina qullawiparu ukjamaraki irnaqawiparu yäqaña. 
-6. Akapachankiri yanakaxa aski amuyumpi amtasa ch’amañchaña luraña ukjamaraki kunayman aski yänaka tukuyaña jani aka pacha ñanqhachasa aski samana uñjasapuni. 
-10 Kamachi. 
-I. Boliviaxa mä estado jani ch’axmiri aski sarawinakampi chika suma qamañaru ukatxa kunaymana markanakampi yanapasiwina jach’anchi ukjamata purapata yäqasiñataki kikipa nayraru sarantawina kunaymana markanakana yäqasa ukampisa soberania de los estados yäqaraki ukjamawa. 
-II. Bolivia markaxa kunaymana ch’awxthaptawinaka, nuwasiñanaka estado ukanakapura janiwa jayskiti ukjamata aski amtawinaka phuqhatañapawa kunatï sapjtawinakarusa ukjamaraki estado ukana mayaki phuqawimpi phuqaña. 
-III. Bolivia uraqisaruxa anqata mantaniri palla pallanakaruxa janiwa utt’ayasipkaspati. 
-KIMSÏRI JALJA MARKA APNAQAÑATA 
-11 Kamachi. 
-I. Bolivia markasaxa irpirïñatakixa democrática participativa, representativa y comunitaria markachirinakata kikipa ukanakata utt’ayatawa. 
-II. Democracia ukaxa akniri kamachinakatwa wakt’ayata: 
-1. Jiskt’äwi taypiwa chiqapa chikañchasiwixa markachirinakata amtaparjamaxa p’iqinchiri jaqsuñataki tantachasiswina ukjamaraki jiskt’awina. 
-Asambleísta ukatxa tantachasiwina ukana aruskipawixa kamachirjamawa phuqhasini. 
-2. Chhijllawi taypiwa irpirinakaruxa chiqaki ukjamaraki jani khitina uñjata kamachirjama phuqasa chhijllatäni. 
-3. Naciones y pueblos indígena originario campesinos ukana - kana p’iqinchirin akapaxa sarawinakaparjamawa chhijllatarakini. 
-12 Kamachi. 
-I. Estado ukaxa pusi tayka qutunakaniwa Legislativo, Ejecutivo, Judicial ukjamaraki Electoral. 
-Estado ukana qutuchawipaxa sapaki, t’aqxtawi, chikachata ukjamaraki yanapsita aka qutunakampi ukjamawa. 
-II. Uñjawi, arxatawi, ukanakaxa markachirinakaru ukatxa estado ukanakaxa estado ukana phuqhawipawa. 
-III. Órganos públicos ukanakaruxa janiwa mayachatakaspati phuqawinakapaxa. 
-PAYÏRI UÑAÑCHAWI ASKI YAQAÑANAKA UKJAMARAKI GARANTÍAS NAYRÏRI JALJA KHUSKHATA PHUQHAÑANAKA 
-13 Kamachi. 
-I. Aka tayka kamachina amtawi phuqawinakaparuxa, janiwa khitisa kachxatkaspati, mayachataparu, jaljtawiru, ukjamaraki jach’añchawiparu phuqasiñapawa. 
-Estado ukaxa jach’añchawiru, uñjañaru ukjamaraki yaqañarusa phuqañapawa. 
-II. Aka tayka kamachina qillqatanakapaxa jani yaqhipa uñt’ayatanakaruxa janiwa phuqkati sañäkiti. 
-III. Aka tayka kamachinxa janiwa khitisa maynita jila phuqawinikaspati. 
-IV. Tratadoukjamarakiconveniosinternacionales ukanakaxaAsamblea legislativa plurinacional ukawa derechos humanos uñt’asa ukjamaraki estados de excepción marka pachpataki tuwaqapxarakini. 
-Derechos ukjamaraki deberes consagrados aka tayka kamachinxa kunjamati tratados internacional de derechos humanos jay sataki Bolivia markata ukjamarjamawa amuyatarakini. 
-14 Kamachi. 
-I. Aka tayka kamachina taqi jaqiwa, jaqirjama amuyu kamachina qillqatarjama jani kuna mayjt’awimpi. 
-II. Estado ukaxa kunaymana jisk’achawinakaru chachapasa warmipasa, kuna saminipasa, kawqha maranipasa, chacharu tukuta - warmiru tukutapasa, kawkhana yuritapasa, kawkhana qamiripasa, kuna aru arsuripasa, tatituru jaysiripansa, kuna amuyunipasa, kawkiri politicorusa sarpana, sapapansa janukaxa jaqichasitapansa, qullqinipasa janisa qullqinipana, kawkirinsa irnaqpana, kunaniskpansa, usuripansa taqi markachiriwa mä amtani phuqhawinitanxa, ukjamata jani phuqhawiruxa jakhuyatani. 
-III. Estado ukaxa taqi jaqiruwa ukjamaraki markachirinakawa jani kunata jisk’achata, jani kamsata tayka k amachiru phuqhawinakapaxa, askinjama yäqatawa. 
-IV. Aka tayka kamachina jani qillqatanakaruxa janiwa khitisa ch’amapampi munkiri jani munkiri phuqaykaspati. 
-V. Bolivia uraqisanxa, Boliviana qamirirusa, anqawjata mantaniripasa taqiniruwa kamachimpixa phuqayatani. 
-VI. Tayka kamachiru, anqata mantanirijilata ukjamaraki kullakanakaruxa Bolivia uraqisanxa kamachirjamaxa amtanakapampixa phuqañapawa. 
-PAYÏRI JALJA ASKI YÄQAÑANAKA 
-15 Kamachi. 
-I. Taqi jaqiwa jakawiru ukjamaraki integridad física, psicológica y sexual derecho ukani. 
-Janiwa khitisa tratos crueles, inhumanos, degradantes y humillantes ukjamaru uñjatakaspati. 
-Janiwa pena de muerte ukaxa utjkiti. 
-II. Taqi jaqinakawa juk’ampisa warminakaxa janiwa violencia física, sexual o psicológica utjawina markachiri taypinsa ñanqhachatakapkaspati. III. Estado ukaxa ñanqhachiwinakatxa jark’aqaniwa ukjamaraki violencia de género y generacional ukaruxa juchancharakiniwa. 
-IV. Janiwa khiti jaqisa ina ch’usata kunakipansa chhaqtayatakaspati. 
-V. Janiwa khiti jaqisa irnaqawina jawch’jatakaspati. 
-Ina jaqi apnaqañaxa tuwatawa. 
-16 Kamachi. 
-I. Taqi markachiriwa umaru ukjamaraki manq’añarusa derechonitanxa. 
-II. Estado ukaxa taqi markachirinakatakixa aski manq’anak manq’añatakiwa wakiyañapa. 
-17 Kamachi. 
-Taqi markachiriwa kunaymana yatiqawinaka katuqañapa jakawiparjama inaki wakisiriñapataki jani jisk’achata yatiqañapa. 
-18 Kamachi. 
-I. Taqi jaqinakawa janchi qullasiñana derechonipxi. 
-II. Estado ukaxa jani jisk’achasawa taqiniru qullasiñanxa uñji. 
-III. Mä thakhi amtawina taqiniru inaki chacha warmiru markachirinak pachpa markapura chikañchasisa aski yaqasiñampiw. 
-Aka thakhi amtawixa aynimpi, aski phuqhasa, estadona amtawiparjam taqi thakhinakaparu wakt’ayatawa. 
-19 Kamachi. 
-I. Taqi jaqiwa utjawini jaqjama qamañataki derechoni. 
-II. Estado ukaxa aski amtawinakwa utanaka markachirinakataki lurayañataki, aski thakhi amtawimpi qullqi irtasa ayni taypi yanaparakispa. 
-Aka amtawinakaxa pisina jakasirinakaru jani yanapt’a katuqirinakaru ukjamaraki patana qamasirinakataki wakt’ayatawa. 
-20 Kamachi. 
-I. Taqi jaqinakawa khuskhata aknïri pachpa derechonipxiwa: q’uma umaru, q’añu uma sarayiriru, lusa qhanaru, gas uta manqharu, kunaymanatta yatiyasiwiru. 
-II. Estado ukaxa taqi marka apnaqaña taypiwa aski qamañataki entidades públicas, cooperativas o comunitarias tuqi yanapaña wakicharakini. 
-Lusa qhana, gas utana, yatiyasiwinaka taqi ukanaka empresas privadas uksawa apnaqarakispa. 
-Aski qamawi wakiskiriñapatakixa taqi markachirinakataki aski amtampi, askinjam wakt’ayasa, jani phiskhasissa chaninakapasa yäpa taqi markachirinakatakiñapawa. 
-III. Umaniñasa, q’añu uma utana sarañaniñasa jaqinakana derechopawa, janiwa alxkatatakaspati kamachi tuqiwa apnaqatarakini. 
-KIMSÏRI JALJA TAQI JAQI YÁQAÑANAKA UKJAMRAKI AMTANAKA MAYÏRI T’AQXTA TAQI JAQI YÁQAÑANAKA 
-21 Kamachi. 
-Chachacnakasa warminakasa aknïri derechonipxiwa. 
-1. Sarawi taypina jiqxatasiña. 
-2. Privacidad, intimidad, honra, jaqiwa sasiña. 
-3. Libertad, espiritualidad, religión, sapa maynita, jani ukaxa qututsa uñañchayatanaka. 
-4. Tantachawinakaru ukjamaraki qutu utt’ayawinakaru qhanatsa jamsatsa aski amtawimpiñapawa. 
-5. Lup’iwinaka arsuwi kunaymana qillqata arsuta yatiyasiñanakatxa arsuñaru yatiyañaru. 
-6. Kunaymana yatiyasiña taypi amuyunaka sapatsa qututsa amuyaña. 
-7. Kawkha Bolivia uraqinsa jan ukaxa anqa markanakansa qamasitaspawa. 
-22 Kamachi. 
-Jaqiru jaqjama uñjaña, uñaqaña, jani walitsa jark’aqañawa. 
-Yäqaña, jark’aqaña ukanakaxa estado ukana amparapankiwa. 
-23 Kamachi. 
-I. Taqi jaqiwa derecho a la libertad, seguridad personal ukanipxi. 
-Sapa jaqina libertad ukaxa kunjamatï kamachinakasa utt’ayataki ukjamarjamwa chiqatapasa k’aritapasa taripayatarakispa. 
-II. Q’axullanakaxataripawinakatxajark’aqatawa. 
-Taqi q’axullanakawa taripirinakata p’iqinchirinakatxa, pallapallanakata aski uñaqäwi katuqapxañapa. 
-Aknïrinakaxa askinjamawa taqi pachasa jaqirjama yäqasa, unñaqapa imt’asa uñjapxañapa. 
-Taripaña utanxa jupanakatakjama wakiyata jani chikachasa jilïri jaqinakampi ukjamañapawa. 
-III. Janiwa khitisa ina ch’usata arknaqatakaspati, taripatakaspati kamchinakatixa utjchi wakisispawa. 
-Ukjamachi ukjaxa jilïri taripirinakawa qilqata tuqitaripawi phuqhayapxarakispa. 
-IV. Kawkniriti jani wali lurkiri katjatachi ukaxa mäkiwa katjirinakaxa jani qillqata tuqi taripayarakispa. 
-Ukakatjatajaqixajilïritaripayiri amparaparuwa katt’ayataspa, ukjamata tunka pusini horata askicharakispa. 
-V. Kunapachatï mä jaqixa taripatäspa ukjaxa mäkiwa, kunatsa taripata ukaxa uñt’ayañaspa. 
-VI. Khitinakatixa taripaña utanakanxa uñjapki ukanakaxa qilqata tuqiwa taripatanakxa katuqapxañapa. 
-Janiwa khiti jaqirusa ina ukjamaki jani qillqata tuqixa taripawiruxa katuqapxañapakiti. 
-Jani phuqhirinakaruxa kamachi tuqiwa juchanchataspa. 
-24 Kamachi. 
-Taqi jaqiwa mayiñataki sapaki jani ukaxa qututsa arsuta tuqi jani ukaxa qillqata tuqi derecho ukani ukaxa mäkiwa jani phiskhasisa kutt’yataspa. 
-Aka derecho mayiñatakixa jaqi chimpukiwa mayitäspa. 
-25 Kamachi. 
-I. Taqi jaqina utjawinakapaxa Janiwa aparatakaspati ukjamaraki jamasata yatiyasiñanakasa ukanakaru derechoniwa inasa taripirinakata jay satachispa. 
-II. Qillqata tuqi yatiyasiña jamasata qillqata laphi kunaymana jamasata qillqatanakaxa janiwa jist’arañakiti inasa jilïri taripirinakata aparatarakichispa. 
-III. Janiwa khiti marka apnaqirisa khiti jaqisa qutuchatanakasa yatiyasiwinxa mitiskaspati uñaqkarakispasa. 
-IV. Yatiyawinakampi jamasa qillqatanakampixa jamasata uñantataxa janiwa chiqapa phuqhaskaspati. 
-PAYÏRI T’AQXTA YAQAÑA AMTANAKA 
-26 Kamachi. 
-I. Taqi chacha markachirinakampi warmi markachirinakampixa sapapata jani ukaxa p’iqinchiripa tuqisa marka apnaqaña thakhinsa, wakt’ayasiñansa derechonipxiwa. 
-II. Derecho ukaxa chikañchasiwinakanxa aknirinakawa: 
-1 Qutuchasiwinakaxa marka apnaqañatakixa tayka kamachirjamañapawa. 
-2. Chhijllawixa voto kikipa, taqinitaki, chiqapa, sapaki, jamasata, jani khitina mitisita, phuqhaña jakthapitaxa Taqiru uñt’ayañawa. 
-Chhijllawina chikañchasiñaxa tunka kimsaqallquni maranitawa. 
-3. kawkhantix democracia comunitariax chhijllawinakax thakhinaka x wakt’ayataki, órgano electoral ukanakata phuqhatañapawa,kunapachatixapayïrina sataki ukjamarjama jani phuqatakchi ukjawa akjamata phuqasirakispa. 
-4. Kunaymana markanakana pueblos indígena originario campesino nakampixa kunjamatixa sarawinakapaxa thakhiñchataki ukjamarjama w a p’iqiñchirinakapxa chhijllasipxarakispa. 
-5. Marka apnaqawinakxa jak’ata uñaqapxarakispawa. 
-27 Kamachi. 
-I. Warmi markachirinakampi chacha markachirinakampixa anqa marka jakasirinakaxa jilïri mallku, ukjamaraki sullkiri mallku yaqha markana kamachina qillqatäki ukjamarjamaxa chhijllaña taypinxa chikachasiñatakixa órgano electoral taqiwa qillqataru phuqapxarakispa. 
-II. Warminakampichachanakampianqamarkata mantanisa Bolivia markana qamirinakaxa municipios ukanakana chhijllawipaxa kamachirjama chikañchasipxarakispa purapata anqa markanakampi amtanaka yanapt’asiñataki. 
-28 Kamachi. 
-Derechos politicos phuqhañanakaxa taripawina pixtusitaskchi jani phuqatakchiti uka pachaxa aknirinakanwa qhiparayataspa: 
-1. Ch’axwawi pachanakana awqampi chikachasiri illapt’iri apnaqiritapata. 
-2. M arkana yanakapa jani waliru tukuyiritapata. 
-3. Pachpa markaru sallqiritapata. 
-29 Kamachi. 
-I. Anqa markata warminakampi chachanakampixa kamisatixa amtanakax wakt’ayataki kamachinakarjama mayiñataki katuqañataki qamañataki jani ukaxa imantasiwi arknaqata politica amuyu tuqi katuqataxapxaspawa, kamisatixa amtanakax kamachirjama wakt’ayataki ukjamarjama. 
-II. Taqi jaqiwa khitinakarutix asilo jani ukaxa imantasiwinxa qamañapataki jay sataki, yaqha markanakarux jan jakawipa ñanqhachañatakixa,janiwalirupuriñapatakixa janiwa Bolivia markata alispayatakaspati. 
-PUSÏRI JALJA NACIONES Y PUEBLOS INDÍGENA ORIGINARIO CAMPESINOS UKANAKANA YAQAÑANAKA 
-30 Kamachi. 
-I. Marka pueblo indígena originario campesino ukanakaxa taqi jaqiwa, pachpa nayra markata jutiri pachpa, aruni, sarawini, pachpa markanakapana, uraqini pacha qamawini, janiwa janq’u jaqinakaxa purinipkana ukjatpachawa akauraqina qamapxi ukanakapxiwa. 
-II. Bolivia marka mayachasa aka machaqa tayka kamachi tuqixa akniri markanakawa, pueblos indígena originario campesino ukanakana derechonakapaxa. 
-1. Jan taripata utjaña. 
-2. Sarawiparjama uñtasa, jay sawiparjama, amuyuwiparjama, lurawiparjama, pacha uñjawiparjama. 
-3. Sapa mayni markachirixa kunjamakitixa uñaqapaxa ukjama chimpupana kunaymana documentos ukanaka qillqantatañapa. 
-4. Sapa mayniwa derechoni amtapa amuyuparjama, uraqinakaparjama. 
-5. Kunaymana instituciones ukanakaxa estado uksawa derechonixi. 
-6. Uraqinakapaxa laphi qillqata tuqiwa q’umachataxi. 
-7. jay sawi uraqinakapaxa jark’atawa. 
-8. Kunaymana yatiyasiñanakaxa jupanaka pachpawa utt’ayasipxaspa, apnaqasipxarakispa. 
-9. Nayra pacha yatiwinakapampi amuyuwinakapampix, nayra pacha qullasiwinakapaxa, arunakapa, waxat’awinakapa, nayra pachachimpunakapasa isinakapasa yaqataxiwa. 
-10. Aski qamawini aka pachana yänaka askinjama apnaqasa qamaña. 
-11. Amuyunaka, yatiñanaka sapa qutuna yäqasa laqañchaña yaqhanakaru uñt’ayaña. 
-12. Yatiqawiru sarawi taypina Taqi markanakata yaqasisa, kunaymana tayka arunaka laqañchaña. 
-13. Khuskhata qullayasiña katuqaña, jan chanini qamawiparu qullasiwiparu yäqasa. 
-14. Sistemas politicos, taripawinakapaxa, qullqi apnaqatanakapaxa amtaparjama, sarawinakaparjamawa phuqhapxi. 
-15. Kunaymana lurawinakaxa Jani walt’awinakata jark’aqañatakix jiskt’atañapa. 
-Akathakhi t uqiwa kunaymana aka pachankiri yänaka askiru tukuyxañatakixa aski chuymampi, amtampi utjawinakapana jiskt’atañapa. 
-16 Taqiniwa chikachasipxañapa a k a pachana yänaka qullqi jalaqtata aski lurawiru tukuyañataki. 
-17. Kawkhantixa uraqixa alaqasitäki ukawjanakanxa alasirixa alasita uraqixa yäqatawa. 18. Kunaymana órganos instituciones del estado ukanakanxa chikañchasipxarakispawa. 
-III. Estado ukaxa naciones y pueblos indígena originario campesinos ukanakaruxa aka machaqa tayka kamachi tuqiwa yäqi ukatxa jark’aqaraki. 
-31 Kamachi. 
-I. Chhaqañampiki, uñamukuta jan qhanstata naciones y pueblos indígena originario campesinos ukanakaxa jakawipaxa yäqata jark’aqatawa. 
-II. Uñamukuta jani qhanstata naciones y pueblos indígena originario ukanakaxa kunjamatï qamasipki derechonipxiwa, uraqi qurpankiripaxa thakhiparjama jakasipki qamasipki ukjana q’umachatawa. 
-32 Kamachi. 
-Ch’iyara janchini markaxa kunatï wakiski qullqi tuqina qutu pachpana, políticos sarawinakapa taqi ukanakawa derecho ukanakapaxa naciones y pueblos indígena originario campesinos taypiwa tayka kamachina uñt’ataxi. 
-PHISQÏRI JALJA JAQINA YAQAÑANAKAPA UKJAMARAKI QULLQINAKATA MAYÏRI T’AQXTA AKA PACHA SAMANA YÄQAÑA 
-33 Kamachi. 
-Jaqinakaxa aski pacha samana, jark’aqata, chikachata ukanakaru derecho ukanipxiwa. 
-Aka derechonakaxa sapa jaqitaki, qutu jaqinakataki jichha, jilïri maranakatakiwa, ukjamaraki taqi jiliri yänakataki jakawipana aski jilarapxañapawa. 
-34 Kamachi. 
-Kawknïri jaqisa, sapapasa jani ukaxa p’iqiñchiri kankañampixa jan wali aka pachana yänaka uñjasaxa kamachinakarjamawa jark’aqaspa, jani instituciones públicasukanakaru aynacht’ayasa. 
-PAYÏRI T’AQXTA QULLÄSIÑA YÄQAÑA UKJAMARAKI JAQIRU ASKI UÑJAÑA 
-35 Kamachi. 
-I. Estado ukaxa kunaymana usutanakatwa kamachinaka wakt’ayasa aski qamañataki taqi jaqina jani chani mayisina jark’aqi. 
-II. Qullasiñaxa mayakiwa, ukampirusa naciones y pueblos indígena originario campesinos ukanakana qulla wakitanakasa uñt’ataxarakiwa. 
-36 Kamachi. 
-I. Estado ukaxa khuskhata qullasiña wakt’ayi. 
-II. Estado ukaxa servicios públicos ukjamaraki privadas irnaqatanakapa uñaqi, kamachi tuqiwa phuqawipa uñaqi. 
-37 Kamachi. 
-Estado ukaxa qullasiwinxa qullaxa wakiyañapawa. Kunjamatï mantasa wakiyatäki ukjamarjama. 
-Qullasiwix taqiniru uñt’ayañawa, usunaka jark’aqañataki. 
-38 Kamachi. 
-I. Qullayasiña utana yanakapaxa estado ukankiwa janiwa alxkatatakaspati. 
-II. Qullayasiña utana irnaqawinakaxa janiwa sayt’ayatakaspati. 
-39 Kamachi. 
-I. Estado ukaxa taqinitaki qullayasiwi jay saraki ukjamaraki qullqimpi qullayasiwi uñt’arakiwa; ukatxa kamachirjamawa qullasiwinakanxa qullirinakaru, qullanakata ukajamraki qullayasiña uta ukanakxa chikayarakini ukjamaraki uñch’ukirakini. 
-II. Kamachi taypiwa jani wali qullatata qullirinakatxa taripawipaxa juchañchatani. 
-40 Kamachi. 
-Estadoukaxataqimarkachirinakatwa amuyunaka apthapi aski qullasiwi utjañapatakix ukjamata wakiyi. 
-41 Kamachi. 
-I. Estado ukaxa taqi markachiritakiwa qulla wakïtanaka wakiyi. 
-II. Estado ukaxa wakiskiri qullanakxa pachpa markanwa wakiyi jani utjchi ukjaxa anqa markatwa apantayanirakispa. 
-III. Qulla wakt’ayirinakaxa janiwa qullasiñansa, alxañansa jark’asipkaspati, wakiyatatjamwa uñaqatarakispa. 
-42 Kamachi. 
-I. Estado ukaxa kunaymana nayra pacha qullasiñanakatxa naciones y pueblos indígenas originario campesinos ukanakana qullasiñapatakiwa llakiñapa. 
-II. Estado ukaxa naciones y pueblos indígenas originario campesinos ukanaka nayra pacha qullasiwinakapxa uñt’ayañapawa ukjamaraki uñstayiripata markankatapata taqi ukanaka jark’aqañapawa. 
-III. Kamachi tuqiwa nayra pacha qullañanakaxa, sumatapata wakiyañapa. 
-43 Kamachi. 
-Kamachi tuqiwa anqa markata waxt’ata qullanakaxa ch’iqiyatani, uka pachparaki janchi yänakasa sapuruwa uñjatani. 
-44 Kamachi. 
-I. Janiwa khiti jaqisa jani jiskt’ataxa jani ukaja wila masiparu jiskt’asaxa janchipaxa kharjatakaspati inasa niya wakischispa jiwañampikipana. 
-II. Janiwa khiti jaqisa jani jiskt’asa janchipa tuqi yatxatatakaspati. 
-45 Kamachi. 
-I. Taqi warmi chacha markachirinakawa seguridad social ukaru derecho ukanipxi. 
-II. Seguridad social ukaxa khuskha jaqitakiwa, yanapañataki, qullqi tuqita, askina taqi markanakataki. 
-Estado tuqita, apnaqata, markachirinakampi chikt’ata. 
-III. Regimen de seguridad social ukaxa, kunaymana usunakata, warmi usunakata; riesgo profesionales, irnaqawina usuntañata, discapacidad, jani irnaqawini jan ukaxa irnaqawita jaqumukuta, wajcha wawanakata, awicha achila, utachawina yaqhanakampitaki wakiyatawa. 
-IV. Estadoxa jubilación ukxa taqinitakiwa, jani jisk’achasa wakiyi. 
-V. Warminakatakixa sarawiparjama wawa ususiñataki saraparjama maternidad segura ukanipxiwa. Estado ukaxa kunapachati mä warmixa usurixi wawa usxi, wawa phujirayxi ukjakamawa yanapi. 
-VI. Taqi seguridad social público ukanakaxa janiw alxkatatakaspati concesionatakaspasa. 
-KIMSÏRI T’AQXTA IRNAQAWIRU UKJAMARAKI IRNAQAWIMPI YÄQAWI 
-46 Kamachi. 
-I. Taqi jaqixa akniri derechonakaniwa: 
-1. Aski irnaqawi seguridad industrial, q’uma jan jisk’achasa, chanipaxa phuqhata jaqjama jakañataki wila masipampi jakañapawa. 
-2. Irnaqawisa janiwa mä pachatakikiñapakiti jan ukaxa estable jan jisk’achasa ukjamañapawa. 
-II. Estado ukaxa Taqi irnaqirinakaruwa kunaymana jan payllasaxa irnaqayañäkiti. 
-III. kunaymana ch’amtata irnaqawinaka jaqiru lurama zsasaxa jani luraña munkchi ukaxa janiwa lurayatakaspati. 
-47 Kamachi. 
-I. Taqi jaqiwa kunaymana alxañanaka jaqina askipataki alxasispa. 
-II. Taqi warmi chacha irnaqirinakawa jupanakana kunaymana luratanakapa jach’a markanakana pata tuqinakana, chanipa yäparu utt’ayasawa alxasipxaspa, uka irnaqawinakaruxa estadoxa yanaparakiwa. III. Estado ukaxa kunaymana ayllu taypina, qutuna irnaqañanakatakixa yanapiwa. 
-48 Kamachi. I. Disposiciones sociales ukjamaraki laborales ukanakaxa phuqañapuniwa. 
-II. Kamachinakaxa amuyt’atañapawa irnaqirinakaru kunaymana tuqina yanapañampi. 
-III. Derechos ukjamaraki beneficios ukanakaxa irnaqirinakanxa janiwa jani satakaspati, janiwa phiskhasitakaspasa. 
-IV. Jan payllat payllawinakaxa Janiwapaqatakaspati, beneficios laborales, beneficios sociales, aportes ukanakaxa janirakiwa apaqatakaspati jan ukaxa payllaña ukjawa. 
-V. Estado ukaxa chacha warmi irnaqirinakaruxa khuskhatwa kunaymana instituciones públicasukjamaraki privadas payllawi tiqinsa jani jisk’achasawa waqaychi. 
-VII. Estado ukaxa wayna tawaqunakaruxa irnaqawi taypiruwa yatiqatanakaparjama katuqani. 
-VI. Warminakaxa janiwa, wawa usurikasa janchit usutäkasa, walja wawanikasa irnaqawinxa jisk’achatakaspati. 
-Wawa usuri warminakaxa wawa mä mara phuqañapkamaxa janiwa irnaqawipata jaqsutakaspati. 
-49 Kamachi. 
-I. Derecho a la negociación colectiva ukaxa uñt’asiwa. 
-II. Kamachi tuqiwa contrato, convenios colectivos, juk’a payllawinaka, irxatawinaka, incorporación, samarawinaka, samara urunaka, taqi mara irnaqatata, horas extras, aruma irnaqawi, willkuru irnaqawita, mara payllawinakata, maternidad laboral, yatxatawi, derechos sociales taqi ukanakawa qhanañchatani. 
-III. Estado ukaxa estabilidad laboral uñaqi. 
-Janiwa ina ch’usata jaqsutakaspati. 
-Kamachi tuqiwa juchañchataspa. 
-50 Kamachi. 
-Estado ukaxa tribunales ukjamaraki organismos administrativos especializados tuqiwa irnaqawina jan walt’awinakxa irnaqayirinakata irnaqirinakata askicharakispa. 
-51 Kamachi. 
-I. Taqi chacha warmi irnaqirinakawa sindicatos qutunakx kamachirja m a utt’ayasipxarakisma. 
-II. Estado ukaxa principios sindicales, democracia sindical, pluralismo politico, autosostenimiento, yanapasiwi, internacionalismo taqi ukanakwa yäqi. 
-III. Chacha warmi irnaqirinakaxa yatiqawina, sarawina, jach’a markanakana, pata tuqina, sindicalizacion tuqixa jani wakt’awi ukanakata jark’aqatañatakiwa. 
-IV. Estado ukaxa sindicatonakana pachpa amuyunakapxa kunjamati utt’ayataki ukjamarjamawa yäqani. 
-Sindicatonakaxa personeria juridica qutuchañataki ukjamarjamawa utnuqayatani. 
-V. Sindicato qutunakaruxa janiwa khitisa kunasa utnuqawipxa chhaqaykaspati. 
-IV. Chacha warmi p’iqiñchirinakaxa fuero sindical, janiwa jaqsutakaspati mä mara phuqasiñapkama irnaqawipatxa, janirakiwa derechos sociales ukatxa jark’atakaspati, juchañchatakaspasa kunjamati irnaqawipwa phuqaski. 
-VII. Chacha warmi irnaqirinakaxa jupanaka pachpa irnaqasaxa jani walinakata jark’aqasiñatakixa qutuchasipxaspawa. 
-52 Kamachi. 
-I. Walja qullqininakaxa amtaparjamaxa qutuchasipxaspawa. 
-II. Estado ukaxa asociaciones empresariales ukanakaruxa personeria juridica kamachinakaparjama utnuqayata laqañchayarakini. 
-III. Estado ukaxa qutuchata yatxatawimpi yanapiri qutuchata empresariales ukanakaruwa uñt’ani 
-IV. Patrimonio organizaciones empresariales ukanakaxa janiwa aparatakaspati, janirakiwa jani waliru tukuyatakaspati. 
-53 Kamachi. 
-Manq’ata mutuña, uñtasina chacha warmi irnaqirinakatxa kamachinakarjama derecho ukanaka arxatañataki ukaxa garantizatawa. 
-54 Kamachi. 
-I. Estado ukaxa kunaymana irnaqawinakwa chacha warmi irnaqirinakatakixa aski irnaqäwi phuqhata payllawini ch’amañchañapa. II. Estado ukampi markachirinakampi chikt’atawa aparato industrial ukjamaraki servicios estatales ukanaka jani walt’awita jark’aqasa phuqañawa. 
-III. Chachampi warmimpi irnaqirinakaxa irnaqawipa jark’aqasa kamachinakarjama utt’ayasa wasitata utt’ayasa empresas comunitarias utnuqayapxaspawa. 
-Estado ukaxa akanakaru utnuqayañatakixa yanapaniwa. 
-55 Kamachi. 
-Sistema cooperativo ukanakaxa amtaparjama, yanapasisa, jan jisk’achasisa, jalaqtanaka jaljasisa jani mayniki qamiriptasaxa ukjamañapawa. 
-Estado xaqutuchata cooperativas ukanakxa kamachi tuqiwa ch’amañchi ukjamaraki utjayi. 
-PUSÏRI T’AQXTA YÄNAKARU YÄQAWINI 
-56 Kamachi. 
-I. Taqi jaqiwa sapata jani ukaxa qutu tuqitsa askiru tukuyañataki uraqinispa. 
-II. Propiedad privada ukaxa ch’amañchatawa jani taqi jaqiru amtawipana qhiparayasa. 
-III. Taqi yänakaxa qhipharirinakatakiwa. 
-57 Kamachi. 
-Uraqi aparawixa estado ukana wakiskiripatakiwa kamachinakarjama, yaqha uraqi churañampiwa phuqhasispa. 
-Jach’a markanakana uraqixa janiwa aparatakaspati. 
-PHISQÏRI T’AQXTA WAWANA, Q’AXULLANA UKJAMARAKI WAYNANA YÄQAWINAKAPA 
-58 Kamachi. 
-Imilla wawa yuqalla wawa q’axulla pisi maraniru uñt’atawa. 
-Imilla wawanakaxa yuqalla wawanakaxa derecho ukanakapaxa tayka kamachi tuqiwa jilawipana, markapana sarawiparjama, genero generacional, amtawipa phuqañansa ukanakanipxiwa. 59 Kamachi. 
-I. Taqi imilla wawa, yuqalla wawa, q’axulla utjawipanajaniukaxa yaqhautjawinajilañataki qamasiñataki derecho ukanipxiwa. 
-II. Taqi imilla wawa, yuqalla wawa, qaxulla utxawipana jani ukaxa yaqha utjawina jilañataki qamasiñataki derecho ukanipxiwa. 
-Jan ukjamakaspaxa sustituta utjawina kamachinakarjama derecho ukaniwa. 
-III. Taqi imilla wawanaka, yuqalla wawanaka, q’axullanakawa jan yuriwipa jisk’achasa, derechos ukjamaraki deberes awkinakapata yäqatañapawa. 
-Jisk’achasiwixa wawanaka puraxa awkiparuxa kamachi tuqiwa juchañchataspa. 
-V. Estado ukaxa Taqi jaqixa wayna tawaqunakaruxa desarrollo productivo, político, social, económico, ukjamaraki cultural ukanakaruxa kamachinakarjamawa jach’añchasa chikañchayapxaspa. 
-IV. Taqi imilla wawa yuqalla wawaruwa, q’axulla awkinakapana sutiñcharu derecho ukanipxi. Jani ukjamakchi ukjaxa kawkniritxa uywaskchi ukawa suti sutiñcharakispa. 
-60 Kamachi. 
-Estado ukaxa taqi jaqimpi wila masi utjawinkirinakampiwa imilla wawata, yuqalla wawata, q’axullata taqi jan walinakatxa, mäkiwa jani chuyma pist’ayasa taripirinakasa pachaparuwa jark’aqañampi uñaqapxarakispa. 
-61 Kamachi. 
-I. Imilla wawanakaru, yuqalla wawanakaru, q’axullanakaru utjawina pachpa jaqita janiwa ñanxachatakaspati, ukjamaspa ukjaxa juchañchataspawa. 
-II. Janiwa irnaqawinxa ch’ama tukuña irnaqañanxainach’amach’irwatairnaqkaspati. Irnaqchi ukjaxa ch’amaparjama amuyasawa utt’awinsa, yaqha tuqinsa irnaqañapa. 
-Derechonakapaxa, garantia ukasa kamachi tuqiwa uñjatani. 
-SUXTÏRI T’AQXTA WILA MASINAKANA YÄQAÑA 
-62 Kamachi. 
-Estado ukaxa utjawinkirinakaruwa markataki askitaparjama jark’aqi uñjaraki, jaqirjama, qullqita, taqi kunata jach’añchi. 
-Sapa mayni utjawinkirinakaxa pacha derechos, phuqhawinaka ukjamaraki lurawini ukanipxiwa. 63 Kamachi. 
-I. Jaqichasiwixa mä chachampi mä warmimpixa kamachi tuqiwa purapata pachpa derecho ukanakani utt’ayatawa. II. Jani kamachi tuqi panichasitanakaxa wawanakapaxa uywata wawjamara - kispawa. 
-64 Kamachi. 
-I. Jaqichasitanakaxa purapatwa utjawipxa jach’añchañapa, ukjamaraki wawanakaruxa y a t i qawina Taqikuna yatichañansa wawakipana purapata uñjapxañapawa. 
-II. Estado ukaxa utjawinkirinakaruxa phuqawiparuxa jark’aqani yanaparakiniwa. 
-65 Kamachi. 
-Imilla wawanaka yuqalla wawanaka, q’axullanakaxa sutiñchawipxa awkitsa taykatsa kawniritsa wakisikispawa. 
-Inasa jani yatxatawi tuqi janiwa satachispa. 
-Khithi qillqaychi ukana amparapankaspawa. 
-66 Kamachi. 
-Chachanaka warmi n a k a munasipxaspawa ukjamaraki wawanipxarakispawa. 
-PAQALLQU T’AQXTA CHUYMANI JAQINAKANA YAQAWINAKAPA 
-67 Kamachi. 
-I. Aka tayka kamachina uñt’ayatatxa, ch’ama tukuta jaqinakatakixa suma qamaña, jaqjama qamañataki derechonipxiwa. 
-II. Estadoxa kamachi tuqixa renta dignidad jiwañkama payllani. 
-68 Kamachi. 
-I. Estado ukaxa políticas públicas tuqiwa jark’aqañataki, uñaqañataki, irnaqayañataki ch’amaparjama wakiyi. 
-II. Ch’ama tukuta jaqinakaruxa janiwañanqhachatakaspati janirakiwa jisk’achatakaspati ukanakaxa juchawa ukjamaraki taripataspawa. 
-69 Kamachi. 
-Ch’axwiri sariri awkinakaxa kamachi tuqixa taqi instituciones públicas ukjamaraki privadas taqi markachirita yäqatañapawa, uka pachparaki marka jark’aqirita uñt’ata, kamachi tuqi jiwañkama payllata. 
-KIMSAQALLQU T’AQXTA JANCHITA USUTA YÄQAWINAKAPA 
-70 Kamachi. 
-Taqi janchita usuta jaqinakaxa akniri derechonakaniwa: 
-1. Utjawipata estadota jark’aqatawa. 
-2. Yatichawiru, qullasiwiru jani chanini. 
-3. Yatiyawiru arupa yatita tuqi. 
-4. Irnaqawixa ch’amanakaparjamawa aski payllawi jaqjama jakañatakjama irnaqayatañapa. 
-5. saparu ch’amañchawi. 
-71 Kamachi. 
-I. Janchita usutanakaruxa Janiwa jik’achatakaspati, janiwa ñaqhachatakaspasa janirakiwa irnaqa winxa ch’amasa ch’irwatakaspati, ukaxa juchawa, ukjamarusa taripayatarakispawa. II. Estado ukaxa janchi usuta jaqinakatakixa lurawinakana, economico, politico social ukjamaraki cultural jan jisk’achasa yanaparakini. 
-III. Estadoukaxasapajanchiusutajaqinakatakixa kunaymana nayraru sartawinakwa wakiyani. 
-72 Kamachi. 
-Estado ukaxa kunaymana yanapawinakwa janchi usuta jaqinakaruxa aski jakapxañapataki servicios integrales de proteccion ukjamaraki rehabilitacion yanapawinaka kamachi taypiwa wakiyarakini. 
-LLATUNKÏRI T’AQXTA TARIPATA JAQINAKANA YÄQAWINAKAPA 
-73 Kamachi. 
-I. Taqi jaqi juchañchaxa yaqha uñjasjamawa taripatañapa. 
-II. Taqi taripata jaqinakawa yatiyasiwiru wila masinakapampi, arxatirinakapampi, uñt’atanakapampi yatiyasiñataki derechoni. 
-Jani yatiqasiwixa juchañchatawa. 
-Taqi jani yatiyasiwixa jucha yatxataña kankañampiwa pä tunka pusini horanakakiwa katxasitaspa. 
-74 Kamachi. 
-I. Reinsercion social taripata jaqinakata, yäpana derechota, katjawipana, jani ñanqhachasa uñjaña, t’aqjaña juchanakaparjama, chachakama warmikama, marapuntkama taqi ukawa estadona amparapanki. 
-II. Taripata jaqinakaxa wataña utanakanxa irnaqaña yatiqaña atipxarakispawa. 
-UNKÏRI T’AQXTA ALASIRINAKANA UKJAMARAKI YÄNAKANI YÄQAWINAKAPA 
-75 Kamachi. 
-Usuarias ukjamaraki usuarios, consumidoras, cosumidores ukanakaxa akniri derecho ukanakaniwa: 
-1. Manq’anaka wakiyaña, fármacos, taqi achunaka inocuidad ukani, aski wakiyata, walja pachapana t’ujtañapataki. 
-2. k unata wakiyatasa, alasirinakaru yatiyasa. 
-76 Kamachi. 
-I. Estado ukaxa sistema de transporte kunaymana tuqita wakiyi. 
-Usuarios proveedores ukanakaruxa kamachi tuqiwa askinjama phuqhapxañapatakixa wakiyata. 
-II. Janiwa controles aduaneros, retenes, puestos Bolivia markanxa ina ukjamaki utjapxañapakiti, jan ukaxa kamachi tuqi ut’ayatanakawa uñjapxarakispa. 
-SUXTÏRI JALJTA INTERCULTURALIDAD YATIQAWI UKJAMARAKI SARAWINA YÄQAÑA MAYÏRI T’AQXTA YATIQAWI 
-77 Kamachi. 
-I. Yatiqawixa mä jach’a amta, maynïri estadona qullqimpi amparapata phuqhawiwa, ukjamaraki obligación indeclinable de sostenerla, garantizarla ukjamaraki gestionarla ukjamawa. 
-II. Estado ukampi Taqi jaqinakampixa yatiqawinxa regular alternativa ukjamaraki especial, superior ukanakanxa tuicion plena ukanipxiwa. 
-Sistema yatiqawixa thakhiparjamawa mayaki mayachasisa nayraru saranti. 
-III. Yatichawixa inaki qatiqawi, qullqimpi yatiqawi ukatxa jay sirinakampi yatiqawi ukanakata utt’ayatawa. 
-78 Kamachi. 
-I. Yatiqawix mayaki taqinitaki, democrática, participativa, comunitaria, descolonizadora, aski ukjamawa. 
-II. Yatiqawix intracultural, intercultural, plurilingüe ukjamawa. 
-III. Taqiyatiqawixa,educaciónabierta,humanista, científica, técnica ukjamaraki tecnológico, revolucionaria, critica ukjamaraki solidaria ukjama wakt’ayatawa. 
-IV. Warminakampi chachanakampitakixa jakawiparjama, wisawimpi nayrar sartawitakixa educacional vocacional ukjamaraki enseñanza técnica humanística ukjamawa ch’amañchi. 
-79 Kamachi. 
-Yatiqawixa civismo, diálogo intercultural ukjamaraki valores éticos morales ch’amanchani. 
-Valores ukanxa equidad de genero, la no diferencia de roles, la no violencia ukjamaraki vigencia de derechos humanos ukanakaniwa. 
-80 Kamachi. 
-I. Yatiqawixa formacion integral de las personas ukjamaraki Fortalecimiento de la conciencia social jakawina jakawitaki amtawinakaniwa. 
-Yatiqawixa sapa ukjamaraki qutu jaqinakataki, desarrollo de competencias, aptitudes ukjamaraki habilidades fisicas e intelectuales, qillqatana ukjamaraki lurawina ukampi mayachata, aka pacha aski uñjañataki, taqi jakiri yänakampi aski qamañataki ukjamañapawa. 
-Uñaqawipasaphuqhawipasa kamachi tuqiwa wakiyatani. 
-II. Yatiqawixa taqiniruwa estado plurinacional uka taypina identidad ukjamaraki desarrollo cultural sapaqata nacion o pueblo indígena originario campesino ukanakaruxa askina yäqasiñataki nayraru ch’amañchasawa yanapañapa. 
-81 Kamachi. 
-I. Yatiqawinxa Taqiniwa bachillerato tukuyapxañapa. 
-II. Yatiqawixa kunaymana niveles ukanakanxa jani chani churasawa jach’a yatiñutanakankama yatiqañawa. 
-III. Bachiller tukuyasaxa título de bachiller apsuñaxa mäki jani chanini inakiwa apsuñani. 
-82 Kamachi. 
-I. Estado ukaxa Taqi chacha warmi markachirinakatakixa pachpa yatiqawi jach’añchayi. 
-II. Estado ukaxa kamachi tuqiwa pisinkiri yatiqirinakatakixa kunaymana yanapa taqi niveles ukanakatakixa qullqimpi manq’añampi, material escolar isimpi, k’añaskumpi, material escolarampi jaya jayana qamasiritakixa qamaña utampi kamachi tuqiwa yanapani. 
-III. Becas ukampiwa aski yatiqirinakaruxa yanapatani. 
-Taqi imilla wawa, yuqalla Wawa q’axulla chuymapata misturi yatiwinakapaxa askinjamawa kunaymana yaqha thakhinakampixa jach’añchayatani. 
-83 Kamachi. 
-Yatiqawinxa taqi jaqiwa, awki taykanaka naciones y pueblos indigena originario campesinos p’iqiñchirinakapa taypiwa ch’amañchasina chikañchasipxarakispa. 
-Kamachi tuqiwa chikañchasiwinakapaxa wakt’ayatarakini. 
-84 Kamachi. 
-Estado ukampi Taqi markachirinakampiwa chikt’atawa jani ullaña qillqañxa wasaru aski amtawinakampi sarawi tuqi aru tuqi tukjapxarakispa. 
-85 Kamachi. 
-Estado ukaxa imilla, yuqalla q’axulla janchita usutanakatakixa jach’a amta yatiqawirjama yatiqañanaka jach’añchañataki wakiyarakini. 
-86 Kamachi. 
-Yatiqaña utanakanxa iyawsañaxa kunaymana naciones y pueblos indigena originario ukanakana iyawsawipa yäqasa jach’añchayatarakini jani jisk’achasa munkiri jan munkirixa janiwa walikiti taqi ukanakawa ch’amañchayatani. 
-Uka yatiqaña utanakaruxa janiw kunayman iyawsañana chikañchasiñaxa imilla yuqalla yatiqirinakaruxa jisk’achatakaspati. 
-87 Kamachi. 
-Yatiqaña utanakaxa convenio jaqitaki aski amtampi jani juk’uchasiñampi chikachasirinakaxa jani p’iqiñchirianaka utt’ayatarjamawa religiosas / religiosos kunamati thakhinakaxa yatiqawinakasa wakt’ayätaki ukjamarjamawa yäqata. 
-88 Kamachi. 
-I. Qillqampi yatichasina yatiqaña utanakaxa kunaymana thakhinakapanxa kunjamati wakiyataki ukjamarjamawa yatiqawi yatichawinakaxa utt’ayataki ukjamarjamawa phuqawipxa ch’amañcharakini. 
-II. Awki taykanakana amparanakapana chhijllaña wawa yatichasiwinxa ukaxa yäqatawa. 
-89 Kamachi. 
-Aski yatiqawi yatichawixa mä institución publica, tecnica especializada uka tuqiwa uñakipatarakini utnuqawipaxa sarantawipaxa kamachi tuqiwa wakiyatarakini. 
-90 Kamachi. 
-I. Estado ukaxa intitucion de formacion humanistica, tecnica ukjamaraki tecnología kunaymana thakhipanxa kamachi utt’ayataki ukjamarjamawa uñt’atapxani. 
-II. Estado ukaxa formación técnica ukjamaraki tecnología, productiva, artistica ukjamaraki lingüística ukanakaxa kunaymana institutos técnicos tuqiwa ch’amancharakini. 
-III. Estado ukaxa yatichawi taypiwa kunaymana yatiqawi yatichawinaka jayana yatintañataki, jani yatiqaña utaru sasa yatintañatakiwa sarawinaka taqi marka taypina nayraru sarantañapataki ch’amañcharakini. 
-PAYÏRI T’AQXTA JACH’A YATIQAWI 
-91 Kamachi. 
-I. Jach’a yatiñutaxa yatxatata mistutanakata, yatxatata uñanchayañataki markachiri nayraru sartañapatakiwa laqañchayasiraki, uka taypinxa taqi yatiña, naciones ukjamaraki pueblos indígena originario campesinos yatiñanakapawa chikañchasirakini. 
-II. Jach’a yatiñutaxa yatiqawixa intracultural, plurilingüe ukjamawa, ukampirus, aski mar chirinaka utnuqayañatakixa wali yatxatata jaqinaka, kunaymana thakhi yatxatawinakampi yatxatiri markachirinaka aski yänaka lurasa; aski jach’a amtawinaka kunaymana aru, sarawa yatxawi jach’añchayaña, aski taripawi chikañchasa markachiri qhispiyañataki markachirina thakhipana chikañchasisa ukanaka amtawiniwa. 
-III. Jach’a yatiñutana yatxatawixa jach’a yatiñutanakata, escuelas superiores de formacion de docente y los institutos técnicos tecnológicos y artísticos fiscales y privadas ukanakata utt’ayatawa. 
-92 Kamachi. 
-I. Universidades públicas privadas ukanakaxa pachpa yaqawinipxiwa. 
-Autonomia ukaxa pachpankirinaka qullqisa apnaqata; p’iqinchirinakata pachpankirinaka yatichirinaka yanapirinaka chhijllata; kamachinakapasa yatiqawi amtasa marataki yanaka ist’awisa yanapawinaka katuqawisa nayraru ch’amanchañatakixa ukjama sañ muni. 
-Universidades públicasnayraru sartawipaxa kunjamati utt’ayataki ukjamarjamawa aruskipataspa. 
-II. Universidades públicas ukanakaxa qhispita amtawiparjamaxa universidad Boliviana utt’ayasiraki; jach’a amtawinakxa phuqawinakxa mä organismo central tuqiwa mä plan de desarrollo universitario utt’ayasawa wakichiyataraki. 
-III. Universidades públicas ukanakaxa yatiqa chimpunakawa sañani diplomas academicas, titulos profesionales estado tuqiwa yaqata luqtatarakini. 
-93 Kamachi. 
-I. Universidades públicas ukanakaxa estado tuqiwa munasa jani munasa qullqixa jani pachpa qullqipa, municipio, departamental qullqita churatarakini. 
-II. Universidades públicas ukanakaxa kamachinakaparjamawa mecanismos de participacion social de carácter consultivo, de coordinación ukjamaraki asesoramiento wakt’ayarakini. 
-III. Universidades públicas ukanakaxa kunaymana qullqi irtata tukjatanakxa qhanatwa estado plurinal legislativo, contraloría general ukjamaraki organo ejecutivo ukanakaru thakhiparjama yatiyaña utt’ayarakini. 
-IV. Universidades públicas ukanakaxa kamachinakaprjamawa programas de desconcentración academica ukjamaraki interculturalidad estado, naciones y pueblos indígenas originario campesinos ukanaka mayiwinakaparjamawa yatiqawinaka utt’ayarakini. 
-V. Estado ukaxa universidades públicas ukanakampi chikañchasisaxa patatuqinakanxa creación ukjamaraki funcionamiento de Universidades e institutos comunitarios pluriculturales ukjamanakawa markachirimpi chikt’ata utnuqayarakispa. 
-Ukjama utnuqawinakatxa markachirina mayiwiparjamawa lurawi tuqiwa ch’amañcharakini. 
-94 Kamachi. 
-I. Universidades privadas ukanakaxa kunjamati politicas, planes, programas p’iqiñchirinakaxa yatiqawina utt’ayataki ukjamarjamawa chikañchasipxañapa. Sarxaruwipaxa kamachi tuqiwa taqi yatiqanakata yänaka uñakipasawa jaya satarakini. 
-II. Universidades privadas ukanakaxa diplomas academicas churañatakixa jaya satarakiwa, títulos profesionales Bolivia marrana yäqatakxa estadowa luqtaraki. 
-III. Universidades privadas ukanakaxa, diplomas académicas katuqañatakixa tribunal de examinadores utt’ayata tuqiwa docentes titulares universidades publicas tuqitakamachi utt’ayatarjamawa wakt’ayasirakini. 
-Estadoxa universidades privadas ukanakatakixa janiwa qullqi wakiykaniti. 
-95 Kamachi. 
-I. Universidades ukanakaxa centros interculturales de formacion ukjamaraki capacitación técnica ukjamaraki cultural inaki markachiritaki yatiqawina amtawinakaparjamawa uñstayas a wakichapxañapa. 
-II. Universidades ukanakaxa naciones ukjamaraki pueblos indígena originario campesinos ukanakana arunakapwa wakichawinaka taqi tuqiru yatiyasa, jach’añchayasa, waqaychasa, amthapisa waqaychapxañapa. 
-III. Universidades ukanakaxa centros de generacion de unidades productivas ukanakwa iniciativas productivas comunicativas, públicas ukjamaraki privadas ukanakampi c h i k a c h a s i s a ch’amachapxañapa. 
-96 Kamachi. 
-I. Estado ukawa yatichirinakxa institutos superiores de formacion tuqi wakiyarakini. 
-Wakichawixa mayaki taqi jaqinakaru chiqa yatichawimpiwa sarxaruñapa fiscal gratuito intracultural, intercultural, plurilingüe, cientifica ukjamaraki productiva ukjamawa. 
-II. Yatichirinakaxa kunaymana jichha yatxatawina yatiqawinakampiwa sapa kuti wakichasipxañapa. 
-III. Yatichirita irnaqawinxa janiwa kamachinaka tuqixa inaki jaqumukutakaspati. 
-Yatichirinakaxa aski payllawinipxañapawa. 
-97 Kamachi. 
-Post gradual yatiqawixa kunaymana niveles ukanakanxa kunaymana areas ukanakata aski yatxatatanakawa kunaymana yatxatawinaka markachiri jach’añchayañatakiwa utt’ayataraki. 
-Post - gradual yatiqawixa kunaymana instancia, universidad taypiwa universidad taypiwa kamachi tuqiwa chikañchasitarakini. 
-KIMSÏRI T’AQXTA SARAWINAKA 
-98 Kamachi. 
-I. Kunaymana sarawinakata estado pluricultural comunitario ukaxa utt’ayatawa. 
-Intercultaridad ukaxa askina taqi markanaka yaqawina taqi markanakana mayachawiwa. 
-Interculturalidad ukaxa kunaymanata pachpa jakawinirjama utt’ayatawa. 
-II. Estado ukaxa kunaymana sarawinaka indígena originario campesino utt’ayatanakapxa amuyuwinakapa, yatiwinakapa, valores, espiritualidadespacha uñjawipxa taqi ukanakawa ch’amañcharakini. 
-III. Estado ukana taqi sarawinakwa waqaychaña, sarantayana jark’aqaña, uñañchayaña amparapankarakiniwa. 
-99 Kamachi. 
-I. Aka marrana patrimonio cultural ukaxa inalienable inembargable e emprescriptible ukjamawa. 
-Qullqi jalaqtanakaxa ukjamaraki aski uñaqañatakiwa qaychawixa, uñañchawixa kamachi tuqiwa uñjatani. 
-II. Estadoxa kamachi tuqiwa registro, promocion, restauración, recuperacion, revitalizacion, enrequesimiento, promocion difucion de su patrimonio ch’amañcharakini. 
-III. Riqueza natural, arquiologica, paleontología, hortorica, documental ukjamaraki pracedente del culto religioso ukjmaraki folklore, ukanakaxa patrimonio cultural del pueblo boliviano ukanakaxa kamachi tuquwa uñt’atani. 
-100 Kamachi. 
-I. Cosmovisiones, mitos, historia oral, danzas, practicas culturales, conocimientos ukjamaraki tecnologías tradiciones ukanaka patrimonio cultural ukjama uñt’atawa. 
-Uka patrimonio ukaxa expresión e identidad del estado taypinkiwa. 
-II. Estado ukaxa naciones ukjamaraki pueblos indígena originario campesinos interculturales ukjamaraki afro boliviano ukanakasaberes, conocimientostaqiukanaka waqaychirinakaruxa jark’aqawiwa. 
-101 Kamachi. 
-Manifestaciones del arte e industrias populares ukanakaxa estado taypiwa jani walinakata jark’aqata ch’amañchataniwa. 
-Ukjmaraki sitios ukjamaraki actividades declarados patrimonio cultural de la humanidad en su componente tangible e intangible ukanakaxa jark’aqatapxarakiniwa. 
-102 Kamachi. 
-Estado ukaxa kamachi tuqiwa inventores ukjamaraki cientificos, compositores, artistas, panka machaqa uñstayatanakata mä jaqita, walja jaqinakata propiedad intelectual uka uñaqani jark’aqarakini. 
-PUSÏRI T’AQXTA MACHAQATA, JICHHA YATXATAWI 
-103 Kamachi. 
-I. Estado ukaxa markachiritaki aski jach’añchawi ciencia ukjamaraki investigación cientifica, tecnica ukjamaraki tecnologica jach’añchayarakini. 
-Estadoxa qullqimpiwa ciencia ukjamaraki tecnología chijnuqawipa yanaparakini. 
-II. Estado ukaxa politica de emplementacion de estrategias machaqa yatxatawinaka yatiyañampiwa ch’amañchañapa. 
-III. Estado ukaxa, universidades, empresas productivas ukjamaraki servicios públicasukjamaraki privadas, naciones ukjamaraki pueblos indígena originario ukanakaxa taqi ukanakaxa yatxatawimpi, uñanchawimpi yatiyawimpi taqi ukanaka ch’amañchañatakiwa kamachi tuqi mayachasisa ch’amañchapxañapa. 
-PHISQÏRI T’AQXTA ANATAWI UKJAMARAKI K’UCHIRAWI 
-104 Kamachi. 
-Taqi jaqiwa deporte, cultura fisica ukjamaraki ukanakawa derechoni Estadoxa genero, idioma, religión, orientación, politica, ubicación, territorial, pertenencia social, cultura yaqhanakampita jani jisk’achasawa ch’amanchani. 
-105 Kamachi. 
-Estado ukaxa politicas de educacion, recreacion ukjamaraki salud publica, desarrollo a la cultura fisica ukjamaraki practica deportiva kunaymana atipasiwinakana juk’ampisa janchita usutanaru ch’amañcharakini. 
-Estadoxa qullqimpi phuqawitakixa yanapani. 
-PAQALLQU JALJTA JAQI YATIYAWI 
-106 Kamachi. 
-I. Estado ukaxa derecho yatiyasiwiru yatiyañaru ch’amañchi. 
-II. Estado ukaxa chacha warmi markachirinakaruxa derecho arsuwi, lup’iwi arsuñana, yatiyawi ch’iqarst’ayaña kutkatasiña kunaymana yatiqasina tuqiwa ch’amañcharaki. 
-III. Estado ukaxa chacha warmi prensa ukana irnaqirinakaruxa libertad, derecho yatiyañana yatiyawina ch’amañchi. 
-IV. Claúsula de conciencia yatiyawina irnaqirinakaxa uñt’atarakiwa. 
-107 Kamachi. 
-I Yawiyawi markaru yatiyirinakaxa kunaymana yätiyawinaka taypixa valores eticos, morales ukjamaraki civicos uñt’ayañampiwa kunaymana arunakata aski yatiyawinakampi yatiyasawa phuqhapxañapa. 
-II. Yatiyawimpi arsuta amuyunakampixa medios de comunicación social tuqixa chiqa amta amuyunaka arsutanakaxa yäqatañapawa. 
-Uka amtanakaxa normas de etica ukjamaraki autoregularios qutuchata periodistas tuqiwa kamachi tuqi phuqhayatarakini. 
-III. Medios de comunicación social ukanakaxa janiwa directa jan ukax indirecta ukjamata monopolios u oligopolios ukjamanakax utt’askaspati. 
-IV. Estado ukaxa medios de comunicación comunicativos janijisk’achatanaka uñstawiparuwa ch’amañcharakini. 
-KIMSÏRI UÑAÑCHAWI PHUQAWINAKA 
-108 Kamachi. 
-Chacha warmi markachirinakana phuqhawinakapawa: 
-1. Tayka machaqa kamachi uñt’aña, phuqhaña, phuqhayaña. 
-2. Tayka machaqa kamachina derechos uñt’atanaka uñt’aña, yaqaña waqaychaña. 
-3. Práctica de valores ukjamaraki principios tayka kamachirjama waqaychaña yatiyaña. 
-4. Derecho de la paz fomentar la cultura de paz jark’aña, waqaychaña, yanapaña. 
-5. Sapa maynina ch’amaparjama lup’iwiparjama aski lurawinaka markachirinakataki irnaqaña. 
-6. Taqi markachiriwa bachillerkama yatiqañapa. 
-7. Qullqi irst’asitaparjamawa kamachirjama tributañapa. 
-8. Jamasata qullqi chilltawi yatiyaña, ch’axwaña. 
-9. Yuqalla imilla wawaru yatiqaña, manq’ayaña, uñjaña. 
-10. Awki taykaru qhispiña, jark’aqaña, uñjaña. 
-11. Jani walt’awinakana, aka pachana jani walt’awinakata yanapasiwimpi qhispiyaña. 
-12. Waynanakaxa munasa jani munasa palla pallata mayt’iri sarapxañapa. 
-13. Bolivia uraqi, soberania jark’ana, chimpunakapa, yäqaña. 
-14. Patrimonio natural, economico ukjamaraki cultural jark’aña tuwaña. 
-15. Recursos naturales ukjamaraki contribuir a su uso sustentable qhipha markachirinakataki jark’aña tuwaña. 
-16. Medio ambiente aka pachana aski jakapxañapataki jark’aqaña tuwaña. 
-PUSÏRI UÑAÑCHAWI QAMAWINA JARK’AQAWINAKA UKJAMARAKI TUWAQAÑA NAYRÏRI JALJTA QAMAWINA JARK’AQAWINAKA 
-109 Kamachi. 
-I. Taqi tayka machaqa kamachina uñt’ata derechonakawa phuqhañataki pachpa garantias jark’aqawina ukanirakiwa. 
-II. Derechos ukjamaraki garantias ukanakaxa kamachi tuqiwa uñaqatani. 
-110 Kamachi. 
-I. jaqinakatakixa kamachirjama utt’ayata derechonaka takichasipxani ukaxa jakawi pachpa markapanwa juchañchawixa marka p’iqiñchirinaka amparanakapankiwa. 
-II. Derechos constitucionales takichasirinakaxa autores intelectuales ukjamaraki materiales ukjamarjamawa uñjatarakini. 
-III. Atentados contra seguridad personal lurawinakapaxa mäkiwa ukjama luririnakaruxa, inasa jiliripana amtapachispa juchañchatani. 
-111 Kamachi. 
-Delitos genocidios de la humanidad de traccion a la patria ukjama jani wali luririnakaruxa juchañchawitxa janiwa qhisphipkaspati. 
-112 Kamachi. 
-Servidores públicos jani wali lurasa patrimonio del estado ukaru qullqi tuqita jani walt’ayañaxa juchañchawitxa janiwa qhisphiphkaspati. 
-113 Kamachi. 
-I. Derechos takichañaxa jaqi masirusa taqi jani walt’awixa mäkiwa pacha apaqasitatxa kutiyatañapa. 
-II. Estado ukati condenata kutiyañataki uñjasispa ukjaxa p’iqiñchiri, servidor publico ukaruwa juchañchatarakispa. 
-114 Kamachi. 
-I. Nuwjawa, chhaqhawi, jayarst’awi, coacion janchiru wali jakawiru jani walt’awixa juchawa. 
-Servidoras, públicos marka p’iqiñchirinakaxa jani wali amtayirinakaxa kamachi tuqiwa irnaqawipatxa jaqumukutarakispa. 
-II. Nuwawi, coacion, exacción yaqha jani walt’awi tuqi arsuyaña, lurayaña taqi ukanakaxa janiwa derechonipkiti. 
-115 Kamachi. 
-I. Taqi jaqiru yäparu taripiri p’iqiñchirinakatxa irnaqawipanxa derecho nakaxa arxatatañapa. 
-II. Estadoxa chiqa taripawi, mäki, jani chanita, qhana uka derechonakwa qhananchi. 
-116 Kamachi. 
-I. Presunción e inocencia ch’amanchi. 
-Taripawi thakhinxa payjtawinxa juchañchatatakjama wakisirakini. 
-II. Kawkiri juchañchawisa kamachi tuqirjama wayxatatañapawa. 
-117 Kamachi. 
-I. Janiwa khiti jaqisa ina ukjamaki jani taripawi thakhirjamaxa juchañchatakaspati. 
-Janiwa khithi jaqisa jani taripiri p’iqiñchirinakaru yatiyasaxa juchañchatakaspati. 
-II. Janiwa khithisa mä juchataki sapa kutisa juchañchatakaspati. 
-Rehabilitación takichata derechonakaparuxa mäkiwa kutkatayataspa. 
-III. Janiwa sancion privativa de libertad por deudas u obligaciones patrimoniales ukanakatakixa janiwa phuqhappa satapinikiti, inasa kamachi tuqi wakisirakchispa. 
-118 Kamachi. 
-I. Infamia, muerte civil ukjamaraki confinamiento ukanakaxa juchañchatawa. 
-II. Juchaninakaxa kimsa tunka maranakawa jani derechoni taripataspa. 
-III. Taripawi phuqhirinakaxa aski amtani jaqi tukupxañapatakiwa yatichawi tuqi yanapatani. 
-119 Kamachi. 
-I. kawkirinakati, jucha taypinkapki ukanakaruxa chikasawa derechonakaparjama via ordinaria jani ukaxa indígena originaria campesina ukanakaruxa iñjatarakini. 
-II. Taqi jaqiwa jani walt’awitxa arxatasiñataki derechoni. 
-Estadoxa juchanchi, jani juchaninakaruxa defensor del pueblo tuqiwa arxatasiñanxa jani chani mayisawa yanaparakini. 
-120 Kamachi. 
-I. Taqi jaqiwa markapana p’iqiñchirinakapata yäparu ist’atañataki, derechoniwa janiwa yaqha comisiones utt’ayatanaka pachpa markapana arsutaña wakiskiti. 
-II. Taqi jaqi juchanixa arupatawa juchañchatañapa; jani ukjamakchi ukjaxa aru jaqukipiri tuqiwa qhanañchatarakispa. 
-121 Kamachi. 
-I. Materia penal ukaxa janiwa khiti jaqisa jupa pachpa jani walt’asiñataki, wila masipatakisa cuarto grado janukax segundo grado de consanguineidad ukjakamawa munasa jani munasa arskaspati. 
-Derecho jani arsuñatakixa jani juchaniwa satakaspati. 
-II. Juchani jaqixa kamachi tuqixa mayiwipaxa kamachirjamawa wayxatatañapa ukjamaraki sapa kuti seccion judicial ukanxa ist’atanakapawa. 
-Jani qullqinikchi ukjaxa estadowa kamachinaka yatxatata inaki churarakispa. 
-122 Kamachi. 
-Kunapachati mayni jaqixa jani lurañapa lurki ukjaxa ina ch’usawa luri, janirakiwa kamachi tuqisa wakiskarakiti. 
-123 Kamachi. 
-Kamachixa nayraxa uñtawitakiwa inasa kunapachati irnaqawina irnaqirinakataki aski; materia penal juchaninakaru yanapañawa, qullqi lunthatasiwina yatxatañataki spa juchañchañatakispa estadoru arxatañataki; yaqhanakana tayka machaqa kamachina uñañchayatarjama. 
-124 Kamachi. 
-I. Kawkniri markachirichixa jani walinaka Bolivia marrana traicion luraspa ukjaxa aknirinaka: 
-1. Illapt’aña arma ukampi pachpa taqi markapataki anqa markankirinakampi chikañchasispa, ch’axwawinaka Bolivia marka t’unjañataki. 
-2. Akapachankiri yänaka jani waliru tukuyaspa. 
-3. Bolivia marka t’unjaña. 
-II. Akniri juchanakaxa taqi ch’amampiwa juchañchatañapawa. 
-PAYÏRI JALJTA TUWAÑATA LURAWINAKA NAYRÏRI TAQXTA QHISPITA LURAÑA 
-125 Kamachi. 
-Taqi jaqitï arknaqata, jani walina jiqxataskchi jan juchanita taripata uñjaschispa ukjaxa qillqata jani ukaxa arsuta tuqiwa accion de libertad jiqxatañatakixa taripiri p’iqiñchirinakaruwa jakawipana libertad arknaqawi p’amp’achañatakixa mayt’aspa. 126 Kamachi. 
-I. Taripiri p’iqiñchirixa mäkiwa uru hora audiencia pública ukataki sañapa, pusi tunka pusini horanakatwa juchani jaqiruxa taripañaxa yatisispa. Uka ordenampixa jaqi chimpu tuqixa jawsataspawa, ukampixa janiwa khititsa jani wali uñjatakaspati taqiwa phuqhapxañapa. 
-II. Janiwa kunakipansa audiencia x a qhipharkaspati. 
-Juchanitixa jani ukankaspa ukjaxa juparu juchañchañatakixa phuqasiskakispawa. 
-III. Yatitarjamaxa, ist’atarjamaxa p’iqiñchiri taripirixa wali amuyasawa sentencia pachpa audiencia ukanawa luqtañapa. 
-Sentenciaxa tutela de la vida, restitucion del derecho a la libertad, reparacion de los defectos legales, el derecho el cese de la persecución indibida janukax remision del caso al juez competencia ukanakwa phuqhayaspa. 
-Taqi akanakanxa sentencia ullawi tuqiwa yatiyatarakispa. 
-IV. Fallo judicial ukaxa mäkiñapawa. 
-Ukaxa tribunal constitucional plurinacional ukata pä tunka pusini horanakata katuwipata uñakipatañapawa. 
-127 Kamachi. 
-I. Servidores públicos o personas particulares ukanakatï jani taripawina munapkaspa ukaxa ministerio público p’iqiñchirinaka kamachi t’unantatapata mäkiwa katuntatapxaspa. 
-II. Taripiri p’iqiñchiritixa jani kamachinakarjama juchañchkaspa ukjaxa tayka kamachi tuqixa juchañchataspawa. 
-PAYÏRI T’AQXTA TARIPIRINAKARU YATIYASIWI 
-128 Kamachi. 
-Acción del amparo constitucional kunapachati servidores publicos sapa jaqita jani ukaxa qututa ukanakana kamachina t’unantatachi, jani yäqasa, tayka machaqa kamachirjama derechopaxa takichasitachi. 
-129 Kamachi. 
-I. Acción del amparo constitucional ukaxa kunapachati jaqixa jani walt’ayata, jisk’achata, jani aski yáqata taripiri p’iqiñchirinakata, tayka machaqa kamachi tuqixa wayxatataspawa. 
-II. Acción del amparo contitucional suxta phaxsiwa yatiwipata jucha taripawi tuqi wakisirakispa. 
-III. Acción del amparo constitucional ukaxa yatiwipata pusi tunka kimsaqallquni horanakatwa yatiyawi mayitarjamaxa jawsayasa katuqatarakini. 
-IV. Qhipa qhipa amtawixa audiencia pública ukanawa p’iqiñchiriru jani ukaxa juchañchata jaqiru yatxatatatarjamawa qhant’atarakini. 
-Taripiri p’iqinchirixa p’iqinchiri juchanchata jaqiruxa taqi ukanakaruxa askinjamawa uñakipañapa ukjamata amparo mayt’añataki. 
-Amtawixa Tribunal Constitucional Plurinacional ukaruwa katuyatani ukaxa pä tunka pusini horanakatwa emisión del fallo ukaxa yatisispa. 
-V. Qhipha amtata Acción de Amparo Constitucional ukaxa makiwa jan kuna sasawa phuqhatarakispa. 
-Jani yäqataspa ukjaxa kunjamati Acción de Libertad thathinchatarakispa. 
-Taripiri p’iqinchiritixa jani aka amtarjama jani phuqhkaspaxa kamchinakarjamwa juchapaxa wayxatatarakispa. 
-KIMSÏRI T’AQXTA LURAWINAKATA JARK’AQAWI 
-130 Kamachi. 
-I. taqi jaqiwa sapata qututa jani walt’ayata jiqxataschi sutipa picharañatsa, askichañatsa kunamana medio físico, electrónico, magnético informativo, archivos o bancos de datos públicos o privados jaqiru, wila amsiru, imagen, honra, ukjamaspa ukjaxa acción de protección de privacidad phuqhasirakispa. 
-II. Acción de privacidad y protección janiwa prensaruxa mayitakaspati. 
-131 Kamachi. 
-I. Acción de protección de privacidad kunjamatï thakhinchataki amparo constitucional ukjamaruwa phuqhasirakini. 
-II. Tribunal ukatixa jani ukaxa juez competente ukatixa jay sischini ukjaxa mayiwi askichawinakaxa phuqhasispawa. 
-III. Amtana uñakipawipaxa Tribunal Constitucional Plurinacional ukankirinakawa pä tunka pusini horanakata emisión del fallo ukxa jani sayt’ayasa saratayarakispa. 
-IV. Qhipha amtawixa acción de protección de privacidad ukaxa jan kuna sasawa phuqhasiñapa. 
-Jani yaqataspa ukjaxa kunjamatï acción de libertad utjki ukjamaruwa thakhinchatarakispa. 
-Taripiri p’iqinchiritixa janiaka amtarjama phuqhkaspaxa kamachinakarjamawa juchapaxa juchanchatarakispa. 
-PUSÏRI T’AQXTA JUCHA P’AMP’ACHAWI 
-132 Kamachi. 
-Taqi jaqi sapata jan ukaxa qututa jan tayka kamachirjama juchanchatakchi ukjaxa acción de inconstitucional kamachirjamawa derecho ukanipxi. 
-133 Kamachi. 
-Sentencia mä kamachitxa inconstitucional ukjamaspa ukjaxa janiwa phuqhatakaspati. 
-PHISQïRI T’AQXTA LURAWI PHUQAWI 
-134 Kamachi. 
-I. Acción de cumplimiento ukaxa kunapachatï servidorespúblicosukanakatajankunaymana kamachinakaxa jani phuqhatakaspa ukjawa aka kamachixa phuqhayatarakispa. 
-II. Acción ukaxa sapa jaqita jan ukaxa qutu jaqita juchanchatanakatwa jan ukaxa sutipa yatxatata taripirinakata phuqhayataspawa niya acción de amparo constitucional ukjamaru wakichataspawa. 
-III. Qhipha qhipha amtawixa audiencia pública ukanwa uñt’ayatani ukampinsa mäkiwa yatxatata yatisaxa yant’anakaxa yatitati ukjamarjama lurasiñapa. 
-Taripiri p’iqinchirixa luratanakapa chiqapa uñakipañapawa ukjamachi ukjaxa mäkiwa phuqhasiñapataki procedente sañaparaki. 
-IV. Decisión ukaxa Tribunal Constitucional Plurinacional taypi uñakipasa pä tunka pusini horanakata emisión del fallo jan suyt’asa qhanañchatarakini. 
-V. Qhipha dicisión ukaxa acción de cumplimiento ukarjamawa mäki jan kun sasa phuqhayatarakini. 
-Jani munkaspa ukjaxa kunjamatï acción de libertad ukjamarjamawa wakichatarakispa. 
-Taripiri p’iqinchiritixa jani yäparu phuqhkaspa ukjaxa kunjamatï kamachixa wakiyataki ukjamarjamawa juchanchatarakispa. 
-SUXTÏRI T’AQXTA MARKACHIRINA LURAWI 
-135 Kamachi. 
-Acción Popular ukaxa kunaymana jani wali p’iqinchirinakata sapa jaqita qutu jaqita luratanakaxa aski jakawiru ñanqhachaspa patrimonio ukanakaspa aka pacha ñanqhachaspa aka tayka kamachina uñt’atäki ukjama ñanqhachirinakaruxa juchanchataspawa. 
-136 Kamachi. 
-I. Acción popular uka kunapachatï jani walt’awinakaxa jaqinakana qamawiparu ñanqhachchi ukjawa phuqhasiraki. 
-Aka phuqhawitakixa janiwa kamachi thakhi tukusiwipaxa suyañakiti jani ukaxa mäkiwa phuqhayataraki. 
-II. Aka phuqhawipatakixa sapa jaqisa jan ukaxa qutuchasa jani wali uñjasaxa mäkiwa Ministerio Público, Defensor del Pueblo ukanakampi chikanchasisinxa phuqhayatarakispa. 
-Amparo Constitucional kikpa thakhimpiwa phuqhayatarakispa. 
-KIMSÏRI JALJTA UNXTASIWI T’AKUYAWI 
-137 Kamachi. 
-Kunapachatï jan walt’awinakaxa utjaspa uñch’ukisiwi anqa markata unxtasiwinaka utjaspa aka pachankirita jan walt’awi jilïri mallkuxa jani ukaxa kullakaspa Bolivia ukch’pachaataki jan ukaxa mawjataki estado de excepción ukawa utt’ayataspawa. 
-Ukjamaspa ukjaxa garantías de derechos, derechos fundamentales, derechos al proceso, derecho a la información ukjamaraki derechos de personas privadas de libertad ukanakaxa janiwa sayt’ayatakaspati. 
-138 Kamachi. 
-I. Kunapachatï estado de excepción ukaxa utjaspa ukjaxa paqallqu tunka payani uruyt’anakata utt’ayasitapata Asamblea Ligistativa Plurinacional tuqiwa pachaxa wakichatarakispa. 
-Iyaw sasispa ukjaxa facultades conferidas ukanaka uñachayarakispa ukjamaraki relación y proporción wakiskirinaka iyaw sarakispa. 
-Taqi derechos ukanakaxa qillqantataki tayka kamachinxa janiwa taqi phuqhaskaspati. 
-II. Mä marana mä estado de excepción utjchi janiwa mayampi utjkaspati inasa Asamblea Legislativa Plurinacional taypi utt’ayatachispa. 
-139 Kamachi. 
-I. Ejecutivo ukankirinakaxa Asamblea Legislativa Plurinacional ukankirinakaruwa kunatsa estado de excepción ukaxa phuqhasiwiyi tayka kamachirjama taqi ukanakatwa yatiyapxañapa. 
-II. Khitinakatixa aka tayk a kamachiruderecho ukanaka p’akintasa jani phuqhapkanixa proceso penal ukampiwa sarantayatarakispa. 
-III. Esatado de excepción ukaxa kamachi tuqiwa utt’ayatarakispa. 
-140 Kamachi. 
-I. Janiwa Asamblea Legislativa Plurinacional yaqha órgano o institución qutuchatanakasa jaqirusa quturusa facultades extraordnarias amtatäki ukaruxa yaqha amtanaka aka tayka kamachirjamaxa phuqhaskaspati. 
-II. Janiwa poder público utjkaspati janirakiwa supremacia ukasa luqtaskaspati kunjamatï derechos y garantías tayka kamachina uñt’ataki ukjakarjama. 
-III. Estado de excepción pachpanxa phuqhasiwinxa janiwa tayka kamachixa mayjt’ayatakaspati. 
-PHISQÏRI UÑAÑCHAWI MARKANKIRI UKJAMARAKI MARKACHIRI MAYÏRI JALJTA MARKANKIRI 
-141 Kamachi. 
-I. Nacionalidad boliviana ukaxa uyriwi taypiya jiqxatataraki. 
-Taqi Bolivia marka yurita markachirinakawa bolivianos ukjamapxi ukatxa anqa markata mantanirinakana ukjamaraki diplomáticos ukanakana wawanakapaxa janiwa ukjamakarakispati; ukatxa anqa markana yurita awki ukjamaraki taykata bolivianos. 
-142 Kamachi. 
-I. Anqa markata mantaniri chiqa thalhi markachirinakaxa bolivianos ukjañatakixa kimsa tunka maranakawa jan mistusa aka markana qamapxañapa ukjamaraki kamachinakarjamawa phuqhapxañapa. 
-II. Aka markana qamawixa anqa markan - kirinakatakixa pä marakiniwa aknirinakana: 
-1. Khitinaktixa Bolivia markata chachanipxaspa jan ukaxa warminipxaspa wawanipxaspa awkinipxaspa ukaninaka. 
-Kawkmirinakatixa chachasipxaspa warmisipxapa boliviano jan ukaxa boliviana ukampi ukatxa sapjtasa jan ukaxa jaljtasawa chhaqhayatarakispa. 
-2. Cuartel ukaru mayt’iri kamachirjama saraña. 
-3. Asamblea Legislativa Plurinacional taypi jay sata aski irnaqawi phuqhatapata. 
-III. Bolivia maraka qamawixa anqa markanakampi aski apasitjamaruwa chikasirakispa latinoamericanos ukanakaru. 
-143 Kamachi. 
-I. Bolivianas ukjamraki bolivianos ukanakatixa yaqha anqa makankirinakampi jaqichasipxaspa ukjaxa janiwa nacionalidad de origen chhaqhayapkiti. 
-Ukatxa janirakiwa nacionalidad boliviana ukxa anqa markana jakirixasaxa chhaqhayapkiti. 
-II. Anqa markata mantaniri markachirinakaruxa janiwa nacionalidad ukapa chhaqhayma satakaspati. 
-PAYÏRI JALJTA MARKACHIRI 
-144 Kamachi. 
-I. Markachirinakata uñt’ataxapxaspawa taqi markachirinakawa tunka kimsaqallquni maranita yatxatatanaka jani yatxatatatanaka kuynaymanata irnaqirinakata utt’ayatawa. 
-II. Ciudadanía ukaxa wakt’ayatawa: 
-1. Chhijllawina ukjamaraki chhijllataña ukjamaraki funciones en los órganos del poder público ukankaña. 
-2. Funciones públicas ukana irnaqañaru derecho ukaniña aski irnaqawimpi kamachi taypiwa utt’ayatarakini. 
-III. Derechos de los ciudadanos ukxa Artículo 28 tayka kamachina qhanañchataki ukjamarjamawa suyt’yatani. 
-PAYÏRI T’AQA ESTADO UKANA PHUQAWIPANA T’AQANAKA MAYÏRI UÑAÑCHAWI KAMACHINAKA UTT’AYIRI NAYRÏRI JALJTA ASAMBLEA LEGISLATIVA PLURINACIONAL UKANA UTT’AWIPA UKJAMARAKI PHUQHAWINAKAPA 
-145 Kamachi. 
-Asamblea Legislativa Plurinacional ukaxa pä cámaras ukata utt’ayatawa Cámara de Diputados ukxa Cámara de Senadores aka taypiwa kunaymana kamachinakaxa Bolivia markpachana phuqhañataki utt’ayapxarakispa. 
-146 Kamachi. 
-I. Cámara de Diputados ukaxa kimsa tunkanita utt’ayatawa. 
-II. Saapa departamentos ukanakanxa chikata Diputados ukanakakiwa circunscripciones uninominales ukana chhijllata. 
-Chhikatasti circunscripciones plurinominales ukanrakwa p’iqinchiri, sullka p’iqinchiri ukatxa senadores ukanakaxa chhijllasiraki. 
-III. Diputados ukanakxa votación universal jamasata taypiwa chhijllatapxaraki. 
-Circunscripciones uninominales ukanakanxa por simple mayoría. 
-Circunscripciones plurinominales ukanakanxa sistema de representación taypi kamachina qhanañchatarjama utt’asirakini. 
-IV. Número de Diputados ukaxa votación ukarjamawasapapartido, agrupacióncuidada jan ukaxa pueblo indígena wakisirakini. 
-V. Escaños sapa departamentos ukanakatakixa órgano Electoral taypiwa marakachirinakarjamawa kamachirjama wakiyatani. 
-Kamachi taypiwa khuskhata escaños ukanakaxa markachirinakatjama aynachjt’tarjamawa utt’ayatarakini. 
-Escaños ukatixa departamentos ukanakana ch’ulljtaspa ukjaxa escaño uninominal ukawa churataraki. 
-VI. Circunscripciones uninominales ukanakaxa kunjantï uraqipaxa, qurpasinakapasa, marakachirinakaparjama Taqi ukanipxaañapawa. 
-Órgano Electoral ukawa circunscripciones uninominales wakicharakini. 
-VII. Circunscripciones especiales indígena originario indígena campesino markachirinakarjamawa wakisirakini. 
-Janiwa yaqha departamentos ukanakaru wat’ayatakaspati. 
-Ukaxa patankirinakatakikiwa kawkhanakantixa pueblos o naciones indígena originario campesinos ukanakxa qamasipkchi ukawjanakatakiwa. 
-Órgano electoral ukawa circunscripciones especiales wakiyarakini. 
-Aka circunscripciones ukanakaxa número de diputados taypinkapxiwa. 
-147 Kamachi. 
-I. Asambleístas chhijllawinxa chacha ujamaraki warmi xa purapa chikanchasiwiwa ch’machatani. 
-II. Asambleístas chhijllawinxa naciones y pueblos indígena originario campesinos ukanakaxa ukjapura chikanchasiwipawa ch’amachatani. 
-III. Kamachiwa circunscripciones especiales indígena originario campesinas ukanakaxa kawknirinakaya wakischini ukjamarjama qhanañcharakini. 
-148 Kamachi. 
-I. Cámara de Senadores ukaxa kimsa tunka suxtanita utt’ayatawa. 
-II. Sapa departamentos ukanxa pusi Senadores ukanakawa circunscripción departamental ukana votación universal, directa ukjamaraki secreta taypi chhijllasirakini. 
-III. Escaños de Senadores ukanakatakixa sistema proporcional taypi kamachirjamawa phuqhasirakini. 
-149 Kamachi. 
-Candidatas ukjamaraki candidatos Asamblea Legislativa Plurinacional ukatakixa kamisatixa servidores públicos ukanakaru mayitaki ukjamarjamarakiwa mayitarakini tunka kimsaqallquni mara chhijllawi ururu phuqhatani ukatxa pä mara chhijllawi ururu qamawini. 
-150 Kamachi. 
-I. Asamblea Legislativa Plurinacional ukaxa suplentes ukanipxaniwa ukanakaxa janiwa payllawi katuqapkaniti titular lanti irnaqapxaspa ukjaxa wakisispawa payllaña. 
-Kamachi tuqiwa lantintawipaxa wakichatarakini. 
-II. Asambleístas ukanakaxa janiwa yaqha irnaqawinakana función pública ukanxa irnaqapkaspatiinasa yatichirita jach’a jatiqañ utana irnaqapchisa. 
-III. Asambleísta jaytjañatakixa Janiwa licencia, suplencia yaqha irnaqawinakana qhipharañatakikaspati. 
-151 Kamachi. 
-I. Chacha jani ukaxa warmi asambleísta ukanakaxa Janiwa proceso penal taypi juchanchatakapxaspati pacha wakt’ayatarjamaxa opiniones, comunicaciones, representaciones, requerimientos, interpelaciones, denuncias, propuestas expresiones y aqhanakampinakanxa inviolable kankañanipxiwa. 
-II. Chacha jani ukaxa warmi asambleístas ukanakana utjawinakapaxa Janiwa kunakipansa ñanqhachatakapxaspati. 
-Janirakiw k’añaskunakapasa oficinas d e uso legislativo ukanakasa ñanqhachatakapxaspati. 
-152 Kamachi. 
-Chacha jan ukaxa warmi asambleístas ukanakaxa janiwa inmunidad ukanipkiti. 
-Irnaqawi phuqhawipanxa procesos penales, medida cautelar de la detención preventiva ukanakatxa qhisphitaxiwa inasa jani wali lurkiri katjatata wakischispa juchanchañaxa. 
-153 Kamachi. 
-I. Sullkïri chacha ja ukaxa warmi Bolivia marka p’iqinchiriwa Asamblea legislativa Plurinacional p’iqincharakini. 
-II. Sesiones ordinarias ukanakaxa Asamblea Legislativa Plurinacional ukankirinakaxa sapa suxta uru lakani phaxsina saraqataruwa qallaratarakini. 
-III. Sesiones ordinarias ukanakaxa Asamblea Legislativa Plurinacional taypiwa sapa kutiwa phuqhasirakini ukampirusa sapa maynixa mä maranxa tunka phisqani urunakawa samararakini. 
-IV. Asamblea Legistlativa Plurinacional ukaxa Bolivia uraqpachanwa sesiones ukanakxa phuqhapxaspa kunjamatï p’iqinchiripa tuqi ukankirinakampi kuna amtataspa sesiones de plenaria taypi jawsawi wakichkaspa ukjamaruwa phuqhataspa. 
-154 Kamachi. 
-Samarawi pachanxa comisión de asamblea ukaxa kunjamatixa kamachinakaxa Cámara de Diputados ukjamarjamawa jan sayt’asa phuqhasirakini. 
-Kunapachatï mäki wakiskiri amtanakaxa utjchini ukjaxa p’iqinchiripa taypiwa jawsthapiyataspa. 
-Kunjamatï jawsawina amtataki ukjamarjamawa phuqhasiñapa. 
-155 Kamachi. 
-Asamblea Legislativa Plurinacional ukaxa sesiones ukanakxa suxta uru laakani phaxsina saraqkipanwa qallaratarakini inasa p’iqinchiripata mayjt’ayatachispa. 
-156 Kamachi. 
-Asambleísta ukanakaxa phisqa marawa irnaqawipampixa phuqhapxañapa maykutikiwa mayampi chhijllatapxarakispa. 
-157 Kamachi. 
-Asambleísta kankañxa jiwawimpi jaytjawimpi markachirita jaqsuwimpi sentencia condenatoria ejecutoriada, causas penales kjamaraki irnaqawi ina ukjamaki suxta urunaka sapüru jaytjaña ukjamaraki tunka maykipa urunaka jatjañampiwa utjasirakispa. 
-158 Kamachi. 
-I. Asamblea Legislativa Plurinacional ukankirinakawa phuqhawinakapawa aka tayka kamachina qhanañchatarjama: 
-1. Qullqi wakiyañampita lurawunakana tukjañampita jay saña; yanapirinakaru yanapirinakaru utt’ayaña ukjamaraki turkaña qullqi ch’iqiyata pachana uñjaña. 
-2. Payllawi chacha ukjamaraki warmi asambleístas ukanakataki utt’ayaña janiwa kunakipansa Bolivia marka p’iqinchirita ukjamaraki sullkïri p’iqinchirita jila payllawi payllatakaspati. 
-Janiwa yaqha tuqina irnaqasax yaqha payllawi katuqapkaspati. 
-3. Kamachinaka wakiyaña uñakipasa a muyaña, askichaña ukjamarakit’unjaña. 
-4. Suxta miembros del Órgano Electoral Plurinacional dos tercios de voto ukankirinakampi chhijllaña. 
-5. Candidatas ukjamaraki candidatos Tribunal Constitucional Plurinacional, Tribuna Supremo de Justicia, Tribunal Agroambiental ukjamaraki Consejo de la Magistratura ukanakaru niyaspa sasa chhijllaña. 
-6. Tayka kamachi tuqi ukjamaraki sullka kamachi tuqi markanaka, ayllunaka qurpasinakapa machaqata utt’yaña. 
-7. Plan de Desarrollo Económico Social ukaxa Órgano Ejecutivo taypita wakiyata jay saña. 
-8. Sulka kamachinaka tuqi qullqi wakiya manuchjatata qullqi ch’iqiya uñch’ukiña ukjamaraki recursos estatales de crédito público ukjamaraki subvenciones lurawi chhijnuqawinakataki jay saña. 
-9. Medidas económicas estatalesmayiwinakarjama utt’ayaña. 
-10. Contratación de empréstitos que comprometen la rentas del estado ukanaka iyawsaña; ukjamaraki universidades ukanakana contratación de empréstitos ch’amachaña. 
-11. Presupuesto General del Estado ukaxa Órgano Ejecutivo ukana wakiyata jay saña. 
-Proyecto de ley katuqataxa Asamblea Legislativa Plurinacional ukaxa suxta unka horanakata uñakipatañapawa. 
-Janitixa uka pachana uñakipatakanixa jay satawa uka kamachixa uñjasirakispa. 
-12. Contratos de interés público ukanakaxa recursos naturales y áreas estratégicas ukanakaxa Órgano Ejecutivo ukana rixintatawa jay saña. 
-13. Enajenación de biene de dominio del estado jay saña. 
-14. Tratados Internacionales ukanakaxa ejecutivo ukata utt’ayataxa akatayka kamachirjamawa mayampi kutxatayaña. 
-15. Qullqi thakhi utt’ayaña. 
-16. Sistema de medidas utt’ayaña. 
-17. Órganos del estado ukjamaraki instituciones públicas uñch’ukiña ukjamaraki uñaqaña. 
-18. Sapa mayni asambleísta amuyuparjama Ministros ukjamaraki Ministras sapa mayniru jani ukaxa quturusa jisksuña ukjamaraki dos tercios de votos ukampi jan wali uñjata utkuyaña. 
-Jiskhiwixa kawkmiri Cámara uksatsa wakisikispawa. 
-Censura ukaxa Ministro jani ukaxa Ministra jaqsuñatakiwa. 
-19. Chhijllata Comisiones utt’ayata tuqiwa irnaqawi phuqhawirjama yatxataña irnaqirirnakana phuqhawinakapa jan maysar uñtayasa. 
-20. Kunaymana empresas públicas ukjamaraki mixtas ukanakatakixa estado ukaxa qullqimpi chikanchaschi ukanaka uñch’ukiña ukjamaraki uñaqaña. 
-21. Palla pallanaka, armamento y material bélico Bolivia markata mistuwipa jay saña ukjamaraki pacha ch’usasiwipa amtaña. 
-22. Anqa markata mantaniri pallapallanakaru jay saña ukjamaraki pacha qhipharawipa jay saña. 
-23. Órgano Ejecutivo ukana amtaparjama impuestos de competenciadel nivel central del estado ukanaka machaqata uñstayaña ukjamaraki mayjt’ayaña. 
-Jani ukaxaAsamblea Legislativo Plurinacional mayniri ukankirita mayitaparjama Órgano Ejecutivoukawa proyecto wakiyata wakisirakispa. 
-Órgano Ejecutivo ukatakixa pä tunka urunakata proyecto mayita jan wakiykanixa mayniri jani ukaxa p’iqinchirita wakiyata proyecto ukawa amuyasa jay satarakispa. 
-II. Asambles Legislativa Plurinacional ukana wakiyawipaxa ukjamaraki irnaqawipaxa reglamento Cámara de Diputados ukata utt’ayataniwa. 
-159 Kamachi. 
-Cámara de diputados ukankirinakana phuqhawipa aka tayka kamachina qhanañchataraki: 
-1. Sullka kamachipa luraña ukjamaraki jay saña. 
-2. Credenciales Órgano Electora l Plurinacional uka luqtata uñakipaña. 
-3. P’iqinchiripa chhijllaña qutuchawipa irnaqawipa thakhinchaña. 
-4. Chacha ukjamaraki warmi diputados ukanakaru juchanakapata dos tercios de votos ukankirinakata kamachirjama wayxataña. 
-5. Qullqi wakiyañata lurawiru tukjañataki jay saña; yanapirinakapa utt’ayaña ukjamaraki mayjt’ayaña qhipharusti qullqi pachpa cámara uka manqhana churaña. 
-6. Presupuesto General de Estado qalltawi jay saña. 
-7. Plan de Desarrrollo Económico y Social uka Órgano Ejecutivo ukana luqtata qallatawi jay saña. 
-8. Kamachi tributaria de crédito o de subvenciones ukanaka jay saña ukjamaraki mayt’awi qalltawi jay saña. 
-9. Contratación de empréstitos que comprometan las rentas generales del estado y la autorización de las universidades y la contratación de empréstitos qalltawi jay saña. 
-10. Sapa legislatura ukana fuerza militar ukan tiempodepaztaypinachikanchasiñapataki jay saña. 
-11. Cámara de Senadores ukaru miembros del Tribunal Constitucional Plurinacional, Tribunal Supremo, Central Administrativo de Justicia jani wali apnaqatanakapata tumpaña. 
-12. Bolivia marka p’iqinchiriru kunaymana entidades económicas y sociales p’iqinchiriñapataki sutinaka chhijllata taqi ukankirikakata jay sata luqtaña. 
-13. P’iqinchiri taripiriñapataki atipt’asirinaka chhijllaña ukatxa Órgano Electoral Plurinacional ukaru suti chhijllatanaka utt’ayañapataki phuqhawinakaparjama phuqhañapawa. 
-160 Kamachi. 
-Cámara de senadores ukan phuqhawinakapa kunjamatï aka tayka kamachina wakt’ayataki ukjamarjama: 
-1. Kamachipa luraña ukjamaraki utt’ayaña. 
-2. Credenciales Órgano Electoral Plurinacional uka luqtata uñakipaña. 
-3. P’iqinchiripa chhijllaña qutuchawipa irnaqawipa thakhinchaña. 
-4. Chacha ukjamaraki warmi diputados ukanakaru juchanakapata dos tercios de votos ukankirinakata kamachirjama wayxataña. 
-5. Qullqi wakiyañata lurawiru tukjañataki jay saña; yanapirinakapa utt’ayaña ukjamaraki mayjt’ayaña qhipharusti qullqi pachpa cámara uka manqhana churaña. 
-6. Ministros del Tribunal Constitucional Plurinacional, Tribunal Supreno, Tribunal Agroambiental ukjamaraki Control Administrativo de Justicia ukanakaru dos tercios de votos ukankirinakaru jani wali luratapa juchanchaña. 
-7. Héroes públicos ukanakaru aski estado ukaru luratapata jach’anchaña. 
-8. Ascensos ukamnakaxa Órgano Ejecutivo tuqita yatiyatarjamaxa General del Ejércto, Fuerza Aérea, División y de Brigada; Almirante, Vicealmirante, Contralmirante ukjamaraki General de la policía nacional ukanakaru utt’ayaña. 
-9. Embajadores jani ukaxa Ministros Plenipotenciarios marka irpirita yatiyatarjama jay saña jani ukaxa janiw saña. 
-161 Kamachi. 
-Paypacha Cámaras ukanakaxa asamblea Legislativa Plurinacional ukjamaxiwa akïrinakawa phuqhawipaxa kunjamatï tayka kamachina wakt’ayataki ukajmarjama: 
-1. Sesiones qallaraña ukajamraki tukuyaña. 
-2. Chacha jani ukaxa warmi p’iqinchirita jani ukaxa sullka p’iqinchirita juramento katuqaña. 
-3. Jayjawi chacha jani ukaxa warmi p’iqinchirita jani ukax sullka p’iqinchirita jay saña jan ukax janiwa saña 
-4. Órgano ejecutivo ukana kamachinaka Murata uñakipaña. 
-5. Cámara de Diputados ukana thakhinchata kamachinaka jani jay sataki ukanaka uñakipaña. 
-6. Estados de excepción jay saña. 
-7. Chacha jani ukaxa warmi p’iqinchiriru jan wali lurawipata juchanchawipa jay saña. 
-8. Fiscal general ukjamaraki Defensor del Pueblo utt’ayaña. 
-PAYÏRI JALJTA KAMACHI UTT’AYAÑA THAKHINCHA 
-162 Kamachi. 
-I. Asamblea Legislativa Plurinacional ukankirinakaxa chikachasipxapuniñapawa ukaxa phuqhawipawa: 
-1. Chachanakampi warminakampi. 
-2. Chacha ukjamaraki warmi asambleístas sapa cámaras ukana. 
-3. Qutu p’iqinchi. 
-4. Tribunal Supremo jan ukakaspaxa administración de justicia amtani Amtaparjama. 
-5. Gobiernos Autónomos uraqinakana. 
-II. kamachi jani ukaxa sullka kamchinakaxa paypacha cámaras ukanakataki kuyamana phuqhawinaka phuqhañatakiwa. 
-163 Kamachi. 
-Thakhincha legislativo ukanxa akjamatwa phuqhasirakini. 
-1. Asambleístas ukanakata kawkmiri cámara uksataspasa proyecto de ley wakichata comisiones uksana uñakipañapawa ukjamata jay sañataki. 
-2. Proyecto de ley wakiyataxa Cámara de Diputados uksaruwa apayatani ukatxa comisiones ukarurakiwa luqtasirakini. 
-3. Iniciativas legislativas ukanakaxa descentralización, autonomías ukjamaraki ordenamiento territorial ukanakaxa Cámara de Senadores ukana yatitañapawa. 
-4. Kunapachatixa comisiones ukanakaru yatiyatani ukjaxa Plenaria de Cámara ukaruwa mäkiptayatani ukanwa aruskipapxani ukjamaraki jay satán. 
-Jay sañaxa ukankirinakatjamaniwa. 
-5. Proyecto cámara uksata jay sataxa cámara revisora uksaruwa aruskipañataki mäkiptayatani.Cámara revisora ukatixa jay sanixa Órgano Ejecutivo ukaruwa mäkiptayatani markaru yatiyasiñapataki. 
-6. Cámara revisora ukatixa proyecto uka mayjt’ayani ukjaxa cámara de origen ukaruwa kutiqani mayjt’ayata ukankirinakampi jay sañataki. 
-Janitixa jay satakaspaxa paypacha cámara ukanakawa tantachasisapä tunka urunakana proyecto ukata amuykipapxaspa. 
-Amtawixa Asamblea Legislativa Plurinacional w a l jani ukankirinakatwa yatisirakispa. 
-7. Janitixa kimsa tunka urunakata cámara revisora ukaxa proyecto de ley uñakipkaspaxa Asamblea Legislativa Plurinacional taypiwa amuyatarakispa. 
-8. Poryecto de ley jay sataxa Órgano Ejecutivo uksaruwa mäkiptayatani ukana kamachjama uñt’ayañataki. 
-9. Khä proyecto de ley ukatixa janiw sataspaxa jutïri legislatura ukanwa wasitata uñt’ayatarakispa. 
-10. Asamblea Legislativa Plurinacional ukana jay sata kamachixa tunka urunakanwa marka p’iqinchirita jay sata jan ukaxa janiw satasa yatisirakispa. 
-Jani askiki Órgano Ejecutivo ukatxa Asamblea ukaruwa yatiyatarakispa. 
-Ukatixa samarawina jiqxatasispa ukjaxa comisión de asamblea ukaruwa jani walinanakakaxa uñt’ayatarakispa. 
-11. Asamblea Legislativa Plurinacional ukatixa askinjama jani walinakata amuychini ukjaxa uka jani walinakxa askichaspawa ukjamata Órgano Ejecutivo ukaru mäkiptayataniutt’ayañapataki. 
-Janitixajan walinakakaxa ina ukjamaki satachi ukjaxa asamblea p’iqinchiriwa uka kamachi utt’yarakispa. 
-Amuyunakaxa akankiri waljaniritjamawa jay sasirakispa. 
-12. Kamachitixa pachaparjama jani uñakipatakanixa jilïri marka p’iqinchiriwa utt’ayarakispa. 
-Kamachinakatixa Órgano Ejecutivo jani pachaparjama utt’ayatakaspa ukjaxa Asamblea p’iqinchiriwa utt’ayaspa. 
-164 Kamachi. 
-I. Utt’yata kamachixa Gaceta Oficial tuqiwa markaru yatiyataspa. 
-II. Kamachixa markaru uñt’ayataki ukjatwa phuqhasiñapa inasa má pacha utjchispa jani phuqhasiñapataki. 
-PAYÏRI UÑAÑCHAWI MARKA APNAQIRITA NAYRÏRI JALJTA MARKA APNAQIRINA UTT’AWIPA UKJAMARAKI PHUQAWIPA NAYRÏRI T’AQXTA KHUSKHATA PHUQHAÑANAKA 
-165 Kamachi. 
-I. Órgano Ejecutivo ukaxa marka p’iqinchirita janukax sullkiri p’iqinchirita ukjamaraki Ministras ukatsti Ministros ukanakata utt’ayatawa. 
-II. Amtanakaxa Consejo de Ministros ukanxa taqinina amparanakapankiwa. 
-PAYÏRI T’AQXTA ESTADO UKANA JILIRI IRPIRITA UKJAMARAKI SULLKIRI IRPIRITA 
-166 Kamachi. 
-I. Bolivia marka p’iqinchirixa ukjamaraki sullkiri p’iqinchirixa sufragio universal taypiwa obligatorio, libre, chiqapa, jamasata chhijllatapxaspa. 
-Jilïri p’iqinchiritakixa ukjamaraki sullkiri p’iqinchiritakixa cincuenta por ciento más uno ukja votos jaquntatanakampiwa utt’yatarakispa; jani ukaxa mínimo del cuarenta por ciento votos jaquntatanaka con una diferencia de diez por ciento segunda candidatura ukaru ukjamarakispawa. 
-II. Jan ukjamakaspa ukjaxa paya candidatos jila votos jaquntatanakawa payiri kuti chhijllawina suxta tunka urunakatwa nayriri chhijllawi uka uruta jakhutarjamawa phuqhasirakispa. 
-Kawkmiri candidatura ukaya jila votos ukanichini ukawa p’iqinchiritxa utt’ayatarakispa. 
-167 Kamachi. 
-Candidatura p’iqinchiritaki jan ukjamaraki sullkiri p’iqinchiritaki jumanakatakixa phisqa maratakiwa ukjamaraki kimsa tunka maraniña chhijllawi urukama ukjamaraki phisqa mara aka markan qamawiniñapawa. 
-168 Kamachi. 
-Bolivia marka p’iqinchirixa ukjamaraki sullkiri p’iqinchirixa phisqa maratakiwa ukampirsa maykutikiwa mayampi chhijllatapxarakispa. 
-169 Kamachi. 
-I. Bolivia marka p’iqinchiritixa chhaqhasispa ukjaxa sullkïri p’iqinchiriwa utt’asirakispa p’iqinchirita akatixa chhaqhasispa ukjaxa senado p’iqinchiriwa utt’asirakispa akniritixa chhaqhasispa ukjaxa diputados p’iqinchiriwa makatarakispa. 
-Aka qhiphirinxa llatunk tunka urunakatwa machaqata chhijllatarakispa. 
-II. Kunapachatï juk’a pacha ch’usasispa ukjaxa sullkiri p’iqinchiriwa llatuk tunka urutaki utt’asispa. 
-170 Kamachi. 
-Bolivia marka p’iqinchirixa jiwañampiwa jaytjaspa jan ukaxa Asamblea legislativa Plurinacional ukaruwa renuncia jaytaspa; sentencia condenatoria ejecutoriada enmateria penal; revocatoria de mandato taqi ukanaka tuqiwa suyt’ayataspa. 
-171 Kamachi. 
-Revocatoria de mandato ukjaspa ukjaxa sullkiri p’iqinchiriwa utt’ayatarakispa ukatxa mäkiwa llatunk tunka urunakata chhijllawiru jawsatarakispa. 
-172 Kamachi. 
-Bolivia marka p’iqinchirina tayka kamachirjamaxa aknirinakawa phuqhawinakapaxa: 
-1. Tayka kamachi ukjamaraki sullka kamachinaka phuqhaña ukjamaraki phuqhayaña. 
-2. Bolivia marka mayachata uñjaña ukajamraki waqaychaña. 
-3. Políticas de gobierno y de estado wakiyaña ukjamaraki p’iqinchaña. 
-4. Administración pública p’iqinchaña ukjamaraki acción de Ministros de estado purapata aruskipaña. 
-5. Anqa marka amta p’iqinchaña; tratados internacionales qillqantaña, servidores públicos ukjamaraki diplomáticos utt’ayaña, funcionarios extranjeros ukanakaru jay saña. 
-6. Akatjamata tantachawi asamblea legislativa Plurinacional p’iqinchiriru achikaña. 
-7. Asamblea Legislativa Plurinacional ukata jay sata kamachinakata utt’ayaña. 
-8. Decreto Supremos ukjamaraki resoluciones wakiyaña. 
-9. Rentas estatales uñjaña ukjamaraki Ministerio de Hacienda taypi inversión ukataki kamachinaka tuqi Tesoro General de la Nación ukana uñxasiwipampi decreto wakiyaña. 
-10. Nayraru qullqiamta ukjamaraki markachirinakata Asamblea legilativa Plurinacional ukaru luqtaña. 
-11. Asamblea Legislativa Plurinacional ukaru kimsa tunka nayriri sesiones taypi kamachi amta Presupuesto General de la Nación jutiri marataki mayjt’ayatañapampi luqtaña. 
-Qullqi tukjatatata yatiyawi sapa marata luqtaña. 
-12. Asamblea Legislativa Plurinacional ukaru sapa mara qillqata taypi curso y administración pública ukata memorias ministeriales ukampi luqtaña. 
-13. Sentencia de tribunales ukanaka phuqhayaña. 
-14. Amnistía o indulto uka Asamblea Legislativa Plurinacional taypi jay sayasa utt’ayaña. 
-15. Asamblea legislativa Plurinacional taypita chhijllatanaka contralora jani ukaxa contralor General del Estado, p’iqinchiri Banco Central de Bolivia, Órganos de Regulación de Bancos y entidades financieras ukjamaraki entidades económicas y social estado ukata apnaqatanaka utt’ayaña. 
-16. Seguridad ukjamaraki defensa del estado waqaychaña. 
-17. Fuerzas Armadas p’iqinchiri, Ejército p’iqinchiri ukjamaraki Fuerza Aérea y de Armada utt’ayaña ukjamaraki jaqsuña. 
-18. Comandante General de la Policía utt’ayaña ukjamaraki jaqsuña. 
-19. Asamblea Legislativa Plurinacional ukana ascensos de categoría general de ejército, fuerza aérea, de división ukjamaraki brigada, almirante, vicealmirante y contralmirante ukjamaraki general de la policía irnaqatanakaparjama promociones ukarjama uñt’ayaña. 
-20. Puertos uñstayaña ukjamaraki askichaña. 
-21. Representantes Órgano Electoral ukana utt’ayaña. 
-22. Ministras ukjamaraki Ministros del estado ukanaka plirnacional taypi ukjamaraki equidad de género ukanakampi chikanchasa utt’ayaña. 
-23. Chacha jan ukaxa warmi procuradora del estado utt’ayaña. 
-24. Asamblea Legislativa Plurinacional ukaru proyectos de ley deurgencia económica luqtaña mäki uñakipatañapataki. 
-25. Capitana jan ukaxa capitan General de las fuerzas armadas kankaña phuqhaña ukjamaraki estado ukaru taqi jani walita jark’aqaña. 
-26. Estado de excepción jay saña. 
-27. Jilïrir p’iqinchiri ukjamaraki servicio boliviano de Reforma Agraria kankaña phuqhañaukjamaraki Títulos ejecutoriales uraqi jalasiwita luqtaña. 
-173 Kamachi. 
-Bolivia marka piqinchirixa anqa markaruxa misión oficial taypiwa jan jay sasa Asamblea Legislativa Plurinacional tunka urunakawa mistuspa. 
-174 Kamachi. 
-Bolivia marka sullkiri p’iqinchirina phuqhawinakapawa kunjamatï aka tayka kamachina utt’yataki ukjamarjama: 
-1. Bolivia marka p’iqinchaña tayka kamachi utt’ayatarjama phuqhaña. 
-2. Aruskipawinaka Órgano Ejecutivo ukjamaraki Asamblea Legislativa Plurinacional ukatxa Gobiernos Autónomos ukanakampi chikawa p’iqt’pxañapa. 
-3. Sesión de Consejo de Ministros ukana chikäña. 
-4. Bolivia marka p’iqinchirimpi chika Política General de Gobierno phuqhawi yañapaña. 
-5. Bolivia marka p’iqinchirimpi chika Política exterior ukjamaraki misiones diplomáticas ukanakana chikanchaña. 
-KIMSA T’AQXTA ESTADO UKANA P’IQT’IRINAKA 
-175 Kamachi. 
-I. Ministras ukjamaraki Ministros ukanakaxa servidores públicos ukajapxiwa ukampirusa phuqhawinipxiwa kunjamatï aka tayka kamachina wakt’ayataki ukjamaru: 
-1. Formulación de Políticas generales del Gobierno taypina arsuña ukjamaraki yanapaña. 
-2. Políticas Gubernamentales thakhipana arsuña ukjamaraki p’iqinchaña. 
-3. Gestión deAdministración Pública thakhipa thakhinchaña. 
-4. Normas Administrativas thakhipa qillqaña. 
-5. Proyectos de Decreto Supremo amtaña ukxa Bolivia marka p’iqinchirimpi chika Qillqantxaaña. 
-6. Ministerio irpxaruwina jani askichata jani walt’awinaka qhipha qhipharu askichaña. 
-7. Asamblea legislativa Plurinacional ukana mayitaparjama yatiyawinaka luqtaña. 
-8. Yaqha Ministros ukanakampi amtawi ukjamaraki phuqhawi políticas del gobierno ukana chikanchasiña. 
-II. Ministras ukjamaraki Ministros del Estado ukanakan p’iqinchañaxa amparanakapankiwa. 
-176 Kamachi. 
-Ministra jan ukaxa Ministro ukjama utt’ayatañatakixa condiciones generales de acceso al servicio público phuqhañawa; pä tunka phisqani mara chhijllawi ururu phuqhatañapawa; janiwa asamblea Legislativa plurinacional taypina chikachaskaspati; janirakiwa directivo, accionista, socios de entidades financieras jani ukaxa empresas estado ukampi uñkatasiñatakjamakaspati; janirakiwa jaya ukjamaraki jak’a Bolivia marka p’iqinchirina jani ukaxa sullka p’iqinchirina wila masipakaspati. 
-177 Kamachi. 
-Ministra jani ukaxa Ministro de Estado ukañatakixa kawknirinakatixa contratos pendientes phuqhawipana jan ukaxa deudas ejecutoriadas con el estado uka taypina jikxatasirinakaxa janiwa utt’ayatakapxaspati. 
-KIMSÏRI UÑAÑCHAWI TARIPIRI UKJAMARAKI ARXATIRINAKA TAQI MARKANAKATA NAYRÏRI JALJTA KHUSKHATA PHUQHAÑANAKA 
-178 Kamachi. 
-I. Justicia apnaqañaxa pueblo boliviano ukata yurita ukjamaraki amtawixa utt’ayatawa principios de independencia, imparcialidad, seguridad jurídica, publicidad, probidad, celeridad, gratuidad, pluralismo jurídico, interculturalidad, equidad, servicio a la sociedad, participación ciudadana, norma social ukjamaraki yäqasiña akanaka taypina phuqhasiñapa. 
-II. Garantías de la independencia judicial ukaxa utt’ayatawa: Jueces ukanakana irnaqawipanxa kunjamatï carrera judicial ukanautjkiukjamañapawaukjamarakiqullqixa jupanaka pachpawa apnaqasipxañapa. 
-179 Kamachi. 
-I. Función juducial ukaxa mayakiwa. 
-Jurisdicción ordinaria ukaxa Tribunal Supremo de Justicia, Tribunales Departamentales de justicia, Tribunales de Sentencia ukjamaraki Jueces ukanakaruwa p’iqinchi; jurisdicción Agroambiental ukaxa tribunal de Jueces Agroambientales tuqi; Jurisdicción indígena originaria campesina pachpa p’iqinchirinakapata phuqhatawa; jurisdicciones especiales kamachi tuqiwa uñakipatani. II. Jurisdicción ordinaria ukjamaraki jurisdicción indígena originanario campesino kikipata yaqatapxiwa. 
-III. Justicia constitucional ukaxa Tribunal Constitucional tuqiwa phuqhi. 
-IV. Consejo de la Magistratura ukaxa Órgano Judicial taypinkiwa. 
-PAYÏRI JALJTA QILLQATA TAYPI TARIPAÑA 
-180 Kamachi. 
-I. Jurisdicción ordinaria ukaxa principios procesales de gratitud, publicidad, transparencia, oralidad, celeridad, probidad, honestidad, legalidad, eficacia, accesibilidad, inmediatez, verdad material, debido proceso igualdad las partes ante el juez ukanakana utt’ayatawa. 
-II. Principios de de impugnación de los procesos judiciales jay sawiwa. 
-III. Jurisdicción ordinaria ukaxa fueros, privilegios ni tribunales de excepción janiwa uñt’atakaniti. 
-Jurisdicción militar ukaxa pachpa kamachinakapa tuqiwa juchanchasirakini. 
-NAYRÏRI T’AQXTA JILIRI TARIPIRI 
-181 Kamachi. 
-Tribunal Supremo de Justicia ukaxa tayka tribunal de la jurisdicción ordinaria ukjamawa. 
-Magistrados ukjamaraki Magistrados ukanakata utt’ayatawa. 
-Pachpa taypina salas especiales ukanakata utt’ayatawa. 
-Composición ukjamaraki organización ukanakaxa kamachi tuqiwa wakt’ayatani. 
-182 Kamachi. 
-I. Magistrados ukjamaraki Magistrados del Tribunal Supremo de Justicia ukankirinakaxa sufragio universal taypiwa chhijllatapxani. 
-II. Asamblea Legislativa Plurinacional ukaxa dos tercios devotos ukankirinakata sapa departamento p’iqinchiritakiphuqharakini preseleccionados ukanakaxa Órgano Electoral ukaruwa wakichxañapataki luqtarakispa. III. Postulantes jan ukaxa yaqha jaqisa janiwa campaña electoral lurkaspati jan ukaxa jaqsutaspawa. 
-Órgano Electoral atipirinakata ukjamaraki atipt’asirinakata qhanañcharakispa. 
-IV. Magistradas ukjamaraki Magistrados ukanakaxa janiwa organizaciones políticas taypina chikanchasipkaspati. 
-V. Chacha jan ukaxa warmi chhijllatanakaxa atpt’asirinakata chhijllatapxañapa wakawkmirinakatixa simple mayoría de votos ukanipxani ukanakawa atipiripxani. 
-Boliviamaraka p’iqinchiriwa cargo ukxa utt’yarakini. 
-VI. Magistratura del Tribunal Supremo de Justicia ukatakixa kunjamtï servidores públicos ukjamarjamawa phuqhapxarakini: kimsa tunka phuqhata maraniñapawa, título de abogado ukani, irnaqatani, honestidad ética ukani, funciones judiciales ukani, arxatawina irnaqawini, jani ukaxa jach’a yatiqaña utanakana kimsaqallqu maranaka yatichiri ukjamaraki jani destitución del consejo de la magistratura ukani. 
-Calificación de méritos ukatakixa autoridad originaria bajo su sistema de justicia ukaniñapawa. 
-VII. Sistema de prohibiciones e incompatibilidades Magistrados ukjamaraki Magistrados del Tribunal Supremo de Justicia phuqha ukanakaxa kunjamatï servidores públicos ukankirinakjamarakiwa. 
-183 Kamachi. 
-I. Magistradas ukjamaraki Magistrados ukanakaxa janiwa mayampi chhijllatapkaspati. 
-Suxta marakiwa irnaqawipaxa. 
-II. Magistradas ukjamaraki Magistrados del Tribunal Supremo de Justicia ukankirinakaxa irnaqawipatxa kunapachatixa sentencia ejecutoriada emergente de juicio de responsabilidades, renuncia, fallecimiento yaqhanakampi kamachinjama qhanañchataki ukjamarjamawa suyt’ayatapxaspa. 
-184 Kamachi. 
-Tribunal Supremo de Justicia ukana phuqhawinakapaxa kunjamatï kamachina qhanañchataki ukjamawa: 
-1. Tribunal de cesión ukjama phuqhaña ukjamaraki recursos de nulidad kamachinjama qhanañchata uñt’aaña. 
-2. Departamentos ukakana jan walt’awinaka jan kunaru tukuyaña. 
-3. Jaya markanakata juchaniru waytaniña, uñt’ña, askichaña ukjamaraki mayiña. 
-4. Tribunal colegiado kankañampixa Bolivia marka p’iqinchiriruxa jan ukaxa sullka p’iqinchiriruxa jan wali luratanakapata juchanchaña. 
-Juchanchawixa Asamblea Legislativa Plurinacional ukata ods tercios de votos ukankirinakata jay satañapawa ukjamaraki Fiscal General del Estado ukankirita mayitrarjam jupawa chiqpacha yatxatasaxa juchaniri juchanchayarakispa. 
-Thakhixa arsuta, público continúo e interrumpido ukjamawa. 
-Kamachi taypiwa thakhixa uñt’ayatani. 
-5. Consejo de Magistratura ukata uñt’ayata sutinakaxa vocales de los tribunales departamentales de Jusrticia ukanakaru uñt’ayata. 
-6. Proyecto de leyes wakichatanaka asamblea Legislativa Plurinacional ukaru uñt’ayaña. 
-7. Casos de revisión extraordinaria de sentencia uñt’aña ukjamaraki askichaña. 
-185 Kamachi. 
-Magistratura del Tribunal Supremo de Justicia ukana irnaqawipaxa phuqhatapuniniwa. 
-KIMSÏRI JALJTA SAMANA ARXATIRI 
-186 Kamachi. 
-Tribunal Agroambiental ukaxa jilïri tribunal especializado ukjamawa. 
-Función social, integridad, inmediatez, sustentabilidad e interculturalidad taypiwa phuqhasi. 
-187 Kamachi. 
-Magistrada jan ukaxa Magistrado del tribunal Agroambiental ukañatakixa Tribunal de Supremo de Justicia ukataki mayitaki ukjamarakiwa aka yatxatawita yatxatata, idoneidad ukani, ética honestidad, judicatura agraria ukata, jani ukaxa yatichirir universidad ukana kimsaqallqu maranaka taqi ukanakawa mayitarakini. 
-Chhijllatanaka uñt’asaxa composición plural taypi plurinacional amuyurjamawa jay satarakini. 
-188 Kamachi. 
-I. Magistradas jani ukaxa Magistrados ukaxadel Tribunal Agroambiental ukañatakixa sufragio universal taypi kunjamatï procedimientos, mecanismos ukjamaraki formalidades Tribunal Supremo de Justicia ukjamarjamawa chhijllatapxaspa. 
-II. Sistema de prohibiciones e incompatibilidades phuqhata magistrdas jani ukaxza Magistrados del Tribunal Agroambiental ukankirinakaxa servidores públicos ukajapxiwa. 
-III. Pachaxa kunjamatï Magistradas jani ukaxa Magistrados ukanakataki wakiyataki pachparakiwaTribunal Agroambiental ukankirinakatakixa phuqhayatarakini. 
-189 Kamachi. 
-Tribunal Agroambienta ukana phuqhawinakapaxa kunjamatï kamachi qhanañchataki ukjamarakiwa: 
-1. Recursos de casación y nulidad uraqinakana, forestales, ambientales, de agua, derechos de uso y aprovechamiento, hídricos, forestales y de la biodiversidad ukanaka askichaña; ñanqhachawinaka quqanakaru, uywanakaru, umaru, aka pacha samanaru; ukjamaraki taqi akapachankirinakata jark’aqaña. 
-2. Única instancia demandas de nulidad y anulabilidad de títulos ejecutoriales uñt’aña ukjamaraki askichaña. 
-3 Única instancia ukawa procesos contencioso administrativos contratos, negociaciones ,autorizaciones, otorgación, distribución ukjamaraki redistribución de derechos de aprovechamiento akapachankiriyanakata yaqhanakampita uñt’aña ukjamaraki askichaña. 
-4. Juzgados Agroambientales wakichaña. 
-PUSÏRI JALJTA INDÍGENA ORIGINARIA CAMPESINA URAQI 
-190 Kamachi. 
-I. Naciones y pueblos indígena originario campesinos ukanakaxa funciones jurisdiccionales ukjamaraki p’iqinchipa paypi phuqhapxarakispa ukatsti sarawinakaparjamawa, principios, valores culturales, normas ukjamaraki procedinmientos taqi ukanakarjamwa phuqhapxarakispa. 
-II. Jurisdicción indígena originario campesina uka jakawiru jark’aqawiruukjamaraki tayka kamachina derecho ukanakaxa qhanañchataki ukjamarjamawa yäqi. 
-191 Kamachi. 
-I. Jurisdicción indígena originario campesina ukaxa pachpa jaqinakampi nación o pueblo indígena originario campesino ukanakampiwa chikachasi. 
-II. Jurisdicción indígena originario campesino ukaxa vigencia personal, material, ukjamaraki territorial ukanakampiwa phuqhasi. 
-1. Aka jurisdicción ukaruwa nación o pueblo indígena originario campesino ukankiri jaqinakaxa kunjamatï actores o demandado, denunciantes o recurridos ukankirinakaxa phuqhapxañapa. 
-2. Aka jurisdicción ukaxa asuntos indígena originario campesinos deslinde jurisdiccional mä kamachi wakt’ayatarjama uñji. 
-3. Aka jurisdicción ukaxa relacines tuqiruwa apnaqasi ukjamaraki hechos jurídicos wakt’ayata jan ukaxa jurisdicción o pueblo indígena originario campesina taypina lurasi. 
-192 Kamachi. 
-I. Taqi autoridad pública jani ukaxa jaqixa jurisdicción indígena originario campesina amtawiparuwa phuqhañapa. 
-II. Jurisdicción indígena originario campesina amtawinaka phuqhatañapatakixa p’iqinchirinakapaxa órgano competentes del estado ukaruxa mayiwi mayipxarakispa. 
-III. Estado ukaxa justicia indígena originario campesina uka w aqaychapxaspa ukjamaraki ch’amañchapxaspa. 
-Deslinde jurisdiccional kamachixa mecanismos de coordinación ukjamaraki cooperación jurisdicción indígena originario campesina ukampi jurisdicción ordinaria ukjamaraki juriusdicción agroambiental qhipharusti taqi jurisdicciones constitucionalmente uñt’atanaka qhanañcharakini. 
-PHISQÏRI JALJTA QUTUCHATA TARIPIRI 
-193 Kamachi. 
-I. Consejo de la Magistratura ukaxa régimen disciplinario de la jurisdicción ordinaria, agroambiental y las jurisdiccioneses pecializadas ukanakaxa amparanakapankiwa; uñjaña ukajamraki jak’ata uñjaña apnaqawina ukjamaraki qullqi irtawina ukatxa apnaqawi amta luraña. 
-Consejo de Magistratura ukaxa markachirina amtawinakaparjamawa phuqhañapa. 
-II. Utt’ayawipaxa, estructura phuqhawipaxa kamachinakarjamawa utt’ayatani. 
-194 Kamachi. 
-I. Miembros del consejo de la Magistratura ukankirinakaxa sufragio universal taypiwa atipt’asiwinakaxa kunjamatï Asamblea legislativa Plurinacional sutinaka chhijllankani ukjamawa chhijllatarakini. 
-Proceso Electoral utt’ayawixa ukjamaraki phuqhawixa órgano electoral plurinacional ukana amaparanakapamkiwa. 
-II. Consejo de la magistratura de justicia ukankirinakaxa servidores públicos ukjamapxiwa kimsa tunka marani, irnaqawipata yatxatatanaka taqi chuymampi irnaqirinaka ukjamañapawa. 
-III. Miembros del consejo de la magistratura de justicia jupanakana irnaqawipaxa suxta marawa ukjamarki janiwa wastata chhijllataxaspati. 
-195 Kamachi. 
-Consejo de la Magistratura de justicia ukana phuqhawinakapaxa aknirinakawa kunjamatï tayka kamachi jan utt’yataki ukjamarjama: 
-1. Revocatoria de mandato a las magistrados ukjamaraki magistrados del tribunal Supremo de Justicia ukjamaraki Tribunal Agroambienta lukankirinakatakixajaniwali lurawuinakapatxa irnaqawi phuqhawinxa wamachi taypiwa wakiyatani. 
-2. Juezas jani ukaxa jueces, warmi vocales jani ukaxa chacha vocales ukanakaru; ukjamaraki yanapairinakaparu, adminidstrativos del órgano judicial ukanakaru uñaqaña. Aka irnaqawina jani wali lurawinakata kamchina qhanañchatarjamawa jaqsutaspa. 
-3. Órgano Judicial ukana qullqipa ukjamaraki yänakapa aski apnaqawi uñjaña ukjamaraki uñaqaña. 
-4. Lurawi phuqhatanaka warmi jani ukaxa chacha apnaqirinakana ukjamaraki yanapirinakana yant’awi uñakipaña akipaña. 
-5. Auditorias jurídicas ukjamaraki gestión financiera luraña. 
-6. Estudios técnicos ukjamaraki estadísticos luraña. 
-7. Candidatas ukjamaraki candidatos tribunales departamentales ukanakaru utt’ayatañapataki chhijllaña. 
-8. Jueces de partido de institución urasaru atipt’asiwi taypi utt’ayaña. 
-9. Personal administrativo ukapa utt’ayaña. 
-SUXTÏRI JALJTA JILIRI TARIPIRI 
-196 Kamachi. 
-I. Tribunal constitucional ukaxa supremacía de la constitución uñji, control de constitucionalidad phuqhi ukjamaraki yaqawimpi nayrar sarantawimpi derechos ukjamaraki garantías constitucionales yäpañapataki uñji. 
-II. Función interpretativa ukapanxa, tribunal constitucional plurinacional ukaxa criterio de interpretación kunjamati yäparu utt’ayataki ukjamarjamawa phuqhi. 
-197 Kamachi. 
-I. Tribunal constitucional plurinacional ukankirinakaxa, magistradas ukjamaraki magistrados plurinacionalidad amuyumpi sistema ordinario ukjamaraki sistema indígena originario campesinoukanakata utt’ayatawa. 
-II. Magistradas ukjamaraki magistrados suplentes del Tribunal Constitucional ukankirinakaxa Janiwa payllawi katuqapkaspati kunapachatï titular ukaxa ch’usasispa ukjawa kamchinakarjama qhananchataru wakisirakispa. 
-III. Composición, organización y funcionamiento del Tribunal Constitucional Plurinacional kamachirjamawa sarantayatani. 
-198 Kamachi. 
-Magistradas ukjamaraki Magistrados del Tribunal Constitucional Plurinacional ukanakaxa sufragio universal taypiwa, procedimientos, mecanismos ukjamaraki formalidades de los miembros del tribunal Suprema de Justicia ukjamarjamawa chhijllatapxani. 
-199 Kamachi. 
-I. Magistradas ukjamaraki Magistrados del tribunal Constitucional Plurinacional ukañatakixa kunjamatï servidor público ukataki wakiski ukjamarakiwa kimsa tunka mara phuqhatani, kimsaqallqu mara especialidad de derechos constitucionales ukjamaraki ukana irnaqawini. 
-Atipiriñatakixa autoridad originario arxatawi taypina luratañapawa. 
-II. Candidatas ukjamaraki candidatos Tribunal Constitucional Plurinacional ukatakixa sociedad civil ukjamaraki naciones y pueblos indígena originario campesinos ukata chhijllatapxañapawa. 
-200 Kamachi. 
-Pacha akankañaxa kunjamatï magistradas ukjamaraki magistrados del tribunal Suprema de Justicia ukanakataki wakt’ayataki ukjamarjamawa Tribunal Constitucional Plurinacional ukatakixa utt’ayataraki. 
-201 Kamachi. 
-Magistrados ukjamaraki magistrados del Tribunal Constitucional Plurinacionalukankirinakaxakunjamatïsistemade prohibiciones e incompatibilidades de servidores públicos ukjamaruwa phuqhapxarakini. 
-202 Kamachi. 
-Tribunal Constitucional Plurinacional ukankirinakana phuqhawinakapaxa kunjamatï tayka kamachina qhanañchataki ukjamarjamawa uñt’aña ukjamaraki phuqhaña: 
-1. Única instancia de derecho de inconstitucionalidad de leyes, estatutos autonomías, cartas orgánicas, decretos ukjamaraki taqi género de ordenanzas y resoluciones no judiciales. 
-Ukanakatixa jani qhanakaspaxa Bolivia marka p’iqinchiriwa, senadores, diputados, legisladores territoriales autonómicas ukankirinakawa uñt’ayapxarakispa. 
-2. Qhuqhawinaka ukjamaraki jani walt’awinakaxa órganos del poder público. 
-3. Conflictos de competencia gobierna Plurinacional ukampi, entidades territoriales autonómicas y descentralizadas ukanakampi. 
-4. Recursoscontratributos,impuestostasas, patentes, derechos o contribuciones creados, modificados o suprimidos en contravenciónaka tayka kamachina qhanañchataru. 
-5. Procesos contra resoluciones del órgano legislativo kunapachatï resoluciones ukanakaxa derechos ukanakaru jani walt’ayaspa jani walt’ayata jaqinakaxa kawkniripansa. 
-6. Revisión de las acciones de libertad, de amparo de constitucional, de protección de privacidad, popular y de cumplimiento. 
-Aka uñakipawixa janiwa phuqhawipanxa aynacht’aykaspati. 
-7. Bolivia marka p’iqinchiriru, asamblea Legislativa Plurinacional, del Tribunal Supremo de Justiciao Tribunal Agroambiental sobre la inconstitucional de proyectos de proyectos de ley ukanakaru jiskt’awi. 
-Tribunal Constitucional ukana amtawipaxa phuqhatapuniñapawa. 
-8. Indígena originario campesino p’iqinchirinakaxa jiskt’awixa kamachinakarjamawa phuqhasiñapa. 
-Tribunal constitucional amtawipaxa phuqhatapuniñapawa. 
-9. Constitucionalidad uñjawixa tratados internacionales ukjamarjamawa. 
-10. Constitucionalidad del procedimiento ukaxa tayka kamachi askichawi. 
-11. Jani walt’awixa, jurisdicción indígena originario campesina, jurisdicción ordinaria qhipharusti Agroambiental ukampi. 
-12. Yánaka ina ch’usaru tukuyaña. 
-203 Kamachi. 
-Decisiones ukjamaraki sentencias del Tribunal Constitucional Plurinacional uka amtawinakapaxa phuqhatapuniñapawa. 
-204 Kamachi. 
-Kamachi taypiwa procedimientos ukanakaxa Tribunal constitucional plurinacional nayraxapana qhanañchatarakini. 
-PUSÏRI UÑAÑCHAWI CHHIJLLAWI PHUQHAYIRI NAYRÏRI JALJTA CHHIJLLAWI PHUQHAYIRI TAQI MARKANAKARU 
-205 Kamachi. 
-I. Órgano Electoral Plurinacional ukaxa akjamata utt’ayatawa: 
-1. Tribunal Supremo Electoral 
-2. Tribunal Electoral Departamental 
-3. Juzgados Electorales 
-4. Jurados de las mesas de sufragio 
-5. Notarios Electorales. 
-II. Jurisdicción, competencias ukjamaraki atribuciones del órgano electoral en sus diferentes niveles tayka kamachirjamawa phuqhasini. 
-206 Kamachi. 
-I. Tribunal Supremo Electoral ukaxa tayka wakichawiwa órgano electoral ukjama utt’ayata jurisdicción nacional ukaniwa. 
-II. Tribunal Supremo Electora ukaxapaqallqunita utt’ayata suxta maranaka phuqhapxañapataki jani mayampisa utt’atañataki paninixa indígena originario uksatapxañapawa. 
-III. Asamblea legislativa Plurinacional ukaxa dos tercios de votos ukankirinakata órgano electoral plurinacional ukanxa suxtaniruwa chhijllpxarakispa. 
-Bolivia marka p’iqinchirixa mayni ukankiriruwa utt’ayarakini. 
-IV. Órgano Electoral Plurinacional ukankañatakixa mä jawsawi taqina yatita ukjamarjamawa yatxatatanakapaxa uñakipasa chhijllapxarakini. 
-V. Asamblea Legislativa Departamental esukaxa Consejos Departamentales ukanakxa dos tercios de votos ukankirinakata mä terna sapa tribunales departamentales ukjamarjamawa chhijllatani. 
-Aka chhijllatarjamawa cámara dediputados ukankirinakaxa dos tercios de votos ukankirinakata ukanxa mayniwa naciones o pueblos indígena originario campesinos del departamento ukatañapa ukjamaruwa chhijllatani. 
-207 Kamachi. 
-Vocal del Tribunal Supremo Electoral y Departamental ukañatakixa servidor público ukan mayitarjamawa phuqhañapa ukampirusa kimsa tunka marani ukatxa yatxatatañaparakiwa. 
-208 Kamachi. 
-I. Tribunal Supremo Electoral ukaxa procesos electorales wakiyaña, uñjaña, phuqhayaña qhipharusti atipirinakata qhanañchaña taqi ukanakawa amparanakapamki. 
-II. Tribunal ukaxa kunjamatï tayka kamachina Artículo 26 ukarjamawa phuqhañapa. 
-III. Tribunal Supremo Electoral ukana phuqhawipaxa registro civil uñjaña ukatxa padrón electoral wakichaña ukjamaraki apnaqaña. 
-PAYÏRI JALJTA QUTUCHATA MARKA APNAQAÑATAKI 
-209 Kamachi. 
-Candidatas ukjamaraki candidatos cargos públicos electos con excepción de cargos elegibles del órgano Judicial y del Tribunal Constitucional Plurinacional ukankirinakaxa organizaciones de naciones o pueblos indígena originarioscampesinos,agrupacionesciudadanas ukjamaraki partidos políticos kamachirjama jan sikt’achasawa chhijllatapxarakispa. 
-210 Kamachi. 
-I. Naciones o pueblos indígena originario campesinos candidatos de agrupaciones ciudadanas ukjamaraki partidos políticos qutuchasiwipana ukjamaraki irnaqawipanxa democráticos ukjamapxañapawa. 
-II. Organizaciones ukanakata p’iqinchirinakaxa candidatas ukjamaraki candidatos, agrupaciones ciudadanas ukanakata partidoa políticia ukanakata chhijllawinxa Órgano Electoral Plurinacional taypiwa jani jisk’achasa wakt’ayatarakini ukjamaraki uñaqatarakini. 
-III. Naciones o pueblos indígena originario campesinos qutuchawipaxa candidatas ukjamaraki candidatos ukanakaxa kunjamaytï jakawipana thakhinakaxa utjki ukjamaruwa chhijllatapxarakini. 
-211 Kamachi. 
-I. Naciones o pueblos indígena originario campesinos ukankirinakaxa candidatos políticos ukanakaxa kunjamatï jakawipanxa thakhinakaxa utjki ukjamaraki thakhinkaxa qillqata utjki ukjamaruwa chhijllatapxarakispa. 
-II. Órgano Electoral ukaxa p’iqinchirinaka, representantes ukjamaraki candidatos de pueblos indígena originario campesinos ukankirinakaruxa thakhiparjamawa uñakiparakini. 
-212 Kamachi. 
-Janiwa candidata jan ukaxa candidato ukanakaxa pä cargo taypina chhijllawinxa wakichaskaspati. 
-PHISQÏRI UÑAÑCHAWI UÑAQAWI PHUQAWI, MARKACHIRITA JARK’AQAWI UKJAMARAKI ESTADO UKATA NAYRÏRI JALJTA UÑAQAWI PHUQAWI NAYRÏRI T’AQXTA ESTADO UKANA QULLQICHASIWITA UÑAQAWI 
-213 Kamachi. 
-I. Contraloría General de Estado ukaxa institución técnica ukjama utt’ayatawa control de administraciónde entidades públicas ukjamaraki kawkmirinakatixa estado ukaxa qullqimpi chikanchaschi ukanakanwa chikanchasini. 
-Contraloría ukaxa utt’ayatawa indicios de responsabilidad ad ministrativa, ejecutiva y penal uñaqañataki; autonomía funcional, financiera, administrativa ukjamaraki organizativa ukaniwa. 
-II. Organización, funcionamiento ukjamaraki atribuciones ukanakaxa principios de legalidad, transparencia, eficacia, economía, equidad, oportunidad ukjamaraki objetividad ukanakaxa kamachirjamawa utt’ayatarakini. 
-214 Kamachi. 
-Contraloría jani ukaxa contralor general del estado ukaxa Asamblea Legislativa Plurinacional ukata dos tercios devotos ukankirinakata utt’ayatapxaniwa. 
-Chhijllawixa taqina yatita jawsaw taypiwa yatxatatanakapatjama atipt’asiwi taypixa wakisirakini. 
-215Kamachi. 
-ContraloríaukaxacontralorGeneral del Estado ukjamañatakixa kujamatï servidores públicos ukataki mayitaki ukjamarakiwa; kimsa tunka mara phuqhataniñapawa utt’asiwiparu; profesión ukaxa irnaqawiparjamañapawa; irnaqawinxa kimsaqallqu mara irnaqataniñapawa; askita jaqita uñt’ata irnaqiriñapawa. 
-216 Kamachi. 
-Contralora jani ukaxa Contralor General del Estado ukaxa suxta marawa jan mayampi kutt’aniñapataki chhijllataraki 
-217 Kamachi. 
-I. Contraloría General del Estado ukaxa entidades públicas ukatxa kawknirinakatixa interés económico del estado taypina chikachasipki ukanaka uñjaña ukjamaraki uñaqañataki utt’ayatapxiwa. 
-Uñaqawi ukjamaraki uñjañaxa adquisición, manejo ukjamaraki disposición de bienes estratégicos markachirinakataki phuqhañapawa. 
-II. Contraloría General de Estado ukaxa sapa marawa Asamblea Legislativa Plurinacional ukaru irnaqawirta luqtarakini. 
-PAYÏRI JALJTA MARKACHIRITA JARK’AQAWIWA MAYÏRI T’AQXTA MARKACHIRITA ARXATIRI 
-218 Kamachi. 
-I. Defensor del Pueblo ukaxa vigencia, promoción, difusión ukjamaraki cumplimiento de los derechos humanos, individuales ukjamaraki colectivos uñaqarakini ukjamaraki t ayka kamachina sullka kamachina ukjamaraki instrumentos internacionales utjki ukjamaru wakt’ayatawa. 
-Defensoría ukana phuqhawipaxa actividad administrativa taqi sector público ukjamaraki actividad de instituciones privadas ukanakatakjama wakt’ayatawa. 
-II. Ukampirusa Defensoría del Pueblo ukaxa derecho de los pueblos indígena originario campesinos, de la comunidades urbanas e interculturales ukjamaraki anqa markana jakiri markachirinakata arxatiriwa. 
-III. Defensoría del Pueblo ukaxa mä institución conautonomíafuncionalfinancieraukjamaraki administrativa ukjama kamachirjama utt’ayatawa. 
-Irnaqawipaxa principios de gratuidad, accesibilidad, celeridad ukjamaraki solidaridad ukanaka taypina phuqhasi. 
-Irnaqawipanxa janiwa órgano del estado uka amtaparu phuqkiti. 
-219 Kamachi. 
-I. Defensoría del Pueblo ukaxa chachata jan ukaxa warmita p’iqinchatawa suxta mara irnaqawini jani mayampisa chhijllatañataki. 
-II. Chacha jani ukaxa warmi defensor del pueblo ukankirixa janiwa persecución, detención, acusación janirakiwa enjuiciamiento ukanakana irnaqawinkasinxa phuqhatakaspati. 
-220 Kamachi. 
-Chacha jani ukaxa warmi Defensor del Pueblo ukaxa Asamblea Legislativa Plurinacional dos tercios de votos ukankirinakata utt’ayatarakini. Utt’ayawixa taqina yatita jawsawi taypiwa irnaqataparjama atipasiwinxa uñakipatarakini. 
-221 Kamachi. 
-Chacha jani ukaxa warmi Defensor del Pueblo chhijllatañatakixa kunjamatï servidor público ukaru mayitaki ukjamarjamawa qhuqhatañapa ukjamaraki kimsa tunka mara phuqhatani utt’ayawiparu askita taqi jaqita uñt’atañapawa. 
-222 Kamachi. 
-Defensoría del Pueblo ukana phuqhawinakapawa kunjamtï tayka kamachina qhanañchataki ukjamarjama: 
-1. Acciones de inconstitucionalidad, libertad, de amparo constitucional, protección, de protección de privacidad, pupilar, de cumplimiento y el recurso directo de nulidad sin necesidad de mandato ukanakana chikanchasiña. 
-2. Proyecto de ley luqtaña ukjamaraki jupana irnaqawipana kamachinaka, decretos ukjamaraki resoluciones mayt’ayatanaka uñañchayaña. 
-3. Mayiwinakaru, actos de omisiones, derechos humanos sapa jaqinat’unantata ukjamaraki qututa tayka kamachirjama sullka kamachinakana utt’yatarjama ukjamaraki Ministerio Público chiqaparjama taqi ukanakata yatxataña. 
-4. P’iqinchirinakaru ukjamaraki servidores públicos ukanakaru defensoría de Pueblo ukana yatxatawinakaparu jani imt’ata yatiyawinaka mayiña. 
-5. Iwxawinaka, amtawinaka deberes legales ukanakata ukjamaraki ukjamaspa sañanaka mäki adopción correctivos ukjamaraki medidas taqi órganos e instituciones del estado ukanakataki amuyuamtañaukjamaraki censura pública aka amtanakaru jan walt’ayirinakata saña. 
-6. Taripawi utanakaru ina ukjamaki mantaña. 
-7. irnaqawinakapanx ajaniwa khtisa kunakipansa sayt’aykaspati uka phuqhaña. 
-8. Mäki ukankaña ukjamaraki yanapt’a thaqhiri jaqinakaruxa jan jisk’achaña. 
-9. kamachinaka aski phuqhawipataki luraña. 
-223 Kamachi. 
-P’iqinchirinakxa ukjamaraki servidores públicos ukanakaxa Defensoría del Pueblo ukaruwa yatiyawinaka irnaqawinakapata mayiwinakaparjama phuqhapxani. 
-Janitixa ukjamaru phuqhatakaspaxa Defensoría de Pueblo ukaxa jani phuqhiriruxa juchanchaspawa ukjamaraki irnaqawipatxa jaqsutarakispawa. 
-224 Kamachi. 
-Defensoría del Pueblo ukaxa sapa marawaAsamblea Legislativa Plurinacional ukaruxa derechos humanos markachirinakata yatiyañapa. 
-Chacha jani ukaxa warmi Defensor del Pueblo ukaxa kunapachasa Asamablea Legislativa Plurinacional ukaru yatiyañapatakixa jawsatarakispawa. 
-PAYÏRI T’AXQTA JUCHANAKATA YATXATIRI 
-225 Kamachi. 
-I. Ministerio Público ukaxa chiqapa ukjamaraki intereses generales de la sociedad jarkáqarakini ukjamaraki acción penal pública phuqharakini. 
-Ministerio Público ukaxa autonomía funcional administrativa y financiera ukaniwa. 
-II. Ministerio Público ukaxa phuqhawinakapanxa principios de legalidad, oportunidad, objetividad, responsabilidad, autonomía, unidad y jerarquía ukjamaruwa phuqharakini. 
-226 Kamachi. 
-I. Chacha jani ukaxa warmi Fiscal General del Estado ukaxa Ministerio Público ukana jilïri p’iqinchiripawa pachpa institución irpxaruriwa. 
-II. Ministerio Público ukaxa Fiscales departamentales, Fiscales de materia yaqha Fiscales ukanakampi utt’ayatawa. 
-227 Kamachi. 
-I. Chacha jani ukaxa warmi Fiscal del estado ukaxa dos tercios de votos ukankirinakata asamblea Legislativa Plurinacional taypiwa chhijllatani. 
-Utt’ayawixa jawsawi taypiwa aka irnaqawiru yatxatatarjamawa wakisirakini chijllawipaxa. 
-II. Chacha jani ukaxa warmi Fiscal del Estado ukaxa servidores públicos ukakirinakjamarakiwa phuqharakini ukatxa Magistratura del Tribunal Supremo de Justicia ukataki wakiyataki kikparakiwa. 
-228 Kamachi. 
-Chacha jani ukaxa warmi Fiscal del Estado ukaxa suxta marawa jan mayampi chhijllkaya phuqharakini. 
-KIMSÏRI JALJTA ESTADO UKANA ARXATAWI PHUQAWI NAYRÏRI T’AQXTA ESTADO UKANA QANAKAPATA ARXATIRI 
-229 Kamachi. 
-Procuraduría General del Estado ukaxa institución de representación jurídica pública ukjamawa ukatxa promover, defender ukjamaraki precautelar intereses del estado phuqhawiniwa. 
-Utnuqawipaxa ukjamaraki t’aqanakapaxa kamachi taypiwa qhanañchatarakini. 
-230 Kamachi. 
-I. Procuraduría General del Estado ukaxa chacha jani ukaxa warmi procurador ukata utt’ayatawa ukjamaraki servidores públicos ukanakata kamachi taypi utt’ayataraki. 
-II. Chacha jani ukaxa warmi Procurador General del Estado utt’ayawixa Bolivia marka p’iqinchiriruwa wakt’i: markachirinakata chhijllata ukjamaraki Magistratura del Tribuna Supremo de Justicia ukataki mayitaki kikipa mayitarakiwa. 
-III. Chhijllawipaxa dosa tercios de votos ukankirinakata Asamablea Legislativa Plurinacional taypiwa niya suxta tunka urunakata utt’awipaxa janiwa satarakispa. 
-Janiwa sataspa ukjaxa utt’ayata markachirixa irnaqawipatxa suyt’ayataxaspawa. 
-231 Kamachi. 
-Procuradoría General del Estado ukana phuqhawinakapaxa tayka kamachina qhanañchataki ukjamaru wakt’ayatawa: 
-1. Intereses del Estado judicial ukjamaraki extrajudicialmente jark’aqaña ukjamaraki tayka kamachirjama representación jurídica ukatxa sujeto procesal ukjama kunaymana acciones judiciales ukjamaraki administrativas taypina uñstaña. 
-2. Recursos ordinarios ukjamaraki acciones de defensa de los intereses del estado irnaqiwi taypi qhanstaña. 
-3. Ejercicio de las acciones diligentes de las unidades jurídicas de la administración pública en los procesos que sustancien ante autoridades jurisdiccionales administrativas irnaqawipa uñakipaña ukjamaraki uñjaña. 
-Ch’ama laq’a amuyasaxa kunjamatixa thakhinakaxa utjki ukjamaruwa sañapa. 
-4. Chacha jani ukaxa warmi servidores público, personas particulares ukanakata yatiyawi mayiña kunjamatÏ amuyuparjamaxa wakiski ukjamajama. 
-Aka yatiyawixa janiwa kunakipansa satakaspati; kamachi taypiwa juchanchawixa wakt’ayatarakini. 
-5. Entidades públicas ukan p¡iqinchirinaka taypichacha jan ukaxa warmi servidores públicos ukanakaru jani wali lurawinakapata estado ukaru jani walt’ayatapata juchañchañataki mayiña. 
-6. Markachirinakana jan walt’awinakapa yatiyatanaka uñjaña 
-7. Fiscalía General dEl Estado ukaru acciones judiciales utjaspa ukanakata patrimonio público ukanakaru ñanqhachatanakata yatiwiparjama arsuña. 
-8. Proyectos de ley irnaqawipataki luqtaña. 
-PUSÏRI JALJTA ESTADO UKA TAYPINA IRNAQIRINAKA 
-232 Kamachi. 
-Administración pública ukaxa principios de legitimidad, legalidad, imparcialidad, publicidad, compromiso e interés social, ética, transparencia, igualdad, competencia, eficiencia, calidad, calidez, honestidad, responsabilidad ukjamaraki resultados ukanakampiwa chikañchasi. 
-233 Kamachi. 
-Chacha ukjamaraki warmi servidores públicos ukanakaxa khitinakatixa funcionario públicos phuqhapki ukanakawa. 
-Ukjama irnaqirinakaxa carrera administrativa taypina chikanchasipxi uka taypinxa janiwa kawknirinakatixa cargos electivos ukankapki ukanakaxa ukjamapkiti ukatxa khirinakatixa funcionarios de libre nombramiento ukankapkiukanakasa janirakiwa ukankapkiti. 
-234 Kamachi. 
-Funciones públicas taypina chikanchasiñatakixa akanakawa mayita: 
-1. Bolivia markana yurita. 
-2. JIlïri jaqiña. 
-3. Cuartel ukaru sarata. 
-4. Jani pliego de cargo janiraki sentencia condenatoria ejecutoriada materia penal ukana janiraki pendiente de incumplimiento ukanakaniñasa. 
-5. Jani chikañchata janiraki chikachasita casos de prohibición y de incompatibilidad tayka kamachirjama. 
-6. Padrón electoral taypina qillqantataña. 
-7. Pä arunaka arsuña. 
-235 Kamachi. 
-Chacha ukjamarakiwarmi servidores públicos ukanakana phuqhawinakapawa: 
-1. Tayka kamchi ukjamaraki sullka kamachinaka phuqhaña. 
-2. Principios de función pública taypi askinjama irnaqawi phuqhaña. 
-3. Declaración jurada yänakataukjamaraki payllawita nayrt’asa, irnaqawinkasaukatxa irnaqawita mistusa qhanañchaña. 
-4. Irnaqawina p’iqinchawinakata, qullqi apnaqawita, política apnaqawita, técnicas apnaqawita taqi ukanakata qhanañchaña. 
-5. Estado ukana yänakapa yäqaña janiraki yaqha irnakqawinakana jani chhijllawinakatakisa apnaqaña. 
-236 Kamachi. 
-Función pública ukana janiwa satanaka: 
-I. Janiwa pä chiqana pacha phuqhata irnaqañakiti. 
-II. Kunapachatixa intereses ukanakapaxa jan walt’awina irnaqawipana jiqxataschi ukjawa unxtasiña ukjamaraki contratos ukatxa negocios administración pública yaqha jaqinaka taypi jay saña. 
-III. Función pública ukana wila masisaru cuarto grado de consanguinidad ukajamaraki segundo de afinidad utt’ayaña. 
-237 Kamachi. 
-I. Phuqhawinakaxa función pública ukanxa aknirinakawa: 
-1. Oficinas pública sukanakana documentos propios de la función pública ukanaka chimpuntaña ukjamaraki suma imaña jan chhaqhayasa janiraki t’unjasa. 
-Kamachi tuqiwa archivos apnaqawitakixa ukjamaraki documentos jani walt’awinakaru tukuyañatakixa uñjatarakini. 
-2. Jan arsuña yatiyawinaka chuyma manqhana imaña. ukaxa janiwa irnaqawina mistxasasa arsutakaspati. 
-Jani arsuña yatiyawixa kamachi taypiwa uñakipatani. 
-II. Janitixa aka phuqhawinakaruxa phuqhatakaspaxa kamachi taypiwa juchañchataspa. 
-238 Kamachi. 
-Janiwa cargos públicos electivos empresas ukanakaru chikañchasipkaspati kawkniri markachirinakatixa aknirinakana chikanchasipxaspa ukaja: 
-1. Khitinakatixa cargos directivos empresas jani ukaxa corporaciones ukanakana chikañchasipxaspa ukjamaraki contratos jani ukaxa convenios estado ukampi chikañchasipxaspa ukampirusa janira kimsa phaxsikipana cargo jaytjaña. 
-2. Khitinakatixa cargos directivos empresas transnacionales ukankapxaspaxa ukatxa contratos estado ukampi ukatxa convenios ukatxa janiraki phisqa mara chhijllawi janirakipa jaytjaña. 
-3. Khitinakartixa cargos electivos ukana utt’ayatapxaspa ukatxa jan jaytjasa kimsa phaxsinaka janira chhijllawi phuqhaskipana inasa Bolivia marka p’iqinchiriya jan ukaxa sullkiri p’iqinchirita jay satachispa. 
-4. Fuerzas Armadas ukjamaraki policía ukankirinakaxa irnaqkasaxa kimsa phaxsi chhijllawitaki janirakipanxa jaytjaña. 
-5. Kawkmiri Ministros ukanakatixa kawkniri culto religioso jan kimsa phaxsina janira chhijllawikipana jaytjapchi. 
-239 Kamachi. 
-Incompatible ukjamwa ejercicio de función pública ukaxa: 
-1. Bienes públicos ukanakaxa janiwa chacha ukjamaraki warmi servidores públicos ukanakaxa sutipxaru jan ukaxa yaqha sutiru katusipkaspati. 
-2. Celebración de contratos administrativos jani ukaxa maysata mayni pachpataki. 
-3. Ejercicio profesional empleado ukata, apoderadas o apoderados, asesoras o asesores, gestoras o gestores de entidades o empresas contractual estado taypina chikañchasirinaka. 
-240 Kamachi. 
-I. Taqi chhijllata jaqiwa irnaqawipatxa jaqsutaspa órgano judicial ukakiwa jani jaqsutakaspati. 
-II. Revocatoria de mandato ukaxa chika pacha irnaqawi phuqhataruwa mayitarakispa. 
-Revocatoria de mandato ukaxa janiwa qhipha mara irnaqawinakasaxa wakiskaspati. 
-III. Referendo revocatorio ukaxa markachirinakata ukjamaraki quince por ciento jaquntirinaka ukatxa servidores públicos ukankirinakaxa jaqsutarakispa. 
-I V. Revocatoria de mandato ukaxa kamachirjamawa phuqhayatarakini. 
-V. Revocatoria phuqhasipanxa mäkiwa cargo ukaxa jaytjataxañapa ukatxa suplente ukawa qhipharxarakispa. 
-VI. Revocatoria ukaxa mä kutikiwa mandato constitucional ukjama phuqhasiñapa. 
-SUXTÏRI UÑAÑCHAWI CHIKAÑCHASIWI UKJAMARAKI MARKACHIRITA UÑAQAWI 
-241 Kamachi. 
-I. Pueblo soberano ukaxa tantachawinaka taypiwa políticas públicas ukanakanxa chikanchasipxarakispa. 
-II. Sociedad civil qutuchataxa marka apnaqirinakaruxa gestión pública ukana kunaymana niveles del estado, empresas e instituciones públicas, mixtos y privados ukanakana apnaqawipxa uñch’ukipxaspawa. 
-III. Servidores públicos ukanakana irnaqawipa uñch’ukipxaspawa. 
-IV. Markachirixa kamachi taypiwa marka apnaqirinakaru uñch’ukiñatakixa wakiyatani. 
-V. Markachirixa marka apnaqawi uñch’ukiñatakixa ukjamaraki chikañchasiñatakixa qutuchasipxaspawa. 
-VI. Entidades del estado ukanakaxa markachirinaka chikañchasipxañapatakixa ukjamaraki uñaqapxañapatakixa wakiyapxañapawa. 
-242 Kamachi. 
-Markachirinakana chikañchasiwipaxa ukjamaraki uñaqawipaxa tayka kamachina wakt’ayatawa. 
-1. Políticas del estado taypina chikañchasiña. 
-2. Órgano legislativo taypina kamachi amtanaka wakichaña ukjamaraki yanapaña. 
-3. Kunaymanamarkaapnaqawinaentidades territoriales autónomas, autárquicas, descentralizadas, desconcentradas taypina wakichaña. 
-4. Kunaymana marka apnaqawina qhana yatiyawi arsuña. 
-Kunapachatixa yatiyawixa achikataspa ukjaxa chiqa yatiyawiwa yatiyatarakispa. 
-5. Yatiyawi revocatoria de mandato ukata suma qhanañchaña kunjamatï tayka kamachina utt’ayataki ukjamarjama wakichaña. 
-6. Órganos ukjamaraki funciones del estado ukana sapa mara yatiyawinakapata uñtaña ukjamaraki arsuña. 
-7. Órganos ukjamaraki funciones del estado ukana lurawinakapana chikanchasiña. 
-8. Jani wali apnaqawinakata amuyatata yatxatasa juchañchañataki yatiyaña. 
-9. Kunaymana Estado ukanap’iqinchirinakana irnaqirinakana chhijllawinaka jak’ata uñch’ukiña. 
-10. Órgano electoral ukaru candidatos ukanakaru jak’ata chhijllawina uñch’ukiña. 
-PAQALLQÜRI UÑAÑCHAWI PALLA PALLANAKATA NAYRÏRI JALJTA PALLAPALLANAKA 
-243 Kamachi. 
-Fuerzas Armadas del Estado ukankirinakaxa thakhiparjamawa Comandante en Jefe, Ejército, Fuerza Aérea ukjamaraki Armada boliviana ukanakata utt’yatawa ukjamaraki palla pallanakaxa Asamblea Legislativa Plurinacional taypiwa uñjatarakini. 
-244 Kamachi. 
-Fuerzas Armadas ukankirinakaxa indepedencia, seguridad, estabilidad del estado, honor y soberanía uñjiripxiwa; tayka kamachi phuqhayiri; Bolivia p’iqinchiriru jay saña ukjamaraki marka jach’añchañaru chikañchasiña. 
-245 Kamachi. 
-Fuerzas Armadas qutuchataparjamawa jerarquía disciplina taypina utt’ayatawa. 
-Janiwa amuyunakampixa chikañchaskaspati janirakiwa arxaykaspati kamachinakarjama phuqhañapawa. 
-Janiwa acción política ukampi chikañchaskaspati ukatxa Taqi ukankirinakaxa jaqjamaxa kamachinakarjamawa phuqhapxaraki. 
-246 Kamachi. 
-I. Fuerzas Armadas ukankirinakaxa Bolivia marka p’iqinchirina amparapankiwa ukana iwxaparjamawa Ministro de Defensa jani ukaxa Comandante en Jefe taypi phuqhapxaraki. 
-II. Ch’axwawinxa Comandante en Jefe de Fuerzas Armadas taypiwa p’iqinchataraki. 
-247 Kamachi. 
-I. Janiwa anqa makata markachirixa Fuerzas Armadas p’iqinchkaspati jani Capitan General ukana jay sawipampi. 
-II. Fuerzas Armadas, Jefe de Estado Mayor General,Comandante y Jefes del Estado Mayor del Ejército, Fuerza Aérea, Armada boliviana ukjamaraki jach’a qutunaka p’iqinchañatakixa aka marrana yuritapxañapawa ukjamaraki kamachina qhanañchataki ukjamarjamawa phuqhapxañapa. 
-Pachparakiwa Viceministro de Defensa ukjamaraki Ministro de Defensa ukatakixa mayitaraki. 
-248 Kamachi. 
-Consejo de Supremo de Defensa del estado Plurinacional composición ukaxa organización ukjamaraki atribuciones kamachi taypiwa utt’ayatani ukaxa Capitan General de Fuerzas Armadas ukatawa irpxarutäni. 
-249 Kamachi. 
-Taqi boliviano jaqinakawa servicio militar mayt’iri kamachirjama sarapxañapa. 
-250Kamachi. 
-Ascensosde Fuerzas Armadas ukankirinakatakixa kamachi taypiwa utt’ayatäni. 
-PAYÏRI JALJTA BOLIVIA MARKANA PALLAPALLANAKAPA 251 Kamachi. 
-I. Bolivia palla pallanakaxa, markachirina ch’amapxamaxa markachiriru arxatañataki yäparu markachiriru uñjañataki ukjamaraki kamachinaka phuqhañataki Bolivia uraqpachana phuqhañapataki utt’ayatapxiwa. 
-Palla palljama phuqasa mä wawaki jani t’aqjasa mä p’iqinchirini kunjamatï ukjamarjamawa phuqhapxañapa. 
-II. Institución ukankirjamaxa janiwa partidos políticos taypinxa chikañchasipkaspati ukjamakipanxa sapa maynixa derechos ciudadanos ukarjamawa kamachirjamaxa phuqhapxaraki. 
-252 Kamachi. Palla pallanakaxa Bolivia marka p’iqinchirina Ministra jan ukaxa Ministro de Gobierno taypi apnaqatawa. 
-253 Kamachi. 
-Comandante Gebneral de la Policía Boliviana ukjamañatakixa Bolivia marrana yurita General pachpa qutuna ukjamaraki kamachi taypi mayitaki ukjamaruwa phuqhatañapa. 
-254 Kamachi. 
-Anqa markampi ch’axwawi utjaspa ukjaxa palla pallanakaxa Comando en Jefe de las Fuerzas Armadas ukana apnaqataxaspawa kunapachkamaya ch’axwawixa utjchispa ukjamarjamawa chikañchasipxarakispa. 
-KIMSÏRI UÑAÑCHAWI ANQA MARKANAKAMPI CHIKAÑCHASIWI, QURPANAKATA, MAYACHAWI UKJAMARAKI LAMAR QUTARU MISTUWI AMTA NAYRÏRI JALJTA ANQA MARKANAKAMPI CHIKAÑCHASIWI 
-255 Kamachi. 
-I. Anqa markanakampi chikañchasiñatakixa amuyunaka qillqantawinaka lurawinaka amtatäki ukanakaxa aka markana amtawinakaparjamawa phuqasiñapa. 
-II. Aruskipawixa uka pachparaki amuyawixa ukjamaraki jaysawixa anqa markanakampi aknïri amtawinakarjamawa phuqhasirakini: 
-1. Estado ukanakaxa pachpapxiwa jani mitisiñampiirnaqawinakapanaukjamaraki jani walt’awinaka llamp’u chuymampi askichaña. 
-2. Taqi Dictadura, colonialismo, neocolonialismo ukjamaru janiwa saña ukjamaraki juchanchaña. 
-3. Janchi tuqita ukjamaraki jisk’achawinaka qullqi tuqita qamawi tuqita sarawinakata markachirinakata Taqi ukanakata derechos humanos jark’aqaña ukjamaraki unañchayaña. 
-4. Pueblosindígenasoriginarioscampesinos ukanakana derchos ukanaka yäqaña. 
-5. Estados ukjamaraki markanakampixa utjañapawa yanapasïwi ukjamaraki aynjasiwi. 
-6. Nayra yänaka waqaychawi aski irnaqawi ukjamaraki regulación del estado. 
-7. Aka pachankirinakampi aski mayachasiwi aka pachana jakirinakata jark’aqawi ukjamaraki quqanaka uywanaka jisk’a jani uñjaya jakirinaka ukjamaraki jakirinaka taqi ukanakata inaki katuntasiñata jani walt’ayañataki jark’aqaña. 
-8. Taqi markachiritaki manq’añanakaxa yäpawa ukjamaraki yäqañawa ; kunaymana jani wali achunakaukjamaraki elementos tóxicos satanaka janchiru ñanqhachirinaka samanaru jan wat’ayirinaka janiwa alxatakaspati janirakiwa aka markaru apantanitakaspati. 
-9. Taqi markachirixa servicios básicos ukanipxañapawa aski qamañapataki ukjamaraki nayraru sartañataki. 
-10. Taqi markachirixa wakiskiri qullanaka jark’aqasiñataki derecho ukanipxiwa. 
-11. Bolivia markana achunayata ukjamaraki yänaka luratanakata arxataña ukjamaraki yäqaña ukampirusa anqa markaru apsuñataki volor agredo taypi jach’añchaña. 
-256 Kamachi. 
-I. Tratados ukjamaraki instrumentos internacionales ukanakaxa derechos humanos ukana amtatäki mayampisa jay satäki estado taypinjamaxa aka amtanakaxa qhanañchataki tayka kamachinxa ukjamarjamawa askinjama phuqhatani. 
-II. Tayka kamachina derechos uñt’atäki ukanakaxa tratadosinter nacionales ukarjamawa derechos humanos ukanakaxa amuyatarakini kunapachatï akanakaxa kamachi taypinkani askiñapataki ukjawa wakisini. 
-257 Kamachi. 
-I. Tratados internacionales mayampisa jay satäki ukanakaxa ordenamiento jurídico interno kamachiru uñtasitjamawa wakisxaraki. 
-II. Referendo popular vinculante taypiwa jay sawipaxa wakisirakini kunjamatï tratados internacionales ukana mayampisa jay sataki ukjamarjama akjamata wakisisrakini: 
-1. Qurpasiwinaka 
-2. Qullqi mayachawi 
-3. Mayachawi económica estructural 
-4. Institucionales apnaqawinakaxa t’akuspa ukanakaxa organismos internacionales jani ukaxa supranacionales ukanakana mayachasiwi amta thakhina. 
-258 Kamachi. 
-Tratados internacionales thakhinaka utnuqawixa kamachi taypiwa wakiyatarakini. 
-259 Kamachi. 
-I. Kawkmiripasa tratado internacional ukaxa markachiriru jiskt’awi taypiwa kunapachatï 5% markachirixa padrón electoral taypina qillqantatanakaxa mayipkani jani ukaxa 35% Asamblea Legislativa Plurinacionalana ukankanrinakaxa mayipkarakini ukjawa munasirakini. 
-Akjamaxa mayitarakispawa Órgano Ejecutivo ukankirinakaru amtawi phuqhañataki. 
-II. Makachiriru jist’awixa kunjamatixa kamichi taypina wakiyataki ukjamarjama sayt’ayataspa ukjamaraki tratados internacionales ukanakaxa jiqxatañkamawa thakhinchaytarakini. 
-260 Kamachi. 
-I. Yatiyawixa tratados internacionales pachpawa thakhiwa kamachinakarjama derecho internacional ukjamaraki tayka kamachina mayampi jay sataki ukjamarjamawa sarantarakini. 
-II. Yatiyawi amtawinakaxa Asamblea Legislativa Plurinacional taypiwa jay satañapa ukjamata Bolivia marka p’iqinchirina phuqhañapataki. 
-III. Tratados ukaxa jiskt’awina jay sataxa mayampi jiskt’atañapawa janira Bolivia p’iqinchiri yatiykipana. 
-PAYÏRI JALJTA ESTADO UKANA QURPANAKAPA 
-261 Kamachi. 
-Estado taypiwa uraqixa mayachata jak’aqataraki ukjamaraki qurpasinkiri markanakaxa nayraru mistuñapatakixa phuqhataraki. 
-262 Kamachi. 
-I. Qurpasita phisqa tunka kilómetros ukjakamawa zona de seguridad ukjama uñt’ata. 
-Janiwa anqa markata jutiri jaqixa ukawjanakana uraqi uma yaqhanakampi katuntaskaspati; inasa dos tercios Asamblea Legislativa Plurinacional taypi kamachi taypi tuqi jay sataru wakischispa. 
-Aka kamachiru phuqhasaxa ukjama luririnakaruxa uka uraqinakaxa aparataspawa inaki jani kunampi tutiyasa. 
-II. Qurpasixa régimen jurídico, económico, administrativo ukjamaraki segurdad especial ukjamaru jach’anchaña ukatxa uñajaña Bolivia marka mayakiñapataki ukjamaru phuqhañawa 
-263 Kamachi. 
-Fuerzas Armadas ukankirinakaxa arxatawi jark’aqawi ukatxa qurpasinaka uñjawi ukawa phuqhawipaxa. 
-Fuerzas Armadas ukankirinakaxa qurpasinakanxa naynaru sartawi amtampiwa chikanchasipxi ukatxa pacha qurpasinakanwa qhipharapxañapa. 
-264 Kamachi. 
-I. Estadoxa desarrollo armónico, integral, sostenible ukjamaraki estratégico ukanakwa qurpasinakanxa pachpankiri markachirinakaru nayraru artañapataki juk’ampisa naciones y pueblos indígena originario campesinos akjama amtäwi utnuqayarakini. 
-II. Estadoxa aka pachankiri yänakata taqi qurpasinakana waqaychawi uñaqawi phuqhañapawa. 
-III. Qurpasiwinakanxa regulación del régimen ukaxa kamachi taypiwa wakiyatarakini. 
-KIMSÏRI JALJTA MAYACHASIWI 
-265 Kamachi. 
-I. Estadoxa chiqa mayachawi, kikipa ukatxa ch’ulljtawinaka jawina amuyasa ukjamaraki mayachawi markachirinakata ukatxa amtawi ukjamaraki sarawi ukatxa qullqi taqi ukanakampi mayachasisawa markanakampi ukatxa naciones y pueblos uraqpachankirinakampiwamayachasirakispa juk’ampisa Latinoamérica ukankirinakampiwa mayachasirakispa. 
-II. Estadoxa naciones y pueblos indígena originario campesinos ukanakaruxa yaqha kikipa aka uraqpachana markanakampiwa mayachasiña yach’añcharakini. 
-266 Kamachi. 
-Bolivia markata p’iqinchirinakaxa organismos parlamentarios supraestatales uka uñstañapataxixa mayachasiwi taypixa chhijllawi taypiwa utt’ayatarakini. 
-PUSÏRI JALJTA LAMAR QUTARU MISTUWI AMTA 
-267 Kamachi. 
-I. Estado Bolivianuxa derecho irrenunciable ukjamaraki imprescriptible uraqi tuqnama océano pacífico ukjamaraki lamara quta lakaru uraqi mayi. 
-II. Lamara qutaru mistuñaniñaxa aski askichäwi taypiwa jan armkaya sapa tukisa mayiwixa mayita ukjama utt’ayatawa. 
-268 Kamachi. 
-Jach’a qhura umanakaxa estado taypiwa uñaqatani ukatxa ujawipaxa ukjamaraki jark’aqawipaxa armada Boliviana taypiwa kamachi tuqi phuqhatarakini. 
-KIMSÏRI T’AQA ESTADO UKANA URAQINAKAPA UTT’AYATA UKJAMARAKI QUTUCHATA NAYRÏRI UÑAÑCHAWI ESTADO UKANA URAQIPA QUTUCHAWI NAYRÏRI JALJTA KHUSKHATA PHUQAWI 
-269 Kamachi. 
-I. Bolivia markaxa departamentos, provincias, municipios ukjamaraki indígena originario campesinos uraqinakata utt’ayasi. 
-II. Utnuqawi ukatxa mayjt’awi ukjamaraki qurpasiwinakaxa markachirinakana amtaparjamawa tayka kamachi taypina wakt’ayatäki ukjamarjamawa phuqhasini. 
-III. Thaya ukatxa llaphi ukjamaraki junt’u uraqinakaxa kamachina qhanañchatäki ukjamarjamawa chikañchasipxarakini. 
-270 Kamachi. 
-Jach’a amtawinakaxa uraqi utnuqawinxa ukjamaraki t’aqanuqata ukatxa autónomas uraqinakaxa akjamapxiwa: mayaki, yanapasiwi, kikipa, taqinitaki aski, inaki, aynita,qhana, chikañchasita, uñaqata, taqi chuyma, warmi – chacha wakt’ayaña pachpankirinakata apnaqata, lealtad institucional ukatxa qullqi churaña utjaskapxañapataki naciones y pueblos indígena originario campesinos ukanakaru tayka kamachina utt’ayataki ukjama. 
-271 Kamachi. 
-I. Leymarco de autonomías ukatxa descentralizació nukaxa estatutos autonómicos ukatxa cartas orgánicas, trasferencia ukatxa delegación competencial, régimen económico financiero mayachawi amtaxa nivel central ukampi ukatxa entidades descentralizada sukatxa autónomas ukjamarjama wakt’ayañatakiwa uñaqarakini. 
-II. Ley marco de autonomías ukatxa descentralización ukaxa dos tercios de votos ukankirinakata Asamblea Legislativa Plurinacional taypiwa jay satarakispa. 
-272 Kamachi. 
-Autonomía ukaxa pachapana chiqapa marchirinakata p’iqinchirinakapaxa chhijllata qullqixa pachpana apnaqata pachpana amatawixa phuqhata jisk’a kamachinaka taypi ukatxa uñaqata gobiernos autónomos taypi pachpa uraqpachana phuqhawinaka phuqhaña saña muniwa. 
-273 Kamachi. 
-Kamachitaypiwamancomunidades de municipios, regiones ukatxa indígena originario campesinos uraqinakxata phuqhawinakapataki qhanañchatarakini. 
-274 Kamachi. 
-Departamentos descentralizados ukanakanxa prefectos ukjamaraki consejeros depatamentales ukanakaxa chhijläwi taypiwa phuqhasirakini. 
-Aka departamentos ukanakaxa autonomía departamental markachiriru jiskt’awi taypiwa ukjamaru tukupxarakispa. 
-275 Kamachi. 
-Sapa órgano deliberativo de las entidades territoriales ukanakaxa proyecto de estatuto o carta órganica ukwa utt’ayani ukaxa dos tercios ukankirinakatwa jay satañapa ukaxa norma institucional básica de entidades territorial ukjamawa uñt’ataxarakispawa. 
-276 Kamachi. 
-Entidades territoriales autónomas ukanakaxa janiwa jisk’achasipkaspati taqisa pachpapxiwa. 
-PAYÏRI JALJTA DEPARTAMENTAL SAPA APNAQAWI 
-277 Kamachi. 
-Gobiernoautónomodepartamental ukaxa Asamblea Departamental ukata, facultad deliberativa fiscalizadora ukjamaraki pachpana apnaqawi amtanakaparjama qp’iqinchirita utt’yatawa. 
-278 Kamachi. 
-I. Asamblea Departamental ukaxa Asambleístas departamentales chhijllawi taypi chiqaki, jani khitinsa uñjata ukjamaraki obligatorio ukjamata wakt’ayataniwa; ukampirusa Asambleístas departamentales ukanakaxa naciones y pueblos indígena originario campesinos jakawiparjama chhijllatanakata wakt’ayatawa. 
-II. Kamachi taypiwa asambleístas departamentales ukatakixa walja ukatxa juk’a markachiritjamawa uraqipa, sarawipa, arupa, chacha warmitjama amuyasawa qhanañchatarakini. 
-Estatutos autonómicos taypiwa phuqhawipaxa pachpa uraqina markachirinakana jakawipa uñjasawa phuqhatarakini. 
-279 Kamachi. 
-Órgano ejecutivo departamental ukaxa gobernadora jan ukaxa gobernador sutimpi uñt’ata p’iqinchirina apnaqawixa p’iqinchatawa. 
-KIMSÏRI JALJTA REGIONAL SAPA APNAQAWI 
-280 Kamachi. 
-I. Región ukatixa walja municipios jan ukaxa suyus uraqipanakaxa pachpachi ukjaxa janiwa qurpanakaxa unuqiyatakaspati uka taypinxa sarawi, aru, nayra sarnaqawi, qullqi, kunaymana pachpa uraqina jakirinaka sapa departamentos ukjamata wakt’ayatachi ukaxa wakisiwa amtawinaka ukatxa phuqhawinaka lurañataki. 
-Mä provincia ukaxa región ukjamata uñt’ataspawa kunapachatï sapaxa wakisiriki región ukjama uñt’atañataki phuqkani ukjamawa wakisirakini. 
-Jach’a markanakaxa phisqa pataka markachirinaka utt’ayataspawa. 
-II. Ley marco de autonomía ukjamaraki descentralizació nukaxa regiones ukanaka utt’ayañatakiwa ukatxa yäparu amatawinaka phuqhayañatakiwa. 
-Kawkintixa regiones ukanakaxa utt’ayasini ukanxa janiwa provinciales p’iqinchirinakaxa chhijllatakaspati. 
-III. Región ukaxa municipios ukana amtawinakapampixa pacha uraqpacha jiskt’awi taypiwa autonomía regional ukjama utt’asirakispa. 
-Apnaqawipaxa dos tercios de votos órgano deliberativo departamental taypiwa katuyatarakispa. 
-281 Kamachi. 
-Gobierno de cada autonomía regional ukaxa Asamblea Regional taypiwa phuqhawinakapaxa, facultad deliberativa, normativa - administrativa ukjamaraki fiscalizadora taqi ukanakwa phuqharakispa. 
-282 Kamachi. 
-I. Chacha jani ukaxa warmiAsamblea Regional ukankirinakaxa sapa municipios concejales municipales chikawa markachiritjama ukatxa uraqitjamawa chhijllatarakini. 
-II. Región ukanxa Taqi markachirimpi chikañchasisawa estatutos regionales amtawi thakhirjamawa lurasiñapa. 
-PUSÏRI JALJTA MUNICIPAL SAPA APNAQAWI 
-283 Kamachi. 
-Gobierno autónomo municipal ukaxa concejo municipal taypiwa wakt’ayata ukuxa facultad deliberativo, fiscalizadora ukjamaraki legislativa municipal pachpa uraqpana phuqhasiñapa ukjamaraki chacha jani ukaxa warmi alcalde ukana p’iqinchtawa. 
-284 Kamachi. 
-I. Concejo municipal ukaxa concejalas ukjamaraki concejales ukanakata chhijllawi taypi utt’ayatawa. 
-II. Kawkha municipios ukjantï naciones o pueblos indígena originario campesinos utjkchi ukjanakanxa uka makachirinakaxa Concejo Municipal ukaruxa chhijllatanakapxa Carta örganica Municipal ukjamarjamaxa chhijllasipxaspawa. 
-III. Sullka kamachi taypiwa qawkha concejalas ukjamaraki concejales municipales chhijllañaki wakt’ayatarakini. 
-Carta Orgánica Municipal pachpa municipio ukana qamawirjamawa qhanañcharakini. 
-IV. Concejo municipal ukaxa proyecto de carga orgánica lurarakini aka tayka kamachina qhanañchataki ukjamarjama. 
-PHISQÏRI JALJTA SAPA APNAQIRINAKA 
-285 Kamachi. 
-I. Atipt’asiriñataki chhijllawinxap’iqinchiriñatakixa gobiernos autónomos ukañatakixa wakisiwa kunjamatï servidor público ukataki mayitäki ukanakampi phuqhaña: 
-1. Pä mara departamento, región jani ukaxa municipio tuqina utjasiriñapawa. 
-2. Alcaldesa jani ukaxa alcalde ukjamaraki regional p’qinchiriñatakixa chhijllawiru pä tunka mayani mara phuqataniñapawa. 
-3. Prefecta jani ukaxa prefecto ukjamaraki gobernador jani ukaxa gobernadora, ukañatakixa pä tunka phisqani mara phuqataniñapawa. 
-II. Gobiernos autonómicos p’iqinchirinakaxa phisqa marawa irnaqapxaspa ukatsti maykutikiwa mayampi chhijllatapxarakispa. 
-286 Kamachi. 
-I. Gobierno Autónomo ukaru lantintirixa mayni Concejo jani ukaxa Asamblea pachpankirita kunjamatï estatuto ukana qhanañchataki ukjamarjamawa lantintawixa phuqhasirakini. 
-II. Kunapachatï gobierno autónomo p’iqinchirixa jaytjaspa, jiwaswa jani atxchispati jani ukaxa jaqsutaspa ukaxa mäkiwa machaqata chhijllataspa ukampirusa chika pacha irnaqawinixañapawa. 
-Janiti ukjamakaspa ukjaxa lantintiripaxa kunjamatï estatu ukana qhanañchataki ukjamaruwa chhijllataxarakispa. 
-SUXTÏRI JALJTA KAMACHINAKA UTT’AYIRINAKA, AMUYIRINAKA UKJAMARAKI UÑAQIRINAKA SAPA APNAQIRINAKANA 
-287 Kamachi. 
-I. Atipt’asirinakaxa concejos ukatxa asambleas de los gobiernos autónomos ukankañatakixa kunjamatï servidor público ukataki mayitäki ukjamarjamawa phuqhapxañapa: 
-1. Pä mara janira chhijllawikipana pachpa markan qamawinipxañapawa. 
-2. Tunka kimsaqalquni mara chhijllawiru phuqhatanipxañapawa. 
-II. Asamblea ukjamaraki concejos de gobiernos autónomos ukanakaru chhijllañatakixa sutinakapaxa p’iqinchirinakana sutinakapatxa yaqhapxañapawa. 
-288 Kamachi. 
-Concejos ukatxa asamblea de los gobiernos autonómicos ukankirinakaxa phisqa marawa irnaqapxaspa ukatsti maykutikiwa mayampi chhijllatapxarakispa. 
-PAQALLQÜRI JALJTA INDÍGENA ORIGINARIA CAMPESINA SAPA APNAQAWI 
-289 Kamachi. 
-Autonomía indígena originaria campesina ukaxa jupanaka pachpata p’iqinchata kunjamatï amtawinakapaxa wakiski naciones y pueblos indígena originario campesinos ukatxa ukankirinakaxa pachpa uraqina, sarawina, nayra qamawina, aruna, juchanchawina, amtawina, qullqina mayakipxi ukjama saña muniwa. 
-290 Kamachi. 
-I. Autonomía indígena originario campesina ukaxa nayra laq’aachachilanakana uraqipanakana utt’ayatawa jichha pachanxa naciones y pueblos ukanakata qamataxiwa kunjamatï tayka kamachina ukatxa kamachinakana jiskt’atäki ukjamarjamawa utt’ayatawa. 
-II. Autonomías indígenas originario campesinas pachpa p’iqinchirixa kunjamatï sarawinakaxa p’iqinchañataki thakhinakaxa wakt’ayataki tayka kamachimpi ukatxa kamachinakampi kisayasawa phuqhayarakini. 
-291 Kamachi. 
-I. Autonomías indígena originario campesinas ukanakaxa indígena originario campesino uraqina, municipios ukatxa regiones kunjamatï tayka kamachina ukatxa kamachinakana qhanañchatäki ukanakawa ukjamata uñt’atapxaraki. 
-II. Paya jan ukaxa walja pueblos indígenas originarios campesinos ukanakaxa mä sapa autonomía indígena originario campesino utt’ayasispa. 
-292 Kamachi. 
-Sapa autonomía indígena originario campesina ukaxa Estatuto ukxa thakhinakarjamawa tayka kamachirjamawa ukatxa kamachirjamawa luratarakini. 
-293 Kamachi. 
-I. Autonomía indígena ukana indígena uraqipanakana ukatxa thakhikirinakana ukatxa kunapachatï q’umachataxani ukjaxa ukankiri markachirinaka arsuwiparjamawa ukatxaqamawinakaparjamawautt’qyatarakini ukatakixa wakisiwa ukjamarjama phuqhaña. 
-II. Kunapachatï mä autonomía indígena originario campesino ukaxa pachpa municipios ukanakana qurpasiwina wat’antaspa ukxaja pueblo o nación indígena originario campesino ukampi gobierno municipal ukankirinakampiwa qurpasinaka mayjt’ayapxarakispa. 
-Ukatxa kunapachatï municipio qurpasinaka wat’antaspa ukjaxa Asamblea Legislativa Plurinacional taypiwa thakhinakarjama, mayitanakarjama, kamachina qhanchatäki ukjamaru sarantatarakini. 
-III. Sullka kamachi taypiwa kunatixa markachiritjama mayitäki autonomía indígena originario campesina ukati qhanañchatarakini. 
-IV. Kunapachatï autonomía indígena originario campesina uraqinakapaxa may maya municipios ukankchini ukjaxa kamachi taypiwa askiñapataki p’iqinchawinapa qhanañcharakini. 
-294 Kamachi. 
-I. Autonomía indígena originario campesina amtatayi utt’ayañatakixa jiskt’awi thakhirjama mayitäki tayka kamchina ukatxa kamachiru ukjamarjamawa phuqhasirakini. 
-II. Kunapachatï mä municipio ukaxa autonomía indígena originario campesino ukjama tukuña munichi ukjaxa jiskt’awi taypiwa mayitáki kamachina ukjamarjamawa phuqhasirakini. 
-III. Kawkïri municipios ukanakanaya ayllunakaxa yäparu mayachata uraqinakapaxa kikipa kamächi ukanakaxa municipios ukjamawa utt’yasipxaspa ukatakixa kunjamtï mayiwinakaxa Asamblea Legislativa Plurinacional ukana mayitäki ukjamaraki tayka kamachina ukatxa kamachinakana mayitäki ukjamarjamawa phuqhapxañapa. 
-295 Kamachi. 
-I. Región indígena originario campesina utt’ayañatakixa municipios qurpasinaka wat’antañapatakixa Asamblea Legislativa Plurinacional thakhipwa mayitäki ukjamaraki tayka kamachina ukatxa kamachina mayitäki ukjarjamawa phuqhapxañapa. 
-II. Municipios, distritos municipales ukatxa autonomía indígena originario campesina mayachatañapataki región indígena originario campesina ukatakixa jiskt’äwi taypi ukatxa kujamatï mayitäki tayka kamachina ukatxa kamachina qhanañchatáki ukjamarjamawa phuqhapxañapa. 
-296 Kamachi. 
-Gobierno de las autonomías indígena s originario campesinas ukanakaxa saranakaparjama ukatxa qutuchasiwinakaparjamawa sutinakasapa pachpa markana s utinakapampiwa sutichasipxarakispa ukatxa estatutos ukanakasa tayka kamachirjamawa ukatxa kamachi ukarjamawa phuqhatarakini. 
-KIMSAQALLQÜRI JALJTA PHUQAWI JALANUQAWI 
-297 Kamachi. 
-I. Aka tayka kamachina utt’ata phuqhawinakapaxa aknirinakawa: 
-1. Jani lurañanaka, apnaqawinaka ukatxa kamachi lurañanaka phuqhañanakaxa jani rakiwa yaqharuxa khiti rusa khithatakaspati taqi ukarjamawa nivel central ukaxa waqaychañapa. 
-2. Ukanakapuni, marka apnaqawinxa sapa mayniwa thakhiparjama wakt’ayatañapa a pnaqañataki, kamachinaka lurañataki ukatxa phuqhayañataki uka qhiphankirinakasti khithataspawa. 
-3. Concurrentes, taypinkirinakaxa nivel central ukana lurawipawa ukaxa yaqha niveles ukanakampi khuskhata kamachi phuqhawimpi phuqhañampi chikasiwa. 
-4. Compartidas,ukanxaAsamblealegislativa plurinacional ukana lurawinakapawa kunjamtï entidades territoriales autónomas ukana saranakapawa. 
-Qillqata amuyu sarantayañatakixa ukatxa phuqhawixa entidades territoriales ukaruwa wakt’araki. 
-II. Taqi phuqhawitixa jani aka tayka kamachina qhanañchatakchi ukaxa kamachi taypiwa churasirakispa ukatxa khithatarakispa. 
-298 Kamachi. 
-I. Nivel central del estado ukana privativa phuqhawinakapawa: 
-1. Qullqi ch’iqiyawi (sistema financiero). 
-2. Qullqi tuqi amtäwi, Qullqi imaña uta (Banco Central), qullqi uñaqäwi (sistema monetario) ukjamaraki turkawi amtawi (plítica cambiaria). 
-3. Yänaka tupuchäwi (Sistema de pesas) ukjamaraki tuptawi (medidas) ukatxa uruyt’a utnuqawi. 
-4. Amtawi wakiyaña anqa yänakata (Régimen aduanero). 
-5. Anqa markarualxawi (Comercio exterior). 
-6. Aka uraqina markachirinaka uñjawi (Seguridad del estado), jark’aqawi (Defensa), Fuerzas Armadas ukjamaraki Policía boliviana. 
-7. Illapt’añanaka (Armas de fuego) ukjamaraki phallayañanaka (explosivos). 
-8. Anqa markataki amtawi (política exterior). 
-9. Aka markana markachiri (Nacionalidad), yaqáwi markachirita (ciudadanía), anqa makachirita (extranjería), jani wali jaqinakataki qamawi (derecho de asilo) ukjamaraki janwali jaqiru qatuqawi (refugio). 
-10. Qurpasinaka askinjama mayachata marka uñjawi. 
-11. Anqa markaru misturinaka ukatxa matanirinaka uñjawi. 12. Kunaymana jach’a empresas públicas a nivel del estado utt’ayäwi ukjamaraki uñjawi. 
-13. Nayra yänaka estado plurinacional ukankirinaka ukatxa entidades públicas del nivel central del estado apnaqaña. 
-14. Akapacha uñjawi ukatxa lata jamach’ina t’uyuwipa Bolivia uraqpachana uñjawi. 
-Ukatxa lata jamach’inaka jaltañanaka ukatxa puriñanaka anqa markata ukjamaraki departamental ukanaka askichaña ukjamaraki lurayaña. 
-15. Markachiri qillqawi (Registro civil). 
-16. Markachiri jakthapiwi (Censos oficiales). 
-17. Tayka amta uraqinakata ukjamaraki q’umachawinakata. 
-18. Ch’iyar khusu umanakata (Hidrocar-buros). 
-19. Bolivia markana yänakata qullqi irtawi, yänakaru chaniñchaña ukatxa yänakata qullqi irtawi nivel central del estado ukataki. 
-20. Tayka amatawi akapachana jakirinakata ukjamaraki akapacha samanata. 
-21. Yäparu sutinchata ukatxa sutunchirita ukaxa materia civil, familiar, penal, tributaria, laboral, comercial, minería ukatxa electoral. 
-22. Qullqiamtawiukatxa Bolivia markpachataki wakichawi. 
-II. Nayriri phuqhawinakaxa nivel central del Estado ukanxa akanakawa: 
-1. Amtawi wakiyaña Bolivia p’iqinchiri chhijllañataki ukatxa jisk’a markanakana p’iqinchirinaka chhijllañataki ukjamaraki Bolivia ukch’pachana jiskt’awinakataki. 
-2. Amtawi wakiyaña yatiyasiwinakata ukatxa jayaru yatiyasiwinakata. 
-3. Yatiyawinaka apaña (Servicio postal). 
-4. Akapachankiri yänaka sañäni: qhuyanaka, yänaka qhantayirinaka (espectro electromagnético), yänaka yuriwinaka (recursos genéticos), jakiri yänaka (biogenéticas) ukjamaraki pacha samana (medio ambiente). 
-5. Amtawi wakiyaña umata ukatxa ch’iqiyañata. 
-6. Amtawi wakiyaña akapachana jakirinakata ukatxa pacha samanata (medio ambiente). 
-7. Quqata ukatxa uraqinakata, yänakata, ch’uminakata amtawi. 
-8. Amtawi qhantawitaki akjamanakana lurawina, apnaqawina, utt’ayawina, ch’iqiyawina, t’akt’ayawina. 
-9. Jach’a thakhinaka lurañakati ukatxa askina uñjañataki wakichaña. 
-10. Ferrocarriles thakhinaka lurayaña, uñjaña ukatxa askichaña. 
-11. Nivel central del estado amtaparjama utachawinaka luraña. 
-12. Uraqi jamuqawinaka suma luraña kunjamakitixa ukjama ukatxa jay saña. 
-13. Jakthapiwi luraña ukatxa jay saña. 
-14. Personería jurídica qutuchawinakaru kunaymana lurawinaka phuqhañapataki luqtaña. 
-15. Personería jurídica qutuchawinakaru ukjamaraki no gubernamentales ukanakaru luqtaña; jani juk’uchasiñataki kunaymana departamentos ukanakana. 
-16. Amtawi wakiyaña markachiri jark’aqañataki. 
-17. Yatiqawinakata ukatxa qullasiñata amta wakiyaña. 
-18. Derechos Reales ukaxa thakhinjamawa registro técnico municipal ukampixa chikacahsirakini. 
-19. Jark’ata uraqinakaxa nivel central del estado ukana amparanakapankiwa. 
-20. Yänaka jark’ata uraqinakana. 
-21. Yapuchawina ukatxa uywachawina jani wat’ayiri usunakata. 
-22. Uraqi yäparu sutinchaña ukatxa uñjaña. 
-23. Amta yatxatirina. 
-24. Taripawi apnaqaña. 
-25. Sarawinaka, nayra yatiyawinaka, lurawinaka, muspharkaya lurata, yänaka k’achachata, nayra yänaka, yatxatawi katt’ata ukatxa jani katt’kaya nivel central del estado ukana amuyuparjama uñanchayaña ukatxa waqaychaña. 
-26. Kamachina qhanañchataki ukjamarjamawa yäparu tukuñapataki uraqixa aparatarakini. 
-27. Panka imañanaka, museos, archivos, hemerotecas, ukatxa yaqhanakampixa ukanakaxa askiwa nivel central del estado ukatakixa. 
-28. Empresas públicas del nivel central del estado. 
-29. Patana jakasirinakaru amuyt’ayaña. 
-30. Servicios Básicos ukataki amtawi. 
-31. Irnaqawinakataki amtawi. 
-32. K’añaskunakata, uraqnama, akapachnama, umnama walja departamentos uknamakchi ukja. 
-33. Uraqita wakichaña amta ukatxa yäparu utt’ayaña. 
-34. Aka pachpana ukatxa anqata manjasiwi. 
-35. Lurawinaka nayraru sartayaña tayka amta. 
-36. Utachawi tayka amta. 
-37. K’acha markanaka, yänaka saraña tayka amta. 
-38. Amtawi wakiyaña uraqita. 
-Kamachi taypiwa churatañatakixa jani ukaxa atonomías ukaruwa churañatakisa qhanañchtarakini. 
-299 Kamachi. 
-I. Nivel central ukampi entidades territoriales autónomas ukampi chikachata phuqhawinakaxa aknirinakawa: 
-1. Amtawi wakiyaña departamental ukjamaraki municipal chhijllawitaki. 
-2. Utana jawsañani, laq’u jawsasiña ukataxa jayaru yatiyasiñanaka. 
-3. Jach’a markanaka lusa qhananiña. 
-4. Toleria anatawi ukjamaraki mä akatjamata wakt’araki. 
-5. Anqa markanakampi anqa amta estado taypi mayachasiña. 
-6. Jach’a markanakana jakirinakampi municipios ukanakampi jani walinakata amta mayachaña. 
-7. Yänakata qullqi irtäwi gobiernos autónmos ukataki mayjt’ayaña. 
-II. Aknïri phuqhawinakaxa nivel central del estado ukampi entidades territoriales autónomas ukanakampitaki phuqhawiwa: 
-1. Pacha samana ukjamaraki jani jaqimpi jakiri uywanaka aka pachampi chikt’ata uñjaña, waqaychaña ukjamaraki jark’aqaña. 
-2. Qullasiwi ukjamaraki yatiqawinaka apnaqaña. 
-3. Yatxatawi, qhipha uñsta yatxataña. 
-4. Uraqi, quqanaka ukjamaraki ch’uminaka uñjaña. 
-5. Pacha uñch’ukiña. 
-6. Uraqipana lusa qhantawi estado ukana amtaparjama. 
-7. Uma salsukana amta taypi uñjaña ukjamaraki jach’anchayaña. 
-8. Janwali jilt’anaka ukjamaraki samana ñanqhachirinaka. 
-9. Uma umaña amtanaka ukjamaraki ch’ullqhi yänaka aski wakiyaña. 
-10. Uma qhich’a amatanaka. 
-11. Jach’a larqanaka jark’aqawi. 
-12. Uma laka puriña ukatxa mistuña apnaqaña. 
-13. Markachirita jaek’aqaña. 
-14. Marka apnaqawi uñjaña. 
-15. Utacha ukjamaraki marchiritaki utachawi. 
-16. Yapuchawi, uywachawi, jani jaqimpi jakiri uywa jiwawi ukjamaraki jakjawi. 
-300 Kamachi. 
-I. Gobiernos departamentales autónomos uraqipanakana phuqhawipa: 
-1. Estatuto tayka kamachi thakhirjama kamachina qhanañchatki ukjamaru luraña. 
-2. Naynaru markachirina sartawipauraqipana wakichaña ukjamaraki jach’anchayaña. 
-3. Jiskt’awi ukjamaraki jawsawinaka departamentales phuqhawinakaparjama jawsaña ukjamaraki amtaña. 
-4. Irnaqawi ukjamaraki aski irnaqañanaka amta aka markpachataki utt’ayaña. 
-5. Uraqinaka yäparu nivel central del municipio ukampi indígena originario campesino ukampi mayachasa luraña ukjamaraki phuqhaña. 
-6. K’añasku utjawi sarnaqawi amta wakiyaña. 
-7. Jach’a thakhinaka departamentales ukatxa nivel central ukanaka tayka kamachirjama wakichaña, lurayaña ukjamaraki apnaqaña. 
-8. Ferrocarriles departamentales tayka kamachirjama ukjamaraki amtawinakarjama nivel central ukampi chikt’ata lurayaña ukjamaki askchañ. 
-9. Provincia tuqiru sariri k’añaskunakata, umnama saririrnakata, ferrocarriles yaqhanakampi departamento taypina. 
-10. Lata jamch’inaka jaltaña ukjamaraki puriña departamento ukana lurayaña ukjamaraki apnaqaña. 
-11. Departamentales jakthapiwinaka. 
-12. Personalidad jurídica jaqiqutuchawinakaru lurawinaka phuqhañapataki luqtaña. 
-13. Personalidad jurídica jaqi qutuchawinakaru No gubernamentales, fundaciones ukjamaraki entidades civiles deparatamento taypina jani qamiriptañapataki lurapxañapaki luqtaña. 
-14. Yapuchawina ukatxa uywachawina jani wat’ayiri usunakata. 
-15. Pata uraqina tuqina lusa qhantawi amta. 
-16. Kunayma yänaka waljaptayiri departamentos taypina aski manq’anaka waqaychasa amta wakiyaña. 
-17. Anatawinaka pachpa uraqina. 
-18. Jan jaqina lurata nayra yänaka departamento taypina uñanchayaña ukjamaraki uñjaña. 
-19. Sarawinaka, nayra yatiyawinaka, lurawinaka, muspharkaya lurata, yánaka k’achachata, nayra yänaka, yatxatawi katt’ata ukatxa jani katt’kaya departamento ukana amuyuparjama uñanchayaña ukatxa waqaychaña. 
-20. K’acha markanaka, yänaka saraña tayka amta. 
-21. Utachawinaka departamento taypina lurawinakaru yanapañataki amta. 
-22. Yänakata qullqi irtawi uñstayawi ukjamaraki apnaqawi departamento taypina jani mayachasa nivel central ukampi ukatxa municipios ukanakampi. 
-23. Deparatamento ukana yänakata qullqi irtawi, yänakaru chaniñchaña uñstayaña ukjamaraki apnaqaña. 
-24. Deparatamento ukana alxawi, yänaka lurawi ukajamaraki servicios nayraqataru sarantañataki. 
-25. Deparatamento ukana uraqi aparaña askiru tukuyañataki kunjamatixa kamachi taypina qhanañchataki ukjamarjama ukataxa apnaqawi qurpa uñjaña ukjamaraki irnaqawina jawch’jawi taqina askipataki thakhinchataki ukjamarjama. 
-26. Amtawinaka lurawi ukjamaraki wakt’ayata qullqi luraña, jay saña ukatxa phuqhaña. 
-27. Jaytjata qullqinaka, tukjaña qullqinaka ukjamaraki maysanchjaña qullqinaka pachpa uraqi irnaqawina phuqhaña. 
-28. Yatiyäwi utanaka ukjamaraki documentación, documentos imaña uta, machaqta uñstayata yänaka imaña uta, yatiyawi qillqata imaña uta ukatxa yaqhanakampi departamento taypina. 
-29. Yänakata qullqichasiwi markachiritaki departamentos ukana. 
-30. Wawakati, q’axullakataki, warmitaki, chuymani jaqitaki ukjamaraki janchita usutataki amatawinaka uñañachayaña nayraru mistsuñakati. 
-31. Nayraru lurawi ukataxa yapuchawi uywachawi uñañchayaña ukjamaraki apnaqaña. 
-32. Qullqita nayararu sartañataki ukjamaraki markachirina sartañapataki amatanaka luraña ukjamraki phuqhaña. 
-33. Yänakata qullqichasiwina, ch’iyara khusu uma alxawina ukatxa chiqiyawina deparatamento ukana jilïri ukana p’iqinchirimpi chikanchasiña. 
-34. Uñañchawi inversión privada ukana deparatamento taypina Bolivia markana qullqi amtawiparjama. 
-35. Deparatamento taypina nayraru sarña amtawinaka Boliviamarkaamtawiparjama chikañchaña. 
-36. Qullqi waxt’ata, qullqi churata uñjaña ukatxa tesoro departamental uksaruwa mäkiptayataxi. 
-II. Estatutos Autonómicos Departamentales ukanakaxaphuqhawinakapxadepartamentos uraqpachataki utt’ayasipxaspawa. 
-III. Mäkiptayata jan ukaxa lantintatanaka deparatamento ukanaxa phuqhapxañaparakiwa. 
-301 Kamachi. 
-Región ukaxa autonomía regional satäxchi ukaxa mäkiptayata jani ukaxa lantintatanaka phuqhawinakaxa katuqarakiniwa. 
-302 Kamachi. 
-I. Gobiernos municipales autónomos uraqipanakana phuqhawinakapa: 
-1. Carta Orgánica Municipalta y kakamachina qhanañchataki ukjamarjama luraña. 
-2. Markachirina nayraru sartañapataki amta wakichaña ukjamaraki jach’anchaña. 
-3. Jiskt’awinaka ukjamaraki chhijllawinaka amta ukatxa jawsaw municipio taypina phuqhaña. 
-4. Irnaqawi uñañachawi ukjamaraki aski irnaqañanaka yäqasa Bolivia marka amtaparjama. 
-5. Pacha samana ukjamaraki jan jaqimpi jakiri uywanaka aka pachampi chikt’ata uñjaña, waqaychaña ukjamaraki jark’aqaña. 
-6. Uraqi yäparu amta wakiyaña nivel central del estado ukampi deparatamentales ukatxa indígena ukanakampi chikachaña. 
-7. Municipios taypina thakhinaka pueblos indígena originario campesinos ukanakampi chikañchasisa amtaña, waqaychaña, luraña, apnaqaña. 
-8. Lata jamch’inaka jaltaña ukatxa puriña luraña, waqaychaña ukjamaraki adnaqaña. 
-9. Municipios ukana markachiri jaqthapiña. 
-10. Gobiernos Municipales utt’ayatanakana thakhinakarjama marakanakana uraqi katthapiwi. 
-11. Jak’aqata uraqinaka municipios taypina aski amtanakarjama Gobiernos Municipales. 
-12. Kunayma yänaka waljaptayiri municipio taypina aski manq’anaka waqaychasa amta wakiyaña. 
-13. Jaqi ukjamaraki uywa manq’añanaka yäparu lurawi, apawi, alxawi uñjaña. 
-14. Anatawi uraqipana. 
-15. Jan jaqina lurata yänaka municipio ukana uñañchawi ukatxa waqaychawi. 
-16. Sarawinaka, nayra yatiyawinaka, lurawinaka, muspharkaya lurata, yänaka k’achachata, nayra yänaka lurata, nayara uywanakata ukjamaraki yatxatawi katt’ata ukatxa jan katt’kaya municipio taypina ukana amuyuparjama uñanchayaña ukatxa waqaychaña. 
-17. K’acha markanaka ukatxa yänaka uñjiri saraña municipio taypina amta. 
-18. Marka k’añaskunakata, k’añasku jaqiparu sutiyaña, yäparu k’añasku sarnaqaña thakhinaka palla pallanka taypi uñjaña ukjamaraki apnaqaña. 
-19. Yänakata qullqi irtawi uñstayawi ukjamaraki apnaqawi municipio taypina jani mayachasa departamental ukampi. 
-20. Municipio ukana yänakata qullqi irtawi, yänakaru chaniñchaña uñstayaña ukjamaraki apnaqaña. 
-21. Utachawinaka municipio taypina lurawinakaru yanapañataki amta. 
-22. Municipio ukana uraqi aparaña askiru tukuyañataki kunjamatixa kamchi taypina qhanañchataki ukjamarjama ukataxa apnaqawi qurpa uñjaña ukjamaraki irnaqawina jawch’jawi taqina askipataki thakhinchataki ukjamarjama. 
-23. Amtawinaka lurawi ukjamaraki wakt’ayata qullqi luraña, jay saña ukatxa phuqhaña. 
-24. Jaytjata qullqinaka, tukjaña qullqinaka ukjamaraki maysanchjaña qullqinaka pachpa uraqi irnaqawina phuqhaña. 
-25. Municipio taypina yatiyäwi utanaka ukjamaraki documentación, documentos imaña uta, machaqta uñstayata yänaka imaña uta, yatiyawi qillqata imaña uta ukatxa yaqhanakampi. 
-26. Yänakata qullqichasiwi markachiritaki departamentos ukana. 
-27. T’unanaka apthapiwi ukjamaraki Bolivia marka amtawirjama askiru tukuyaña. 
-28. Kunaymana jaqitaki aski utanaka municipio taypina waraqaña lurañataki, luraña, yänaka uchaña ukjamaraki waqaychaña. 
-29. Marka nayararu kunkanchayawi ukjamaraki jaqinaka uraqina utnuqawi. 
-30. Uraqiwjpana lusa qhantawi. 
-31. Sarawinaka ukatxa lurawinaka municipioukch’pachama uñañchayaña. 
-32. K’uchirt’awi uñtasiña ukjamaraki anatawinaka. 
-33. Markana yänakata uñt’ayawi ukjamaraki manq’aña yänaka uñt’ayawi. 
-34. Yaqha municipios ukanakampi amta chikayawi ch’amañchaña ukjamaraki qillqantaña. 
-35. Jaqinakampi ukatxa qutuchatajaqinakampi lurawi phuqhañatakimunicipio jach’anchañatakiphuqhawinakarjama aski amtaru puriña. 
-36. Guardia Municipal ukankirinakana aski yanapasisaphuqhapxañapatakimunicipio amtanaka phuqhañataki utnuqayaña ukjamaraki kamachi luraña. 
-37. Kunaymana yänaka alxirinakata ukatxa alasirinakata jark’aqawi amta. 
-38. Qhich’awinaka pueblos indígena originario campesinos ukanakampi amta chikachaña. 
-39. Wawakati, q’axullakataki, warmitaki, chuymani jaqinakataki ukjamaraki janchita usutanakataki amtawinaka uañañchayaña nayraru mistsuñakati. 
-40. Wakiskiri yänaka municipio taypina chaninaka utt’ayaña. 
-41. Uraqininakampi ukjamaraki uraqi katurinakampi pueblos indígena originario campesinos ukanakampi wakiski ukja chikañchasiña. 
-42. Municipio nauyraru sartawi departamental ukjamaraki Bolivia markampi chikañchasisa amtawi wakichaña. 
-43. Yänakata qullqichasiwina, ch’iyara khusu uma alxawina ukatxa chiqiyawina municipio ukana jilïri ukana p’iqinchirimpi chikanchasiña. 
-II. Mäkiptayata jan ukaxa lantintatanaka municipio ukanaxa phuqhapxañaparakiwa. 
-303 Kamachi. 
-I. Autonomía indígena originario campesina ukana phuqhawinakapaxa municipio uka phuqhawinakapwa phuqhapxaraki kunjamatixa saranakaxa utjki tayka kamachinsa, marcodeautonomíasukjamaraki descentralización ukansa qhanañchataki ukjamaruwa phuqhasirakini. 
-II. Región indígena originario campesinos mäkiptayata jan ukaxa lantintatanaka ukanaxa phuqhapxañaparakiwa. 
-304 Kamachi. 
-I. Autonomía indígena originario campesina ukaxa aknïri phuqhañanaka phuqhapxañapa: 
-1. Estatuto uka phuqhañataki tayka kamachirjama ukjamaraki kamachirjama luraña. 
-2. Nayraru sartawi qullqita, markachirita, amtawita ukjamaraki sarawita marka uñaqawirjama. 
-3. Akapachankiri waljapta yänaka tayaka kamachirjama utnuqayaña ukjamaraki apnaqaña. 
-4. Uraqi yäparu amta wakiyaña nivel central del estado, departamental ukjamaraki municipios ukanakampi chikachaña. 
-5. Lusa qhantawi jaya markanak a uraqpana. 
-6. Thakhinaka ayllunakana waqaychaña ukjamaraki apnaqaña. 
-7. Jak’aqata uraqinaka uraqipana Bolivia markana amtaparjama apnaqaña ukjamaraki waqaychaña. 
-8. Juchanchawinaka ukatxa jan walinaka thakhinakarjama tayka kamachirjama, k a m a chirjama askichawi taypina phuqhaña. 
-9. Anatawi, k’uchirawi ukjamaraki chuyma qhanarawi. 
-10. Uñt’ata jan uñt’ata uraqpachana. 
-Sarawinakapa, lurawinakapa, nayra sawinakata, iyawsaña uraqinakata ukjamaraki machaqata yatxatatautanakata jark’aqaña ukjamaraki jach’anchaña. 
-11. K’acha markanaka ukatxa yänaka uñjiri saraña amta. 
-12. Uraqipana yänakata qullqi irtawi, yänakaru chaniñchaña uñstayaña ukjamaraki apnaqaña. 
-13. Yänakata qullqi irtatanaka phuqhawirjama apnaqaña. 
-14. Amtanakapa ukatxa qullqi wakichatanaka luraña, jay saña ukjamaraki phuqhaña. 
-15. Uraqi qamawita wakichaña ukjamaraki phuqhaña. 
-16. Utachawi, markachawi ukjamaraki m arkachiri jalanuqawi uraqipana saranakarjama. 
-17. yaqha markanakampi, marka apnaqirinakampi Katia privadas ukanakampi amtanaka jach’anchayaña ukjaramaki qillqantaña. 
-18. Qhich’anakapa askinjama uñjaña ukjamaraki apnaqaña. 
-19. Aski lurawinaka jach’anchaña nayraru sartayaña. 
-20. Jaqitaki aski utachawinaka uraqipana lurayaña, askinjama uñjaña ukjamaraki apnaqaña. 
-21. Jiskt’awi thakhinaka jan walt’awina lurañataki, phuqhañataki ukjamaraki apnaqañataki chikañchasiña, nayraru sartayaña ukjamaraki luraña. 
-22. Kunaymana jiwaki uñtayiri yänakata sarawinakaparjama, qhipha yatxatawinakarjama waqaychawi. 
-23. Kunaymana instituciones utt’yatanakapa sarnaqawinakaparjama ukjamaraki thakhinchawinakaparjama nayraru sartawi ukjamaraki phuqhawi. 
-II. Autonomías indígena originario campesinas ukanakaxa janiwa aknïri phuqhawinakxa phuqhapkaspati: 
-1. Anqa markanakampi chikachasiwi amtanakaxa utjki ukjamarjama. 
-2. Jani walt’awina jay saña ukana chikañchasiña ukjamaraki uñaqaña. 
-3. Qutu amuyunakata, jakirinakana jathata, ch’uxaña jisk’a quqanakampi qullasiwita ukjamaraki germoplasma ukanakata kamachirjama jark’aqaña ukjamaraki uñjasa qillqaqaña. 
-4. Anqata mantaniri nayraru satañataki sarawina, pacha samanana ukatxa aski yänaka lurawi phuqhiri qutunakaru uñch’ukiña ukjamaraki thakhiñchaña. 
-III. Atonomias indígen ariginario campeinas aknïri phuqhawinakwa phuqhapxarakispa. 
-1. Qullasiwi amta uraqipana qutuchaña, wakichaña ukjamaraki luraña. 
-2. Tayka amtanaka yatichawina, yatxatawina, machaqa yatxatawina, kamachinaka uñakipatarjama Katia apnaqawirjama qutuchaña, waichaña ukjamaraki phuqhaña. 
-3. Jach’a quqanaka, akapachana jakirinakata ukatxa aka pacha samanata waqaychaña. 
-4. Qhich’awinaka, umanaka, uma jalsunaka lusa qhantayirita Bolivia marka amtarjama pachpa uraqina phuqhaña. 
-5. Qhich’awinaka luraña. 
-6. Ayllunakana thakhinaka luraña 
-7. Aski Irnaqawinaka phuqhaña utanaka utachaña. 
-8. Yapuchawiru ukatxa uywachawiru uñañchayaña ukjamaraki jach’anchyaña. 
-9. Ch’iyar khusu uma salsuwita ukjamaraki qhuyanakata uraqipana uñch’ukiña ukatxa jak’ata lurawi uñch’ukiña. 
-10. Yánakata ukjamaraki jaqitaki askinakata thakhinchatarjama uñch’ukiña. 
-IV. Wakiskiri yänakaxa phuqhawinakapatakixa mäkiwa estado plurinacional ukaxa kamachi taypi makiptayxarakini. 
-305 Kamachi. 
-Taqi katxaruwi phuqhawinakxa qullqi taypi ukjamaraki qullqi irtawi phuqhaañataki ukjamarjamawa chikañchayatarakini. 
-PUSÏRI T’AQA ESTADO UKANA QULLQI UTT’AYAWIPA UKJAMARAKI CH’IQIYAWI NAYRÏRI UÑAÑCHAWI ESTADO UKANA QULLQI APNAQAWIPA NAYRÏRI JALJTA KHUSKHATA PHUQAWI 
-306 Kamachi. 
-I. Qullqi thakhi amtaxa waljawa ukaxa markachirinakana aski qamañapataki ukajamraki jakañapatakiwa. 
-II. Walja qullqi thakhi amataxa akjamanakana utt’atawa economia comunitaria, estatal, privada ukjamaraki social cooperativa. 
-III. Walja qullqi thakhi amataxa kunaymana qutuchata qullqi amtanakaruwa phuqhachasiwi, ayni, yanapt’asiwi, mayampi jalanuqawi, kikipa, arxatata, jan tukuskaya, juchata ukatxa qhanañchata ukanakampi kisatawa. 
-IV. Qullqitaqutuchasitaanakaxataykakamachina uñt’atarjamaxa jaljanimpi chikachasisa qullqichasiña ukjamawa tukupxaspa. 
-V. Estado ukaxa jaqiruwa askitapata uñji ukjamakipanxa qullqi jilt’anakaxa khuskhatawa qullasiwina, yatiqawina, sarawina aski jaqitaki amtanakarjam churarakini. 
-307 Kamachi. 
-Estado ukaxa qullqi qutuchawi taqinina uñt’ani, yäqani, jak’aqani ukatxa jach’anchani. 
-Akjama qutuchasiwixa aski lurañataki ukjamaraki aski jakawi kujamatixa amtatäki ukjamaraki pueblos indígena originario campesinos ukan uñtawiparjam. 
-308 Kamachi. 
-I. Estado ukaxa iniciativa privada ukaruxa markan qullqita nayraru sartawitaki ukatxa ch’amanchañataki uñt’iwa, yäqiwa ukatxa jark’aqarakiwa. 
-II. Qullqichasirinakaruxa jay satawa irnaqawinakampi phuqhapxañapataki ukampirusa kamchi taypiwa uñjatarakini. 
-309 Kamachi. 
-Qullqi qutu apnaqawixa estado ukanxa qullqichasiri ukjamaraki entidades estatales económicas ukanakawa ukatxa aknïri amta phuqhapxañapa: 
-1. Markachirina sutipxaru yánakapata irtata walja yänaka lurawita industrialización ukanaka apnaqaña. 2. Jaqitaki aski yänaka umata, q’añu uma sarañata qullqichasiwi qutunakampi, comunitarias, cooperativas o mixtas ukanaka apnaqaña. aski yánaka jaqinakataki ukjamaraki 
-3. Aski yänaka jaqinakataki ukjamaraki mayt’añanaka achuqayaña. 
-4. Democracia económica ukjamaraki aski jiqxatatanaka markachiritaki manq’anaka jach’añchayaña. 
-5. Chikañchasiwi ukjamaraki marachirita uñch’ukiwi qutu apnaqawinakata ukatxa irnaqirinakana amtawinakapa jupanakana askipaki jay saña. 
-310 Kamachi. 
-Estado ukaxa cooperativas sutinchatanakaruxa irnaqawina yanapasiwi jani ina ch’usata qamiriptañataki uñt’i ukjamaraki jark’aqi. 
-Qutuchawi cooperativas ukanakata aski lurawi uñstayirinakaruxa jach’añchaniwa. 
-311 Kamachi. 
-I. Kunaymana qullqita qutuchatanakaxa aka tayka kamchirjamaxa utt’ayatanakaxa khuskhata yäqatapxiwa. 
-II. Walja thakhi qullqi mataxa akjamanakata utt’ayatawa: 
-1. Estado ukawa qullqita nayararu sartawi ukjamaraki wakichawi p’iqt’asa phuqharakini. 
-2. Aka pachankiri yänakaxa Taqi markachirin kiwa ukatxa Estado ukawa apnaqarakini. 
-Sapa jaqina ukjamaraki qutu jaqina aka uraqina yänakapaxayáqata ukatxa jay satawa. 
-Yapuchawi ukjamaraki uywachawixa ukatxajanjaqimpijakiriuywanakajiwayaña jani ukaxa katjaña kunjamatixa tayka kamchina qhanañchataki pusïri t’aqana ukjamaru lurañawa ukampirusa jark’ata uywanakaxa janiwa jiwayañakiti. 
-3. Kunaymana aka pachankiri yänakata lurañaxa jani anqa markanakata materias primas satanakaxa mantaniñapataki nayrankaña ukatxa aski qullqi jiqxatawi nayraru pacha mamampi chikt’asa jiqxataña. 
-4. Estado ukaxa kunaymana aski qullqi irtawi yänakata chikañchasiwa ukaxa aski qamawi makachirinakataki jan pisintañana qamañataki. 
-5. Qullqichasiwi amtawi ukjamaraki jan jasaki jaqsuña. 
-6. Estado ukaxa taqinina qullqi apnaqawi yaqha aski amtjama pata tuqina jach’a markana jach’ancharakini ukjamaraki uñañchayarakini. 
-312 Kamachi. 
-I. Kunaymanata qullqi irtawinakaxa Bolivia markana qullqita jan pisinkañapatakiwa churasiñapa. 
-Janiwa walja qullqini jamasata tukuña marka aynacht’ayañataki jay satakaniti. 
-II. Kunaymana qullqita qutuchasitanakaxa kunaymana aski irnaqawi phuqhapxani ukjamaraki khuskhachañataki ukatxa pisina jakañata mistuñataki yanapapxañapa. 
-III. Kunaymana qullqita qutuchasitanakaxa aka pacha samana jark’aqaña phuqhawinipxiwa. 
-313 Kamachi. 
-Pisina jakañata mistuñataki ukatxa jisk’achawita mistuñakatixa ukjamaraki qullqi tuqitxa aski jakawi jiqxatañatakixa Bolivia markana qullita qutuchanakaxa aknïri amtanaka phuqhapxañapa: 
-1. Walja yänaka markachirita sapa jaqiru yäqasa sañani pueblos y las naciones ukanakaru Yáqasa. 
-2. Qullqi wakt’ayatanaka ukjamaraki jilt’anaka yäparu waljaptayaña, ch’iqiyaña, ukatxa mayampi ch’iqiyaña. 
-3. Pisiqtawi jan aski ch’iqiyatanaka yänaka waljaptawina. 
-4. Regionales taypina pisinkaña juk’aptäña. 
-5. Nayraru sartawi aka pachana yänaka aski yänakaru tukuyasa. 
-6. Taqina qullqipata ukjamaraki comunitario waljachawina taqi ch’amampi chikañchasiña. 
-314 Kamachi. 
-Mayni sapana apnaqawi ukatxa juk’anina apnaqawixa qutu jan ukaxa sapa markachirita anaqa markachirinakata ukanakaxa yänaka ukjamaraki lurawi phuqhaña munapxaspa ukjaxa janiwa satawa. 
-315 Kamachi. 
-I. Estado ukaxa yäparu utt’ayata askinjama apnaqata, irnaqawi uñstayañataki ukjamaraki yänaka lasaña markachirina uraqipxa uñt’i. 
-II. Taqi jaqinakatakixa jurídicas satauñañchayatanakaxa machaqa tayka kamachirjama phisqa waranqha hectáreas ukjwa jakhuwirjama katupxaspa. 
-PAYÏRI JALJTA ESTADO TAYPINA QULLQI APNAQAWI 
-316 Kamachi. 
-Estado ukana phuqhawipaxa qullqi taypinxa aknïrinakawa. 
-1. Qullqi wakichawi ukjamarakimarkataki markachirinakana chikañchasiña ukatxa jiskt’awi taypi kunkanchayaña. 
-Kamachi taypiwa estado ukataki phuqhata wakichawixa qhanañchatani ukaruxa entidades territorialeschikañchayarakini. 
-2. Qullqi apnaqaña ukjamaraki yäparu uñjaña kunjamatixa tayka kamachina waljaptayañaxa, ch’iqiyañaxa, yänaka jaqitaki luraña alxañaxa ukanakataki wakiyataki ukjamarjama. 
-3. Qullqi waljaptayiri yänaka p’iqinchawina phuqhaña. 
-4. Qullqichasiwi taypina aski yänakata ukatxa markachirinakataki chikañchasiwi ukaxa qullqi khuskhata ch’iqiyawina, nayraru satañataki, jani juk’aniki qullqi apnaqañapataki. 
-5. kunaymana lurawita qullqi jiqxatawina jach’añchaña ukaxa qullqi tuqina nayraru sartañataki ukjamaraki markachirinsa jiqxatañataki. 
-6. Aka pachankiri miriri jani mayampikati chhaqhiri yänakata aski yänakaru tukuyaña aka pacha samana yäqasa irnaqawinaka waljaptayañataki ukatxa qullqichasiña yánaka u kjamaraki markachirinakataki jach’añchaña. 
-7. Yänaka ukajamaraki Bolivia markana qullqipa yäparuch’iqiyawi a m t a ukaxa khuskhata uñjatañataki, jani jisk’achatañataki kunaymakna pisina jakañata mistuñataki ch’amañchaña. 
-8. Estado sapana apnaqawi lurawinakan ukjamaraki phuqhawinakana jaqitaki askïki ukanakan jay saña. 
-9. Chikachasiwi ukjamaraki jiskt’awi tayka amta phuqhañataki ukaxa kunaymana qullqi qutuchatanakana phuqhawi wakt’ayaña. 
-10. Yatxatawinakataki, yatxatata irnaqirinakataki, jichha uñstata yänaka makiptayañataki ukaxa yänaka askir tukuyañataki mayiña. 
-11. Akapachana t’uyurinaka ukatxa aka pacha uñjaña. 
-317 Kamachi. 
-Estado ukaxa uñstayawi, qutuchawi ukataxa sarantawi amtawi chikanchasiwina kunaynmana qutu p’iqinchirinakaru chikañchasiwipa jay sani. 
-KIMSÏRI JALJTA QULLQITA AMTAWI 
-318 Kamachi. 
-I. Estado ukaxa yänaka lurawinaka ukatxa alxawi amta lurawinaka utt’ayana ukaxa aski yänaka ukatxa jaqitaki wakiskiri lurawinaka yäparu wakiskiri yänaka anqa markaru apsuñataki jay sataraki. 
-II. Estado ukaxa t’aqanakata utt’ayata qutunakaruxa jisk’a, tantityu qullqichasiwi luririrnakaruxa pata tuqina ukjamaraki markanakana ukanakaru uñt’arakini ukjamaraki amtarakini. 
-III. Estado ukaxa lurawi utachawinaka, amaparampi lurañanaka, makinampi lurañanaka ukataxa wakiskiri yänaka lurirrirnakataki ch’amañcharakini. 
-IV. Estado ukaxa pata qutina lurawi uñañchawinaka nayraru sartaña amta wakiyatarjama mäki phuqhañataki wakiyarakini. 
-V. Estadoukaxayänakaanqatuqiruapsuñatakixa valor agredo y servicios ch’amañcharakini ukjamaraki yanaparakini. 
-319 Kamachi. 
-I. Aka pachankiri yänakata aski yänaka luraña qullqi irtawi amtarjama ukanaxa aka pacha samana ukjamaraki pueblos indígena originario campesinos derecho ukanakapa ukatxa uraqipanaka yäqasa mäki phuqhaña. 
-Aka pachankiri yänaka apsuñana aparato producto ukampi qullqi irtawi amtampi mayachawinxa mäki luraña. 
-II. Akapachankiriyänakaukatxanaktayiriyänaka alxawixa estado ukawa alxawi chanipxa, alxata qullqi irtawi, qullqi waxt’awinaka ukjamaraki chikañchasiwinaka markan qullqi apnaqiriparu wakt’ayarakini. 
-320 Kamachi. 
-I. Aka pachpa markana qullqi tukjañataki Máki jat sata anqa makatakixa janiwa satawa. 
-II. Taqi anqa markata qullqi tukjawixa kunjamatixa kunjamatixa kamachinakaxa utt’ayataki ukatxa p’iqinchirinakasa utt’ayataki ukjarjamawa wakisirakini ukatxa janiwa khitisa sayt’aykaspati ukatxa janirakiwa diplomáticos ukanakaru mayisiri sarkaspati. 
-III. Anqa markanakampi ukatxa qullqichasirinakampisa qullqi irtawi chikachasiwinxa jani alkatasa purapata yäqasisawa lurasirakini. 
-Janiwa anqa markata qullqichasirinakaruxa jila qullqixa churatakasati akana markachirinakati utt’ayatarjamaxa. 
-IV. Estado ukaxa qullqi irtawi amtawinxa janiwa anqa markanakata qullqi imaña utanakaruxa, amtanakaparusa, walja qullqininakarusa alkatkaniti janirakiwa jay siskaniti. 
-V. Kunaymana Bolivia markana lurata yänakawa pachpa markana tukjañataki amta uñañachayarakini. 
-NAYRÏRI T’AQXTA FISCAL AMTAWI 
-321 Kamachi. 
-I. Esrtado ukana qullqi apnaqawipa ukatxa qullqi irtawipaxa kunaymana entidades públicas ukanakanxa qullqi wakiyatampiwa saranti. 
-II. Qullqi tukjawi ukatxa markataki qullqi tukjawixa thakhinakarjamwa markachirimpi chikt’ata ukatxa yatxatatanakampi uñakipasaukjamaraki marka p’iqinchirimpi phuqhasirakini. 
-Juk’ampisa yatiqawina, qullasiwina, manq’awina, utachawina ukatxa nayraru lurawimpi sarantawina ukanakataki churasirakini. 
-III. Marka apnaqirinakaxa pä phaxsi janira mara tukuypanawa Asamblea Legislativa Plurinacional ukaru qullqi tukjawi amta kamachi kunaymana entidades del estado ukataki jutïri marataki jay satañapataki luqtapxi. 
-IV. Taqi amtawi kamachixa kunapachatixa qullqi tukjañatakispa ukjaxa estado ukaxa qullqi jan pist’ayañatakixa jan ukaxa qullqi tukjañatakisa estado ukawa wakt’ayarakini. 
-Aka taypinxa palla pallanakataki ukatxa Fuerzas Armadas ukataki kunawa. 
-V. Marka p’iqinchirinakaxa Ministerio taypiwa qullqi wakiyata tukjatanakatxa yatipxarakispa. 
-Ukatxa qullqi tukjawi palla pallanakata ukatxa Fuerzas Armadas qullqi tukjawipa yatipxarakispa. 
-322 Kamachi. 
-I. Asamblea Legislativa Plurinacional ukaxa contratación de duda pública kunapachatixa qullqi waljaptayaspa ukatxa yäparu aski markataki qullqi jilxatawi pacha, qawqha qullqsa ukatxa yaqhanakampi jay sarakini. 
-II. Deuda pública sataxa janiwa munkiri jan munkiri Asamblea Legislativa Plurinacional jay sataparuxa chikañchkiti. 
-323 Kamachi. 
-I. Fiscal amtaxa akjama amtawinakarjamawa saranti askiqullqichawi, kikipa, nayraru sartawi,purapatachikañchasa,qhanañchasa, taqinitaki, uñch’ukiwi, jasa apnaqawi, walja qullqi apthapiwi. 
-II. Yänakata qullqi markpachata irtañaxa Asamblea Legislativa Plurinacional tuqitwa jay satarakini. 
-Yänakata qullqi irtañaxa departamentos jani ukaxa municipios ukanakakchi ukjaxa concejos jani ukaxa asambleas taypiwa p’iqinchirinakana amta luqtataparjama jay satarakini. 
-III. Asamblea Legislativa Plurinacional ukaxa kamachi taypiwa yänakata irtaña qullqxa Bolivia markpachataki, departamental ukjamaraki municipal t’aqanuqarakini ukjamaraki jay sarakini. 
-IV. Yänakata qullqi irtaña uñstayawi, jani irsuña, mayjt’ayawi gobiernos autónomos amparanakapa taypinxa jani lurañanakawa phuqhasirakini: 
-1. Janiwa yänakata qullqi irtaña hechos imponibles satanaka análogos impuestos nacionales jani ukaxa yaqhanakampisa departamentales jani ukaxa municipales utjki ukanakampixa uñstayapkaspati. 
-2. Janiwa qullqi irtañaxa aski lurawinaka, payllawinakata, nayra lurawinakata yaqha uraqinakata mayiña uñstayaytakaspati inasa markachirina irnaqawipata jani ukaxa qullqichasirinakata anqa markata payllawixa wakischispa. 
-Aka jani phuqhawixa chani utt’ayañana, alxasiwita qullqi irtañata ukxa jani qhanañchata yänakataki ukanakatakirakiwa. 
-3. Janiwa qullqi irtañaxa sarnaqañataki ukatxa jaqinaka ut’ayañataki, yänakata, lurawinakata pachpa uraqina uñstayaytakaspati impuestos satxa uñstaskaspati obstáculos sata libre circulación ukjamaraki establecimiento sata jaqinakata, utjawinaka, lurawinaka jan ukaxa jurisdicción territorial taypina thuljtayiri. 
-Aka jani phuqhawixa chani utt’ayañana, alxasiwita qullqi irtañata ukxa jani qhanañchata yänakataki ukanakatakirakiwa. 
-4. Janiwa qullqi irtañaxa anqankirinakatakiki uñstayaytakaspati. kaspati privilegios sata residentes jisk’achawiru uñjatanxa sarayaspa. 
-Aka jani phuqhawixa chani utt’ayañana, alxasiwita qullqi irtañata ukxa jani qhanañchata yänakataki ukanakatakirakiwa. 
-324 Kamachi. 
-Estado ukaruxa janiwa kunaymana manunakata taqi jani wali lurawinakata juchapakaspati. 
-325 Kamachi. 
-Jani waliru qullqi tukuyawi, jani wakiskiri arsuwi, atintasiwi, jamasata apnaqaña, sallqjawi, qullqi maytjawimpiamiriptaña yaqha jani wali qullqi taypi lurañanakaxa kamachi taypiwa juchañchatani. 
-PAYÏRI T’AQXTA QULLQI WAKICHAÑA AMTA 
-326 Kamachi. 
-I. Estado ukaxa marka p’iqinchirinaka taypiwa markana qullqi majt’awipxa ukjamaraki turkawipxa Bolivia qullqi imaña utampixa amtawinakxa utt’ayapxani. 
-II. Qullqimpi yänakana alasiñanakaxa Bolivia marakanxa pachpa qullqipampiwa lurasirakini. 
-327 Kamachi. 
-Bolivia ukana qullqi imaña utaxa yäparu utt’ayata taqi markachirinkiwa. 
-Qullqi amta apnaqawixa Bolivia qullqi imaña utana phuqhawipawa ukatxa qullqi pachpankañapataki nayraru qullqita sartañataki markachirinakampi chika. 
-328 Kamachi. 
-I. Bolivia markana qullqi imaña utana marka apnaqirinakata qullqi amta taypi kamachina qhanañchataki ukjamarjama phuqhawinaka: 
-1. Qullqi amta qhanañchaña ukjamaraki phuqhaña. 
-2. mayt’awi amta phuqhaña. 
-3. Payllawi thakhi wakiyaña. 
-4. Qullqi churawi jay saña. 
-5. Anqa martakata qullqi jilt’anaka apnaqaña. 
-329 Kamachi. 
-I. Bolivia markana qullqi imaña utana apnaqirinakaxa mä p’iqinchirita phisqa irpirinakata kunjamatixa sapa maynixa jilïri p’iqinchitta ukjamaraki Asamblea Legislativa Plurinacional ukata chhijllatäki ukjamarjamawa utt’ayatarakini. 
-II. Bolivia markana qullqi imaña utana sapamayni irqirinakaxa phisqa marawa jani mayampi kutt’aniñataki phuqhapxarakini. 
-Ukanakaxa servidores públicos kamachi taypixa ukjamata uñt’atapxiwa. 
-Mayiwinakaxa ukankañatakixa kamachi taypiwa uñt’ayatani. 
-III. Bolivia markana qullqi imaña utana p’iqinchiripaxa irnaqawipatxa kunapachaya wakiski yatiyaña Asamblea Legislativa Plurinacional mayitaparjama ukampiwa phuqharakini. 
-Bolivia markana qullqi imaña utaxa sapa marawa Asamblea Legislativa ukaru askina qhanañchatarjama p’iqinchirinakata ukjamaraki fiscal del estado taypi churatarakini. 
-KIMSÏRI T’AQXTA QULLQI IRTAWI AMTA 
-330 Kamachi. 
-I. Estado ukaxa thakhi qullqi tukjawi taqinitaki yanapasiwi, ch’iqiyawi ukjamaraki mayampi kikipa jaljawi thakhincharakini. 
-II. Estado ukaxa qullqi tukjawi amta taypixa micro y pequeña empresa, k’acha yänaka luririnakaru, alxasirinakaru, jaqitaki aski luririnakaru, comunitarias qutuchatanakaru ukjamaraki cooperativa s luririnakaru mäki yanapani. 
-III. Estado ukaxa entidades finacieros no bancarias sataruwa askiqullqimpi markachirinakru y anapiriruwa jach’anchani. 
-IV. Bolivia markana qullqi imaña utana entidades, instituciones públicasukaxa janiwa entidades bancarias privadas ukanakarurajaysapkaniti. 
-Akanakaxafondode reestructuración financiera ukaruxa munasa jani munasa churapxarakini ukajamraki ch’amachapxarakini ukax insolvencia financiera ukataki aptataxarakiniwa. 
-331 Kamachi. 
-Intermediacion financiera lurawi, mayt’asiwi, kunaymana qullqimpi lurawi, aski qullqi tantawi ukanakaxa markachirina amtawiparjamawa kamachinakarjama jay sarakini. 
-332 Kamachi. 
-I. Entidades financieras satanakaxa regulación de bancos y entidades finacieras taypiwa thakhinchatarakini ukjamaraki uñjatarakini. 
-Aka uñaqiri institución ukaxa Bolivia uraqpachana utt’ayatawa. 
-II. Intitución de regulación de bancos y entidades financieras p’iqinchirixa Bolivia marka p’iqinchita kunjamatixaAsamblea Legislativa Plurinacional taypita chhijllatäki katxa kamachina qhanañchatäki ukjamarjamawa utt’ayarakini. 
-333 Kamachi. 
-Operaciones financieras jaqinakata ukatxa lantintatanakata lurawixa taqi aka markana ukatxa anqa markata mantaniri markachirinakana taqi ukanakaxa drecho ukanipxiwa ukatxa jani wali qullqi apnaqirinakata ukatxa ina ch’usata qullqiniptirinaka kamachina qhanañchataki ukjamarjama amuyatanaka. 
-Ukjama amuyatanakaxa mäkiwa jani taripirina jay sawipampixa yatxatatarakispa. 
-PUSÏRI T’AQXTA T’AQA AMTANAKA 
-334 Kamachi. 
-Estado ukaxa sectoriales amtarjamaxa akjamanakata jark’aqani ukjamaraki jach’añchani: 
-1. Qullqita qutuchata pata markachirinakaxa ukatxa markanakan qutuchata k’acha yänaka luriri ukatxa jisk’a qutuchata luririnaka yanapasiwimpi ukjamaraki aynjasiwimpi. 
-Qullqi amtawixa jichha uñstawi lurawinaka, qullqi mayt’asiñana, qhathu jist’arawina aski lurawinaka jasaki mayt’asiñataki. 
-2. Kunaymana yänaka qhathuna alxirinakaxa, sapa irnaqirinakaxa, jaqitaki aski luririnakaxa ukanakaxa yatxatawi taypi ch’amañchatarakini. 
-3. K’acha yänaka sarawinakarjama. 
-4. Micro ukjamaraki pequeñas empresas, organizaciones económicas campesinas, organizaciones, asociaciones jisk’a productores satanakatwa estado ukaxa chiqapa yänakapa alarakini. 
-335 Kamachi. 
-Cooperativas servicios públicos ukanaxa qutuchata aski markachirinaru y anapiripxañapawa jani qamiriptaña amtampi ukatxa irnaqawinapaxa marka p’iqinchirinakata uñjatawa. 
-Apnaqawina ukatxa uñch’ukiwinxa p’iqinchirinakapa chhijllawixa saranakaparjamawa phuqhasirakini ukatxa órgano Electoral Plurinacional taypita uñch’ukita. 
-Qutuchawipa ukatxa nayraru sarantawipaxa kamachi taypiwa uñjatarakini. 
-336 Kamachi. 
-Estado ukaxa qullqi qutuchäwi comunitaria ukankirinakaruxa qullqi mayt’añampi ukatxa katuqapxañapataki yanaparakini. 
-337 Kamachi. 
-I. K’acha marka yänaka uñjiri sarañaxa ukanxa qullqi irtawiwa ukatwa jach’añchañaspa aski sarawinaka ukjamaraki aka pacha samana askina uñjasa. 
-II. K’acha marka yänaka uñjiri ayllunakanxa sarañanakaxa markanaka, patauraqina ukataxpueblos indígenaoriginario campesinos ukanakananayraru sartañapatakixa Estado ukaxa jach’añchaniwa ukjamaraki jark’aqarakiniwa. 
-338 Kamachi. 
-Estado ukaxa qamawi taypina irtañaki irnaqawxa aski irnaqawjamru uñt’iwa ukjamaraki jakthapiñapawa cuentas públicas ukjamarjama. 
-PUSÏRI JALJTA ESTADO UKANA YÄNAKA UKJAMARAKI QULLQINAKA CH’IQIYAWI 
-339 Kamachi. 
-I. Bolivia marka p’iqinchixa kumapachatixa jani walt’awinakaxa utjaspa, unxtasiwinaka, qullqita pisint’aña jani sayt’ayañatakixa mäkiwa mäkamchi apsuspa qullqi kamachi amta jani phuqhasa jan ukaxa jani walt’añanakawa utjaspa. Akjamanakati qullqi tukjañaxa janiwa uno por ciento ukata jilakaspati taqpacha presupuesto general jay sata mantawirjama. 
-II. Patrimonio Estado ukana yänakapaxa ukjamaraki entidades públicas taqi markachirinakana, jani ampara luqantkaya, inembargable, imprescriptible e inexpropiable ukjamawa; janiwa mayni sapataki aski a pnaqatakaspati. 
-Uñakipawipaxa, sutiñchatapaxa, apnaqawipaxa, uñjawipaxa, tumpawipaxa ukjamraki nayra amthapiwjamaxa kamachi taypiwa uñjatarakini. 
-III. Qullqi apthapiwinakaxa Estado taypiwa nayraru markan qullqita markachirinata sartawirjamwa Presupuesto General Estado kamachirjama tukjatarakini. 
-340 Kamachi. 
-I. Estado ukana paylawinakapaxa nacionales, departamentales, municipales, e indígena originaria campesinos ukjamaru t’aqanuqatawa ukatxa qullqi imawiparjamawa tukjasirakini. 
-II. Kamachi taypiwa qullqi mantawinakatxa nacionales, departamentales, municipales e indígena originaria campesinos t’aqanuqarakini. 
-III. Qullqi irtatanaka departamentales, municipales, autonomía indígena orinario acampesinas, judiciales, universitarios ukanakaxa janiwa Tesoro Nacional ukaru apthapitakaniti. 
-IV. Órgano Ejecutivo nacional ukaxak hakhinakwa qullqiamta lurañatakixa sector público ukatxa autonomías ukanakataki wakiyani. 
-341 Kamachi. 
-Departamentales yänakaxa aknirinakawa: 
-1. Departamentales kamachina waxt’awinaka. 
-2. Ch’iyara khusu umata qullqi irtawi kamachirjama chikañchasiwi. 
-3. Departamentales taypina aka pachana yänakata irtawi, yänakata irtawi, chaniñchatata, contribuciones especiales, alxasiwinakata. 
-4. Tesoro General de la Nación ukata maykiptawi markachiriru qullirinakaru, yatichawita, ukatxa jaqiru yanapawita. 
-5. Tesoro General de la Nación ukata maykiptawi kunjamtixa aka tayka kamchina 339. 
-I ukan qhanañchataki ukjamaru. 
-6. Créditos ukjamaraki empréstitos internos y externos ukanxa kunjamtixa thakhinchanakanxa endeudamiento público ukjamaraki sistema nacional de tesorería y crédito público. 
-7. Aski yänakata alxawita, jaqitaki lurawita ukatxa aparawinakata qullqi irtatanaka. 
-8. Markata waxt’ata, waxt’atanaka kipka yaqhanakampi. 
-PAYÏRI UÑAÑCHAWI AKA PACHA SAMANA, AKA PACHANKIRI YÄNAKA, URAQI UKJAMARAKI URAQINA QAMAWI NAYRÏRI JALJTA AKA PACHA SAMANA 
-342 Kamachi. 
-Estado ukata markachirinakata akapachankiri yänakata ukjamaraki akapacha yakirinakata aski aka pacha tukuyapxañapataki waqaychaña, jark’aqaña ukjamaraki askiru tukuyaña. 
-343 Kamachi. 
-Markachiriru aka pacha samana apnaqawinxa sikt’atañapa ukatxa yatiyatañapa amtawinaka phuqhawina ukana derecho ukaniwa ukatxa jani walt’awixa aka pacharu utjaspa. 
-344 Kamachi. 
-I. Jaqi jiwayañanaka luraña, jani walt’ayiri yänaka, biológicas y nucleares ukatxa apantaniña aka yänaka, apnaqaña, imaña ukatxa jani wali q’aphinaka Bolivia markana lurañaxa juchawa. 
-II. Estado ukaxa luratanaka, alxañanaka ukjamraki empleo de técnicas, insumos y sustancias usuni katuyirinaka ukjamaraki aka pacharu jani walt’ayirinaka apantaniñatakixa uñaqarakini. 
-345 Kamachi. 
-Akapachaapnaqawiamtawinakaxa akanakawa: 
-1. Wakichawina ukjamaraki apnaqawina chikanchasiñanaka marchirina uñaqawipampi. 
-2. Uñaqawina phuqhawi ukataxa akapacha yäparu uñjaña, kunaymana lurawinakata akapacha jani walt’ayiri uñjaña aka pacha samanaru ukatxa akana jakirinakaru ñanqhachaspa ukanakata uñaqaña. 
-3. Khitinakatixa lurawinakana aka pacha samana ukjaxa taqpacha jark’aqawi kamachirjamawa juchancharakispa. 
-346 Kamachi. 
-Aka pacha nayra jakiri yänaka taqiniwa uñjapxañasaukanakaxa saki nayraru sartañataki yänakawa. 
-Aqaychawi ukjamaraki yänaka askitukuyawixa estado ukana amaparanakapankiwa uñjawixa ukatxa janiwa aka pachankiri yánakampixa kunsa turkaskaspati. 
-Apnaqawinakapatakixa kamachi taypiwa qhanachatarakini. 
-347 Kamachi. 
-I. Estado ukampi markachirinakampiwa aka pacharu jani walt’ayirinakaruxa jani aka marka uraqi ñanqhachañapataki ch’amachapxani. 
-Khitinakatixa aka pacha ñanqhachapxaspa ukjaxa aka pacha jark’aqaña kamachirjamawa wayxatataspa. 
-II. Khitinakatixa aka pacha samana jani walt’ayapkani ukanakaxa mákiwajark’aqapxañapa, t’akuyapxañapa, qhisphiyapxañapa, tutiyapxañaparaki ukatxa jaqinakaruwa jani usuntayaspa ukatxa wañsuta aka pachankiri yänakata pachparu jark’aqaña. 
-PAYÏRI JALJTA AKA PACHANKIRI YÄNAKA 
-348 Kamachi. 
-I. Aka pachankiri yänakaxa qhuyanaka, ch’iyara khusu uma, uma, samana, uraqi, manqha uraqi, ch’uminaka, aka pachana jakirinaka, aka pacha qhana kunaymana jathi yänaka yaqha aski yänakampi ukanakawa. 
-II. Aka pachankiri aski yänakaxa taqitaki aski nayraru sartañatakiwa. 
-349 Kamachi. 
-I. Aka pachankiri yänakaxa Taqi markachirinkiwa apnaqawi thakhixa markachirinakana amtaparjamaxa estado ukana amparapankarakiwa. 
-II. Estado ukaxa sapa jaqina uraqinakapa ukataxa qutu jaqina uraqipanaka lurawina ukjamaraki askiru kutuyawiru uñt’araki, yäqaraki ukjamaraki luqtarakini. 
-III. Yapuchawi ukatxa uywacahawi jani jark’ata uywanakata katjaña ukjamaraki jiwayaña ukanakaxa kamisatixa pusïri t’aqana estructura y organización económica ukata qhanañchataki ukjamaru phuqhañawa. 
-350 Kamachi. 
-Jark’ata uraqinakata sutipa luqtataxa jani inaruwa tuku inasa wakiskiri estado ukana taqinitaki aski kamachi taypi wakischispa. 
-351 Kamachi. 
-I. Estado ukaxa uñaqawi, uñjawi, apsuwi, askiru tukuyawi, apawi ukjamaraki alxawi aski akapachankiri yänakatxa entidades públicas, cooperativas o comunitarias ukatxa empresas privadas ukjamaraki empresas mixtas ukanaka taypiwa uñjarakini. 
-II. Estado ukaxa aka pachankiri yänaka aski tukuyañatakixa persona jurídicas aka markankiri jan ukaxa anqa markankirimpixa contratos satanakxa qillqantaspawa. 
-Ukatxa qullqi kutjawija pachpa markana qhipharañapa. 
-III. Aka pachankiri yänaka phuqhawi ukatxa apnaqawixa markachirinakampi chikasawa sectoriales amtarjama lurasirakini. 
-Phuqhawi ukatxa apnaqawinxa entidades mixtas ukjamanakaspawa ukatxa ukanakaxa representación estatal y de la sociedad markachirinakana tuwaqiripxiwa. 
-IV. Empresas privadas, bolivianas extranjeras ukanakaxa yänaka apsusaxa qullqi irtapxañapawa ukatxa waxt’apxañapawa ukatxa walja yänaka apsutarjamaxa churapxañaparakiwa. 
-Yänaka apsuwitxa w axt’apxañapawa ukatxa tta kamachirjamawa ukjamaraki kamchirjamawa uñaqatarakini. 
-352 Kamachi. 
-Aka pachankiri yänaka aka uraqita apsuñaxa jani walt’ayata marchirinakaruwa estado ukata ijskt’awi wakt’ayatarjamaniwa ukatxa qhispkhita yatiyañawa. 
-Markachirinka chikañchasiwipaxa aka pacha samana apnaqawinxa jay sasiwa ukjamaraki aka pachampi chikt’ata jakirinakaxa tayka kamchirjama ukatxa kamachirjama ch’amañchaña. 
-Naciones y pueblos indígena originario campesinos thakhi sar awinakaparjamawa jikt’awixa phuqhasirakini. 
-353 Kamachi. 
-Bolivia markachirinakaxa khaskhatawa aka pachana yänaka askiru tukuyawitxa katuxani. 
-Kawkmiri uraqinakantixa aski yänakaxa jiqxatatachini ukjamaraki naciones y pueblos indígena originario campesinos ukanakana chikañchasiwinakapaxa wakisirakiniwa. 
-354. Kamachi. 
-Estado ukaxa aka pachana yänaka ukjamaraki kunaymara aka pachana jakirinakatxa yatxatawi apnaqawina, waqaychawi ukjamaraki aka pachana yänaka askiru tukuyawi jach’añchayi ukjamaraki naynaru sarantayi. 
-355. Kamachi. 
-I. Aka pachankiri yänaka askiru kutukuyaña ukatxa alxañaxa Estado ukana amparapankiwa. 
-II. Aka pachankiri yänaka apsutatxa ukatxa alxatatxa ukaxa taqi Bolivia pachpana kunaymana uraqinakaruwa qullqixa mayjt’ayata ch’iqiyatarakini ukjamaraki mayampi tukjatarakini. 
-Ch’iqiyawi porcentual ukaxa kamachi taypiwa jay starakini. 
-III. Askiru tukuyaña aka pachankiri yänakaxa kawkhantïutjkiukjanwalurasirakiniukatxaaka pachpa markana ukjamaraki anqa markana aski atipt’siwirjamawa uñstayatarakini. 
-356 Kamachi. 
-Jani mayampisa apskaya aka pachankiri yänaka uñakipawi, apsuwi, yäparu tukuyawi, aski yänakaru tuyawi, q’ipsuwi, alxawi ukanakaxa Estado ukana ukatxa taqitaki wakiskiriwa. 
-357 Kamachi. 
-Taqi markachirinakankirjamaxa janiwa khiti jaqisa egresa extranjera, empresa privada boliviana aka pachankiri yänakaxa sutixaru anqa makana qillqantaykaspati ukatxa janirakiwa qullqi mayt’asiñatakisa, apsuñatakisa apnaqkaspati. 
-Jark’ata aka pachankiri yänakan aqillqantawipaxa Estado ukana phuqhawipawa. 
-358 Kamachi. 
-Aka pachankiri yänaka apnaqaña ukatxa askiru tukuyañaxa derecho ukaxa tayka kamachina qhanañchataki ukjamaraki kamchinsa ukjamarjamawa phuqhapxañapa. 
-Aka derechos ukanakaxa kamisakixa sapa kutixa yäparu uñaqataki, qullqinaka ukjamaraki aka pacha askiru tukuyirinaka ukarjamawa phuqhasirakini. 
-Aka kamachiru jani phuqhañaxa apnaqawi derecho ukaxa askiru tukuyañaxa kutkatayataspawa jani ukaxa ina ch’usaru tukuyataspawa. 
-KIMSÏRI JALJTA CH’IYARA KHUSU UMATA 
-359 Kamachi. 
-I. Ch’iyara khusu umanakaxa kunjamasaja jiqxatasipana janiwa alxkatatakaspati ukjamaraki imprescriptible ukama taqi Bolivia ukana markachirinkipankiwa. 
-Estado ukakiwa Bolivia markachirina sutipxaruxa Bolivia markankiri ch’iyara khusu umanakxa alxañatakixa jay sataraki. 
-Taqpacha ch’iyara khusu uma qullqi irtatanakaxa Estado ukankiwa. 
-II. Janiwa contrato, mayachasiwi, aruskipawi, chiqapata jani ukaxa maysata, aka kamchina utt’ayatarjamaxa mayjt’aykaspati. 
-Mayjt’ayaspa ukjaxa uka contratos taqi ukanakaxa ina ch’usaruwa tukuspa ukatxa ukjamaraki luririnakaxa aka markaru sallqantiripxiwa. 
-360 Kamachi. 
-Estado ukaxa ch’iyara khusu umata utt’ayarakini ukatxa nayraru satawipa, jani tukusiñapa, kikipa, ch’amanchi ukjamaraki soberanía energética jay saraki. 
-361 Kamachi. 
-I. Yacimiento Petrolíferos Fiscales Bolivianos (YPFB) ukaxa ch’iyara khusu uma amtawirjamaxa janiwa jark’atakaspati, pachpana apnaqata, jichha yäpa amta taypi ukjamaraki qullqi taypi, ch’iyara khusu umaxa taqinina derecho qullqichasiwipawa. 
-YPFB ukaxa Ministerio ch’iyara khusu uma ukawa jark’aqaspa ukjamaraki umaspa amparankirjamaxa apsuwixa aka taypikiwa ch’iyara khusu uma apsuwixa ukataxa alxawixa jay satarakispa. 
-II. YPFB ukaxa derechos ukatxa phuqhawinakapxa satatsa ukjamaraki jani satatsa, chiqapa ukjamaraki maysatsa janiwa churkaspati. 
-362 Kamachi. 
-I. YPFB ukaruxa taqinina qullqichasiwipampixa, mixtas o privadas, aka pachpankirinakampi jani ukaxa anqa markankirinakampi ukanakampixa irnaqawi amtakanxa qillqantaspawa taqi uka qullqichasirinakaxa sutipxaru lurawi apsuwinakapatxa qullqi churapxañapawa. 
-Irnaqawiamtaqillqantawisti janiwa kunakispansa YPFB Estado ukatakixa qullqi p’akintawikaspaki. 
-II. Irnaqawi amtanakaxa ch’iyara khusu uma uñakipañatakixa ukatxa apsuñatakixa Asamblea Legislativa Plurinacional taypiwa arsutaparjam ukatxa jay sataparjamawa lurasirakini. 
-Janitixa akjamaru phuqhaskanixa ina ch’usaru ukatxa inawa taripirinakasa kunsa saskaspa ukjamaruwa tukuspa. 
-363 Kamachi. 
-I. Empresa Boliviana de Industrialización de Hidrocarburos (EBIH) ukaxa janiwa jark’atakaspati, pachpana apnaqata, jichha yäpa amta taypi ukjamaraki qullqi taypi ukatxa Ministerio ch’iyara khusu umata apnaqirita ukatxa YPFB ukanakawa jark’aqaspa ukjamaraki imaspa ch’iyara khusu umxa ukanakaxa ch’iyara khusu uma amtawirjamaxa taqinina derecho qullqichasiwipawa. 
-EBIH ukakiwa Estado ukana sutipxaruxa Bolivia urqpachana ch’iyara khusu umatxa aski yänakaru tukuyarakispa. 
-II. YPFB ukaxa asociaciones jani ukaxa sociedad mixta uñakipañataki, apsuñataki, aski yänakaru, q’ipnaqaña, alxaña taqi ukanaka ch’iyara khusu umata lurañataki wakicharakispa. 
-Aka asociaciones jani ukaxa sociedades ukanakanxa YPFB munasa jani munasawa phisqa tunka mayani del total del capital público ukana chikañchasirakini. 
-364 Kamachi. 
-YPFB ukaxa Estado boliviano sutipxaruxa yaqha markanakanxa derecho de propiedad phuqharakini ukjamaraki lurarakini. 
-365 Kamachi. 
-Mä institución ukaxa jamiwa jark’atakaspati, jichha yäpa amta taypi ukjamaraki qullqi taypi ukatxa pachpata apnaqata Ministerio ch’iyara khusu umata apnaqirita jark’ata ukatxa imata ukjamawa ukampirusa ukakirakiwa uñch’ukiña, uñaqaña, jak’ata uñch’ukiña ch’iyara khusu uma amtarjamaxa kamachi taypixa apsuwipata ukatxa aski yänakaru tukuyawkamaxa Ministerio ukana amparapankiwa. 
-366 Kamachi. 
-Taqpacha anqa markata qullqichasirinakaxa ch’iyara khusu uma a psuwinxa kunjama tixa kamachinakaxa ukaxta piqinchirinakaxa utji ukjamaruwa jay sapxani. 
-Janiwa kunakipansa thirurusa anqaxa taripirinakaruxa kunayamana yanapawinaka mayipkaspati janirakiwa anqa markana arsurinakarusa mayipkaspati arxatawxa. 
-367 Kamachi. 
-Ch’iyara khusu uma apsuwi, mayiwi ukjamaraki alxawixa ukatxa aski yänakaru tukuyawixa nayraru sartawi amtarjamawa pacha markana jani pist’añapatakixa jay satani. 
-Anqa markaru jilt’a apsuwixa walja qullqi utjayaspa. 
-368 Kamachi. 
-Departamentos ukanakana ch’iyara khusu uma utjatapatxa once por ciento utjawipatxa ch’iyara khusu uma apnaqiritxa katuqapxani. 
-Ukapachparaki jani utjayiri departamentos ukanaxa Tesoro General del Estado taypixa kamachirjama katuqawipaxa uñjatani. 
-PUSÏRI JALJTA QHUYA UKJAMARAKI QHUYANAKATA LURAWI 
-369 Kamachi. 
-I. Uraqi qhuyanakaxa kawkhantï uraqi ukjamaraki uraqi manqhana jikqhatatäki Estado ukana amparapankiwa ukatxa phuqhawipaxa kamachi taypiwa khuskhachatani. 
-Qhuya apsurinaka estatal ukankirinakampi, privadas ukankirinakampi ukjamaraki cooperativas ukankirinakaruwa uñt’atani. 
-II. Aka pachankiri yänakaxa jani jayunaka taypina qhutyanakaxa utjawipatxa, jalsu jayu uma, umata jujuriri, ukatxa yaqhanakampi markatakixa aski utjirinakawa. 
-III. Jach’anchawi, uñañchawi ukjamaraki aski qhuya apnaqawixa Estado ukana amtaparjamawa amparapankirjamaxa phuqhatani. 
-IV. Estado ukaxa qhuya apsuwi uñaqawxa ukjamaraki jak’ata uñaqawxa kunaymana irnaqawinakanxa uñaqawi phuqharakini ukataxa derechos ukanaka qhuyana irnaqirinakaruxa, irnaqawi amta jani ukaxa derechos preconstituidos phuqhapxaspa. 
-370 Kamachi. 
-I. Estado ukaxa derechos qhuyana irnaqirinakaruxa luqtaniwa ukatxa sapa jani ukaxa qutuchata kamachirjama wakt’ayataki ukarjamawa lurawi amta qillqantani. 
-II. Estado ukaxa cooperativas mineras ukanakaruxa qullqimpi nayraru markaru satawitxa jach’añchaniwa ukjamaraki ch’amañchaniwa. 
-III. Derecho minero taqpacha cadena productiva qhuya amtanxa aski qullqi irtäwi jaqitaki chiqapa irnaqirinakataki askiñapawa. 
-IV. Derecho minero ukaxa akjamanakata utt’ayatawa qullqi irtawi ukjamaraki irnaqawi amatawi, uñaqawi, apsuwi, tantachawi, aski yänakaru tukuyawi jani ukaxa alxawi taqi ukanaxa ukankirinakankiwa. 
-Aka derecho ukaruxa kamachi taypiwa wakisiripaxa wakt’ayatani. 
-V. Irnaqawi qhuya amtaxa irnaqirinakaruxa askinjama nayrary sartaña ukatxa markaru qullqimpi nayraru sartayaña phuqhañapawa. 
-Aka phuqhawixa jank’a lurawiruwa phuqhani. 
-VI. Estado ukaxa qhuya nayraru sartayañatakixa pachpa yänaka uñjirinakata ukatxa apnaqawi amta, uñaqawi, apsuwi, aski yánakaru tukuyawi, alxawi, yant’awi jani ukaxa yatiyawi, urraqi uñakipawi, aka pachankiri jani miriri yänakana jach’añcharakini ukjamaraki nayraru sarantayarakini. 
-371 Kamachi. 
-I. Qhuya apsuwi uraqinakaxa janiz kunakipansa alxkatatakaspati, inaki churakarakispati, ukaxa wiñaya kankirinakwa. 
-II. Qullqichasiwi apsurinakaxa kawkhantixa qhuyaxa utjki ukjanwa utnuqayasipxaspa. 
-372 Kamachi. 
-I. Plantas industriales ukjamaraki fundiciones ukanakaxa patrimonio del pueblo grupos mineros nacionalizados ukanakakxiwa ukatxa ukanakaxa janiwa khitirusa kunakipansa alxkatatakaspati. 
-II. Dirección ukjamaraki apnaqawixa qhuyata aski yänakaru tukuyawixa kamachirjamawa yänakapampi phuqhatani. 
-III. Estado ukaxa aski yäkan qhuayanakata tukuyawitxa ukatxa jani qhuyanakatxa kamachirjamawa chikachasini. 
-IV. Machaqa qullqichasiwi aski yänakanjamaxa Estado taypita utt’ayatanakaxa pachpa departamento taypinwa walja qhuyanaka utjataparjamaxa Potosí, Oruro, ukanaka taypinwa utt’ayasipxaspa. 
-PHISQÏRI JALJTA UMANAKATA 
-373 Kamachi. 
-I. Umaxa aski derecho jakirinakataki soberanía del pueblo taypina utt’ayatawa. 
-Estado ukaxa apnaqawiukjamarakijak’achawiumataypinxa akjama amtawinakampiwa phuqhachawimpi, aynimpi, kikipa, kunaymana ukjamaraki jani pist’añampi ch’amachani. 
-II. Umaxa kunaymana tukuyawina uraqi patxana ukjamaraki uraqi manqhana jani tukuskiri, apnaqatapuni, estratégicos ukjama utt’ayatawa ukatxa jaqitaki qamawina ukatxa pacha taypinxa puqharakini. 
-Aka umaxa janiwa uma ukjatxa khitisa katuntatakaspati janirakiwa alxkatatakaspaki ukatxa kamachirjamawa mayiwinakaxa, qillqantawinakasa ukjamaraki jay sawinakasa jay satañapa. 
-374 Kamachi. 
-I. Estado ukaxa jakawitakixa umxa jark’aqani ukjamaraki aski qamawitaki jay sani. 
-Uma apnaqawinxa chikachawi, jark’aqawi, amtawi ukanakanxa markachirinakampi chikanchasisawa taqi markachirinakataki taqi ukaxa estado ukana phuqhawipawa. 
-Kamachi taypiwa aski apnaqawja ukjmaraki jani apnaqawxa phuqhayarakini. 
-II. Estado ukaxa aski uma apnaqawxa ukatxa janiumapisintawinxaqutuchatanakaindígena originaria campesinas saranakaparjamawa apnaqawxa uñt’ani, yáqani ukjamaraki tuwaqani. 
-III. Jalsu umanaka, jallu umanaka, uraqi manqha umanaka, qhuya umanaka, qullaumanaka yaqhanakampixa estado ukana uñjawipawa ukatxa uma imaña, tuwaqawi, imaña, uma jalsu lurawi, jani pisintawi ukjamaraki taqi apnaqawinakaruxa jay sani; janiwa alxkatatakaspati, inembargables ukjamaraki imprescriptibles ukjamawa. 
-375 Kamachi. 
-I. Estado ukana nayraru uma apanaqawi amtawi ukatxa imawi ukjamaraki aski tukuyawiru jani pisintawi jach’a jawiranaka phuqhawipawa. 
-II. Estadoukaxaumaapnaqawinxaqhich’añataki, manq’awitaki ukjamaraki kunaymana lurawitaki ayllunakana sarawinakaparjama yäqasawa chikachani. 
-III. Estado ukana uma qutuchata uraqi manqhana yatxataña jark’aqawi, apnaqawi ukjamaraki jani tukusiñapataki apnaqawi phuqhañapawa. 
-376 Kamachi. 
-Recursos hídricos sata jawiranakata, jach’a qutanakata, ukjamaraki qutanakata jach’a jawiranaka askitaparjamaxa ukatxa kunaymana aka pachankiri yänaka ukanakawa ukatxa ukanakxa aka pachankiri jakirinakataki ukjamaraki nayraru sartañataki amuyatawa. 
-Estado ukaxa uma yuriri ukjamaraki jawira lakanakatxa jani walt’awiru tukuyaspa jani ukaxa psiqtayaspa taqi ukanaka uñjani ukatxa suma markasana qamawi uñjarakini. 
-377 Kamachi. 
-I. Taqi uma amta anqa markampixa Estado ukaxa aka markana qamirinakaruwa ukjamraki estado ukana amtanakapa laqanchani. 
-II. Estado ukaxa qurpasiwinakanxa ukatxa maysa markampi qurpasiwinxa uma jark’aqawxa jark’aqani uka jark’aqawimpixa akankiri markanakaruwa mayachasa jach’añchani. 
-SUXTÏRI JALJTA YÄNAKA NAKTAYIRINAKATA 
-378 Kamachi. 
-I. Kunaymana yänaka naktayirinakaxa ukjamaraki uñstawinapaxa askipxiwa apnaqawipaxa aski derecho ukjamawa nayraru markasa sartañapataki ukatxa askinjamawa phuqhañapa aka pacha samana uñjasa sarantarakini. 
-II. Estado ukana nayraru sartawi naktayiri yänakaruxa, q’ipnaqawipatxa ukjamraki ch’iqiyawipatxa empresas públicas, mixtas, instituciones jani amt’añampi qamiriptañataki, cooperativas, empresas privadas ukjamaraki empresas comunitarias taypiwa markachirimpi chikañchasisa ukjamaraki uñaqasa phuqhawipawa. 
-379 Kamachi 
-I. Estado ukaxa naktayiri yänaka yatiñataki ukjamaraki apnaqañatakixa naynaruwa laqañchayani ukjamaraki jach’añcharakini aka pacha samanampi chikt’ayasa. 
-II. Estado ukaxa qhantayiri yänakxa aka markanxa utjawipxa jach’añchayaniwa; jilt’anaka anqa markaru apsuwixa aka pacha markatakiwa qhipharañapa. 
-PAQALLQÜRI JALJTA KUNAYMANA JAKIRINAKATA, INAL MAMA, JARK’ATA URAQINAKATA UKJAMARAKI QUQANAKATA NAYRÏRI T’AQXTA KUNAYMANA JAKIRINAKATA 
-380 Kamachi. 
-I. Aka pachankiri miriri yänakaxa jani chhaqhayaña amtampiwa yäqata jaqha aka pachankiri jakirinakampiwa yäparu lurawipaxa luratarakini. 
-II. Aka pachankiri jakirinakampi ukaxa aka pacha samanampi chikañchayañatakixa uraqinakaxa kunaymana lurawinakanxa askinjamawa sarawinakarjama, amta-nakarjama, jakirinaka utjataparjama apnaqasiñapa. 
-Phuqhawipxa kamachi taypiwa chikachatani. 
-381 Kamachi. 
-I. Uraqina jakirinaka uywanaka ukjamaraki kunaymana ch’uxña ququnakaxa aka pachankiri patrimonio ukjamawa. 
-Estado ukawa waqaychawipa ukatxa askiru tukuyawipxa yäparu utt’ayarakini. 
-II. Estado ukaxa taqpacha aka pachankiri jach’a ukjamaraki jisk’a jakirinakatxa aski lurawipata ukatxa apnaqawipata jark’aqarakini. 
-Jark’aqawipatakixa qillqawi taypiwa utt’ayasirakini ukaxa jakawipa jark’aqarakini ukjamaraki Estado ukatawa yatxatarakini mayitarjama. 
-Jani yänaka tumpthapitanakaxa Estado ukaxa kamachi taypiwa jark’aqawipxa utt’ayarakini. 
-382 Kamachi. 
-Estado ukaxa aka pachata aski jakiri yänaka misturi yänakwa jark’aqawi, pachparu kutt’niwi, anqa markata aptaniwi nayra yatiwirjama ukanakata phuqhañapa ukatax yaqhanakampi uñstaspa ukanakatsa uka pachparaki. 
-383 Kamachi. 
-Estado ukaxa kunaymana phuqhata jani ukaxa chikata, mä juk’a pachatakiki jani ukaxa jaya pachataki kunaymana aka pachana jakiri yänaka apsuñanakatxa amta wakiyani. 
-Amtanakaxa aka pachana jakiri yänaka askina jark’aqañataki, waqaychañataki, kutkatayasiñataki jani chhaqtañapataki ukjamaru amtaxa wakt’ayatawa. 
-Aka pachana jakiri yänaka jamasata uywawi ukatxa apnaqawixa juchachasitarjamawa juchañchatarakini. 
-PAYÏRI T’AQXTA INAL MAMA 
-384 Kamachi. 
-Estado ukaxa nayratpacha ukatxa sarawinakarjamaxa mirirjmaxa aka pachana jakirjamaxa aruskipawitaki askitaparjamxa inalmamaruxa jark’aqiwa; ukatxa uñjataparjamaxa janiwa jani kali ch’uxña alikiti. 
-Amthapiwipaxa, yapuchawipaxa, alxawipaxa, aski yäru tukuyawipaxa kamachi taypiwa sarayatani. 
-KIMSÏRI T’AQXTA JARK’ATA URAQINAKATA 
-385 Kamachi. 
-I. Jark’ata uraqina aski markata nayra pachata katuta miriri yänakaxa ukatxa taqinina taqi ukanakawa; ukampirusa aski samana, sarwi, markachiritaki, qullqichasiñataki jani chhaqtayasa nayraru sartañataki ukanaka phuqhi. 
-II. Kawkhantixa jark’ata uraqinakana ukjamaraki indígena originario campesinos uraqipanakana qamantawixa utjaspa ukaxa gestión compartida ukaxa Pueblos indígena originario campesinos ukanakana sarawi thakhinakaparjama yäqasawa jark’ata uraqinakana uñstawipaxa lurasirakini. 
-PUSÏRI T’AQXTA QUQANAKATA 
-386 Kamachi. 
-Quqanakaxa ukjamaraki quqani uraqinakaxa aka Bolivia marka nayraru sartañatakiwa. 
-Estado ukawa ayllunakaru ukatxa apsurinakaru derechos ukanakxa apsuñataki uñt’arakini. 
-Pachparakiwa jani tuksuwi ukatxa yäparu apnaqawi, qullqi irtawi, wasitata lurawi, q’ara uraqinakana ayruwi ch’amañcharakini. 
-387 Kamachi. 
-I. Estado ukaxa jani jaqina ayruta quqanakani uraqinakxa jani tuksusa apsuwi, waqaychawi ukjamata uywanaka ukatxa ch’uxña achunaka jay saña phuqhaña. II. kamachi taypiwa jark’aqawipaxa ukatxa apsuwipaxa kunaymana aski ququqnakatxa sarawirjama, qullqichasiwirjama, aka pachankiri jakirinakampi aka pacha samanampi yäpataki chikañchayatarakini. 
-388 Kamachi. 
-Indígenas originarias campesinas ayllunakatixa jark’ata uraqinakankchixa juma nakawa phuqhawi amtarjamaxa ukatxa kamachina qhanañchatarjamaxa apsupxaspa. 
-389 Kamachi. 
-I. Ch’umiurqimayjt’awixayapuchawinakatakixa kunjamatixa ukataki wakiyataki wakichawi amtarjamaxa ukjamaraki kamchirjamxa ukamaruwa phuqhasirakini. 
-II. Servidumbres ecológicas ukjamaraki zonificación pachpana apnaqawixa jaya pachana jani tukusiñapataki ukatxa uma jalsuwisa ukatakixa kamachi taypiwa qhanañchatani. 
-III. Taqpacha uraqi jani yapuchañataki t’aqataki uka mayjt’ayawixa juchawa ukjama luririnakaruxa jani wali lurawipatxa tutiyarakispawa. 
-KIMSAQALLQÜRI JALJTA CH’UMI JAWIRA 
-390 Kamachi. 
-I. Bolivia markana ch’uminkiri jach’a jawiraxa aski nayraru sartañataki aski aka pachankiri jakirinakata ukatxa umanakata regiones ukanakana aski samanañchiri ukanakata utt’ayatawa. 
-II. Bolivia markana ch’uminkiri jach’a jawiraxa taqpacha departamento de Pando, provincia Iturralde La Paz departamento unta ukatxa provincias de Vaca Diez ukjamaraki Bollivian Beni departamento ukatanakatawa utt’ayatawa. 
-Aski ch’umi uraqi nayraru sartayawixa kunaymana ch’uxña quqanaka utjataparjamaxa pachpa markachirinakataki aski ukjamaraki aka markpachataki aski ukjamarjamawa kamachi taypi sarayatani. 
-391 Kamachi. 
-I. Estado ukaxa jani tuksiñampi aski apnaqawi, chikachasiwi, kikipa ukjamawa ch’umi uraqinakatxa nayraru sartayawxa mäki amtarakini. 
-Apnaqawixa irnaqawi utjayañataki ukjamaraki markachirinakana qullqi irtasiwipataki jark’aqasa ukatxa jani aka pacha samana ñanqhachawi uksaruwa uñtayatani 
-II. Estado ukaxa qullqi mayt’awi k’acha lurawinakataki, aski samanani k’acha lurawinakati u katxa pachpana aski amtawinaka ch’amañcharakini. 
-III. Estado ukaxa indígena originario campesinas ukana p’iqinchiripampi chikt’asaxa ukjamaraki ukana jakiri markachirinakampixa mä aski qutuchawi sapjtata pachpana irnaqawi utani kunaymana nayraru sartañataki lurawinaka uñstayarakini. 
-392 Kamachi. 
-I. Estado ukaxa naciones y pueblos indígena originario campesinos ukana jakirinakatakixa aski jakasipxañapatakixa kunaymana lurawinakana, yänaka aski yänakaru tukuyawinxa, alxasiwina, jark’aqawina, waqaychawina ukatxa nayra lurawinaka ch’amañachañatakixa aski amtawinaka wakiyarakini. 
-II. Sringa ukatxa castaño ukanakaxa nayra aski sarawi yätapatxa ukjamaraki qullqi irtasiñapatxa uka ch’umi jawiranxa ukama uñt’atawa khuchhurawipasti juchañchatawa inasa taqinitaki amtarjama kamachi taypi chiñchayatachispa. 
-LLATUNKÏRI JALJTA URAQI UKJAMARAKI URAQINA QAMIRI 
-393 Kamachi. 
-Sapa jaqina uraqipa jani ukaxa comunitario uraqi ukjamaraki qutu jaqina uraqipa markachiritaki, qullqi irtasiñataki askïchi ukaxa Estado ukaxa uñt’araki, jark’aqaraki ukatxa jay saraki. 
-394 Kamachi. 
-I. Propiedad agraria individual ukaxa kimsaruwa jaljti tantiyu, ukjamaraki qullqichasiñataki ukaxa urakitjam lurañataki ukatxa nayraru sartañataki ukjama t’aqxatawa. 
-Walja ukatxa juk’a uraqinakaxa ukampirusa kutkatayañanaxa kamachi taypiwa chikañchayatani. 
-Uraqi qhanata alasirinakaruxa indígena originario campesina taypina jay satawa. 
-II. Jisk’a uraqinakaxa janiwa t’aqanuqatakaspati janirakiwa alxkatatakaspati wila masina askina katura uraqiwa ukatxa janiwa qullqixa irtatakaspati. 
-Jisk’aru t’aqanuqawixa janiwa derecho de sucesión hereditaria ukaru kamachkisa kamachina qhanañchataniwa. 
-III. Estado ukaxa propiedad comunitaria jani ukaxa qutuchatasa ukanakxa uñt’iwa, jark’aqiwa ukjamaraki jay sarakiwa ukaxa indígena originario campesina, comunidades interculturales originarios ukjamaraki comunidades campesinas ukanakata utt’yatawa. 
-Qutu uraqixa janiwa jaljatakaspati, imprescriptible, inembargable, janiwa ina ukjamaki churatakaspati, irreversible ukjamarakiwa ukatxa propiedad agraria ukaruxa Janiwa chaniñchatakaspati. 
-Comunidades ukanakaxa phuqhasiwi qutu derecho uñt’atarjama ukjamaraki sapata mayachata marka yäqasawa sutinchataspa. 
-395 Kamachi. 
-I. Fiscales uraqinakaxa indígena originaria campesina, comunidades interculturales originarias, afrobolivianas ukanakaruwa luqtatani ukanaxa janiwa uraqinipxañapakiti, jisk’a uraqininaka ukjamapxañapawa ukatxa Estado ukana amtaparjamaxa jani wali uraqini markachirinakana mayitaparjama, qullqi irtasiwirjama, sarwinakarjamawa phuqhasirakini. 
-Uraqi luqtawixa nayraru sartawi amtarjamawa chacha warmiru jani jisk’achasa t’aqanuqawinxa phuqhasirakini. 
-II. Janiwa pä kuti uraqixa churatakaspati ukatxa churata uraqixa janiwa alxatakaspati janirakiwa yaqhampi turkatakaspati. 
-III. Taqina aski amtaparu mayja amtaxa ukarjamaxa renta fundiaria katuqawixa ukaxa uraqita jani wali sataxa janisatawa. 
-396 Kamachi. 
-I. Estado ukawa uraqi alxaña qhatxa jani mayniki walja uraqi katuntasiñapatakixa kunjamatixa kamachina qhanañchataki ukatxa jisk’a uraqi t’aqanuqawixa chikañchayarakini. 
-II. Anqata chacha warmi mantanirinakaxa janiwa kunakipansa Estado ukatxa uraqi katuqapkaspati. 
-397 Kamachi. 
-I. Uraqiniñataki ukjamaraki waqaychañatakixa wali askiwa agraria uraqinxa irnaqañaxa. 
-Uraqinakaxaaskiphuqhawijaqitakijaniukatxa jaqina qullqichasiwi derecho jark’aqañataki aka pachankirjamaru phuqhañapawa. 
-II. Aski phuqhawi jaqitakixa saña muniwa uraqi askinjama apnaqaña ukaxa pueblos y comunidades indígena originario campesinos kunjamatixa jisk’a uraqina lurasipki uka taypiwa nayararu jakawina sartañataki. 
-Aski phuqhawi jaqitakixa comunidades taypiwa phuqhasirakini. 
-III. Askiqullqichasiwijaqitakixaukaxakunaymana achunakana ukatxa lurawinaka jani uraqi ñanqhachasa taqinitaki aski amtarjama luraña saña muniwa. 
-Qullqichasiwi uraqixa kamachirjamawa aski irnaqawixa ukatxa yapuchawixa uñjatarakini. 
-398 Kamachi. 
-Latifundio ukjamaraki pä titulación ukani contrarios al interés colectivo ukjamaraki desarrollo del país, sarawiruxa janiwa jay satakaspati. 
-Latifundio uksata improductiva uraqi sataruwa amuyasi; kawkiri uraqiti jani función económica social ukampi phuqchi; uraqi taypita mä sistema de servidumbre, semiesclavitud janukaxa esclavitud kunaymana irnaqawina jilpacha superficie maxima zonificada sata kamachirjama uñt’atanxa wakt’ayi. 
-Superficie maxima ukaxa phisqa waranqha hectáreas satxa jilakipkaspati. 
-399 Kamachi. 
-I. Machaqa qurpasinakaxa propiedad agraria zonificada ukanaxa aka tayka kamachi utt’asitaruwa phuqhasini. 
-Akjamarjamaxa nayrakamachinaqhanañchatarjamaxajaniwa kutt’atakaspati uka kamachirjama katuta uraqinakaxa kamchirjamaxa yäqataukatxa uñt’atarakiwa. 
-II. Jilt’a uraqinakaxa aski qullaichawi jaqitakixa phuqhirixa aparataniwa. 
-Pä kuti churata uraqixa Consejo Nacional de Reforma Agraria ukana sutinchataxa nayriri kamachirjamawa phuqhasini. 
-Pä kuti churata uraqixa janiwa kimsïri katurinakaruxa phuqhawixa wakiskiti. 
-400 Kamachi. 
-Jani aski yäparu taqinitakjamaxa uraqi jisk’aru t’aqanuqawixa kamchina uñt’ataki uraqi uñxatasawa janiwa satani. 
-Estado ukaxa kamachirjamwa jani t’aqanuqañataki wakiyarakini. 
-401 Kamachi. 
-I. Uraqina jani aski jaqinataki uktaxa qullqi irtasiwinsa phuqkaspa ukjaxa uka uraqixa parataspawa Taqi markachirinakana amparanakapankxaspawa. 
-II. Uraqi aparawixa aski mayiwirjamawa ukatxa apnaqawirjama aski qullqi churasawa thakhinchatarakini. 
-402 Kamachi. 
-Estados ukaxa aknïri phuqhawinakaniwa: 
-1. Uraqina markachirinakaru utnuqawi yäparu t’aqanuqawiamtaukjamarakiaskiuraqiyäparu apnaqawi ukjamaraki akaa pachankiri yänaka ukampirusa machaqata utnuqayatanakaruxa yatiqawi, qullasawi, manq’aña ukatxa lurawi ukanaka Ordenamiento Territorial del Estado taypina aka pacha samana kuna ukanaka ch’amañchaña. 
-2. Warminakataki aski amtanaka uraqi katuwina ukjamaraki uraqiru churawita ukanakana kunaymana jisk’achawinakawa chhaqayaña. 
-403 Kamachi. 
-I. Indígena originario campesino Taqi uraqinakapaxa uñt’atawa ukaruxa chikañchasiwa aski irnaqawi ukatxa aka pachankiri yänaka askiru kamachirjama tukuyawi; uraqipanakana aski yänaka jani miriri apsuwita yatiyaña ukjamaraki chikanchasiwi; qamawi sarawinakaparjama apnaqawina ukatxa nayraru sartawina ukjamaraki aka pachankirinakampi aski jakawi. 
-Indígena originarios campesinos uraqinakaxa ayllunakata utt’ayataspawa. 
-II. Indígena originario campesino uraqinakanxa lurawi, aski lurañanaka ukjamaraki aka pacha yänaka waqaychawi ukatxa markachirinaka waljaptañapataki sarawinakampi chika ukanakawa. 
-Kamachi taypiwa derechos ukanakaxa uñt’atani. 
-404 Kamachi. 
-Servicio Boliviano ReformaAgraria ukatxa Bolivia marka apnaqiriwa p’iqinchirixa ukaxa wakichaña, phuqhaña ukatxa yäparu reforma agraria thakhinchi ukjamaraki Bolivia uraqpachana uta yatiyiriniwa. 
-KIMSÏRI UÑAÑCHAWI PATA TUQINA ASKI QAMAWI 
-405 Kamachi. 
-Desarrollo rural integral sustentable ukaxa Estado ukana qullqi amta taypinkiwa ukatxa kunaymana aski lurawinakaruwa comunitarios satanakaru pata uraqinkirinakaru lurawinaka ukataxa manq’añanakalaqanchayani akjamata: 
-1. Jach’añchawi yapuchawina, uywachawina, amparampi luwina, jichha pacha uñstawimpi lurawi ukjamaraki k’acha yänaka uñjawina. 
-2. Yapuchawina ukjamaraki jach’a uraqina yapuchawinaka chikachawi ukjamaraki phuqhachawi. 
-3. Yänaka pata uraqina yapuchata qullqimpi aski turkawiru yaqhanakampi phuqawi. 
-4. Indígenas Originario Campesinos ukanakana ayllunakapa jakawipa yaqaña. 
-5. Qutu yapuchawina ukatxa wila masina yapuchawina ukjamaraki qullqichasiwina ch’amañchaña. 
-406 Kamachi. 
-I. Estado ukaxa desarrollo rural sustentable amtanakarjama, wakichawinakarjama, amtanakarjama ukatxa yapuchawi, maparampi lurawina, quqa uywawina, k’acha yänaka uñjañana ukanaka lurañanakana jach’añchaña ukampirusa aka pachankiri yänaka aski luraña, aski yäparu tukuyaña ukjamraki alaxaña. 
-II. Estado ukaxa pata uraqina qullqichasiña qutunakaru ukanaxa amparampiyänaka luririnakaru, qutuchatanaka yapuchirinakaru ukjamaraki amparampi luratanakaru ukatxa jisk’a ukatxajach’a mayachata yapuchirinakaru qullqichasiñana markaru saranakaparjama yanapasitapata jach’añcharakini ukjamaraki ch’amañcharakini. 
-407 Kamachi. 
-Desarrollo rural integral del Estado ukana entidades territoriales autónomas y descentralizadas amtawinakapawa: 
-1. Soberanía ukatxa manq’añanaka aka uraqina yapuchatanaka yapuchawi jay saña. 
-2. Uraqisana achu puquwinakata jark’aqaña. 
-3. Achu yapuchatanaka ukjamaraki alxawixa aka pachan askiparjama jach’añchaña. 
-4. Yapuchawinaka ukjamaraki jach’a uraqina yapuchawinaka aka pachana ñanqhachawinakata jark’aqaña. 
-Kamachi taypiwa seguro agario wakichatarakini. 
-5. Kunaymata aski yapuchawi yatiqaña ukatxa aka pacha jani ñanqhachasa nayraru sartayaña ukjamaraki churaña. 
-6. Aski amtawinaka uraqi aka pachana jakirinakampi chikayasa ukatxa askinjama uñjasa ukjmaraki jani wali uraqinaka askiru tukuyasa utt’ayaña. 
-7. Qhich’anaka yapuchañataki jach’anchayaña. 
-8. Kunaymana yapuchawinaka aski jichha uñtata yänakampi yäparu tukuyaña ukjamaraki uñaqawi jaysaña. 
-9. Kunaymana jatha uta imañanaka ukatxa yatxatawinaka uñstawi utt’ayaña. 
-10. Kunaymana yapuchirinakaru jani aski uraqininakaru yanapawi ukjamaraki jach’añchawi amta utt’ayaña. 
-11. Jakiri yänaka ukjaramaki jathanaka markaru mantaniwipa ukatxa mistuwipa uñjaña. 
-12. Wakichawinaka achunaka usunakata ukatxa inocuidad alimentaría amtanaka utt’ayaña. 
-13. Luraña utanaka luraña ukjamaraki yanaka aski yänakaru tukuyaña ukatxa yapuchawina aski yänaka mayita churaña. 
-408 Kamachi. 
-Estado ukaxa jisk’a ukatxa tantiyu luririrnakaruxa yapuchatanakapatxa ukaxa uywachatanakapatxa yaqhanakampi chikayañatakixa qullqi irtawinxa nayraru sartañataki yanapaniwa. 
-409 Kamachi. 
-Lurawixa, apantaniwixa, alxawixa transgenéticos ukanakxa kamachi taypiwa chikachatani. 
-PHISQÏRI T’AQA KAMACHI UÑAQAWI UKJAMARAKI TAYKA KAMACHI MAYJT’AWI NAYRÏRI UÑAÑCHAWI TAYKA KAMACHI MAYJT’AWI 
-410 Kamachi. 
-I. Taqi markachirinakawa, naturales ukjamaraki jurídicas, órganos públicos, funciones públicase instituciones ukanakaxa aka tayka kamachiru phuqhapxañapawa. 
-II. Tayka kamachiwa taqi kamachinakatxa markachir phuqhapxañapatakixa jilïrixa. 
-Constitucionalidad ukatxa tratados y convenios internaciones jaqiru arxatawinxa ukjamaraki derecho comunitario aka kamachi taypina uñt’atarakiwa ukanakata utt’ayatawa. 
-Kamachinaka phuqhawixa kunaymana uraqinakana phuqhañanakarjamawa phuqhatani akjamata: 
-1. Tayka kamachi. 
-2. Anqa markanakampi amtawi. 
-3. Tayka kamachi, estatutos autonómicos, cartas orgánicas ukjamaraki legislación departamental, municipal e indígena. 
-4. Kunaymana sullka kamachinaka p’iqinchirinakata utt’ayata. 
-411 Kamachi. 
-I. Tayka kamachina turkawixa kunjamatixa derechos, deberes y garantías ukanakaxa jani ukaxa taqita jilïri kamachixa ukaxa Asamblea Constituyente originario plenipotenciaria taypiwa markachirinakaru jiskt’awi utt’ayata. 
-Jist’awi jawsawitakixa pä tunka por ciento chhijllirinakatwa; ukatxaAsamblea Legislativa Plurinacional walja ukankirinakata; jani ukaxa aka marka p’iqinchirta phuqhatarakini. 
-Asamblea Constituyente ukaxa pä tercios ukankirinakata taypiwa tayka kamachi jay sawipaxa chikachatani. 
-Mayjt’ayata tayka kamachixa jiskt’awi taypiwa taqinina phuqhatarakini 
-II. Tayka kamachi mayjt’ayawixa markachiri amtarjamawa pä tunka por ciento chhijllirinaka jani ukaxaAsamblea Legislativa Plurinacional ukata mayjt’ayañataki jay sata kamachi dos tercios taqpacha Asamblea Legislativa Plurinacional ukankirinaka qalltataspa. 
-Tayka kamachi mayjt’awixa jiskt’aiw taypiwa jay sawixa wakisirakini. 
-SARTA PHUQAWINAKA 
-Nayrïri. 
-I. Suxta tunka urunaka machaqa tayka kamachi utt’asiwipata Congreso de la República ukankirinakaxa machaqa chhijllawi Asamblea Legislativa Plurinacional, Jiliri irpiri ukjamaraki sullka irpiritaki machaqa amta wakiyarakini; chhijllawixa suxta uru jallu qallta phaxsi saraqataruwa pä waranqha llatunkani marana phuqasirakini. 
-II. Nayrïri phuqawirjamaxa machaka tayka kamachiru sarxaruwirjamawa kunaymana lurawinakaxa phuqasirakini. 
-III. Departamentales ukjamaraki municipales ukanakanxa pusi uru qasiwi phaxsi saraqata pä waranqha tunkani maranwa chhijllasini 
-IV. Alcaldes, Concejales Municipales ukjamaraki Prefectos departamento tuqinakatxa irptawinakapaxajittawinwairnaqawinakapaxa uñjasini kunapachati machaqa irpirinaka mantañapkama. 
-Payïri. 
-Asamblea Legislativa Plurinacional ukaxa pataka kimsa tunaka urunakawa utnuqawipatxa niyapuni jakhuyatäni, Organo Electoral Plurinacional kamachi, Organo Judicial kamachi, Tribunal Constitucional Plurinacional ukjamaraki sapata apnaqasiwi ukjamaraki t’aqatattawi kamachinakaxa jay sasirakini. 
-Kimsïri. 
-I. kawkiri departamentos ukanakasa sapa apnaqawitaki referéndum sata pä uru willka kuti phaxsita pä waranqha suxtani mara chhijllapta, sapa apnaqawiruwa chiqaki saratani machaqa tayka kamachiru phuqasa. 
-II. kawkiri departamentos ukanakasa sapa apnaqawitaki referéndum sata pä uru willka kuti phaxsita pä waranqha suxtani mara chhijllapta, machaqa kamachirjamawa kamachinakapaxa phuqatarakini. 
-Pusïri. 
-Payïri t’aqana qhanañchatäki ukjamarjamaxa p’iqiñchirinakaxa chhijllawi uñaqirinakatakixa kunjamatixa pachaxa wakiyataki Organo Electoral Plurinacional taypixa ukjamarjamaxa phuqasirakini. 
-Phisqïri. 
-Nayrïri Asamblea Legislativa Plurinacional utt’yata taypinwa kunaymana wakiskiri kamachinakaxa nayraru sartañataki jay sasirakini. 
-Suxtïri. 
-Mä mara machaqa tayka kamachimpi sarxarutaruwa taripirinakana qullqi payllawi thakhinchaxa uñakipataspa. 
-Paqallqüri. 
-293 kamachi phuqhawixa aka tayka kamachinxa pata uraqinakanxa indígena ukana uraqinakapaxa tierras comunitarias de origen ukjamaru uñt’ataxarakiwa. 
-Mä mara chhijllata Organo Ejecutivo ukjamaraki Legislativo taypiwa tierra comunitaria ukaxa mä thakhincha taypiwa Territorio Indígena Originario Campesino sutimpi aka tayka kamachirjamaxa katuyatarakini. 
-Kimsaqallqüri. 
-I. Mä mara Organo Ejecutivo ukjamaraki Organo Legislativo chhijllawipata aka pachankiri yanakata, qhantayiri, uñch’ukiña yatiyirinaka ukjamaraki markachirina aski yänakapa taqi ukanakaxa machaqa uñakipawirjamawa uñtayatarakispa. 
-Makiptawixa machaqa amtawirjamaxa makiptayasaxa Janiwa kunakipansa mayiwinakapaxa aparatakaspati. 
-II. Pachpa pachanwa mayisiwixa qhuyanakatxa ukjamaraki jani qhuyanakatxa, junt’u uma jalsuwi, jayu jalsuwi, azufre ukanaka ukatxa yaqhanakampi mayitaru aka uraqi pachana jani kunaru tukuyatarakini. 
-III. Qullqichasiri aka markata ukjamaraki anqa markata Qhuyanakata jay satanakaxa janira machaqa tayka kamachi sarxaruyatakana ukanakaxa jichha machaqa tayka kamachirjamawa amtawirjamawa qhuya irnaqañatakixa phuqapxañapa. 
-IV. Estado ukaxa qutuchata qhuya irnaqirinakaruxa aski irnaqapxatanakapata yaqiwa ukjamaraki uñt’iwa. 
-V. Aski naktayiri qhuyanakaxa nayra tayka kamachirjama wakiyataki uknakaxa machaqa kamachirjamaxa Estado ukaruwa kutkatxarakini. 
-Llatunkïri. 
-Anqa markampi nayrïri amtatanakaxa machaqa tayka kamachirjamaxa janiwa kunsa sapxañapakiti amtanaka kamachi taypi utnuqawinxa. 
-Pusi mara machaqa Organo Ejecutivo taypiwa anqa markampi amtawinakaxa wasitata sarxarusa yatiyatarakini. 
-Tunkïri. 
-Askinjamawa pä aruta arsusiwixa kunaymana irnaqawinakana arsutani 234. 
-Kamachirjama juk’ata juk’ata phuqayatani. 
-SARTA T’UNJAWI 
-Wakt’ayataru jani jay sata. 
-Waranqha llatunka pataka suxta tunka paqallquni mara ukjamaraki nayrïri kamachinaka wakt’ayata tayka kamachjamaxa janiwa jaysatakiti. 
-SARTA TUKUYAWI 
-Aka machaqa Tayka kamachi, Referendo ukana Bolivia markachirina jay sataruxa Gaseta Oficial taypi yatiyataki uka pachatwa phuqasirakini. 
-Poder Ejecutivo tuqiru chikañchasina, kamachi amtampi. 
-Ukjamakipanxa, mämachaqa Estado Plurinacional tuqi markachirinakampi kamachi thakhiru phuqasa sapa apnaqawimpiru jay satawa. 
-Ciudad de El Alto, La Paz paqallqu uru anata phaxsi pä waranqha llatunkani mara saraqata. 
-Irpiri jilata Evo Morales Ayma republica markasa p’iqiñchirixa rixintawayiwa. 
-045. SAT KAMACHI 8 de octubre 2010 EVO MORALES AYMA TATA JILIR JILIR IRPIRI CONSTITUCIONAL ESTADO PLURINACIONAL BOLIVIA MARKANA ASAMBLEA LEGISLATIVA PLURINACIONAL 
-siski uksa tuqinkirinakaxa, taqi markachrinakana phuqhapxañapataki aka Kamachi utt´ayapxi: 
-KUNAYMANI JISK´ACHASIÑANAKXATA, USUCHJASIÑANAKXATA TARIPIR KAMACHI 
-NAYRIRI JALJA JACH´A AMUYKIPAWINAKA 
-1. KAMACHI (AMTAWINAKAPA LURAWINAKAPAMPI) 
-I. Kunjamti Constitución Política del Estado ukhamaraki Tratados Internacionales siski ukhamarjamaw aka kamachixa, taqi kasta jisk´achawinakata usuchjawinakata thakhiparjama saraparjama uñjasiñapataki ukhamaraki juchañchañapataki utt´ayani. 
-II. Kast kast janchiwjata jisk´achasiña chhaqhayaña, ukhamaru markachirinakana jach´a thakhinakapa saranakapa jark´aqañataki, uñaqañataki chiqañchxaña. 
-2. Kamachi (TAKHIPAR IRPXATIR AMUYT´ANAKA). 
-a) Markapura Qamaña. 
-Aka kamachixa akniri amuyunakaruwa sartayasini Markanakpura qamaraña. Markanakpur qamarañaxa mayacht´ata khuskaki taqin sumana, khuskata yaqasisa. 
-Jakasiñatakiwa. 
-b) Mä khuskhaki. 
-Taqpach markachirinakaxa mä khuskakiw yuripxi. Marka apnaqirinakaxa yapa sarawinaka uñstayañapxañapa khuskhaki qamañataki, ch´amañchañapawa aski jan jisk´achasin amuyunaka suman jakañataki jach´a tayka kamachi amtatarjama ukjamarak jaqïñ kañkaña jach´a kamachinakarjama. 
-c) Mä yäpaki. 
-Taqi markachirinakaxa kast kastarjama uñjasipxañapa mä suma qamaña jikxatañkama, jaqis jaqirjama taqi lurawinakapana, irnaqawinakapana, sarawinakapana, amuyuwinakapana, markanakasan thakhinakapa phuqhasa. 
-b) Aski Tumpawi Arxatawi. 
-Taqpacha markachirinakaja mä aski tumpawi ukhamaraki arxatawinipxañapawa taqi kasta jisk´achawinakata, usuchjawinakata pachaparu irnaqawipana ukatsti kunapachatix uka markachirix jisk´achata janchipata ukhamaraki chuymapata uñjaschini ukjaxa kawknir taripawitix wakischini ukhmarjamaw asquichata uñjasini. 
-3. Kamachi. 
-(AKA KAMACHIX KHITINAKATAKISA KAWKHATAKISA). 
-Aka kamachix taqpacha Bolivia markatakiwa, ukhamaraki kawkha uraqinakantix kamachinakakparjama apnaqataki ukasanakan phuqhasini. 
-Taqpacha markachirinakatakiwa, janiw qhitis siskaspati janiw nayatakikiti taqinitakiwa ukatwa apanaqasini akhama: 
-a) taqpacha Bolivia makana markachirinakatakiwa ukhamaraki qhitinakatixa yaqa mankanakata jutapki aka markaru jakiri nacionalizado sataki ukanakataki, ukatsti kawkha uraqinakantixa aka markana kamachinakaparjama apnaqaski ukanakatakiwa. b) kawniri jacha irnaqawinakan sataki Organo Ejecutivo, Legislativo, Judicial ukhamaraki Electoral aka Bolivia markana uksa tuqinkiri irnaqapki ukanakatakiwa ukhamaraki, kawknir arkhatayir irnaqawinakataki kunakatix sataki entidades territoriales autónomas jupanakataki phuqhasiñapataki. 
-c) Aka kamachixa phuqasiñapawa ukxarusti kunakitix sataki: Ministerio Publico, Procuraduria General, Univerdidades, Policia Boliviana, Fuerzas Armadas Ukhamaraki taqpacha khitinakatixa aka marka apanaqapki, uka irnaqawinakana irnaqapki ukanakatakiwa. 
-d) taqpach jaqinaka jan kunansa tamachatasiki, ukhmaraki khitinakatixa tamachatasipki ukanakatakiwa, ukhmaraki khiti instituciones sata tama jaqinakataki, anqa markata jutapki, jan ukax khitinakatixa jupanaka lanti aka markana irnaqapki jupanakatakiwa. 
-e) Organizaciones sociales ukhamaraki mecanismos de control social sataki jupanakataki. 
-f) taqi añqa markanakata jutapki markanakapan apnaqiripki jupanak lanti (misiones diplomáticas) jupanakatakiwa, uñjasinirakiwa taqi kamachinakatixa utjki taqpacha uraqi markanakana thakhiparjama saraparjama ukhama. 
-4. Kamachi (UÑAKIPAWI). 
-Mä suma uñjawiwa utjañapa aka kamachxata phuqhasiñapataki kunakitixa jach´a Tayka Kamachi (Constitucion Politica del Estado) ukhamaraki kunaymani kamachinaka utjki taqpacha urqina markanakana markachirinakapana arxatiri (normas e instrumentos internacionales sobre derechos humanos). Taqpacha iirpiri marka apnaqirinaka aka Bolivia markana kunakitixa sata “autoridades”: Departamentales, Regionales, Municipales, Indígena originario campesinas. 
-Jan ukax kunaymani irpirinaka, irnaqirinaka. 
-5. Kamachi. 
-(KAMACHIN ARU AMUYT´AWINAKA). Aka kamachin kunjams apnaqañataki phuqhasiñapataki. 
-Aknir kamachi aru amuyt´awinakawa thakhinchani sarapar saraparjama. 
-a) Jisk´achawi. taqi kasta Jisk´achawinakaxa sañ muniwa kunaymani sarawini, thakhini, amuyuni jaqinakaru yaqhachaña, uñanukuña, yaqahachxaña, chachatapata, warmitapata, wawatapata, waynatapata, tawaqutapata, awkitapata, taykatapata, chachakasa warmiña munatapata, warmikasa chachaña munatapata, jan wawanitapata, jaqi saphini - sarnaqawinitapata, mä markankiritapata, mä kasta aru parliritapata, mä religionaru iyawsiritapata, jayiru iyawsiritapata, amuyiritapata, amuyupa arsuritapata, jaqichasitatapata, qulqinitapata, jani qulqinitapata, usutatapata, mä kasta irnaqawinitapata, yatiñanitapata, jani yatiñanitapata, juykhutapata, amututupata, uqaratapata, kayuta usutatatapata, amparata usutatapata, p’iqita usutatapata, muq’utapata, usuritapata, mä chiqankiritapata, mä uñtanitapata, isisitapata juk’ampinakampita. Taqi ñanqha amuyunaka jisk´achasiwi lurawinaka jark’asisa kunakitixa taqi jaqina thakhipa sarxaruña kunjamti jacha tayka kamachina (Constitucion Politica del Estado) qillqata utjki ukhamaraki taqi kamachinakaxa taqpacha uraqi markanakana thakhiparjama saraparjama utjki ukaxa phuqhañatakiwa. 
-b) Janchi uñnaqata jisk’achawi: Janchi uñnaqata jik’achawi sañ muniwa kunaymani sarawini, thakhini, amuyuni jaqinakaru yaqhachaña, uñanukuña, yaqahachxaña, janchi samita uñnaqata, kast kasta markankiritapata ñanqha amuyunaka jisk´achasiwi lurawinaka jark’asisa kunakitixa taqi jaqina thakhipa sarxaruña kunjamti jacha tayka kamachina (Constitucion Politica del Estado) qillqata utjki ukhamaraki taqi kamachinakaxa taqpacha uraqi markanakana thakhiparjama saraparjama utjki ukaxa phuqhañatakiwa markanakasan thakhinakapa irnaqawinakapana, sarawinakapana, amuyuwinakapana, Sapa utjawin jakawi jaqi taman jakatapata. 
-c) Janchi uñnaqata usuchjawi. 
-Markachirina kasta kasta uñnaqawipa, sarnaqawipa, amuyuwipata usuchjawi uka saña muni ukhamaraki mä tamata mä tamaru jach’a jach’a tukusa jisk’achasa ususchjasiwi. 
-d) Janchi uñnaqa. 
-Wali jan wali amuyunaka jisk’achasiñataki, usuchjasiñataki, kasta kasta tama jaqinakaru mansjasa, jawq’asa, apnaqañataki utt’ayatawa. 
-Aka kasta amuyunakaxa janchi uñnaqa tuqitwa juti, taqi uka kasta amuyu apnaqiri jaqinakasti wali k’aripxiwa kunatixa janiw amuyupkiti jach’a yatxatawinaka janchi tuqita (estudios científicos) utjki ukanaka. 
-Ukatpi markachirinakatakixa jan walt’awinakawa utji, Jan chuymachawinaka utjayapxatapata, utjawina jakirinakataki ukhamaraki taman jakirinakataki, uka kasta jan wali amuynaka apanaqiri jupanakatakjan luratawa. 
-e) Chachas Warmis Mä yäpaki Utjasiñapawa. 
-Taqpacha markachirinakaxa, chachapasa warmipasa mä yäpaki utjasipxañanakapa má suma qamaña jikxatañkama jan uñch’ukisisa warmitapata ukhamaraki chachatapata taqi kasta lurawinakana, utjasiwipana, marka tamapana thakhipana amuyt’awinakapana, irnaqawipana. 
-f) chachas warmis awkipas taykapas mä yäpaki utjasinapawa. 
-Taqpacha markachirinakaxa, chachapasa, warmipasa awkipasa, taykakpasa, wawapasa, waynapasa, tawaqutapasa qhawqha maranipasa mä yäpaki utjasipwañanakapa taqi kasta lurawinakana, utjasiwipana, marka tamapana thakhipana amuyt’awinakapana, irnaqawipana. 
-g) Q’iwsatapata uñisiña. 
-San muniwa uñisiña axtasiña, k’umiña, jisk’achaña, khitinakatixa warmikasa chachaña munapxi, ukhmaraki chachakasa warmiña munapxi uka kasta jaqinakarusti satawa “q’iwsa” (homosexual), ukhamaraki kunaymani chuymani, amuyuni warmiña munasa chachaña munasa. 
-h) Chikpach Q’iwasatapata unisiña. 
-Sañ muniwa uñisiña, axtasiña, k’umiña, jisk’achaña, usuchjaña, khitinakatix warmikasa chachtjama jakxapxi ukhamaraki chachakasa warjama jakxapxi, (isisipxi, sarnaqapxi, thuqupxi, manq’apxi juk’ampinakampi) uka kasta jaqinakasti satawa “chikpach q’iwsa” (transexual – transgenero), pachpa masi tamanaparjama. 
-i) Anqa Jaqir Uñisiña. 
-Sañ muni: uñisiña, asxaraña, uñch’ukiña, axtayasiña, k’umiña, nuwaña. Taqi jaqir, anqa markat jutir jaqir uñisiñawa. 
-j) Wamir Uñisiña. 
-Sañ muni: taqi kasta warminakaru uñisiña kawqha maranipansa, kawkhatsa jutpana, kuna kasta jatiqatapansaya, ukhamaraki k’umiña, uñch’ukiña kunaymani kamachi jaqinakan thakhinakapapxaru 
-k) ch’amañchaña jan jisk’achasiñataki. 
-Sañ muniwa taqi kasta lurawinakatixa uñstayataki marka apnaqirinakana jan jisk’achasiwi, usuchjawi utjañapataki, kawkniri markachirinakatixa pisin sarnaqapki, uñisita, jisk’achata uñjasipki jupanakataki, uka marka apnaqirinakaxa chamanchapxañanakapawa uka kasta lurawinaka, kunjamatixa Jach’a Tayka Kamachinxa (Constitucion Politica del Estado) qillqataki uchamarjama ukhamaraki kunaymani kamachinakatixa utjki taqpach uraqi tuqina. 
-l) Ch’amañchaña Nayrt’añataki. 
-Kunjamatixa kuna lurawinakatixa luraski, yatiqawxata, amuyawxata, ch’amañchasiñapawa nayrt’añataki janir kunakipana jani kuna kasta, jisk’achasiwinakaxa, usuchjawinaka, uñisiña, k’umisiñanaka juk’ampinakampita. 
-m) Ch’amañchaña Chiqañchañataki. 
-Sañ muniwa kunakitixa, kunaymani tapirpawinaka ukhamamaraki, juchañchawinaka, utjki aka jisk’achasiwxata, k’umiwxata, uñisiwxata, usuchjawxata juk’ampinakata ukhamaraki taqi aka taripawinaka, juchañchawinaka qillqawiparu arktayata ma suma askichawiru puriñkama. 
-PAYIR JALJA KAMACHIN QILLQAPA JAN JISK´ACHASIÑA UTJAÑAPATAKI JATIQAÑ TUQINA KUNAYMANI USUSCHAJAÑANAKA CHAQHAYAÑATAKI. 
-6. Kamachi. 
-(JAN JISK´ACHASIÑA UTJAÑAPATAKI JATIQAÑ TUQITA). 
-Wali aski wakiskiriwa aka Bolivia apanaqirinaka, irpirinakaxa unstayañapa, utjayañapa, nayt’ayañapa ch’amañchañapa kunaymani, lurawinaka, irnaqawinaka jani kuna kasta, jisk’achasiñaka, usuchjasiwinaka, uñisiwinaka, k’umiwinaka mayampis utjañapataki, jaqit jaqirjama, warmit warmirjama, chachat chacharjama, uñjasa taqpach Bolivia marka uraqina (niveles territoriales nacionales, departamentales y municipales). Aka kasta lurawinakawa, irnaqawinaka uñstayapxañapa, utt’aya’pxañapa, nayrt’ayapxañapa: 
-I: Yatiqaña Tuqita: 
-a) Uñstayapxañapa, utt’aya’pxañapa, nayrt’ayapxañapa, jan mayampis kunaymani jisk’achasiñaka, usuchjasiwinaka, uñisiwinaka, k’umiwinaka utxañapataki tachpacha jacha yatiqaña utanakana, yatichiriptañataki, jisk’a wawanakaru, waynanakaru, tawaqunakaru, awkinakaru, yatichpki uksa tuqinakana kunjamatixa sataki: - Universidades - Institutos Normales Superiores Plublicos Privados - Sistema Educativo Nacional - Niveles Preescolar Primaria y Secundaria. 
-b) uskuñawa utjayañawa nayt’ayañawa, kunaymani irnaqawinaka, lurawinaka, jan mayampis utjañapataki kunaymani jisk’achasiñaka, usuchjasiwinaka, uñisiwinaka, k’umiwinaka, yaqhachañanaka, uñanukuñanaka, yaqachxañanaka, nuwañanaka, mä suma qamaña jikjatañkama, jaqit jaqit jaqirjama uñjasisa, kast kast markarjama uñjasisa, kunaymani markasanakana sarnaqawinakapa qillqasa, yatichasa saraparu saraparjama ukhamaraki thakhiparu thakhiparjama (derechos de las naciones y pueblos indígena originario campesinos y el pueblo afroboliviano). 
-c) Chamañchañawa kunaymani tachpacha jacha yatiqaña utanakana, yatichiriptañataki, jisk’a wawanakaru, waynanakaru, tawaqunakaru, awkinakaru, yatichpki uksa tuqinakana, kuntix aka kamachina qillqataki, thakhipar irpxatir amuyt’anaka (capitulo 2 principios) jan mayampis utxañapataki jisk’achasiwxata, k’umiwxata, uñisiwxata, usuchjawxata chacha kankañata, warmi kankañata jisk’achata juk’ampinakata ukata ruksuñataki mä suma qamawa jakawimpi. 
-II. Marka Apnaqaña Tuqita. 
-a) Khitinakatixa marka apnaqaña, sarayaña ukana irnaqapxki jupanakaru akanaktuqita yatxatayañawa: jark’aqañata, taripayañata, jisk’achasiñanakata, k’umiwinakata ukhamaraki juk’ampinakata. 
-c) Wakisiwa ch’amañchaña kunakitixa yatiqawinakaru uskuña qillqata yatichirinakan yatichapxañapataki jani kunaymani jisk’achasiwinaka utjañapataki jach’a jatiqaña utanakana, kunaymani pallapallanakataki (Instituos Militares y Policiales). 
-c) Yatichawi utanakana, qullaña utanakana, ukhamaraki irnaqawi utanakansa wakisiwa jisk’achasiñtuqita, k’umiwtuqitsa jani utxañapatakixa, kunaymana amuyunakampi p’arxtayaña ch’amañchaña. 
-d) Markanakaruxa suma uñjawi yäqawiwa sarawita sarawiparjama (protocolos) taypitxa utjañapa. 
-e) irnaqawi utanakanxa irnaqirinakaruxa wakisiwa laqanchayañaxa, ukhamata jupanakaxa suma llamp’u chuymampi markachirinakaruxa uñjapxañapa. 
-f) Sistemas políticos y jurídicos ukanakaxa taqi markpachanakarjamaruwa sumata uñjapxañapa, kunatatixa Qullasuyu markasanxa Derechos Humanos ukaxa utt’ayataki ukhamarjama. g) Kawniri jaqinakatixa jiwasa markaslayku ch’axwasa jiwawayapxatayna jupanakaruxa wakisiwa amthapt’aña. 
-III. Kunaymani Yatiyawinaka Apnaqaña Tuqita. 
-a) Marka apnaqirinakaxa ch’amañchañapawa kunjamsa jakhusiski, qhawqhaskisa jisk’achasiwi tuqita ukhamata yatiñataki ukata chhaqhayañataki. 
-b) ch’amañchañawa, yatxatawinaka kunjamaskisa, qhawqhaskisa kawkhasa jutaski kunaymani jisk’achawinakaxa, kamsaskisa kunjamsa uka jisk’achawinakaxa usuchji uka jik’achata markachirinakaru. 
-c) Taki kasta yatiyawi apnaqirinakaxa (medios de comunicación) utt’ayapxañapawa kunaymani kasta lurawinaka, yatiyawinaka jan mayampis utjañapataki uka jisk’achawinakaxa kumjmtixa jach’a Tayka Kamachixa Siski ukhama. 
-d) Kunaymani yatiyawi apnaqirinakaxa kunakitixa radioki, telewisionaki, qillqataki ukhamaraki nuevas tecnologías de información siski, utjayañanakapawa kunaymani lurawinaka, yatiyawinaka jani jisk’achawinaka utjañapataki, chhaqhayañataki, ukatpi, sapa yatiyawinakaxa wali suma arunakampi arsutañapaxa, qillqatañapaxa. 
-e) Aka kamachi ukhamaraki instrumentos nacionales internacionales ukanaka yatiyañawa racismo ukhamaraki jisk´achasiñanakaru kutiyasina ukhamraki políticas públicas ukanaka kuna. 
-f) Taqpacha yatiyawinaka apanaqirinakaxa chamañchapxañanakapawa, yanapapxañanakapawa kunanakatixa luraski, jisk’achasiwinakxata, usuchxasiwinakata. 
-IV. Lurawinaka Irnaqawinaka Tuqita. 
-a) Marka apnaqirinakaxa ch’amañachapxañapawa mä mayachathapiwi taqpach markachirinakaru, taqi markana kasta qullqi apnaqawinakata, sapa mayni qullqi apnaqawita, ukhamata pisin sarnaqañata mistsuñataki. 
-KIMSIR JALJA COMITÉ NACIONAL CONTRA EL RACISMO Y TODA FORMA DE DISCRIMINACIÓN UTT´AYAWIPA 
-7. Kamachi. 
+PREÁMBULO 
+En tiempos inmemoriales se erigieron montañas, se desplazaron ríos, se formaron lagos. Nuestra amazonia, nuestro chaco, nuestro altiplano y nuestros llanos y valles se cubrieron de verdores y flores. 
+Poblamos esta sagrada Madre Tierra con rostros diferentes, y comprendimos desde entonces la pluralidad vigente de todas las cosas y nuestra diversidad como seres y culturas. Así conformamos nuestros pueblos, y jamás comprendimos el racismo hasta que lo sufrimos desde los funestos tiempos de la colonia. 
+El pueblo boliviano, de composición plural, desde la profundidad de la historia, inspirado en las luchas del pasado, en la sublevación indígena anticolonial, en la independencia, en las luchas populares de liberación, en las marchas indígenas, sociales y sindicales, en las guerras del agua y de octubre, en las luchas por la tierra y territorio, y con la memoria de nuestros mártires, construimos un nuevo Estado. 
+Un Estado basado en el respeto e igualdad entre todos, con principios de soberanía, dignidad, complementariedad, solidaridad, armonía y equidad en la distribución y redistribución del producto social, donde predomine la búsqueda del vivir bien; con respeto a la pluralidad económica, social, jurídica, política y cultural de los habitantes de esta tierra; en convivencia colectiva con acceso al agua, trabajo, educación, salud y vivienda para todos. 
+Dejamos en el pasado el Estado colonial, republicano y neoliberal. Asumimos el reto histórico de construir colectivamente el Estado Unitario Social de Derecho Plurinacional Comunitario, que integra y articula los propósitos de avanzar hacia una Bolivia democrática, productiva, portadora e inspiradora de la paz, comprometida con el desarrollo integral y con la libre determinación de los pueblos. 
+Nosotros, mujeres y hombres, a través de la Asamblea Constituyente y con el poder originario del pueblo, manifestamos nuestro compromiso con la unidad e integridad del país. Cumpliendo el mandato de nuestros pueblos, con la fortaleza de nuestra Pachamama y gracias a Dios, refundamos Bolivia. 
+Honor y gloria a los mártires de la gesta constituyente y liberadora, que han hecho posible esta nueva historia. EVO MORALES AYMA PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA 
+Por cuanto, el Pueblo Boliviano a través del Referéndum de fecha 25 de enero de 2009, ha aprobado el proyecto de Constitución Política del Estado, presentado al H. Congreso Nacional por la Asamblea Constituyente el 15 de diciembre de 2007 con los ajustes establecidos por el H. Congreso Nacional. 
+Por la voluntad del soberano se proclama la siguiente: CONSTITUCIÓN POLÍTICA DEL ESTADO PRIMERA PARTE BASES FUNDAMENTALES DEL ESTADO DERECHOS, DEBERES Y GARANTÍAS TÍTULO I BASES FUNDAMENTALES DEL ESTADO CAPÍTULO PRIMERO MODELO DE ESTADO 
+Artículo 1. 
+Bolivia se constituye en un Estado Unitario Social de Derecho Plurinacional Comunitario, libre, independiente, soberano, democrático, intercultural, descentralizado y con autonomías. 
+Bolivia se funda en la pluralidad y el pluralismo político, económico, jurídico, cultural y lingüístico, dentro del proceso integrador del país. 
+Artículo 2. 
+Dada la existencia precolonial de las naciones y pueblos indígena originario campesinos y su dominio ancestral sobre sus territorios, se garantiza su libre determinación en el marco de la unidad del Estado, que consiste en su derecho a la autonomía, al autogobierno, a su cultura, al reconocimiento de sus instituciones y a la consolidación de sus entidades territoriales, conforme a esta Constitución y la ley. 
+Artículo 3. 
+La nación boliviana está conformada por la totalidad de las bolivianas y los bolivianos, las naciones y pueblos indígena originario campesinos, y las comunidades interculturales y afrobolivianas que en conjunto constituyen el pueblo boliviano. 
+Artículo 4. 
+El Estado respeta y garantiza la libertad de religión y de creencias espirituales, de acuerdo con sus cosmovisiones. 
+El Estado es independiente de la religión. 
+Artículo 5. 
+I. Son idiomas oficiales del Estado el castellano y todos los idiomas de las naciones y pueblos indígena originario campesinos, que son el aymara, araona, baure, bésiro, canichana, cavineño, cayubaba, chácobo, chimán, ese ejja, guaraní, guarasu’we, guarayu, itonama, leco, machajuyai-kallawaya, machineri, maropa, mojeño-trinitario, mojeño-ignaciano, moré, mosetén, movima, pacawara, puquina, quechua, sirionó, tacana, tapiete, toromona, uru-chipaya, weenhayek, yaminawa, yuki, yuracaré y zamuco. 
+II. El Gobierno plurinacional y los gobiernos departamentales deben utilizar al menos dos idiomas oficiales. 
+Uno de ellos debe ser el castellano, y el otro se decidirá tomando en cuenta el uso, la conveniencia, las circunstancias, las necesidades y preferencias de la población en su totalidad o del territorio en cuestión. 
+Los demás gobiernos autónomos deben utilizar los idiomas propios de su territorio, y uno de ellos debe ser el castellano. 
+Artículo 6. 
+I. Sucre es la Capital de Bolivia. 
+II. Los símbolos del Estado son la bandera tricolor rojo, amarillo y verde; el himno boliviano; el escudo de armas; la wiphala; la escarapela; la flor de la kantuta y la flor del patujú. 
+CAPÍTULO SEGUNDO PRINCIPIOS, VALORES Y FINES DEL ESTADO 
+Artículo 7. 
+La soberanía reside en el pueblo boliviano, se ejerce de forma directa y delegada. 
+De ella emanan, por delegación, las funciones y atribuciones de los órganos del poder público; es inalienable e imprescriptible. 
+Artículo 8. 
+I. El Estado asume y promueve como principios ético-morales de la sociedad plural: ama qhilla, ama llulla, ama suwa (no seas flojo, no seas mentiroso ni seas ladrón), suma qamaña (vivir bien), ñandereko (vida armoniosa), teko kavi (vida buena), ivi maraei (tierra sin mal) y qhapaj ñan (camino o vida noble). 
+II. El Estado se sustenta en los valores de unidad, igualdad, inclusión, dignidad, libertad, solidaridad, reciprocidad, respeto, complementariedad, armonía, transparencia, equilibrio, igualdad de oportunidades, equidad social y de género en la participación, bienestar común, responsabilidad, justicia social, distribución y redistribución de los productos y bienes sociales, para vivir bien. 
+Artículo 9. 
+Son fines y funciones esenciales del Estado, además de los que establece la Constitución y la ley: 
+1. Constituir una sociedad justa y armoniosa, cimentada en la descolonización, sin discriminación ni explotación, con plena justicia social, para consolidar las identidades plurinacionales. 
+2. Garantizar el bienestar, el desarrollo, la seguridad y la protección e igual dignidad de las personas, las naciones, los pueblos y las comunidades, y fomentar el respeto mutuo y el diálogo intracultural, intercultural y plurilingüe. 3. Reafirmar y consolidar la unidad del país, y preservar como patrimonio histórico y humano la diversidad plurinacional. 
+4. Garantizar el cumplimiento de los principios, valores, derechos y deberes reconocidos y consagrados en esta Constitución. 
+5. Garantizar el acceso de las personas a la educación, a la salud y al trabajo. 
+6. Promover y garantizar el aprovechamiento responsable y planificado de los recursos naturales, e impulsar su industrialización, a través del desarrollo y del fortalecimiento de la base productiva en sus diferentes dimensiones y niveles, así como la conservación del medio ambiente, para el bienestar de las generaciones actuales y futuras. 
+Artículo 10. 
+I. Bolivia es un Estado pacifista, que promueve la cultura de la paz y el derecho a la paz, así como la cooperación entre los pueblos de la región y del mundo, a fin de contribuir al conocimiento mutuo, al desarrollo equitativo y a la promoción de la interculturalidad, con pleno respeto a la soberanía de los estados. 
+II. Bolivia rechaza toda guerra de agresión como instrumento de solución a los diferendos y conflictos entre estados y se reserva el derecho a la legítima defensa en caso de agresión que comprometa la independencia y la integridad del Estado. 
+III. Se prohíbe la instalación de bases militares extranjeras en territorio boliviano. 
+CAPÍTULO TERCERO SISTEMA DE GOBIERNO 
+Artículo 11. 
+I. La República de Bolivia adopta para su gobierno la forma democrática participativa, representativa y comunitaria, conequivalencia de condiciones entre hombres y mujeres. 
+II. La democracia se ejerce de las siguientes formas, que serán desarrolladas por la ley: 
+1. Directa y participativa, por medio del referendo, la iniciativa legislativa ciudadana, la revocatoria de mandato, la asamblea, el cabildo y la consulta previa. 
+Las asambleas y cabildos tendrán carácter deliberativo conforme a Ley. 
+2. Representativa, por medio de la elección de representantes por voto universal, directo y secreto, conforme a Ley. 
+3. Comunitaria, por medio de la elección, designación o nominación de autoridades y representantes por normas y procedimientos propios de las naciones y pueblos indígena originario campesinos, entre otros, conforme a Ley. 
+Artículo 12. 
+I. El Estado se organiza y estructura su poder público a través de los órganos Legislativo, Ejecutivo, Judicial y Electoral. 
+La organización del Estado está fundamentada en la independencia, separación, coordinación y cooperación de estos órganos. 
+II. Son funciones estatales la de Control, la de Defensa de la Sociedad y la de Defensa del Estado. 
+III. Las funciones de los órganos públicos no pueden ser reunidas en un solo órgano ni son delegables entre si. 
+TÍTULO II DERECHOS FUNDAMENTALES Y GARANTÍAS CAPÍTULO PRIMERO DISPOSICIONES GENERALES 
+Artículo 13. 
+I. Los derechos reconocidos por esta Constitución son inviolables, universales, interdependientes, indivisibles y progresivos. 
+El Estado tiene el deber de promoverlos, protegerlos y respetarlos. 
+II. Los derechos que proclama esta Constitución no serán entendidos como negación de otros derechos no enunciados. 
+III. La clasificación de los derechos establecida en esta Constitución no determina jerarquía alguna ni superioridad de unos derechos sobre otros. 
+IV. Los tratados y convenios internacionales ratificados por la Asamblea Legislativa Plurinacional, que reconocen los derechos humanos y que prohíben su limitación en los Estados de Excepción prevalecen en el orden interno. 
+Los derechos y deberes consagrados en esta Constitución se interpretarán de conformidad con los Tratados internacionales de derechos humanos ratificados por Bolivia. 
+Artículo 14. 
+I. Todo ser humano tiene personalidad y capacidad jurídica con arreglo a las leyes y goza de los derechos reconocidos por esta Constitución, sin distinción alguna. 
+II El Estado prohíbe y sanciona toda forma de discriminación fundada en razón de sexo, color, edad, orientación sexual, identidad de género, origen, cultura, nacionalidad, ciudadanía, idioma, credo religioso, ideología, filiación política o filosófica, estado civil, condición económica o social, tipo de ocupación, grado de instrucción, discapacidad, embarazo, u otras que tengan por objetivo o resultado anular o menoscabar el reconocimiento, goce o ejercicio, en condiciones de igualdad, de los derechos de toda persona. 
+III. El Estado garantiza a todas las personas y colectividades, sin discriminación alguna, el libre y eficaz ejercicio de los derechos establecidos en esta Constitución, las leyes y los tratados internacionales de derechos humanos. 
+IV. En el ejercicio de los derechos, nadie será obligado a hacer lo que la Constitución y las leyes no manden, ni a privarse de lo que éstas no prohíban. 
+V. Las leyes bolivianas se aplican a todas las personas, naturales o jurídicas, bolivianas o extranjeras, en el territorio boliviano. 
+VI. Las extranjeras y los extranjeros en el territorio boliviano tienen los derechos y deben cumplir los deberes establecidos en la Constitución, salvo las restricciones que ésta contenga. 
+CAPÍTULO SEGUNDO DERECHOS FUNDAMENTALES 
+Artículo 15. 
+I. Toda persona tiene derecho a la vida y a la integridad física, psicológica y sexual. 
+Nadie será torturado, ni sufrirá tratos crueles, inhumanos, degradantes o humillantes. 
+No existe la pena de muerte. 
+II. Todas las personas, en particular las mujeres, tienen derecho a no sufrir violencia física, sexual o psicológica, tanto en la familia como en la sociedad. III. El Estado adoptará las medidas necesarias para prevenir, eliminar y sancionar la violencia de género y generacional, así como toda acción u omisión que tenga por objeto degradar la condición humana, causar muerte, dolor y sufrimiento físico, sexual o psicológico, tanto en el ámbito público como privado. 
+IV. Ninguna persona podrá ser sometida a desaparición forzada por causa o circunstancia alguna. 
+V. Ninguna persona podrá ser sometida a servidumbre ni esclavitud. 
+Se prohíbe la trata y tráfico de personas. 
+Artículo 16. 
+I. Toda persona tiene derecho al agua y a la alimentación. 
+II. El Estado tiene la obligación de garantizar la seguridad alimentaria, a través de una alimentación sana, adecuada y suficiente para toda la población. 
+Artículo 17. 
+Toda persona tiene derecho a recibir educación en todos los niveles de manera universal, productiva, gratuita, integral e intercultural, sin discriminación. 
+Artículo 18. 
+I. Todas las personas tienen derecho a la salud. 
+II. El Estado garantiza la inclusión y el acceso a la salud de todas las personas, sin exclusión ni discriminación alguna. 
+III. El sistema único de salud será universal, gratuito, equitativo, intracultural, intercultural, participativo, con calidad, calidez y control social. 
+El sistema se basa en los principios de solidaridad, eficiencia y corresponsabilidad y se desarrolla mediante políticas públicas en todos los niveles de gobierno. 
+Artículo 19. 
+I Toda persona tiene derecho a un hábitat y vivienda adecuada, que dignifiquen la vida familiar y comunitaria. 
+II El Estado, en todos sus niveles de gobierno, promoverá planes de vivienda de interés social, mediante sistemas adecuados de financiamiento, basándose en los principios de solidaridad y equidad. 
+Estos planes se destinarán preferentemente a familias de escasos recursos, a grupos menos favorecidos y al área rural. 
+Artículo 20. 
+I. Toda persona tiene derecho al acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones. 
+II. Es responsabilidad del Estado, en todos sus niveles de gobierno, la provisión de los servicios básicos a través de entidades públicas, mixtas, cooperativas o comunitarias. 
+En los casos de electricidad, gas domiciliario y telecomunicaciones se podrá prestar el servicio mediante contratos con la empresa privada. 
+La provisión de servicios debe responder a los criterios de universalidad, responsabilidad, accesibilidad, continuidad, calidad, eficiencia, eficacia, tarifas equitativas y cobertura necesaria; con participación y control social. 
+III. El acceso al agua y alcantarillado constituyen derechos humanos, no son objeto de concesión ni privatización y están sujetos a régimen de licencias y registros, conforme a ley. 
+CAPÍTULO TERCERO DERECHOS CIVILES Y POLÍTICOS SECCIÓN I DERECHOS CIVILES 
+Artículo 21. 
+Las bolivianas y los bolivianos tienen los siguientes derechos: 
+1. A la autoidentificación cultural. 
+2. A la privacidad, intimidad, honra, honor, propia imagen y dignidad. 
+3. A la libertad de pensamiento, espiritualidad, religión y culto, expresados en forma individual o colectiva, tanto en público como en privado, con fines lícitos. 
+4. A la libertad de reunión y asociación, en forma pública y privada, con fines lícitos. 
+5. A expresar y difundir libremente pensamientos u opiniones por cualquier medio de comunicación, de forma oral, escrita o visual, individual o colectiva. 
+6. A acceder a la información, interpretarla, analizarla y comunicarla libremente, de manera individual o colectiva. 
+7. Ala libertad de residencia, permanencia y circulación en todo el territorio boliviano, que incluye la salida e ingreso del país. 
+Artículo 22. 
+La dignidad y la libertad de la persona son inviolables. 
+Respetarlas y protegerlas es deber primordial del Estado. 
+Artículo 23. 
+I. Toda persona tiene derecho a la libertad y seguridad personal. 
+La libertad personal sólo podrá ser restringida en los límites señalados por la ley, para asegurar el descubrimiento de la verdad histórica en la actuación de las instancias jurisdiccionales. 
+II. Se evitará la imposición a los adolescentes de medidas privativas de libertad. 
+Todo adolescente que se encuentre privado de libertad recibirá atención preferente por parte de las autoridades judiciales, administrativas y policiales. 
+Éstas deberán asegurar en todo momento el respeto a su dignidad y la reserva de su identidad. 
+La detención deberá cumplirse en recintos distintos de los asignados para los adultos, teniendo en cuenta las necesidades propias de su edad. 
+III. Nadie podrá ser detenido, aprehendido o privado de su libertad, salvo en los casos y según las formas establecidas por la ley. 
+La ejecución del mandamiento requerirá que éste emane de autoridad competente y que sea emitido por escrito. 
+IV. Toda persona que sea encontrada en delito flagrante podrá ser aprehendida por cualquier otra persona, aun sin mandamiento. 
+El único objeto de la aprehensión será su conducción ante autoridad judicial competente, quien deberá resolver su situación jurídica en el plazo máximo de veinticuatro horas. 
+V. En el momento en que una persona sea privada de su libertad, será informada de los motivos por los que se procede a su detención, así como de la denuncia o querella formulada en su contra. 
+VI. Los responsables de los centros de reclusión deberán llevar el registro de personas privadas de libertad. 
+No recibirán a ninguna persona sin copiar en su registro el mandamiento correspondiente. 
+Su incumplimiento dará lugar al procesamiento y sanciones que señale la ley. 
+Artículo 24. 
+Toda persona tiene derecho a la petición de manera individual o colectiva, sea oral o escrita, y a la obtención de respuesta formal y pronta. 
+Para el ejercicio de este derecho no se exigirá más requisito que la identificación del peticionario. 
+Artículo 25. 
+I. Toda persona tiene derecho a la inviolabilidad de su domicilio y al secreto de las comunicaciones privadas en todas sus formas, salvo autorización judicial. 
+II. Son inviolables la correspondencia, los papeles privados y las manifestaciones privadas contenidas en cualquier soporte, éstos no podrán ser incautados salvo en los casos determinados por la ley para la investigación penal, en virtud de orden escrita y motivada de autoridad judicial competente. 
+III. Ni la autoridad pública, ni persona u organismo alguno podrán interceptar conversaciones o comunicaciones privadas mediante instalación que las controle o centralice. 
+IV. La información y prueba obtenidas con violación de correspondencia y comunicaciones en cualquiera de sus formas no producirán efecto legal. 
+SECCIÓN II DERECHOS POLÍTICOS 
+Artículo 26. 
+I. Todas las ciudadanas y los ciudadanos tienen derecho a participar libremente en la formación, ejercicio y control del poder político, directamente o por medio de sus representantes, y de manera individual o colectiva. 
+La participación será equitativa y en igualdad de condiciones entre hombres y mujeres. 
+II. El derecho a la participación comprende: 
+1. La organización con fines de participación política, conforme a la Constitución y a la ley. 2. El sufragio, mediante voto igual, universal, directo, individual, secreto, libre y obligatorio, escrutado públicamente. 
+El sufragio se ejercerá a partir de los dieciocho años cumplidos. 
+3. Donde se practique la democracia comunitaria, los procesos electorales se ejercerán según normas y procedimientos propios, supervisados por el Órgano Electoral, siempre y cuando el acto electoral no esté sujeto al voto igual, universal, directo, secreto, libre y obligatorio. 
+4. La elección, designación y nominación directa de los representantes de las naciones y pueblos indígena originario campesinos, de acuerdo con sus normas y procedimientos propios. 
+5. La fiscalización de los actos de la función pública. 
+Artículo 27. 
+I. Las bolivianas y los bolivianos residentes en el exterior tienen derecho a participar en las elecciones a la Presidencia y Vicepresidencia del Estado, y en las demás señaladas por la ley. El derecho se ejercerá a través del registro y empadronamiento realizado por el Órgano Electoral. 
+II. Las extranjeras y los extranjeros residentes en Bolivia tienen derecho a sufragar en las elecciones municipales, conforme a la ley, aplicando principios de reciprocidad internacional. 
+Artículo 28. 
+El ejercicio de los derechos políticos se suspende en los siguientes casos, previa sentencia ejecutoriada mientras la pena no haya sido cumplida: 
+1. Por tomar armas y prestar servicio en fuerzas armadas enemigas en tiempos de guerra. 
+2. Por defraudación de recursos públicos. 
+3. Por traición a la patria. 
+Artículo 29. 
+I. Se reconoce a las extranjeras y los extranjeros el derecho a pedir y recibir asilo o refugio por persecución política o ideológica, de conformidad con las leyes y los tratados internacionales. II. Toda persona a quien se haya otorgado en Bolivia asilo o refugio no será expulsada o entregada a un país donde su vida, integridad, seguridad o libertad peligren. 
+El Estado atenderá de manera positiva, humanitaria y expedita las solicitudes de reunificación familiar que se presenten por padres o hijos asilados o refugiados. 
+CAPÍTULO CUARTO DERECHOS DE LAS NACIONES Y PUEBLOS INDÍGENA ORIGINARIO CAMPESINOS 
+Artículo 30. 
+I. Es nación y pueblo indígena originario campesino toda la colectividad humana que comparta identidad cultural, idioma, tradición histórica, instituciones, territorialidad y cosmovisión, cuya existencia es anterior a la invasión colonial española. 
+II. En el marco de la unidad del Estado y de acuerdo con esta Constitución las naciones y pueblos indígena originario campesinos gozan de los siguientes derechos: 
+1. A existir libremente. 
+2. A su identidad cultural, creencia religiosa, espiritualidades, prácticas y costumbres, y a su propia cosmovisión. 
+3. A que la identidad cultural de cada uno de sus miembros, si así lo desea, se inscriba junto a la ciudadanía boliviana en su cédula de identidad, pasaporte u otros documentos de identificación con validez legal. 
+4. A la libre determinación y territorialidad. 
+5. A que sus instituciones sean parte de la estructura general del Estado. 
+6. A la titulación colectiva de tierras y territorios. 
+7. Ala protección de sus lugares sagrados. 
+8. A crear y administrar sistemas, medios y redes de comunicación propios. 
+9. A que sus saberes y conocimientos tradicionales, su medicina tradicional, sus idiomas, sus rituales y sus símbolos y vestimentas sean valorados, respetados y promocionados. 
+10. A vivir en un medio ambiente sano, con manejo y aprovechamiento adecuado de los ecosistemas. 
+11. A la propiedad intelectual colectiva de sus saberes, ciencias y conocimientos, así como a su valoración, uso, promoción y desarrollo. 
+12. Auna educación intracultural, intercultural y plurilingüe en todo el sistema educativo. 
+13. Al sistema de salud universal y gratuito que respete su cosmovisión y prácticas tradicionales. 
+14. Al ejercicio de sus sistemas políticos, jurídicos y económicos acorde a su cosmovisión. 
+15. A ser consultados mediante procedimientos apropiados, y en particular a través de sus instituciones, cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles. 
+En este marco, se respetará y garantizará el derecho a la consulta previa obligatoria, realizada por el Estado, de buena fe y concertada, respecto a la explotación de los recursos naturales no renovables en el territorio que habitan. 
+16 A la participación en los beneficios de la explotación de los recursos naturales en sus territorios. 
+17. A la gestión territorial indígena autónoma, y al uso y aprovechamiento exclusivo de los recursos naturales renovables existentes en su territorio sin perjuicio de los derechos legítimamente adquiridos por terceros. 18. A la participación en los órganos e instituciones del Estado. 
+III. El Estado garantiza, respeta y protege los derechos de las naciones y pueblos indígena originario campesinos consagrados en esta Constitución y la ley. 
+Artículo 31. 
+I. Las naciones y pueblos indígena originarios en peligro de extinción, en situación de aislamiento voluntario y no contactados, serán protegidos y respetados en sus formas de vida individual y colectiva. 
+II. Las naciones y pueblos indígenas en aislamiento y no contactados gozan del derecho a mantenerse en esa condición, a la delimitación y consolidación legal del territorio que ocupan y habitan. 
+Artículo 32. 
+El pueblo afroboliviano goza, en todo lo que corresponda, de los derechos económicos, sociales, políticos y culturales reconocidos en la Constitución para las naciones y pueblos indígena originario campesinos. 
+CAPÍTULO QUINTO DERECHOS SOCIALES Y ECONÓMICOS SECCIÓN I DERECHO AL MEDIO AMBIENTE 
+Artículo 33. 
+Las personas tienen derecho a un medio ambiente saludable, protegido y equilibrado. 
+El ejercicio de este derecho debe permitir a los individuos y colectividades de las presentes y futuras generaciones, además de otros seres vivos, desarrollarse de manera normal y permanente. 
+Artículo 34. 
+Cualquier persona, a título individual o en representación de una colectividad, está facultada para ejercitar las acciones legales en defensa del derecho al medio ambiente, sin perjuicio de la obligación de las instituciones públicas de actuar de oficio frente a los atentados contra el medio ambiente. 
+SECCIÓN II DERECHO A LA SALUD Y A LA SEGURIDAD SOCIAL 
+Artículo 35. 
+I. El Estado, en todos sus niveles, protegerá el derecho a la salud, promoviendo políticas públicas orientadas a mejorar la calidad de vida, el bienestar colectivo y el acceso gratuito de la población a los servicios de salud. 
+II El sistema de salud es único e incluye a la medicina tradicional de las naciones y pueblos indígena originario campesinos. 
+Artículo 36. 
+I. El Estado garantizará el acceso al seguro universal de salud. 
+II. El Estado controlará el ejercicio de los servicios públicos y privados de salud, y lo regulará mediante la ley. 
+Artículo 37. 
+El Estado tiene la obligación indeclinable de garantizar y sostener el derecho a la salud, que se constituye en una función suprema y primera responsabilidad financiera. 
+Se priorizará la promoción de la salud y la prevención de las enfermedades. 
+Artículo 38. 
+I. Los bienes y servicios públicos de salud son propiedad del Estado, y no podrán ser privatizados ni concesionados. 
+II. Los servicios de salud serán prestados de forma ininterrumpida. 
+Artículo 39. 
+I. El Estado garantizará el servicio de salud público y reconoce el servicio de salud privado; regulará y vigilará la atención de calidad a través de auditorías médicas sostenibles que evalúen el trabajo de su personal, la infraestructura y el equipamiento, de acuerdo con la ley. 
+II. La ley sancionará las acciones u omisiones negligentes en el ejercicio de la práctica médica. 
+Artículo 40. 
+El Estado garantizará la participación de la población organizada en la toma de decisiones, y en la gestión de todo el sistema público de salud. 
+Artículo 41. 
+I. El Estado garantizará el acceso de la población a los medicamentos. 
+II. El Estado priorizará los medicamentos genéricos a través del fomento de su producción interna y, en su caso, determinará su importación. 
+III. El derecho a acceder a los medicamentos no podrá ser restringido por los derechos de propiedad intelectual y comercialización, y contemplará estándares de calidad y primera generación. 
+Artículo 42. 
+I. Es responsabilidad del Estado promover y garantizar el respeto, uso, investigación y práctica de la medicina tradicional, rescatando los conocimientos y prácticas ancestrales desde el pensamiento y valores de todas las naciones y pueblos indígena originario campesinos. 
+II. La promoción de la medicina tradicional incorporará el registro de medicamentos naturales y de sus principios activos, así como la protección de su conocimiento como propiedad intelectual, histórica, cultural, y como patrimonio de las naciones y pueblos indígena originario campesinos. 
+III. La ley regulará el ejercicio de la medicina tradicional y garantizará la calidad de su servicio. 
+Artículo 43. 
+La ley regulará las donaciones o trasplantes de células, tejidos u órganos bajo los principios de humanidad, solidaridad, oportunidad, gratuidad y eficiencia. 
+Artículo 44. 
+I. Ninguna persona será sometida a intervención quirúrgica, examen médico o de laboratorio sin su consentimiento o el de terceros legalmente autorizados, salvo peligro inminente de su vida. 
+II. Ninguna persona será sometida a experimentos científicos sin su consentimiento. 
+Artículo 45. 
+I. Todas las bolivianas y los bolivianos tienenderecho a acceder a la seguridad social. 
+II. La seguridad social se presta bajo los principios de universalidad, integralidad, equidad, solidaridad, unidad de gestión, economía, oportunidad, interculturalidad y eficacia. 
+Su dirección y administración corresponde al Estado, con control y participación social. 
+III. El régimen de seguridad social cubre atención por enfermedad, epidemias y enfermedades catastróficas; maternidad y paternidad; riesgos profesionales, laborales y riesgos por labores de campo; discapacidad y necesidades especiales; desempleo y pérdida de empleo; orfandad, invalidez, viudez, vejez y muerte; vivienda, asignaciones familiares y otras previsiones sociales. 
+IV. El Estado garantiza el derecho a la jubilación, con carácter universal, solidario y equitativo. 
+V. Las mujeres tienen derecho a la maternidad segura, con una visión y práctica intercultural; gozarán de especial asistencia y protección del Estado durante el embarazo, parto y en los periodos prenatal y posnatal. 
+VI. Los servicios de seguridad social pública no podrán ser privatizados ni concesionados. 
+SECCIÓN III DERECHO AL TRABAJO Y AL EMPLEO 
+Artículo 46. 
+I. Toda persona tiene derecho: 
+1. Al trabajo digno, con seguridad industrial, higiene y salud ocupacional, sin discriminación, y con remuneración o salario justo, equitativo y satisfactorio, que le asegure para sí y su familia una existencia digna. 
+2. A una fuente laboral estable, en condiciones equitativas y satisfactorias. 
+II. El Estado protegerá el ejercicio del trabajo en todas sus formas. 
+III. Se prohíbe toda forma de trabajo forzoso u otro modo análogo de explotación que obligue a una persona a realizar labores sin su consentimiento y justa retribución. 
+Artículo 47. 
+I. Toda persona tiene derecho a dedicarse al comercio, la industria o a cualquier actividad económica lícita, en condiciones que no perjudiquen al bien colectivo. 
+II. Las trabajadoras y los trabajadores de pequeñas unidades productivas urbanas o rurales, por cuenta propia, y gremialistas en general, gozarán por parte del Estado de un régimen de protección especial, mediante una política de intercambio comercial equitativo y de precios justos para sus productos, así como la asignación preferente de recursos económicos financieros para incentivar su producción. 
+III. El Estado protegerá, fomentará y fortalecerá las formas comunitarias de producción. 
+Artículo 48. I. Las disposiciones sociales y laborales son de cumplimiento obligatorio. 
+II. Las normas laborales se interpretarán y aplicarán bajo los principios de protección de las trabajadoras y de los trabajadores como principal fuerza productiva de la sociedad; de primacía de la relación laboral; de continuidad y estabilidad laboral; de no discriminación y de inversión de la prueba a favor de la trabajadora y del trabajador. III. Los derechos y beneficios reconocidos en favor de las trabajadoras y los trabajadores no pueden renunciarse, y son nulas las convenciones contrarias o que tiendan a burlar sus efectos. 
+IV. Los salarios o sueldos devengados, derechos laborales, beneficios sociales y aportes a la seguridad social no pagados tienen privilegio y preferencia sobre cualquier otra acreencia, y son inembargables e imprescriptibles. 
+V. El Estado promoverá la incorporación de las mujeres al trabajo y garantizará la misma remuneración que a los hombres por un trabajo de igual valor, tanto en el ámbito público como en el privado. 
+VI. Las mujeres no podrán ser discriminadas o despedidas por su estado civil, situación de embarazo, edad, rasgos físicos o número de hijas o hijos. 
+Se garantiza la inamovilidad laboral de las mujeres en estado de embarazo, y de los progenitores, hasta que la hija o el hijo cumpla un año de edad. 
+VII. El Estado garantizará la incorporación de las jóvenes y los jóvenes en el sistema productivo, de acuerdo con su capacitación y formación. 
+Artículo 49. 
+I. Se reconoce el derecho a la negociación colectiva. 
+II. La ley regulará las relaciones laborales relativas a contratos y convenios colectivos; salarios mínimos generales, sectoriales e incrementos salariales; reincorporación; descansos remunerados y feriados; cómputo de antigüedad, jornada laboral, horas extra, recargo nocturno, dominicales; aguinaldos, bonos, primas u otros sistemas de participación en las utilidades de la empresa; indemnizaciones y desahucios; maternidad laboral; capacitación y formación profesional, y otros derechos sociales. 
+III. El Estado protegerá la estabilidad laboral. 
+Se prohíbe el despido injustificado y toda forma de acoso laboral. 
+La ley determinará las sanciones correspondientes. 
+Artículo 50. 
+El Estado, mediante tribunales y organismos administrativos especializados, resolverá todos los conflictos emergentes de las relaciones laborales entre empleadores y trabajadores, incluidos los de la seguridad industrial y los de la seguridad social. 
+Artículo 51. 
+I. Todas las trabajadoras y los trabajadores tienen derecho a organizarse en sindicatos de acuerdo con la ley. 
+II. El Estado respetará los principios sindicales de unidad, democracia sindical, pluralismo político, autosostenimiento, solidaridad e internacionalismo. 
+III. Se reconoce y garantiza la sindicalización como medio de defensa, representación, asistencia, educación y cultura de las trabajadoras y los trabajadores del campo y de la ciudad. 
+IV. El Estado respetará la independencia ideológica y organizativa de los sindicatos. 
+Los sindicatos gozarán de personalidad jurídica por el solo hecho de organizarse y ser reconocidos por sus entidades matrices. 
+V. El patrimonio tangible e intangible de las organizaciones sindicales es inviolable, inembargable e indelegable. 
+VI. Las dirigentas y los dirigentes sindicales gozan de fuero sindical, no se les despedirá hasta un año después de la finalización de su gestión y no se les disminuirán sus derechos sociales, ni se les someterá a persecución ni privación de libertad por actos realizados en el cumplimiento de su labor sindical. 
+VII. Las trabajadoras y los trabajadores por cuenta propia tienen el derecho a organizarse para la defensa de sus intereses. 
+Artículo 52. 
+I. Se reconoce y garantiza el derecho a la libre asociación empresarial. 
+II. El Estado garantizará el reconocimiento de la personalidad jurídica de las asociaciones empresariales, así como las formas democráticas organizativas empresariales, de acuerdo con sus propios estatutos. 
+III. El Estado reconoce las instituciones de capacitación de las organizaciones empresariales. 
+IV. El patrimonio de las organizaciones empresariales, tangible e intangible, es inviolable e inembargable. 
+Artículo 53. 
+Se garantiza el derecho a la huelga como el ejercicio de la facultad legal de las trabajadoras y los trabajadores de suspender labores para la defensa de sus derechos, de acuerdo con la ley. 
+Artículo 54. 
+I. Es obligación del Estado establecer políticas de empleo que eviten la desocupación y la subocupación, con la finalidad de crear, mantener y generar condiciones que garanticen a las trabajadoras y los trabajadores posibilidades de ocupación laboral digna y de remuneración justa. II. Es deber del Estado y de la sociedad la protección y defensa del aparato industrial y de los servicios estatales. 
+III. Las trabajadoras y los trabajadores, en defensa de sus fuentes de trabajo y en resguardo del interés social podrán, de acuerdo con la ley, reactivar y reorganizar empresas en proceso de quiebra, concurso o liquidación, cerradas o abandonadasde forma injustificada, y conformarán empresas comunitarias o sociales. 
+El Estado podrá coadyuvar a la acción de las trabajadoras y los trabajadores. 
+Artículo 55. 
+El sistema cooperativo se sustenta en los principios de solidaridad, igualdad, reciprocidad, equidad en la distribución, finalidad social, y no lucro de sus asociados. 
+El Estado fomentará y regulará la organización de cooperativas mediante la ley. 
+SECCIÓN IV DERECHO A LA PROPIEDAD 
+Artículo 56. 
+I. Toda persona tiene derecho a la propiedad privada individual o colectiva, siempre que ésta cumpla una función social. 
+II. Se garantiza la propiedad privada siempre que el uso que se haga de ella no sea perjudicial al interés colectivo. 
+III. Se garantiza el derecho a la sucesión hereditaria. 
+Artículo 57. 
+La expropiación se impondrá por causa de necesidad o utilidad pública, calificada conforme con la ley y previa indemnización justa. 
+La propiedad inmueble urbana no está sujeta a reversión. 
+SECCIÓN V DERECHOS DE LA NIÑEZ, ADOLESCENCIA Y JUVENTUD 
+Artículo 58. 
+Se considera niña, niño o adolescente a toda persona menor de edad. 
+Las niñas, niños y adolescentes son titulares de los derechos reconocidos en la Constitución, con los límites establecidos en ésta, y de los derechos específicos inherentes a su proceso de desarrollo; a su identidad étnica, sociocultural, de género y generacional; y a la satisfacción de sus necesidades, intereses y aspiraciones. 
+Artículo 59. I. Toda niña, niño y adolescente tiene derecho a su desarrollo integral. 
+II. Toda niña, niño y adolescente tiene derecho a vivir y a crecer en el seno de su familia de origen o adoptiva. 
+Cuando ello no sea posible, o sea contrario a su interés superior, tendrá derecho a una familia sustituta, de conformidad con la ley. 
+III. Todas las niñas, niños y adolescentes, sin distinción de su origen, tienen iguales derechos y deberes respecto a sus progenitores. 
+La discriminación entre hijos por parte de los progenitores será sancionada por la ley. 
+IV. Toda niña, niño y adolescente tiene derecho a la identidad y la filiación respecto a sus progenitores. Cuando no se conozcan los progenitores, utilizarán el apellido convencional elegido por la persona responsable de su cuidado. 
+V. El Estado y la sociedad garantizarán la protección, promoción y activa participación de las jóvenes y los jóvenes en el desarrollo productivo, político, social, económico y cultural, sin discriminación alguna, de acuerdo con la ley. 
+Artículo 60. 
+Es deber del Estado, la sociedad y la familia garantizar la prioridad del interés superior de la niña, niño y adolescente, que comprende la preeminencia de sus derechos, la primacía en recibir protección y socorro en cualquier circunstancia, la prioridad en la atención de los servicios públicos y privados, y el acceso a una administración de justicia pronta, oportuna y con asistencia de personal especializado. 
+Artículo 61. 
+I. Se prohíbe y sanciona toda forma de violencia contra las niñas, niños y adolescentes, tanto en la familia como en la sociedad. II. Se prohíbe el trabajo forzado y la explotación infantil. 
+Las actividades que realicen las niñas, niños y adolescentes en el marco familiar y social estarán orientadas a su formación integral como ciudadanas y ciudadanos, y tendrán una función formativa. 
+Sus derechos, garantías y mecanismos institucionales de protección serán objeto de regulación especial. 
+SECCIÓN VI DERECHOS DE LAS FAMILIAS 
+Artículo 62. 
+El Estado reconoce y protege a las familias como el núcleo fundamental de la sociedad, y garantizará las condiciones sociales y económicas necesarias para su desarrollo integral. Todos sus integrantes tienen igualdad de derechos, obligaciones y oportunidades. 
+Artículo 63. I. El matrimonio entre una mujer y un hombre se constituye por vínculos jurídicos y se basa en la igualdad de derechos y deberes de los cónyuges. 
+II. Las uniones libres o de hecho que reúnan condiciones de estabilidad y singularidad, y sean mantenidas entre una mujer y un hombre sin impedimento legal, producirán los mismos efectos que el matrimonio civil, tanto en las relaciones personales y patrimoniales de los convivientes como en lo que respecta a las hijas e hijos adoptados o nacidos de aquéllas. 
+Artículo 64. 
+I. Los cónyuges o convivientes tienen el deber de atender, en igualdad de condiciones y mediante el esfuerzo común, el mantenimiento y responsabilidad del hogar, la educación y formación integral de las hijas e hijos mientras sean menores o tengan alguna discapacidad. 
+II. El Estado protegerá y asistirá a quienes sean responsables de las familias en el ejercicio de sus obligaciones. 
+Artículo 65. 
+En virtud del interés superior de las niñas, niños y adolescentes y de su derecho a la identidad, la presunción de filiación se hará valer por indicación de la madre o el padre. 
+Esta presunción será válida salvo prueba en contrario a cargo de quien niegue la filiación. 
+En caso de que la prueba niegue la presunción, los gastos incurridos corresponderán a quien haya indicado la filiación. 
+Artículo 66. 
+Se garantiza a las mujeres y a los hombres el ejercicio de sus derechos sexuales y sus derechos reproductivos. 
+SECCIÓN VII DERECHOS DE LAS PERSONAS ADULTAS MAYORES 
+Artículo 67. 
+I. Además de los derechos reconocidos en esta Constitución, todas las personas adultas mayores tienen derecho a una vejez digna, con calidad y calidez humana. 
+II. El Estado proveerá una renta vitalicia de vejez, en el marco del sistema de seguridad social integral, de acuerdo con la ley. 
+Artículo 68. 
+I. El Estado adoptará políticas públicas para la protección, atención, recreación, descanso y ocupación social de las personas adultas mayores, de acuerdo con sus capacidades y posibilidades. 
+II. Se prohíbe y sanciona toda forma de maltrato, abandono, violencia y discriminación a las personas adultas mayores. 
+Artículo 69. 
+Los Beneméritos de la Patria merecerán gratitud y respeto de las instituciones públicas, privadas y de la población en general, serán considerados héroes y defensores de Bolivia y recibirán del Estado una pensión vitalicia, de acuerdo con la ley. 
+SECCIÓN VIII DERECHOS DE LAS PERSONAS CON DISCAPACIDAD 
+Artículo 70. 
+Toda persona con discapacidad goza de los siguientes derechos: 
+1. A ser protegido por su familia y por el Estado. 
+2. A una educación y salud integral gratuita. 
+3. A la comunicación en lenguaje alternativo. 
+4. A trabajar en condiciones adecuadas, de acuerdo a sus posibilidades y capacidades, con una remuneración justa que le asegure una vida digna. 
+5. Al desarrollo de sus potencialidades individuales. 
+Artículo 71. 
+I. Se prohibirá y sancionará cualquier tipo de discriminación, maltrato, violencia y explotación a toda persona con discapacidad. II. El Estado adoptará medidas de acción positiva para promover la efectiva integración de las personas con discapacidad en el ámbito productivo, económico, político, social y cultural, sin discriminación alguna. 
+III. El Estado generará las condiciones que permitan el desarrollo de las potencialidades individuales de las personas con discapacidad. 
+Artículo 72. 
+El Estado garantizará a las personas con discapacidad los servicios integrales de prevención y rehabilitación, así como otros beneficios que se establezcan en la ley. 
+SECCIÓN IX DERECHOS DE LAS PERSONAS PRIVADAS DE LIBERTAD 
+Artículo 73. 
+I. Toda persona sometida a cualquier forma de privación de libertad será tratada con el debido respeto a la dignidad humana. 
+II. Todas las personas privadas de libertad tienen derecho a comunicarse libremente con su defensor, intérprete, familiares y personas allegadas. 
+Se prohíbe la incomunicación. 
+Toda limitación a la comunicación sólo podrá tener lugar en el marco de investigaciones por comisión de delitos, y durará el tiempo máximo de veinticuatro horas. 
+Artículo 74. 
+I. Es responsabilidad del Estado la reinserción social de las personas privadas de libertad, velar por el respeto de sus derechos, y su retención y custodia en un ambiente adecuado, de acuerdo a la clasificación, naturaleza y gravedad del delito, así como la edad y el sexo de las personas retenidas. 
+II. Las personas privadas de libertad tendrán la oportunidad de trabajar y estudiar en los centros penitenciarios. 
+SECCIÓN X DERECHOS DE LAS USUARIAS Y LOS USUARIOS Y DE LAS CONSUMIDORAS Y LOS CONSUMIDORES 
+Artículo 75. 
+Las usuarias y los usuarios y las consumidoras y los consumidores gozan de los siguientes derechos: 
+1. Al suministro de alimentos, fármacos y productos en general, en condiciones de inocuidad, calidad, y cantidad disponible adecuada y suficiente, con prestación eficiente y oportuna del suministro. 
+2. A la información fidedigna sobre las características y contenidos de los productos que consuman y servicios que utilicen. 
+Artículo 76. 
+I. El Estado garantiza el acceso a un sistema de transporte integral en sus diversas modalidades. 
+La ley determinará que el sistema de transporte sea eficiente y eficaz, y que genere beneficios a los usuarios y a los proveedores. 
+II. No podrán existir controles aduaneros, retenes ni puestos de control de ninguna naturaleza en el territorio boliviano, con excepción de lwos que hayan sido creados por la ley. 
+CAPÍTULO SEXTO EDUCACIÓN, INTERCULTURALIDAD Y DERECHOS CULTURALES SECCIÓN I EDUCACIÓN 
+Artículo 77. 
+I. La educación constituye una función suprema y primera responsabilidad financiera del Estado, que tiene la obligación indeclinable de sostenerla, garantizarla y gestionarla. 
+II. El Estado y la sociedad tienen tuición plena sobre el sistema educativo, que comprende la educación regular, la alternativa y especial, y la educación superior de formación profesional. 
+El sistema educativo desarrolla sus procesos sobre la base de criterios de armonía y coordinación. 
+III. El sistema educativo está compuesto por las instituciones educativas fiscales, instituciones educativas privadas y de convenio. 
+Artículo 78. 
+I. La educación es unitaria, pública, universal, democrática, participativa, comunitaria, descolonizadora y de calidad. 
+II. La educación es intracultural, intercultural y plurilingüe en todo el sistema educativo. 
+III. El sistema educativo se fundamenta en una educación abierta, humanista, científica, técnica y tecnológica, productiva, territorial, teórica y práctica, liberadora y revolucionaria, crítica y solidaria. 
+IV. El Estado garantiza la educación vocacional y la enseñanza técnica humanística, para hombres y mujeres, relacionada con la vida, el trabajo y el desarrollo productivo. 
+Artículo 79. 
+La educación fomentará el civismo, el diálogo intercultural y los valores ético morales. 
+Los valores incorporarán la equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos. 
+Artículo 80. 
+I. La educación tendrá como objetivo la formación integral de las personas y el fortalecimiento de la conciencia social crítica en la vida y para la vida. 
+La educación estará orientada a la formación individual y colectiva; al desarrollo de competencias, aptitudes y habilidades físicas e intelectuales que vincule la teoría con la práctica productiva; a la conservación y protección del medio ambiente, la biodiversidad y el territorio para el vivir bien. 
+Su regulación y cumplimiento serán establecidos por la ley. 
+II. La educación contribuirá al fortalecimiento de la unidad e identidad de todas y todos como parte del Estado Plurinacional, así como a la identidad y desarrollo cultural de los miembros de cada nación o pueblo indígena originario campesino, y al entendimiento y enriquecimiento intercultural dentro del Estado. 
+Artículo 81. 
+I. La educación es obligatoria hasta el bachillerato. 
+II. La educación fiscal es gratuita en todos sus niveles hasta el superior. 
+III. A la culminación de los estudios del nivel secundario se otorgará el diploma de bachiller, con carácter gratuito e inmediato. 
+Artículo 82. 
+I. El Estado garantizará el acceso a la educación y la permanencia de todas las ciudadanas y los ciudadanos en condiciones de plena igualdad. 
+II. El Estado apoyará con prioridad a los estudiantes con menos posibilidades económicas para que accedan a los diferentes niveles del sistema educativo, mediante recursos económicos, programas de alimentación, vestimenta, transporte, material escolar; y en áreas dispersas, con residencias estudiantiles, de acuerdo con la ley. 
+III. Se estimulará con becas a estudiantes de excelente aprovechamiento en todos los niveles del sistema educativo. 
+Toda niña, niño y adolescente con talento natural destacado tiene derecho a ser atendido educativamente con métodos de formación y aprendizaje que le permitan el mayor desarrollo de sus aptitudes y destrezas. 
+Artículo 83. 
+Se reconoce y garantiza la participación social, la participación comunitaria y de los padres de familia en el sistema educativo, mediante organismos representativos en todos los niveles del Estado y en las naciones y pueblos indígena originario campesinos. 
+Su composición y atribuciones estarán establecidas en la ley. 
+Artículo 84. 
+El Estado y la sociedad tienen el deber de erradicar el analfabetismo a través de programas acordes con la realidad cultural y lingüística de la población. 
+Artículo 85. 
+El Estado promoverá y garantizará la educación permanente de niñas, niños y adolescentes con discapacidad, o con talentos extraordinarios en el aprendizaje, bajo la misma estructura, principios y valores del sistema educativo, y establecerá una organización y desarrollo curricular especial. 
+Artículo 86. 
+En los centros educativos se reconocerá y garantizará la libertad de conciencia y de fe y de la enseñanza de religión, así como la espiritualidad de las naciones y pueblos indígena originario campesinos, y se fomentará el respeto y la convivencia mutua entre las personas con diversas opciones religiosas, sin imposición dogmática. 
+En estos centros no se discriminará en la aceptación y permanencia de las alumnas y los alumnos por su opción religiosa. 
+Artículo 87. 
+Se reconoce y respeta el funcionamiento de unidades educativas de convenio con fines de servicio social, con acceso libre y sin fines de lucro, que deberán funcionar bajo la tuición de las autoridades públicas, respetando el derecho de administración de entidades religiosas sobre dichas unidades educativas, sin perjuicio de lo establecido en disposiciones nacionales, y se regirán por las mismas normas, políticas, planes y programas del sistema educativo. 
+Artículo 88. 
+I. Se reconoce y respeta el funcionamiento de unidades educativas privadas, en todos los niveles y modalidades, éstas se regirán por las políticas, planes, programas y autoridades del sistema educativo. El Estado garantiza su funcionamiento previa verificación de las condiciones y cumplimiento de los requisitos establecidos por la ley. 
+II. Se respeta el derecho de las madres y padres a elegir la educación que convenga para sus hijas e hijos. 
+Artículo 89. 
+El seguimiento, la medición, evaluación y acreditación de la calidad educativa en todo el sistema educativo, estará a cargo de una institución pública, técnica especializada, independiente del Ministerio del ramo. Su composición y funcionamiento será determinado por la ley. 
+Artículo 90. 
+I. El Estado reconocerá la vigencia de institutos de formación humanística, técnica y tecnológica, en los niveles medio y superior, previo cumplimiento de las condiciones y requisitos establecidos en la ley. 
+II. El Estado promoverá la formación técnica, tecnológica, productiva, artística y lingüística, a través de institutos técnicos. 
+III. El Estado, a través del sistema educativo, promoverá la creación y organización de programas educativos a distancia y populares no escolarizados, con el objetivo de elevar el nivel cultural y desarrollar la conciencia plurinacional del pueblo. 
+SECCIÓN II EDUCACIÓN SUPERIOR 
+Artículo 91. 
+I. La educación superior desarrolla procesos de formación profesional, de generación y divulgación de conocimientos orientados al desarrollo integral de la sociedad, para lo cual tomará en cuenta los conocimientos universales y los saberes colectivos de las naciones y pueblos indígena originario campesinos. 
+II. La educación superior es intracultural, intercultural y plurilingüe, y tiene por misión la formación integral de recursos humanos con alta calificación y competencia profesional; desarrollar procesos de investigación científica para resolver problemas de la base productiva y de su entorno social; promover políticas de extensión e interacción social para fortalecer la diversidad científica, cultural y lingüística; participar junto a su pueblo en todos los procesos de liberación social, para construir una sociedad con mayor equidad y justicia social. 
+III. La educación superior está conformada por las universidades, las escuelas superiores de formación docente, y los institutos técnicos, tecnológicos y artísticos, fiscales y privados. 
+Artículo 92 
+I. Las universidades públicas son autónomas e iguales en jerarquía. 
+La autonomía consiste en la libre administración de sus recursos; el nombramiento de sus autoridades, su personal docente y administrativo; la elaboración y aprobación de sus estatutos, planes de estudio y presupuestos anuales; y la aceptación de legados y donaciones, así como la celebración de contratos, para realizar sus fines y sostener y perfeccionar sus institutos y facultades. 
+Las universidades públicas podrán negociar empréstitos con garantía de sus bienes y recursos, previa aprobación legislativa. 
+II. Las universidades públicas constituirán, en ejercicio de su autonomía, la Universidad Boliviana, que coordinará y programará sus fines y funciones mediante un organismo central, de acuerdo con un plan de desarrollo universitario. 
+III. Las universidades públicas estarán autorizadas para extender diplomas académicos y títulos profesionales con validez en todo el Estado. 
+Artículo 93. 
+I. Las universidades públicas serán obligatoria y suficientemente subvencionadas por el Estado, independientemente de sus recursos departamentales, municipales y propios, creados o por crearse. 
+II. Las universidades públicas, en el marco de sus estatutos, establecerán los mecanismos de participación social de carácter consultivo, de coordinación y asesoramiento. 
+III. Las universidades públicas establecerán mecanismos de rendición de cuentas y transparencia en el uso de sus recursos, a través de la presentación de estados financieros a la Asamblea Plurinacional Legislativa, a la Contraloría General y al Órgano Ejecutivo. 
+IV. Las universidades públicas, en el marco de sus estatutos, establecerán programas de desconcentración académica y de interculturalidad, de acuerdo a las necesidades del Estado y de las naciones y pueblos indígena originario campesinos. 
+V. El Estado, en coordinación con las universidades públicas, promoverá en áreas rurales la creación y el funcionamiento de universidades e institutos comunitarios pluriculturales, asegurando la participación social. 
+La apertura y funcionamiento de dichas universidades responderá a las necesidades del fortalecimiento productivo de la región, en función de sus potencialidades. 
+Artículo 94. 
+I. Las universidades privadas se regirán por las políticas, planes, programas y autoridades del sistema educativo. Su funcionamiento será autorizado mediante decreto supremo, previa verificación del cumplimiento de las condiciones y requisitos establecidos por la ley. 
+II. Las universidades privadas estarán autorizadas para expedir diplomas académicos. Los títulos profesionales con validez en todo el país serán otorgados por el Estado. 
+III. En las universidades privadas, para la obtención de los diplomas académicos en todas las modalidades de titulación, se conformarán tribunales examinadores, que estarán integrados por docentes titulares, nombrados por las universidades públicas, en las condiciones establecidas por la ley. 
+El Estado no subvencionará a las universidades privadas. 
+Artículo 95. 
+I. Las universidades deberán crear y sostener centros interculturales de formación y capacitación técnica y cultural, de acceso libre al pueblo, en concordancia con los principios y fines del sistema educativo. 
+II. Las universidades deberán implementar programas para la recuperación, preservación, desarrollo, aprendizaje y divulgación de las diferentes lenguas de las naciones y pueblos indígena originario campesinos. 
+III. Las universidades promoverán centros de generación de unidades productivas, en coordinación con las iniciativas productivas comunitarias, públicas y privadas. 
+Artículo 96. 
+I. Es responsabilidad del Estado la formación y capacitación docente para el magisterio público, a través de escuelas superiores de formación. 
+La formación de docentes será única, fiscal, gratuita, intracultural, intercultural, plurilingüe, científica y productiva, y se desarrollará con compromiso social y vocación de servicio. 
+II. Los docentes del magisterio deberán participar en procesos de actualización y capacitación pedagógica continua. 
+III. Se garantiza la carrera docente y la inamovilidad del personal docente del magisterio, conforme con la ley. 
+Los docentes gozarán de un salario digno. 
+Artículo 97. 
+La formación post-gradual en sus diferentes niveles tendrá como misión fundamental la cualificación de profesionales en diferentes áreas, a través de procesos de investigación científica y generación de conocimientos vinculados con la realidad, para coadyuvar con el desarrollo integral de la sociedad. 
+La formación post-gradual será coordinada por una instancia conformada por las universidades del sistema educativo, de acuerdo con la ley. 
+SECCIÓN III CULTURAS 
+Artículo 98. 
+I. La diversidad cultural constituye la base esenciald El Estado Plurinacional Comunitario. 
+La interculturalidad es el instrumento para la cohesión y la convivencia armónica y equilibrada entre todos los pueblos y naciones. 
+La interculturalidad tendrá lugar con respeto a las diferencias y en igualdad de condiciones. 
+II. El Estado asumirá como fortaleza la existencia de culturas indígena originario campesinas, depositarias de saberes, conocimientos, valores, espiritualidades y cosmovisiones. 
+III. Será responsabilidad fundamental del Estado preservar, desarrollar, proteger y difundir las culturas existentes en el país. 
+Artículo 99. 
+I. El patrimonio cultural del pueblo boliviano es inalienable, inembargable e imprescriptible. 
+Los recursos económicos que generen se regularán por la ley, para atender prioritariamente a su conservación, preservación y promoción. 
+II. El Estado garantizará el registro, protección, restauración, recuperación, revitalización, enriquecimiento, promoción y difusión de su patrimonio cultural, de acuerdo con la ley. 
+III. La riqueza natural, arqueológica, paleontológica, histórica, documental, y la procedente del culto religioso y del folklore, es patrimonio cultural del pueblo boliviano, de acuerdo con la ley. 
+Artículo 100. 
+I. Es patrimonio de las naciones y pueblos indígena originario campesinos las cosmovisiones, los mitos, la historia oral, las danzas, las prácticas culturales, los conocimientos y las tecnologías tradicionales. 
+Este patrimonio forma parte de la expresión e identidad del Estado. 
+II. El Estado protegerá los saberes y los conocimientos mediante el registro de la propiedad intelectual que salvaguarde los derechos intangibles de las naciones y pueblos indígena originario campesinas y las comunidades interculturales y afro-bolivianas. 
+Artículo 101. 
+Las manifestaciones del arte y las industrias populares, en su componente intangible, gozarán de especial protección del Estado. 
+Asimismo, disfrutarán de esta protección los sitios y actividades declarados patrimonio cultural de la humanidad, en su componente tangible e intangible. 
+Artículo 102. 
+El Estado registrará y protegerá la propiedad intelectual, individual y colectiva de las obras y descubrimientos de los autores, artistas, compositores, inventores y científicos, en las condiciones que determine la ley. 
+SECCIÓN IV CIENCIA, TECNOLOGÍA E INVESTIGACIÓN 
+Artículo 103. 
+I. El Estado garantizará el desarrollo de la ciencia y la investigación científica, técnica y tecnológica en beneficio del interés general. 
+Se destinarán los recursos necesarios y se creará el sistema estatal de ciencia y tecnología. 
+II. El Estado asumirá como política la implementación de estrategias para incorporar el conocimiento y aplicación de nuevas tecnologías de información y comunicación. 
+III. El Estado, las universidades, las empresas productivas y de servicio públicas y privadas, y las naciones y pueblos indígena originario campesinos, desarrollarán y coordinarán procesos de investigación, innovación, promoción, divulgación, aplicación y transferencia de ciencia y tecnología para fortalecer la base productiva e impulsar el desarrollo integral de la sociedad, de acuerdo con la ley. 
+SECCIÓN V DEPORTE Y RECREACIÓN 
+Artículo 104. 
+Toda persona tiene derecho al deporte, a la cultura física y a la recreación. El Estado garantiza el acceso al deporte sin distinción de género, idioma, religión, orientación política, ubicación territorial, pertenencia social, cultural o de cualquier otra índole. 
+Artículo 105. 
+El Estado promoverá, mediante políticas de educación, recreación y salud pública, el desarrollo de la cultura física y de la práctica deportiva en sus niveles preventivo, recreativo, formativo y competitivo, con especial atención a las personas con discapacidad. 
+El Estado garantizará los medios y los recursos económicos necesarios para su efectividad. 
+CAPÍTULO SÉPTIMO COMUNICACIÓN SOCIAL 
+Artículo 106. 
+I. El Estado garantiza el derecho a la comunicación y el derecho a la información. 
+II. El Estado garantiza a las bolivianas y los bolivianos el derecho a la libertad de expresión, de opinión y de información, a la rectificación y a la réplica, y el derecho a emitir libremente las ideas por cualquier medio de difusión, sin censura previa. 
+III. El Estado garantiza a las trabajadoras y los trabajadores de la prensa, la libertad de expresión, el derecho a la comunicación y a la información. 
+IV. Se reconoce la cláusula de conciencia de los trabajadores de la información. 
+Artículo 107. 
+I. Los medios de comunicación social deberán contribuir a la promoción de los valores éticos, morales y cívicos de las diferentes culturas del país, con la producción y difusión de programas educativos plurilingües y en lenguaje alternativo para discapacitados. 
+La información y las opiniones emitidas a través de los medios de comunicación social deben respetar los principios de veracidad y responsabilidad. 
+Estos principios se ejercerán mediante las normas de ética y de autorregulación de las organizaciones de periodistas y medios de comunicación y su ley. 
+III. Los medios de comunicación social no podrán conformar, de manera directa o indirecta, monopolios u oligopolios. 
+IV. El Estado apoyará la creación de medios de comunicación comunitarios en igualdad de condiciones y oportunidades. 
+TÍTULO III DEBERES 
+Artículo 108. 
+Son deberes de las bolivianas y los bolivianos: 
+1. Conocer, cumplir y hacer cumplir la Constitución y las leyes 
+2. Conocer, respetar y promover los derechos reconocidos en la Constitución. 
+3. Promover y difundir la práctica de los valores y principios que proclama la Constitución. 
+4. Defender, promover y contribuir al derecho a la paz y fomentar la cultura de paz. 
+5. Trabajar, según su capacidad física e intelectual, en actividades lícitas y socialmente útiles. 
+6. Formarse en el sistema educativo hasta el bachillerato. 
+7. Tributar en proporción a su capacidad económica, conforme con la ley. 
+8. Denunciar y combatir todos los actos de corrupción. 
+9. Asistir, alimentar y educar a las hijas e hijos. 
+10. Asistir, proteger y socorrer a sus ascendientes. 
+11. Socorrer con todo el apoyo necesario, en casos de desastres naturales y otras contingencias. 
+12. Prestar el servicio militar, obligatorio para los varones. 
+13. Defender la unidad, la soberanía y la integridad territorial de Bolivia, y respetar sus símbolos y valores. 
+14. Resguardar, defender y proteger el patrimonio natural, económico y cultural de Bolivia. 
+15. Proteger y defender los recursos naturales y contribuir a su uso sustentable, para preservar los derechos de las futuras generaciones. 
+16. Proteger y defender un medio ambiente adecuado para el desarrollo de los seres vivos. 
+TÍTULO IV GARANTÍAS JURISDICCIONALES Y ACCIONES DE DEFENSA CAPÍTULO PRIMERO GARANTÍAS JURISDICCIONALES 
+Artículo 109. 
+I. Todos los derechos reconocidos en la Constitución son directamente aplicables y gozan de iguales garantías para su protección. 
+II. Los derechos y sus garantías sólo podrán ser regulados por la ley. 
+Artículo 110. 
+I. Las personas que vulneren derechos constitucionales quedan sujetas a la jurisdicción y competencia de las autoridades bolivianas. 
+II. La vulneración de los derechos constitucionales hace responsables a sus autores intelectuales y materiales. 
+III. Los atentados contra la seguridad personal hacen responsables a sus autores inmediatos, sin que pueda servirles de excusa el haberlos cometido por orden superior. 
+Artículo 111. 
+Los delitos de genocidio, de lesa humanidad, de traición a la patria, crímenes de guerra son imprescriptibles. 
+Artículo 112. 
+Los delitos cometidos por servidores públicos que atenten contra el patrimonio del Estado y causen grave daño económico, son imprescriptibles y no admiten régimen de inmunidad. 
+Artículo 113. 
+I. La vulneración de los derechos concede a las víctimas el derecho a la indemnización, reparación y resarcimiento de daños y perjuicios en forma oportuna. 
+II. En caso de que el Estado sea condenado a la reparación patrimonial de daños y perjuicios, deberá interponer la acción de repetición contra la autoridad o servidor público responsable de la acción u omisión que provocó el daño. 
+Artículo 114. 
+I. Queda prohibida toda forma de tortura, desaparición, confinamiento, coacción, exacción o cualquier forma de violencia física o moral. 
+Las servidoras públicas y los servidores públicos o las autoridades públicas que las apliquen, instiguen o consientan, serán destituidas y destituidos, sin perjuicio de las sanciones determinadas por la ley. 
+II. Las declaraciones, acciones u omisiones obtenidas o realizadas mediante el empleo de tortura, coacción, exacción o cualquier forma de violencia, son nulas de pleno derecho. 
+Artículo 115. 
+I. Toda persona será protegida oportuna y efectivamente por los jueces y tribunales en el ejercicio de sus derechos e intereses legítimos. 
+II. El Estado garantiza el derecho al debido proceso, a la defensa y a una justicia plural, pronta, oportuna, gratuita, transparente y sin dilaciones. 
+Artículo 116. 
+I. Se garantiza la presunción de inocencia. 
+Durante el proceso, en caso de duda sobre la norma aplicable, regirá la más favorable al imputado o procesado. 
+II Cualquier sanción debe fundarse en una ley anterior al hecho punible. 
+Artículo 117. 
+I. Ninguna persona puede ser condenada sin haber sido oída y juzgada previamente en un debido proceso. 
+Nadie sufrirá sanción penal que no haya sido impuesta por autoridad judicial competente en sentencia ejecutoriada. 
+II. Nadie será procesado ni condenado más de una vez por el mismo hecho. 
+La rehabilitación en sus derechos restringidos será inmediata al cumplimiento de su condena. 
+III. No se impondrá sanción privativa de libertad por deudas u obligaciones patrimoniales, excepto en los casos establecidos por la ley. 
+Artículo 118. 
+I. Está prohibida la infamia, la muerte civil y el confinamiento. 
+II. La máxima sanción penal será de treinta años de privación de libertad, sin derecho a indulto. 
+III. El cumplimiento de las sanciones privativas de libertad y las medidas de seguridad están orientadas a la educación, habilitación e inserción social de los condenados, con respeto a sus derechos. 
+Artículo 119. 
+I. Las partes en conflicto gozarán de igualdad de oportunidades para ejercer durante el proceso las facultades y los derechos que les asistan, sea por la vía ordinaria o por la indígena originaria campesina. 
+II. Toda persona tiene derecho inviolable a la defensa. 
+El Estado proporcionará a las personas denunciadas o imputadas una defensora o un defensor gratuito, en los casos en que éstas no cuenten con los recursos económicos necesarios. 
+Artículo 120. 
+I. Toda persona tiene derecho a ser oída por una autoridad jurisdiccional competente, independiente e imparcial, y no podrá ser juzgada por comisiones especiales ni sometida a otras autoridades jurisdiccionales que las establecidas con anterioridad al hecho de la causa. 
+II. Toda persona sometida a proceso debe ser juzgada en su idioma; excepcionalmente, de manera obligatoria, deberá ser asistida por traductora, traductor o intérprete. 
+Artículo 121. 
+I. En materia penal, ninguna persona podrá ser obligada a declarar contra sí misma, ni contra sus parientes consanguíneos hasta el cuarto grado o sus afines hasta el segundo grado. 
+El derecho de guardar silencio no será considerado como indicio de culpabilidad. 
+II. La víctima en un proceso penal podrá intervenir de acuerdo con la ley, y tendrá derecho a ser oída antes de cada decisión judicial. 
+En caso de no contar con los recursos económicos necesarios, deberá ser asistida gratuitamente por una abogada o abogado asignado por el Estado. 
+Artículo 122. 
+Son nulos los actos de las personas que usurpen funciones que no les competen, así como los actos de las que ejercen jurisdicción o potestad que no emane de la ley. 
+Artículo 123. 
+La ley sólo dispone para lo venidero y no tendrá efecto retroactivo, excepto en materia laboral, cuando lo determine expresamente a favor de las trabajadoras y de los trabajadores; en materia penal, cuando beneficie a la imputada o al imputado; en materia de corrupción, para investigar, procesar y sancionar los delitos cometidos por servidores públicos contra los intereses del Estado; y en el resto de los casos señalados por la Constitución. 
+Artículo 124. 
+I. Comete delito de traición a la patria la boliviana o el boliviano que incurra en los siguientes hechos: 
+1. Que tome armas contra su país, se ponga al servicio de estados extranjeros participantes, o entre en complicidad con el enemigo, en caso de guerra internacional contra Bolivia. 
+2. Que viole el régimen constitucional de recursos naturales. 
+3. Que atente contra la unidad del país. 
+II. Este delito merecerá la máxima sanción penal. 
+CAPÍTULO SEGUNDO ACCIONES DE DEFENSA SECCIÓN I ACCIÓN DE LIBERTAD 
+Artículo 125. Toda persona que considere que su vida está en peligro, que es ilegalmente perseguida, o que es indebidamente procesada o privada de libertad personal, podrá interponer Acción de Libertad y acudir, de manera oral o escrita, por sí o por cualquiera a su nombre y sin ninguna formalidad procesal, ante cualquier juez o tribunal competente en materia penal, y solicitará que se guarde tutela a su vida, cese la persecución indebida, se restablezcan las formalidades legales o se restituya su derecho a la libertad. 
+Artículo 126. I. La autoridad judicial señalará de inmediato día y hora de la audiencia pública, la cual tendrá lugar dentro de las veinticuatro horas de interpuesta la acción, y dispondrá que la persona accionante sea conducida a su presencia o acudirá al lugar de la detención. 
+Con dicha orden se practicará la citación, personal o por cédula, a la autoridad o a la persona denunciada, orden que será obedecida sin observación ni excusa, tanto por la autoridad o la persona denunciada como por los encargados de las cárceles o lugares de detención, sin que éstos, una vez citados, puedan desobedecer. 
+II. En ningún caso podrá suspenderse la audiencia. 
+En ausencia del demandado, por inasistencia o abandono, se llevará a efecto en su rebeldía. 
+III. Conocidos los antecedentes y oídas las alegaciones, la autoridad judicial, obligatoriamente y bajo responsabilidad, dictará sentencia en la misma audiencia. 
+La sentencia podrá ordenar la tutela de la vida, la restitución del derecho a la libertad, la reparación de los defectos legales, el cese de la persecución indebida o la remisión del caso al juez competente. 
+En todos los casos, las partes quedarán notificadas con la lectura de la sentencia. 
+IV. El fallo judicial será ejecutado inmediatamente. 
+Sin perjuicio de ello, la decisión se elevará en revisión, de oficio, ante el Tribunal Constitucional Plurinacional, en el plazo de las veinticuatro horas siguientes a su emisión. 
+Artículo 127. 
+I. Los servidores públicos o personas particulares que resistan las decisiones judiciales en los casos previstos por esta acción, serán remitidos por orden de la autoridad que conoció de la acción ante el Ministerio Público para su procesamiento penal por atentado contra las garantías constitucionales. 
+II. La autoridad judicial que no proceda conforme con lo dispuesto por este Artículo quedará sujeta a sanción, de acuerdo con la Constitución y la ley. 
+SECCIÓN II ACCIÓN DE AMPARO CONSTITUCIONAL 
+Artículo 128. 
+La Acción de Amparo Constitucional tendrá lugar contra actos u omisiones ilegales o indebidos de los servidores públicos, o de persona individual o colectiva, que restrinjan, supriman o amenacen restringir o suprimir los derechos reconocidos por la Constitución y la ley. 
+Artículo 129. 
+I. La Acción de Amparo Constitucional se interpondrá por la persona que se crea afectada, por otra a su nombre con poder suficiente o por la autoridad correspondiente de acuerdo con la Constitución, ante cualquier juez o tribunal competente, siempre que no exista otro medio o recurso legal para la protección inmediata de los derechos y garantías restringidos, suprimidos o amenazados. 
+II. La Acción de Amparo Constitucional podrá interponerse en el plazo máximo de seis meses, computable a partir de la comisión de la vulneración alegada o de notificada la última decisión administrativa o judicial. 
+III. La autoridad o persona demandada será citada en la forma prevista para la Acción de Libertad, con el objeto de que preste información y presente, en su caso, los actuados concernientes al hecho denunciado, en el plazo máximo de cuarenta y ocho horas desde la presentación de la Acción. 
+IIV. La resolución final se pronunciará en audiencia pública inmediatamente recibida la información de la autoridad o persona demandada y, a falta de ésta, lo hará sobre la base de la prueba que ofrezca la persona accionante. 
+La autoridad judicial examinará la competencia de la servidora pública o del servidor público o de la persona demandada y, en caso de encontrar cierta y efectiva la demanda, concederá el amparo solicitado. 
+La decisión que se pronuncie se elevará, de oficio, en revisión ante el Tribunal Constitucional Plurinacional en el plazo de las veinticuatro horas siguientes a la emisión del fallo. 
+V. La decisión final que conceda la Acción de Amparo Constitucional será ejecutada inmediatamente y sin observación. 
+En caso de resistencia se procederá de acuerdo con lo señalado en la Acción de Libertad. 
+La autoridad judicial que no proceda conforme con lo dispuesto por este Artículo , quedará sujeta a las sanciones previstas por la ley. 
+SECCIÓN III ACCIÓN DE PROTECCIÓN DE PRIVACIDAD 
+Artículo 130. 
+I. Toda persona individual o colectiva que crea estar indebida o ilegalmente impedida de conocer, objetar u obtener la eliminación o rectificación de los datos registrados por cualquier medio físico, electrónico, magnético o informático, en archivos o bancos de datos públicos o privados, o que afecten a su derecho fundamental a la intimidad y privacidad personal o familiar, o a su propia imagen, honra y reputación, podrá interponer la Acción de Protección de Privacidad. 
+II. La Acción de Protección de Privacidad no procederá para levantar el secreto en materia de prensa. 
+Artículo 131. 
+I. La Acción de Protección de Privacidad tendrá lugar de acuerdo con el procedimiento previsto para la acción de Amparo Constitucional. 
+II. Si el tribunal o juez competente declara procedente la acción, ordenará la revelación, eliminación o rectificación de los datos cuyo registro fue impugnado. 
+III. La decisión se elevará, de oficio, en revisión ante el Tribunal Constitucional Plurinacional en el plazo de las veinticuatro horas siguientes a la emisión del fallo, sin que por ello se suspenda su ejecución. 
+IV. La decisión final que conceda la Acción de Protección de Privacidad será ejecutada inmediatamente y sin observación. 
+En caso de resistencia se procederá de acuerdo con lo señalado en la Acción de Libertad. 
+La autoridad judicial que no proceda conforme con lo dispuesto por este Artículo quedará sujeta a las sanciones previstas por la ley. 
+SECCIÓN IV ACCIÓN DE INCONSTITUCIONALIDAD 
+Artículo 132. 
+Toda persona individual o colectiva afectada por una norma jurídica contraria a la Constitución tendrá derecho a presentar la Acción de Inconstitucionalidad, de acuerdo con los procedimientos establecidos por la ley. 
+Artículo 133. 
+La sentencia que declare la inconstitucionalidad de una ley, decreto o cualquier género de resolución no judicial, hace inaplicable la norma impugnada y surte plenos efectos respecto a todos. 
+SECCIÓN V ACCIÓN DE CUMPLIMIENTO 
+Artículo 134. 
+I. La Acción de Cumplimiento procederá en caso de incumplimiento de disposiciones constitucionales o de la ley por parte de servidores públicos, con el objeto de garantizar la ejecución de la norma omitida. 
+II. La acción se interpondrá por la persona individual o colectiva afectada, o por otra a su nombre con poder suficiente, ante juez o tribunal competente, y se tramitará de la misma forma que la Acción de Amparo Constitucional. 
+III. La resolución final se pronunciará en audiencia pública, inmediatamente recibida la información de la autoridad demandada y, a falta de ésta, lo hará sobre la base de la prueba que ofrezca el demandante. 
+La autoridad judicial examinará los antecedentes y, si encuentra cierta y efectiva la demanda, declarará procedente la acción y ordenará el cumplimiento inmediato del deber omitido. 
+IV. La decisión se elevará, de oficio, en revisión ante el Tribunal Constitucional Plurinacional en el plazo de las veinticuatro horas siguientes a la emisión del fallo, sin que por ello se suspenda su ejecución. 
+V. La decisión final que conceda la Acción de Cumplimiento será ejecutada inmediatamente y sin observación. 
+En caso de resistencia, se procederá de acuerdo con lo señalado en la Acción de Libertad. 
+La autoridad judicial que no proceda conforme con lo dispuesto por este Artículo quedará sujeta a las sanciones previstas por la ley. 
+SECCIÓN VI ACCIÓN POPULAR 
+Artículo 135. 
+La Acción Popular procederá contra todo acto u omisión de las autoridades o de personas individuales o colectivas que violen o amenacen con violar derechos e intereses colectivos, relacionados con el patrimonio, el espacio, la seguridad y salubridad pública, el medio ambiente y otros de similar naturaleza reconocidos por esta Constitución. 
+Artículo 136. 
+I. La Acción Popular podrá interponerse durante el tiempo que subsista la vulneración o la amenaza a los derechos e intereses colectivos. 
+Para interponer esta acción no será necesario agotar la vía judicial o administrativa que pueda existir. 
+II. Podrá interponer esta acción cualquier persona, a título individual o en representación de una colectividad y, con carácter obligatorio, el Ministerio Público y el Defensor del Pueblo, cuando por el ejercicio de sus funciones tengan conocimiento de estos actos. 
+Se aplicará el procedimiento de la Acción de Amparo Constitucional. 
+CAPÍTULO TERCERO ESTADOS DE EXCEPCIÓN 
+Artículo 137. 
+En caso de peligro para la seguridad del Estado, amenaza externa, conmoción interna o desastre natural, la Presidenta o el Presidente del Estado tendrá la potestad de declarar el estado de excepción, en todo o en la parte del territorio donde fuera necesario. 
+La declaración del estado de excepción no podrá en ningún caso suspender las garantías de los derechos, ni los derechos fundamentales, el derecho al debido proceso, el derecho a la información y los derechos de las personas privadas de libertad. 
+Artículo 138. 
+I. La vigencia de la declaración del estado de excepción dependerá de la aprobación posterior de la Asamblea Legislativa Plurinacional, que tendrá lugar apenas las circunstancias lo permitan y, en todo caso, dentro de las siguientes setenta y dos horas a la declaración del estado de excepción. 
+La aprobación de la declaración indicará las facultades conferidas y guardará estricta relación y proporción con el caso de necesidad atendida por el estado de excepción. 
+Los derechos consagrados en la Constitución no quedarán en general suspendidos por la declaración del estado de excepción. 
+II. Una vez finalizado el estado de excepción, no podrá declararse otro estado de excepción dentro del siguiente año, salvo autorización legislativa previa. 
+Artículo 139. 
+I. El Ejecutivo rendirá cuentas a la Asamblea Legislativa Plurinacional de los motivos que dieron lugar a la declaración del estado de excepción, así como del uso que haya hecho de las facultades conferidas por la Constitución y la ley. 
+II. Quienes violen los derechos establecidos en esta Constitución serán objeto de proceso penal por atentado contra los derechos. 
+III. Los estados de excepción serán regulados por la ley. 
+Artículo 140. 
+I. Ni la Asamblea Legislativa Plurinacional, ni ningún otro órgano o institución, ni asociación o reunión popular de ninguna clase, podrán conceder a órgano o persona alguna facultades extraordinarias diferentes a las establecidas en esta Constitución. 
+II. No podrá acumularse el Poder Público, ni otorgarse supremacía por la que los derechos y garantías reconocidos en esta Constitución queden a merced de órgano o persona alguna. 
+III. La reforma de la Constitución no podrá iniciarse mientras esté vigente un estado de excepción. 
+TÍTULO V NACIONALIDAD Y CIUDADANIA CAPITULO I NACIONALIDAD 
+Artículo 141. 
+I. La nacionalidad boliviana se adquiere por nacimiento o por naturalización. 
+Son bolivianas y bolivianos por nacimiento, las personas nacidas en el territorio boliviano, con excepción de las hijas y los hijos de personal extranjero en misión diplomática; y las personas nacidas en el extranjero, de madre boliviana o de padre boliviano. 
+Artículo 142. 
+I. Podrán adquirir la nacionalidad boliviana por naturalización las extranjeras y los extranjeros en situación legal, con más de tres años de residencia ininterrumpida en el país bajo supervisión del Estado, que manifiesten expresamente su voluntad de obtener la nacionalidad boliviana y cumplan con los requisitos establecidos en la ley. 
+II. El tiempo de residencia se reducirá a dos años en el caso de extranjeras y extranjeros que se encuentren en una de las situaciones siguientes: 
+1. Que tengan cónyuge boliviana o boliviano, hijas bolivianas o hijos bolivianos o padres sustitutos bolivianos. 
+Las ciudadanas extranjeras o los ciudadanos extranjeros que adquieran la ciudadanía por matrimonio con ciudadanas bolivianas o ciudadanos bolivianos no la perderán en caso de viudez o divorcio. 
+2. Que presten el servicio militar en Bolivia a la edad requerida y de acuerdo con la ley. 
+3. Que, por su servicio al país, obtengan la nacionalidad boliviana concedida por la Asamblea Legislativa Plurinacional. 
+III. El tiempo de residencia para la obtención de la nacionalidad podrá ser modificado cuando existan, a título de reciprocidad, convenios con otros estados, prioritariamente latinoamericanos. 
+Artículo 143. 
+I. Las bolivianas y los bolivianos que contraigan matrimonio con ciudadanas extranjeras o ciudadanos extranjeros no perderán su nacionalidad de origen. 
+La nacionalidad boliviana tampoco se perderá por adquirir una ciudadanía extranjera. 
+II. Las extranjeras o los extranjeros que adquieran la nacionalidad boliviana no serán obligados a renunciar a su nacionalidad de origen. 
+CAPÍTULO II CIUDADANÍA 
+Artículo 144. 
+I. Son ciudadanas y ciudadanos todas las bolivianas y todos los bolivianos, y ejercerán su ciudadanía a partir de los 18 años de edad, cualesquiera sean sus niveles de instrucción, ocupación o renta. 
+II. La ciudadanía consiste: 
+1. En concurrir como elector o elegible a la formación y al ejercicio de funciones en los órganos del poder público, y 
+2. En el derecho a ejercer funciones públicas sin otro requisito que la idoneidad, salvo las excepciones establecidas en la Ley. 
+III. Los derechos de ciudadanía se suspenden por las causales y en la forma prevista en el Artículo 28 de esta Constitución. 
+SEGUNDA PARTE ESTRUCTURA Y ORGANIZACIÓN FUNCIONAL DEL ESTADO TÍTULO I ÓRGANO LEGISLATIVO CAPÍTULO PRIMERO COMPOSICIÓN Y ATRIBUCIONES DE LA ASAMBLEA LEGISLATIVA PLURINACIONAL 
+Artículo 145. 
+La Asamblea Legislativa Plurinacional está compuesta por dos cámaras, la Cámara de Diputados y la Cámara de Senadores, y es la única con facultad de aprobar y sancionar leyes que rigen para todo el territorio boliviano. 
+Artículo 146. 
+I. La Cámara de Diputados estará conformada por 130 miembros. 
+II. En cada Departamento, se eligen la mitad de los Diputados en circunscripciones uninominales. 
+La otra mitad se elige en circunscripciones plurinominales departamentales, de las listas encabezadas por los candidatos a Presidente, Vicepresidente y Senadores de la República. 
+III. Los Diputados son elegidos en votación universal, directa y secreta. 
+En las circunscripciones uninominales por simple mayoría de sufragios. 
+En las circunscripciones plurinominales mediante el sistema de representación que establece la ley. 
+IV. El número de Diputados debe reflejar la votación proporcional obtenida por cada partido, agrupación ciudadana o pueblo indígena. 
+V. La distribución del total de escaños entre los departamentos se determinará por el Órgano Electoral en base al número de habitantes de cada uno de ellos, de acuerdo al último Censo Nacional, de acuerdo a la Ley. 
+Por equidad la ley asignará un número de escaños mínimo a los departamentos con menor población y menor grado de desarrollo económico. 
+Si la distribución de escaños para cualquier departamento resultare impar, se dará preferencia a la asignación de escaños uninominales. 
+VI. Las circunscripciones uninominales deben tener continuidad geográfica, afinidad y continuidad territorial, no trascender los límites de cada departamento y basarse en criterios de población y extensión territorial. 
+El Órgano Electoral delimitará las circunscripciones uninominales. 
+VII. Las circunscripciones especiales indígena originario campesinas, se regirán por el principio de densidad poblacional en cada departamento. 
+No deberán trascender los límites departamentales. 
+Se establecerán solamente en el área rural, y en aquellos departamentos en los que estos pueblos y naciones indígena originario campesinos constituyan una minoría poblacional. 
+El Órgano Electoral determinará las circunscripciones especiales. 
+Estas circunscripciones forman parte del número total de diputados. 
+Artículo 147. 
+I. En la elección de asambleístas se garantizará la igual participación de hombres y mujeres. 
+II. En la elección de asambleístas se garantizará la participación proporcional de las naciones y pueblos indígena originario campesinos. 
+III. La ley determinará las circunscripciones especiales indígena originario campesinas, donde no deberán ser considerados como criterios condicionales la densidad poblacional, ni la continuidad geográfica. 
+Artículo 148. 
+I. La Cámara de Senadores estará conformada por un total de 36 miembros. 
+II. En cada departamento se eligen 4 Senadores en circunscripción departamental, por votación universal, directa y secreta. 
+III. La asignación de los escaños de Senadores en cada departamento se hará mediante el sistema proporcional, de acuerdo a la Ley. 
+Artículo 149. 
+Para ser candidata o candidato a la Asamblea Legislativa Plurinacional se requerirá cumplir con las condiciones generales de acceso al servicio público, contar con dieciocho años de edad cumplidos al momento de la elección, haber residido de forma permanente al menos los dos años inmediatamente anteriores a la elección en la circunscripción correspondiente. 
+Artículo 150. 
+I. La Asamblea Legislativa Plurinacional contará con asambleístas suplentes que no percibirán remuneración salvo en los casos en que efectivamente realicen suplencia. 
+La ley determinará la forma de sustitución de sus integrantes. 
+II. Los asambleístas no podrán desempeñar ninguna otra función pública, bajo pena de perder su mandato, excepto la docencia universitaria. 
+III. La renuncia al cargo de asambleísta será definitiva, sin que puedan tener lugar licencias ni suplencias temporales con el propósito de desempeñar otras funciones 
+Artículo 151. 
+I. Las asambleístas y los asambleístas gozarán de inviolabilidad personal durante el tiempo de su mandato y con posterioridad a éste, por las opiniones, comunicaciones, representaciones ,requerimientos, interpelaciones, denuncias, propuestas, expresiones o cualquier acto de legislación, información o fiscalización que formulen o realicen en el desempeño de sus funciones no podrán ser procesados penalmente. 
+II. El domicilio, la residencia o la habitación de las asambleístas y los asambleístas serán inviolables, y no podrán ser allanados en ninguna circunstancia. 
+Esta previsión se aplicará a los vehículos de su uso particular u oficial y a las oficinas de uso legislativo. 
+Artículo 152. 
+Las asambleístas y los asambleístas no gozarán de inmunidad. 
+Durante su mandato, en los procesos penales, no se les aplicará la medida cautelar de la detención preventiva, salvo delito flagrante. 
+Artículo 153. 
+I. La Vicepresidenta o el Vicepresidente del Estado presidirá la Asamblea Legislativa Plurinacional. 
+II. Las sesiones ordinarias de la Asamblea Legislativa Plurinacional serán inauguradas el 6 de Agosto de cada año. 
+III. Las sesiones ordinarias de la Asamblea Legislativa Plurinacional serán permanentes y contarán con dos recesos de quince días cada uno, por año. 
+IV. La Asamblea Legislativa Plurinacional podrá sesionar en un lugar distinto al habitual dentro el territorio del Estado, por decisión de la Plenaria y a convocatoria de su Presidenta o Presidente. 
+Artículo 154. 
+Durante los recesos, funcionará la Comisión de Asamblea, en la forma y con las atribuciones que determine el Reglamento de la Cámara de Diputados. 
+De manera extraordinaria, por asuntos de urgencia, la Asamblea podrá ser convocada por su Presidenta o Presidente, o por la Presidenta o el Presidente del Estado. 
+Sólo se ocupará de los asuntos consignados en la convocatoria. 
+Artículo 155. 
+La Asamblea Legislativa Plurinacional inaugurará sus sesiones el 6 de Agosto en la Capital de Bolivia, salvo convocatoria expresa de su Presidenta o Presidente. 
+Artículo 156. 
+El tiempo del mandato de las y los asambleístas es de cinco años pudiendo ser reelectas y reelectos por una sola vez de manera continua. 
+Artículo 157. 
+El mandato de asambleísta se pierde por fallecimiento, renuncia, revocatoria de mandato, sentencia condenatoria ejecutoriada en causas penales o abandono injustificado de sus funciones por más de seis días de trabajo continuos y once discontinuos en el año, calificados de acuerdo con el Reglamento. 
+Artículo 158. 
+I. Son atribuciones de la Asamblea Legislativa Plurinacional, además de las que determina esta Constitución y la ley: 
+1. Aprobar autónomamente su presupuesto y ejecutarlo; nombrar y remover a su personal administrativo, y atender todo lo relativo a su economía y régimen interno. 
+2. Fijar la remuneración de las asambleístas y los asambleístas, que en ningún caso será superior al de la Vicepresidenta o Vicepresidente del Estado. 
+Se prohíbe percibir cualquier ingreso adicional por actividad remunerada. 
+3. Dictar leyes, interpretarlas, derogarlas, abrogarlas y modificarlas. 
+4. Elegir a seis de los miembros del Órgano Electoral Plurinacional, por dos tercios de votos de sus miembros presentes. 
+5. Preseleccionar a las candidatas y a los candidatos para la conformación del Tribunal Constitucional Plurinacional, Tribunal Supremo de Justicia, Tribunal Agroambiental y Consejo de la Magistratura. 
+6. Aprobar la creación de nuevas unidades territoriales y establecer sus límites, de acuerdo con la Constitución y con la ley. 
+7. Aprobar el plan de desarrollo económico y social presentado por el Órgano Ejecutivo. 
+8. Aprobar leyes en materia de presupuestos, endeudamiento, control y fiscalización de recursos estatales de crédito público y subvenciones, para la realización de obras públicas y de necesidad social. 
+9. Decidir las medidas económicas estatales imprescindibles en caso de necesidad pública. 
+10. Aprobar la contratación de empréstitos que comprometan las rentas generales del Estado y autorizar a las universidades la contratación de empréstitos. 
+11. Aprobar el Presupuesto General del Estado presentado por el Órgano Ejecutivo. 
+Recibido el proyecto de ley, éste deberá ser considerado en la Asamblea Legislativa Plurinacional dentro del término de sesenta días. 
+En caso de no ser aprobado en este plazo, el proyecto se dará por aprobado. 
+12. Aprobar los contratos de interés público referidos a recursos naturales y áreas estratégicas, firmados por el Órgano Ejecutivo. 
+13. Aprobar la enajenación de bienes de dominio público del Estado. 
+14. Ratificar los tratados internacionales celebrados por el Ejecutivo, en las formas establecidas por esta Constitución. 
+15. Establecer el sistema monetario. 
+16. Establecer el sistema de medidas. 
+17. Controlar y fiscalizar los órganos del Estado y las instituciones públicas. 
+18. Interpelar, a iniciativa de cualquier asambleísta, a las Ministras o los Ministros de Estado, individual o colectivamente, y acordar la censura por dos tercios de los miembros de la Asamblea. 
+La interpelación podrá ser promovida por cualquiera de las Cámaras. 
+La censura implicará la destitución de la Ministra o del Ministro. 
+19. Realizar investigaciones en el marco de sus atribuciones fiscalizadoras, mediante la comisión o comisiones elegidas para el efecto, sin perjuicio del control que realicen los órganos competentes. 
+20. Controlar y fiscalizar las empresas públicas, las de capital mixto y toda entidad en la que tenga participación económica el Estado. 
+21. Autorizar la salida de tropas militares, armamento y material bélico del territorio del Estado, y determinar el motivo y tiempo de su ausencia. 
+22. Autorizar excepcionalmente el ingreso y tránsito temporal de fuerzas militares extranjeras, determinando el motivo y el tiempo de permanencia. 
+23. A iniciativa del Órgano Ejecutivo, crear o modificar impuestos de competencia del nivel central del Estado. 
+Sin embargo, la Asamblea Legislativa Plurinacional a pedido de uno de sus miembros, podrá requerir del Órgano Ejecutivo la presentación de proyectos sobre la materia. 
+Si el Órgano Ejecutivo, en el término de veinte días no presenta el proyecto solicitado, o la justificación para no hacerlo, el representante que lo requirió u otro, podrá presentar el suyo para su consideración y aprobación. 
+II. La organización y las funciones de la Asamblea Legislativa Plurinacional se regulará por el Reglamento de la Cámara de Diputados. 
+Artículo 159. 
+Son atribuciones de la Cámara de Diputados, además de las que determina esta Constitución y la ley: 
+1. Elaborar y aprobar su Reglamento. 
+2. Calificar las credenciales otorgadas por el Órgano Electoral Plurinacional. 
+3. Elegir a su directiva, determinar su organización interna y su funcionamiento. 
+4. Aplicar sanciones a las diputadas o a los diputados, de acuerdo con el Reglamento, por decisión de dos tercios de los miembros presentes. 
+5. Aprobar su presupuesto y ejecutarlo; nombrar y remover a su personal administrativo y atender todo lo relativo con su economía y régimen interno. 
+6. Iniciar la aprobación del Presupuesto General del Estado. 
+7. Iniciar la aprobación del plan de desarrollo económico y social presentado por el Órgano Ejecutivo. 
+8. Iniciar la aprobación o modificación de leyes en materia tributaria, de crédito público o de subvenciones. 
+9. Iniciar la aprobación de la contratación de empréstitos que comprometan las rentas generales del Estado, y la autorización a las universidades para la contratación de empréstitos. 
+10. Aprobar en cada legislatura la fuerza militar que ha de mantenerse en tiempo de paz. 
+11. Acusar ante la Cámara de Senadores a los miembros del Tribunal Constitucional Plurinacional, del Tribunal Supremo y del Control Administrativo de Justicia por delitos cometidos en el ejercicio de sus funciones. 
+12. Proponer ternas a la Presidenta o al Presidente del Estado para la designación de presidentas o presidentes de entidades económicas y sociales, y otros cargos en que participe el Estado, por mayoría absoluta de acuerdo con la Constitución. 
+13. Preseleccionar a los postulantes al Control Administrativo de Justicia y remitir al Órgano Electoral Plurinacional la nómina de los precalificados para que éste proceda a la organización, única y exclusiva, del proceso electoral. 
+Artículo 160. 
+Son atribuciones de la Cámara de Senadores, además de las que determina esta Constitución y la ley: 
+1. Elaborar y aprobar su Reglamento. 
+2. Calificar las credenciales otorgadas por el Órgano Electoral Plurinacional. 
+3. Elegir a su directiva, determinar su organización interna y su funcionamiento. 
+4. Aplicar sanciones a las Senadoras y los Senadores, de acuerdo al Reglamento, por decisión de dos tercios de los miembros presentes. 
+5. Aprobar su presupuesto y ejecutarlo; nombrar y remover a su personal administrativo, y atender todo lo relativo con su economía y régimen interno. 
+6. Juzgar en única instancia a los miembros del Tribunal Constitucional Plurinacional, del Tribunal Supremo, del Tribunal Agroambiental y del Control Administrativo de Justicia por delitos cometidos en el ejercicio de sus funciones, cuya sentencia será aprobada por al menos dos tercios de los miembros presentes, de acuerdo con la ley. 
+7. Reconocer honores públicos a quienes lo merezcan por servicios eminentes al Estado. 
+8. Ratificar los ascensos, a propuesta del Órgano Ejecutivo, a General de Ejército, de Fuerza Aérea, de División y de Brigada; a Almirante, Vicealmirante, Contralmirante y General de Policía Boliviana. 
+9. Aprobar o negar el nombramiento de embajadores y Ministros plenipotenciarios propuestos por el Presidente del Estado. 
+Artículo 161. 
+Las Cámaras se reunirán en Asamblea Legislativa Plurinacional para ejercer las siguientes funciones, además de las señaladas en la Constitución: 
+1. Inaugurar y clausurar sus sesiones. 
+2. Recibir el juramento de la Presidenta o del Presidente del Estado, y de la Vicepresidenta o del Vicepresidente del Estado. 
+3. Admitir o negar la renuncia de la Presidenta o del Presidente del Estado, y de la Vicepresidenta o del Vicepresidente del Estado. 
+4. Considerar las leyes vetadas por el Órgano Ejecutivo. 
+5. Considerar los proyectos de ley que, aprobados en la Cámara de origen, no fueran aprobados en la Cámara revisora. 
+6. Aprobar los estados de excepción. 
+7. Autorizar el enjuiciamiento de la Presidenta o del Presidente, o de la Vicepresidenta o del Vicepresidente del Estado. 
+8. Designar al Fiscal General del Estado y al Defensor del Pueblo. 
+CAPÍTULO SEGUNDO PROCEDIMIENTO LEGISLATIVO 
+Artículo 162. 
+I. Tienen la facultad de iniciativa legislativa, para su tratamiento obligatorio en la Asamblea Legislativa Plurinacional: 
+1. Las ciudadanas y los ciudadanos. 
+2. Las asambleístas y los asambleístas en cada una de sus Cámaras. 
+3. El Órgano Ejecutivo. 
+4. El Tribunal Supremo, en el caso de iniciativas relacionadas con la administración de justicia. 
+5. Los gobiernos autónomos de las entidades territoriales. 
+II. La ley y los reglamentos de cada Cámara desarrollarán los procedimientos y requisitos para ejercer la facultad de iniciativa legislativa. 
+Artículo 163. 
+El procedimiento legislativo se desarrollará de la siguiente manera: 
+1. El proyecto de ley presentado por asambleístas de una de las Cámaras, iniciará el procedimiento legislativo en esa Cámara, que la remitirá a la comisión o comisiones que correspondan para su tratamiento y aprobación inicial. 
+2. El proyecto de ley presentado por otra iniciativa será enviado a la Cámara de Diputados, que lo remitirá a la comisión o las comisiones. 
+3. Las iniciativas legislativas en materia de descentralización, autonomías y ordenamiento territorial serán de conocimiento de la Cámara de Senadores. 
+4. Cuando el proyecto haya sido informado por la comisión o las comisiones correspondientes, pasará a consideración de la plenaria de la Cámara, donde será discutido y aprobado en grande y en detalle. 
+Cada aprobación requerirá de la mayoría absoluta de los miembros presentes. 
+5. El proyecto aprobado por la Cámara de origen será remitido a la Cámara revisora para su discusión. Si la Cámara revisora lo aprueba, será enviado al Órgano Ejecutivo para su promulgación. 
+6. Si la Cámara revisora enmienda o modifica el proyecto, éste se considerará aprobado si la Cámara de origen acepta por mayoría absoluta de los miembros presentes las enmiendas o modificaciones. 
+En caso de que no las acepte, las dos Cámaras se reunirán a requerimiento de la Cámara de origen dentro de los veinte días siguientes y deliberarán sobre el proyecto. 
+La decisión será tomada por el Pleno de la Asamblea Legislativa Plurinacional por mayoría absoluta de sus miembros presentes. 
+7. En caso de que pasen treinta días sin que la Cámara revisora se pronuncie sobre el proyecto de ley, el proyecto será considerado en el Pleno de la Asamblea Legislativa Plurinacional. 
+8. El proyecto aprobado, una vez sancionado, será remitido al Órgano Ejecutivo para su promulgación como ley. 
+9. Aquel proyecto que haya sido rechazado podrá ser propuesto nuevamente en la Legislatura siguiente. 
+10. La ley sancionada por la Asamblea Legislativa Plurinacional y remitida al Órgano Ejecutivo, podrá ser observada por la Presidenta o el Presidente del Estado en el término de diez días hábiles desde el momento de su recepción. 
+Las observaciones del Órgano Ejecutivo se dirigirán a la Asamblea. 
+Si ésta estuviera en receso, la Presidenta o el Presidente del Estado remitirá sus observaciones a la Comisión de Asamblea. 
+11. Si la Asamblea Legislativa Plurinacional considera fundadas las observaciones modificará la ley conforme a éstas y la devolverá al Órgano Ejecutivo para su promulgación. 
+En el caso de que considere infundadas las observaciones, la ley será promulgada por la Presidenta o el Presidente de la Asamblea. 
+Las decisiones de la Asamblea se tomarán por mayoría absoluta de sus miembros presentes. 
+12. La ley que no sea observada dentro del plazo correspondiente será promulgada por la Presidenta o Presidente del Estado. 
+Las leyes no promulgadas por el Órgano Ejecutivo en los plazos previstos en los numerales anteriores serán promulgadas por la Presidenta o el Presidente de la Asamblea. 
+Artículo 164. 
+I. La ley promulgada será publicada en la Gaceta Oficial de manera inmediata. 
+II. La ley será de cumplimiento obligatorio desde el día de su publicación, salvo que en ella se establezca un plazo diferente para su entrada en vigencia. 
+TÍTULO II ÓRGANO EJECUTIVO CAPÍTULO PRIMERO COMPOSICIÓN Y ATRIBUCIONES DEL ÓRGANO EJECUTIVO SECCIÓN I DISPOSICIÓN GENERAL 
+Artículo 165. 
+I. El Órgano Ejecutivo está compuesto por la Presidenta o el Presidente del Estado, la Vicepresidenta o el Vicepresidente del Estado, y las Ministras y los Ministros de Estado. 
+II. Las determinaciones adoptadas en Consejo de Ministros son de responsabilidad solidaria. 
+SECCIÓN II PRESIDENCIA Y VICEPRESIDENCIA DEL ESTADO 
+Artículo 166. 
+I. La Presidenta o el Presidente y la Vicepresidenta o el Vicepresidente del Estado serán elegidas o elegidos por sufragio universal, obligatorio, directo, libre y secreto. 
+Será proclamada a la Presidencia y a la Vicepresidencia la candidatura que haya reunido el cincuenta por ciento más uno de los votos válidos; o que haya obtenido un mínimo del cuarenta por ciento de los votos válidos, con una diferencia de al menos diez por ciento en relación con la segunda candidatura. 
+II. En caso de que ninguna de las candidaturas cumpla estas condiciones se realizará una segunda vuelta electoral entre las dos candidaturas más votadas, en el plazo de sesenta días computables a partir de la votación anterior. 
+Será proclamada a la Presidencia y a la Vicepresidencia del Estado la candidatura que haya obtenido la mayoría de los votos. 
+Artículo 167. 
+Para acceder a la candidatura a la Presidencia o a la Vicepresidencia del Estado se requiere cumplir con las condiciones generales de acceso al servicio público, contar con treinta años de edad cumplidos al día de la elección, y haber residido de forma permanente en el país al menos cinco años inmediatamente anteriores a la elección. 
+Artículo 168. 
+El periodo de mandato de la Presidenta o del Presidente y de la Vicepresidenta o del Vicepresidente del Estado es de cinco años, y pueden ser reelectas o reelectos por una sola vez de manera continua. 
+Artículo 169. 
+I. En caso de impedimento o ausencia definitiva de la Presidenta o del Presidente del Estado, será reemplazada o reemplazado en el cargo por la Vicepresidenta o el Vicepresidente y, a falta de ésta o éste, por la Presidenta o el Presidente del Senado, y a falta de ésta o éste por la Presidente o el Presidente de la Cámara de Diputados. 
+En este último caso, se convocarán nuevas elecciones en el plazo máximo de noventa días. 
+II. En caso de ausencia temporal, asumirá la Presidencia del Estado quien ejerza la Vicepresidencia, por un periodo que no podrá exceder los noventa días. 
+Artículo 170. 
+La Presidenta o el Presidente del Estado cesará en su mandato por muerte; por renuncia presentada ante la Asamblea Legislativa Plurinacional; por ausencia o impedimento definitivo; por sentencia condenatoria ejecutoriada en materia penal; y por revocatoria del mandato. 
+Artículo 171. 
+En caso de revocatoria del mandato, la Presidenta o el Presidente del Estado cesará de inmediato en sus funciones, debiendo asumir la Presidencia la persona que ejerza la Vicepresidencia, quien convocará de forma inmediata a elecciones a la Presidencia del Estado a realizarse en el plazo máximo de noventa días. 
+Artículo 172. 
+Son atribuciones de la Presidenta o del Presidente del Estado, además de las que establece esta Constitución y la ley: 
+1. Cumplir y hacer cumplir la Constitución y las leyes. 
+2. Mantener y preservar la unidad del Estado boliviano. 
+3. Proponer y dirigir las políticas de gobierno y de Estado. 
+4. Dirigir la administración pública y coordinar la acción de los Ministros de Estado. 
+5. Dirigir la política exterior; suscribir tratados internacionales; nombrar servidores públicos diplomáticos y consulares de acuerdo a la ley; y admitir a los funcionarios extranjeros en general. 
+6. Solicitar la convocatoria a sesiones extraordinarias al Presidente o Presidenta de la Asamblea Legislativa Plurinacional. 
+7. Promulgar las leyes sancionadas por la Asamblea Legislativa Plurinacional. 
+8. Dictar decretos supremos y resoluciones. 
+9. Administrar las rentas estatales y decretar su inversión por intermedio del Ministerio del ramo, de acuerdo a las leyes y con estricta sujeción al Presupuesto General del Estado. 
+10. Presentar el plan de desarrollo económico y social a la Asamblea Legislativa Plurinacional. 
+11. Presentar a la Asamblea Legislativa Plurinacional, dentro de las treinta primeras sesiones, el proyecto de Ley del Presupuesto General del Estado para la siguiente gestión fiscal y proponer, durante su vigencia, las modificaciones que estime necesarias. 
+El informe de los gastos públicos conforme al presupuesto se presentará anualmente. 
+12. Presentar anualmente a la Asamblea Legislativa Plurinacional, en su primera sesión, el informe escrito acerca del curso y estado de la Administración Pública durante la gestión anual, acompañado de las memorias ministeriales. 
+13. Hacer cumplir las sentencias de los tribunales. 
+14. Decretar amnistía o indulto, con la aprobación de la Asamblea Legislativa Plurinacional. 
+15. Nombrar, de entre las ternas propuestas por laAsamblea Legislativa Plurinacional, a la Contralora o al Contralor General del Estado, a la Presidenta o al Presidente del Banco Central de Bolivia, a la máxima autoridad del Órgano de Regulación de Bancos y Entidades Financieras, y a las Presidentas o a los Presidentes de entidades de función económica y social en las cuales interviene el Estado. 
+16. Preservar la seguridad y la defensa del Estado. 
+17. Designar y destituir al Comandante en Jefe de las Fuerzas Armadas y a los Comandantes del Ejército, de la Fuerza Aérea y de la Armada. 
+18. Designar y destituir al Comandante General de la Policía Boliviana. 
+19. Proponer a la Asamblea Legislativa Plurinacional los ascensos a General de Ejército, de Fuerza Aérea, de División y de Brigada; a Almirante, Vicealmirante y Contralmirante, y a General de la Policía, de acuerdo a informe de sus servicios y promociones. 
+20. Crear y habilitar puertos. 
+21. Designar a sus representantes ante el Órgano Electoral. 
+22. Designar a las Ministras y a los Ministros de Estado, respetando el carácter plurinacional y la equidad de género en la composición del gabinete ministerial. 
+23. Designar a la Procuradora o al Procurador General del Estado. 
+24. Presentar proyectos de ley de urgencia económica, para su consideración por la Asamblea Legislativa Plurinacional, que deberá tratarlos con prioridad. 
+25. Ejercer el mando de Capitana o Capitán General de las Fuerzas Armadas, y disponer de ellas para la defensa del Estado, su independencia y la integridad del territorio. 
+26. Declarar el estado de excepción. 
+27. Ejercer la autoridad máxima del Servicio Boliviano de Reforma Agraria y otorgar títulos ejecutoriales en la distribución y redistribución de las tierras. 
+Artículo 173. 
+La Presidenta o el Presidente del Estado podrá ausentarse del territorio boliviano por misión oficial, sin autorización de laAsamblea Legislativa Plurinacional, hasta un máximo de diez días. 
+Artículo 174. 
+Son atribuciones de la Vicepresidenta o del Vicepresidente del Estado, además de las que establece esta Constitución y la ley: 
+1. Asumir la Presidencia del Estado, en los casos establecidos en la presente Constitución. 
+2. Coordinar las relaciones entre el Órgano Ejecutivo, l a Asamblea Legislativa Plurinacional y los gobiernos autónomos. 
+3. Participar en las sesiones del Consejo de Ministros. 
+4. Coadyuvar con la Presidenta o el Presidente del Estado en la dirección de la política general del Gobierno. 
+5. Participar con juntamente con la Presidenta o el Presidente del Estado en la formulación de la política exterior, así como desempeñar misiones diplomáticas. 
+SECCIÓN III MINISTERIOS DE ESTADO 
+Artículo 175. 
+I. Las Ministras y los Ministros de Estado son servidoras públicas y servidores públicos, y tienen como atribuciones, además de las determinadas en esta Constitución y la ley: 
+1. Proponer y coadyuvar en la formulación de las políticas generales del Gobierno. 
+2. Proponer y dirigir las políticas gubernamentales en su sector. 
+3. La gestión de la Administración Pública en el ramo correspondiente. 
+4. Dictar normas administrativas en el ámbito de su competencia. 
+5. Proponer proyectos de decreto supremo y suscribirlos con la Presidenta o el Presidente del Estado. 
+6. Resolver en última instancia todo asunto administrativo que corresponda al Ministerio. 
+7. Presentar a la Asamblea Legislativa Plurinacional los informes que les soliciten. 
+8. Coordinar con los otros Ministerios la planificación y ejecución de las políticas del gobierno. 
+II. Las Ministras y los Ministros de Estado son responsables de los actos de administración adoptados en sus respectivas carteras. 
+Artículo 176. 
+Para ser designada o designado Ministra o Ministro de Estado se requiere cumplir con las condiciones generales de acceso al servicio público; tener cumplidos veinticinco años al día del nombramiento; no formar parte de la Asamblea Legislativa Plurinacional; no ser directivo, accionista ni socio de entidades financieras o empresas que mantengan relación contractual o que enfrenten intereses opuestos con el Estado; no ser cónyuge ni pariente consanguíneo o afín dentro del segundo grado de quienes se hallaren en ejercicio de la Presidencia o la Vicepresidencia del Estado. 
+Artículo 177. 
+No podrá ser designada como Ministra o Ministro de Estado la persona que, en forma directa o como representante legal de persona jurídica, tenga contratos pendientes de su cumplimiento o deudas ejecutoriadas con el Estado. 
+TÍTULO III ÓRGANO JUDICIAL Y TRIBUNAL CONSTITUCIONAL PLURINACIONAL CAPÍTULO PRIMERO DISPOSICIONES GENERALES 
+Artículo 178. 
+I. La potestad de impartir justicia emana del pueblo boliviano y se sustenta en los principios de independencia, imparcialidad, seguridad jurídica, publicidad, probidad, celeridad, gratuidad, pluralismo jurídico, interculturalidad, equidad, servicio a la sociedad, participación ciudadana, armonía social y respeto a los derechos. 
+II. La jurisdicción ordinaria y la jurisdicción indígena originario campesina gozarán de igual jerarquía. II. Constituyen garantías de la independencia judicial: 1. 
+El desempeño de los jueces de acuerdo a la carrera judicial 2. 
+La autonomía presupuestaria de los órganos judiciales. Artículo 179. 
+I. La función judicial es única. La jurisdicción ordinaria se ejerce por el Tribunal Supremo de Justicia, los tribunales departamentales de justicia, los tribunales de sentencia y los jueces; la jurisdicción agroambiental por el Tribunal y jueces agroambientales; la jurisdicción indígena originaria campesina se ejerce por sus propias autoridades; existirán jurisdicciones especializadas reguladas por la ley. 
+III. La justicia constitucional se ejerce por el Tribunal Constitucional Plurinacional. 
+IV. El Consejo de la Magistratura es parte del Órgano Judicial. 
+CAPÍTULO SEGUNDO JURISDICCIÓN ORDINARIA 
+Artículo 180. 
+I. La jurisdicción ordinaria se fundamenta en los principios procesales de gratuidad, publicidad, transparencia, oralidad, celeridad, probidad, honestidad, legalidad, eficacia, eficiencia, accesibilidad, inmediatez, verdad material, debido proceso e igualdad de las partes ante el juez. 
+II. Se garantiza el principio de impugnación en los procesos judiciales. 
+III. La jurisdicción ordinaria no reconocerá fueros, privilegios ni tribunales de excepción. 
+La jurisdicción militar juzgará los delitos de naturaleza militar regulados por la ley. 
+SECCIÓN I TRIBUNAL SUPREMO DE JUSTICIA 
+Artículo 181. 
+El Tribunal Supremo de Justicia es el máximo tribunal de la jurisdicción ordinaria. 
+Está integrado por Magistradas y Magistrados. 
+Se organiza internamente en salas especializadas. 
+Su composición y organización se determinará por la ley. 
+Artículo 182. 
+I. Las Magistradas y los Magistrados del Tribunal Supremo de Justicia serán elegidas y elegidos mediante sufragio universal. 
+II. La Asamblea Legislativa Plurinacional efectuará por dos tercios de sus miembros presentes la preselección de las postulantes y los postulantes por cada departamento y remitirá al órgano electoral la nómina de los precalificados para que éste proceda a la organización, única y exclusiva, del proceso electoral. 
+III. Las y los postulantes o persona alguna, no podrán realizar campaña electoral a favor de sus candidaturas, bajo sanción de inhabilitación. 
+El Órgano Electoral será el único responsable de difundir los méritos de las candidatas y los candidatos. 
+IV. Las magistradas y magistrados no podrán pertenecer a organizaciones políticas. V. Serán elegidas y elegidos las candidatas y los candidatos que obtengan mayoría simple de votos. 
+La Presidenta o el Presidente del Estado ministrará posesión en sus cargos. 
+VI. Para optar a la Magistratura del Tribunal Supremo de Justicia será necesario cumplir con los requisitos generales establecidos para los servidores públicos: haber cumplido treinta años de edad, poseer título de abogado, haber desempeñado, con honestidad y ética, funciones judiciales, profesión de abogado o cátedra universitaria durante ocho años y no contar con sanción de destitución del Consejo de la Magistratura. 
+Para la calificación de méritos se tomará en cuenta el haber ejercido la calidad de autoridad originaria bajo su sistema de justicia. 
+VII. El sistema de prohibiciones e incompatibilidades aplicado a las Magistradas y a los Magistrados del Tribunal Supremo de Justicia será el mismo que para los servidores públicos. 
+Artículo 183. 
+I. Las Magistradas y los Magistrados, no podrán ser reelegidas ni reelegidos. 
+Su periodo de mandato será de seis años. 
+II. Las Magistradas y Magistrados del Tribunal Supremo de Justicia cesarán en sus funciones por cumplimiento de mandato, sentencia ejecutoriada emergente de juicio de responsabilidades, renuncia, fallecimiento y demás causales previstas en la ley. 
+Artículo 184. 
+Son atribuciones del Tribunal Supremo de Justicia, además de las señaladas por la ley: 
+1. Actuar como tribunal de casación y conocer recursos de nulidad en los casos expresamente señalados por la ley. 
+2. Dirimir conflictos de competencias suscitados entre los tribunales departamentales de justicia. 
+3. Conocer, resolver y solicitar en única instancia los procesos de extradición. 
+4. Juzgar, como tribunal colegiado en pleno y en única instancia, a la Presidenta o al Presidente del Estado, o a la Vicepresidenta o al Vicepresidente del Estado, por delitos cometidos en el ejercicio de su mandato. 
+El juicio se llevará a cabo previa autorización de la Asamblea Legislativa Plurinacional, por decisión de al menos dos tercios de los miembros presentes, y a requerimiento fundado de la Fiscal o del Fiscal General del Estado, quien formulará acusación si estima que la investigación proporcionó fundamento para el enjuiciamiento. 
+El proceso será oral, público, continuo e ininterrumpido. 
+La ley determinará el procedimiento. 
+5. Designar, de las ternas presentadas por el Consejo de la Magistratura, a los vocales de los tribunales departamentales de justicia. 
+6. Preparar proyectos de leyes judiciales y presentarlos a la Asamblea Legislativa Plurinacional. 
+7. Conocer y resolver casos de revisión extraordinaria de sentencia. 
+Artículo 185. 
+La magistratura del Tribunal Supremo de Justicia será ejercida de manera exclusiva. 
+CAPÍTULO TERCERO JURISDICCIÓN AGROAMBIENTAL 
+Artículo 186. 
+El Tribunal Agroambiental es el máximo tribunal especializado de la jurisdicción agroambiental. 
+Se rige en particular por los principios de función social, integralidad, inmediatez, sustentabilidad e interculturalidad. 
+Artículo 187. 
+Para ser elegida Magistrada o elegido Magistrado del Tribunal Agroambiental serán necesarios los mismos requisitos que los miembros del Tribunal Supremo de Justicia, además de contar con especialidad en estas materias y haber ejercido con idoneidad, ética y honestidad la judicatura agraria, la profesión libre o la cátedra universitaria en el área, durante ocho años. 
+En la preselección de las candidatas y los candidatos se garantizará la composición plural, considerando criterios de plurinacionalidad. 
+Artículo 188. 
+I. Las Magistradas y los Magistrados del Tribunal Agroambiental serán elegidas y elegidos mediante sufragio universal, según el procedimiento, mecanismos y formalidades para los miembros del Tribunal Supremo de Justicia. 
+II. El sistema de prohibiciones e incompatibilidades aplicado a las Magistradas y los Magistrados del Tribunal Agroambiental será el de los servidores públicos. 
+III. El tiempo de ejercicio, la permanencia y la cesación en el cargo establecidos para las Magistradas y los Magistrados del Tribunal Supremo de Justicia serán de aplicación a los miembros del Tribunal Agroambiental. 
+Artículo 189. 
+Son atribuciones del Tribunal Agroambiental, además de las señaladas por la ley: 
+1. Resolver los recursos de casación y nulidad en las acciones reales agrarias, forestales, ambientales, de aguas, derechos de uso y aprovechamiento de los recursos naturales renovables, hídricos, forestales y de la biodiversidad; demandas sobre actos que atenten contra la fauna, la flora, el agua y el medio ambiente; y demandas sobre prácticas que pongan en peligro el sistema ecológico y la conservación de especies o animales. 
+2. Conocer y resolver en única instancia las demandas de nulidad y anulabilidad de títulos ejecutoriales. 
+3. Conocer y resolver en única instancia los procesos contencioso administrativos que resulten de los contratos, negociaciones, autorizaciones, otorgación, distribución y redistribución de derechos de aprovechamiento de los recursos naturales renovables, y de los demás actos y resoluciones administrativas. 
+4. Organizar los juzgado sagroambientales. 
+CAPÍTULO CUARTO JURISDICCIÓN INDÍGENA ORIGINARIA CAMPESINA 
+Artículo 190. 
+I. Las naciones y pueblos indígena originario campesinos ejercerán sus funciones jurisdiccionales y de competencia a través de sus autoridades, y aplicarán sus principios, valores culturales, normas y procedimientos propios. 
+II La jurisdicción indígena originaria campesina respeta el derecho a la vida, el derecho a la defensa y demás derechos y garantías establecidos en la presente Constitución. 
+Artículo 191. 
+I. La jurisdicción indígena originario campesina se fundamenta en un vínculo particular de las personas que son miembros de la respectiva nación o pueblo indígena originario campesino. 
+II. La jurisdicción indígena originario campesina se ejerce en los siguientes ámbitos de vigencia personal, material y territorial: 
+1. Están sujetos a esta jurisdicción los miembros de la nación o pueblo indígena originario campesino, sea que actúen como actores o de mandado, denunciantes o querellantes, denunciados o imputados, recurrentes o recurridos. 
+2. Esta jurisdicción conoce los asuntos indígena originario campesinos de conformidad a lo establecido en una Ley de Deslinde Jurisdiccional. 
+3. Esta jurisdicción se aplica a las relaciones y hechos jurídicos que se realizan o cuyos efectos se producen dentro de la jurisdicción de un pueblo indígena originario campesino. 
+Artículo 192. 
+I. Toda autoridad pública o persona acatará las decisiones de la jurisdicción indígena originaria campesina. 
+II. Para el cumplimiento de las decisiones de la jurisdicción indígena originario campesina, sus autoridades podrán solicitar el apoyo de los órganos competentes del Estado. 
+III. El Estado promoverá y fortalecerá la justicia indígena originaria campesina. 
+La Ley de Deslinde Jurisdiccional, determinará los mecanismos de coordinación y cooperación entre la jurisdicción indígena originaria campesina con la jurisdicción ordinaria y la jurisdicción agroambiental y todas las jurisdicciones constitucionalmente reconocidas. 
+CAPÍTULO QUINTO CONSEJO DE LA MAGISTRATURA 
+Artículo 193. 
+I. El Consejo de la Magistratura es la instancia responsable del régimen disciplinario de la jurisdicción ordinaria, agroambiental y de las jurisdicciones especializadas; del control y fiscalización de su manejo administrativo y financiero; y de la formulación de políticas de su gestión. 
+El Consejo de la Magistratura se regirá por el principio de participación ciudadana. 
+II. Su conformación, estructura y funciones estarán determinadas por la ley. 
+Artículo 194. 
+I. Los miembros del Consejo de la Magistratura se elegirán mediante sufragio universal de entre las candidatas y los candidatos propuestos por la Asamblea Legislativa Plurinacional. 
+La organización y ejecución del proceso electoral estará a cargo del Órgano Electoral Plurinacional. 
+II. Los miembros del Consejo de la Magistratura de Justicia requerirán, además de las condiciones generales de acceso al servicio público, haber cumplido treinta años de edad, poseer conocimientos en el área de sus atribuciones y haber desempeñado sus funciones con ética y honestidad. 
+III. Los miembros del consejo de la Magistratura de Justicia durarán en sus funciones seis años, y no podrán ser reelegidas ni reelegidos. 
+Artículo 195. 
+Son atribuciones del Consejo de la Magistratura de Justicia, además de las establecidas en la Constitución y en la ley: 
+1. Promover la revocatoria de mandato de las Magistradas y de los Magistrados del Tribunal Supremo de Justicia y del Tribunal Agroambiental, cuando, en el ejercicio de sus funciones, cometan faltas gravísimas determinadas por la ley. 
+2. Ejercer el control disciplinario de las vocales y los vocales, juezas y jueces; y personal auxiliar y administrativo del Órgano Judicial. El ejercicio de esta facultad comprenderá la posibilidad de cesación del cargo por faltas disciplinarias gravísimas, expresamente establecidas en la ley. 
+3. Controlar y fiscalizar la administración económica financiera y todos los bienes del Órgano Judicial. 
+4. Evaluar el desempeño de funciones de las administradoras y los administradores de justicia, y del personal auxiliar. 
+5. Elaborar auditorías jurídicas y de gestión financiera. 
+6. Realizar estudios técnicos y estadísticos. 
+7. Preseleccionar a las candidatas y a los candidatos para la conformación de los tribunales departamentales de justicia que serán designados por el Tribunal Supremo de Justicia. 
+8. Designar, mediante concurso de méritos y exámenes de competencia, a los jueces de partido y de instrucción. 
+9. Designar a su personal administrativo. 
+CAPÍTULO SEXTO TRIBUNAL CONSTITUCIONAL PLURINACIONAL 
+Artículo 196. 
+I. El Tribunal Constitucional Plurinacional vela por la supremacía de la Constitución, ejerce el control de constitucionalidad, y precautela el respeto y la vigencia de los derechos y las garantías constitucionales. 
+II. En su función interpretativa, el Tribunal Constitucional Plurinacional aplicará como criterio de interpretación, con preferencia, la voluntad del constituyente, de acuerdo con sus documentos, actas y resoluciones, así como el tenor literal del texto. 
+Artículo 197. 
+I. El Tribunal Constitucional Plurinacional estará integrado por Magistradas y Magistrados elegidos con criterios de plurinacionalidad, con representación del sistema ordinario y del sistema indígena originario campesino. 
+II. Las Magistradas y los Magistrados suplentes del Tribunal Constitucional Plurinacional no recibirán remuneración, y asumirán funciones exclusivamente en caso de ausencia del titular, o por otros motivos establecidos en la ley. 
+III. Lacomposición, organización y funcionamiento del Tribunal Constitucional Plurinacional serán regulados por la ley. 
+Artículo 198. 
+Las Magistradas y los Magistrados del Tribunal Constitucional Plurinacional se elegirán mediante sufragio universal, según el procedimiento, mecanismo y formalidades de los miembros del Tribunal Supremo de Justicia. 
+Artículo 199. 
+I. Para optar a la magistratura del Tribunal Constitucional Plurinacional se requerirá, además de los requisitos generales para el acceso al servicio público, haber cumplido treinta y cinco años y tener especialización o experiencia acreditada de por lo menos ocho años en las disciplinas de Derecho Constitucional, Administrativo o Derechos Humanos. 
+Para la calificación de méritos se tomará en cuenta el haber ejercido la calidad de autoridad originaria bajo su sistema de justicia. 
+II. Las candidatas y los candidatos al Tribunal Constitucional Plurinacional podrán ser propuestas y propuestos por organizaciones de la sociedad civil y de las naciones y pueblos indígena originario campesinos. 
+Artículo 200. 
+El tiempo de ejercicio, la permanencia y la cesación en el cargo establecidos para las Magistradas y los Magistrados del Tribunal Supremo de Justicia será de aplicación a los miembros del Tribunal Constitucional Plurinacional. 
+Artículo 201. 
+Las Magistradas y los Magistrados del Tribunal Constitucional Plurinacional se regirán por el mismo sistema de prohibiciones e incompatibilidades de los servidores públicos. 
+Artículo 202. 
+Son atribuciones del Tribunal Constitucional Plurinacional, además de las establecidas en la Constitución y la ley, conocer y resolver: 
+1. En única instancia, los asuntos de puro derecho sobre la inconstitucionalidad de leyes, Estatutos Autonómicos, Cartas Orgánicas, decretos y todo género de ordenanzas y resoluciones no judiciales. 
+Si la acción es de carácter abstracto, sólo podrán interponerla la Presidenta o Presidente de la República, Senadoras y Senadores, Diputadas y Diputados, Legisladores, Legisladoras y máximas autoridades ejecutivas de las entidades territoriales autónomas, 
+2. Los conflictos de competencias y atribuciones entre órganos del poder público. 
+3. Los conflictos de competencias entre el gobierno plurinacional, las entidades territoriales autónomas y descentralizadas, y entre éstas. 
+4. Los recursos contra tributos, impuestos, tasas,patentes,derechosocontribuciones creados, modificados o suprimidos en contravención a lo dispuesto en esta Constitución. 
+5. Los recursos contra resoluciones del Órgano Legislativo, cuando sus resoluciones afecten a uno o más derechos, cualesquiera sean las personas afectadas. 
+6. La revisión de las acciones de Libertad, de Amparo Constitucional, de Protección de Privacidad, Popular y de Cumplimiento. 
+Esta revisión no impedirá la aplicación inmediata y obligatoria de la resolución que resuelva la acción. 
+7. Las consultas de la Presidenta o del Presidente de la República, de la Asamblea Legislativa Plurinacional, del Tribunal Supremo de Justicia o del Tribunal Agroambiental sobre la constitucionalidad de proyectos de ley. 
+La decisión del Tribunal Constitucional es de cumplimiento obligatorio. 
+8. Las consultas de las autoridades indígenas originario campesinas sobre la aplicación de sus normas jurídicas aplicadas a un caso concreto. 
+La decisión del Tribunal Constitucional es obligatoria. 
+9. El control previo de constitucionalidad en la ratificación de tratados internacionales. 
+10. La constitucionalidad del procedimiento de reforma parcial de la Constitución. 
+11. Los conflictos de competencia entre la jurisdicción indígena originaria campesina y la jurisdicción ordinaria y agroambiental. 
+12. Los recursos directos de nulidad. 
+Artículo 203. 
+Las decisiones y sentencias del Tribunal Constitucional Plurinacional son de carácter vinculante y de cumplimiento obligatorio, y contra ellas no cabe recurso ordinario ulterior alguno. 
+Artículo 204. 
+La ley determinará los procedimientos que regirán ante el Tribunal Constitucional Plurinacional. 
+TÍTULO IV ÓRGANO ELECTORAL CAPÍTULO PRIMERO ÓRGANO ELECTORAL PLURINACIONAL 
+Artículo 205. 
+I. El Órgano Electoral Plurinacional está compuesto por: 
+1. El Tribunal Supremo Electoral. 
+2. Los Tribunales Electorales Departa-mentales. 
+3. Los Juzgados Electorales. 
+4. Los Jurados de las Mesas de sufragio. 
+5. Los Notarios Electorales. 
+II. La jurisdicción, competencias y atribuciones del Órgano Electoral y de sus diferentes niveles se definen, en esta Constitución y la ley. 
+Artículo 206. 
+I. El Tribunal Supremo Electoral es el máximo nivel del Órgano Electoral, tiene jurisdicción nacional. 
+II. El Tribunal Supremo Electoral está compuesto por siete miembros, quienes durarán en sus funciones seis años sin posibilidad de reelección, y al menos dos de los cuales serán de origen indígena originario campesino. 
+III. La Asamblea Legislativa Plurinacional, por dos tercios de votos de los miembros presentes, elegirá a seis de los miembros del Órgano Electoral Plurinacional. 
+La Presidenta o el Presidente del Estado designará a uno de sus miembros. 
+IV. La elección de los miembros del Órgano Electoral Plurinacional requerirá de convocatoria pública previa, y calificación de capacidad y méritos a través de concurso público. 
+V. Las Asambleas Legislativas Departamentales o Consejos Departamentales seleccionarán por dos tercios de votos de sus miembros presentes, una terna por cada uno de los vocales de los Tribunales Departamentales Electorales. 
+De estas ternas la Cámara de Diputados elegirá a los miembros de los Tribunales Departamentales Electorales, por dos tercios de votos de los miembros presentes, garantizando que al menos uno de sus miembros sea perteneciente a las naciones y pueblos indígenas originarios campesinos del Departamento. 
+Artículo 207. 
+Para ser designada Vocal del Tribunal Supremo Electoral y Departamental, se requiere cumplir con las condiciones generales de acceso al servicio público, haber cumplido treinta años de edad al momento de su designación y tener formación académica. 
+Artículo 208. 
+I. El Tribunal Supremo Electoral es el responsable de organizar, administrar y ejecutar los procesos electorales y proclamar sus resultados. 
+II. El Tribunal garantizará que el sufragio se ejercite efectivamente, conforme a lo dispuesto en el Artículo 26 de esta Constitución. 
+III. Es función del Tribunal Supremo Electoral organizar y administrar el Registro Civil y el Padrón Electoral. 
+CAPÍTULO SEGUNDO REPRESENTACIÓN POLÍTICA 
+Artículo 209. 
+Las candidatas y los candidatos a los cargos públicos electos, con excepción de los cargos elegibles del Órgano Judicial y del Tribunal Constitucional Plurinacional serán postuladas y postulados a través de las organizaciones de las naciones y pueblos indígena originario campesinos, las agrupaciones ciudadanas y los partidos políticos, en igualdad de condiciones y de acuerdo con la ley. 
+Artículo 210. 
+I. La organización y funcionamiento de las organizaciones de las naciones y pueblos indígena originario campesinos, las agrupaciones ciudadanas y los partidos políticos deberán ser democráticos. 
+II. La elección interna de las dirigentes y los dirigentes y de las candidatas y los candidatos de las agrupaciones ciudadanas y de los partidos políticos será regulada y fiscalizada por el Órgano Electoral Plurinacional, que garantizará la igual participación de hombres y mujeres. 
+III. Las organizaciones de las naciones y pueblos indígena originario campesinos podrán elegir a sus candidatas o candidatos de acuerdo con sus normas propias de democracia comunitaria. 
+Artículo 211. 
+I. Las naciones y pueblos indígena originario campesinos podrán elegir a sus representantes políticos en las instancias que corresponda, de acuerdo con sus formas propias de elección. 
+II. El Órgano Electoral supervisará que en la elección de autoridades, representantes y candidatas y candidatos de los pueblos y naciones indígena originario campesinos mediante normas y procedimientos propios, se de estricto cumplimiento a la normativa de esos pueblos y naciones. 
+Artículo 212. 
+Ninguna candidata ni ningún candidato podrán postularse simultáneamente a más de un cargo electivo, ni por más de una circunscripción electoral al mismo tiempo. 
+TITULO V FUNCIONES DE CONTROL, DE DEFENSA DE LA SOCIEDAD Y DE DEFENSA DEL ESTADO CAPÍTULO PRIMERO FUNCIÓN DE CONTROL SECCIÓN I CONTRALORÍA GENERAL DEL ESTADO 
+Artículo 213. 
+I. La Contraloría General del Estado es la institución técnica que ejerce la función de control de la administración de las entidades públicas y de aquéllas en las que el Estado tenga participación o interés económico. 
+La Contraloría está facultada para determinar indicios de responsabilidad administrativa, ejecutiva, civil y penal; tiene autonomía funcional, financiera, administrativa y organizativa. 
+II. Su organización, funcionamiento y atribuciones, que deben estar fundados en los principios de legalidad, transparencia, eficacia, eficiencia, economía, equidad, oportunidad y objetividad, se determinarán por la ley. 
+Artículo 214. 
+La Contralora o Contralor General del Estado se designará por dos tercios de votos de los presentes de la Asamblea Legislativa Plurinacional. 
+La elección requerirá de convocatoria pública previa, y calificación de capacidad profesional y méritos a través de concurso público. 
+Artículo 215. 
+Para ser designada Contralora o ser designado Contralor General del Estado se requiere cumplir con las condiciones generales de acceso al servicio público; contar con al menos treinta años de edad al momento de su designación; haber obtenido título profesional en una rama afín al cargo y haber ejercido la profesión por un mínimo de ocho años; contar con probada integridad personal y ética, determinadas a través de la observación pública. 
+Artículo 216. 
+La Contralora o Contralor General del Estado ejercerá sus funciones por un periodo de seis años, sin posibilidad de nueva designación. 
+Artículo 217. 
+I. La Contraloría General del Estado será responsable de la supervisión y del control externo posterior de las entidades públicas y de aquéllas en las que tenga participación o interés económico el Estado. 
+La supervisión y el control se realizará asimismo sobre la adquisición, manejo y disposición de bienes y servicios estratégicos para el interés colectivo. 
+II. La Contraloría Generaldel Estado presentará cada año un informe sobre su labor de fiscalización del sector público a la Asamblea Legislativa Plurinacional. 
+CAPÍTULO SEGUNDO FUNCIÓN DE DEFENSA DE LA SOCIEDAD SECCIÓN I DEFENSORÍA DEL PUEBLO 
+Artículo 218. 
+I. La Defensoría del Pueblo velará por la vigencia, promoción, difusión y cumplimiento de los derechos humanos, individuales y colectivos, que se establecen en la Constitución, las leyes y los instrumentos internacionales. 
+La función de la Defensoría alcanzará a la actividad administrativa de todo el sector público y a la actividad de las instituciones privadas que presten servicios públicos. 
+II. Corresponderá asimismo a la Defensoría del Pueblo la promoción de la defensa de los derechos de las naciones y pueblos indígena originario campesinos, de las comunidades urbanas e interculturales, y de las bolivianas y los bolivianos en el exterior. 
+III. La Defensoría del Pueblo es una institución con autonomía funcional, financiera y administrativa, en el marco de la ley. 
+Sus funciones se regirán bajo los principios de gratuidad, accesibilidad, celeridad y solidaridad. 
+En el ejercicio de sus funciones no recibe instrucciones de los órganos del Estado. 
+Artículo 219. 
+I. La Defensoría del Pueblo estará dirigida por la Defensora o el Defensor del Pueblo, que ejercerá sus funciones por un periodo de seis años, sin posibilidad de nueva designación. 
+II. La Defensora o el Defensor del Pueblo no será objeto de persecución, detención, acusación ni enjuiciamiento por los actos realizados en el ejercicio de sus atribuciones. 
+Artículo 220. 
+La Defensora o el Defensor del Pueblo se designará por al menos dos tercios de los presentes de la Asamblea Legislativa Plurinacional. La designación requerirá de convocatoria pública previa y calificación de capacidad profesional y méritos a través de concurso público, entre personas reconocidas por su trayectoria en la defensa de los derechos humanos. 
+Artículo 221. 
+Para ser designada Defensora o ser designado Defensor del Pueblo se requerirá cumplir con las condiciones generales de acceso al servicio público, contar con treinta años de edad cumplidos al momento de su designación y contar con probada integridad personal y ética, determinada a través de la observación pública. 
+Artículo 222. 
+Son atribuciones de la Defensoría del Pueblo, además de las que establecen la Constitución y la ley: 
+1. Interponer las acciones de Inconstitucionalidad, de Libertad, de Amparo Constitucional, de Protección de Privacidad, Popular, de Cumplimiento y el recurso directo de nulidad, sin necesidad de mandato. 
+2. Presentar proyectos de ley y proponer modificaciones a leyes, decretos y resoluciones no judiciales en materia de su competencia. 
+3. Investigar, de oficio o a solicitud de parte, los actos u omisiones que impliquen violación de los derechos, individuales y colectivos, que se establecen en la Constitución, las leyes y los instrumentos internacionales, e instar al Ministerio Público al inicio de las acciones legales que correspondan. 
+4. Solicitar a las autoridades y servidores públicos información respecto a las investigaciones que realice la Defensoría del Pueblo, sin que puedan oponer reserva alguna. 
+5. Formular recomendaciones, recordatorios de deberes legales, y sugerencias para la inmediata adopción de correctivos y medidas a todos los órganos e instituciones del Estado, y emitir censura pública por actos o comportamientos contrarios a dichas formulaciones. 
+6. Acceder libremente a los centros de detención e internación, sin que pueda oponerse objeción alguna. 
+7. Ejercer sus funciones sin interrupción de ninguna naturaleza, aun en caso de declaratoria de estado de excepción. 
+8. Asistir con prontitud y sin discriminación a las personas que soliciten sus servicios. 
+9. Elaborar los reglamentos necesarios para el ejercicio de sus funciones. 
+Artículo 223. 
+Las autoridades y los servidores públicos tienen la obligación de proporcionar a la Defensoría del Pueblo la información que solicite en relación con el ejercicio de sus funciones. 
+En caso de no ser debidamente atendida en su solicitud, la Defensoría interpondrá las acciones correspondientes contra la autoridad, que podrá ser procesada y destituida si se demuestra el incumplimiento. 
+Artículo 224. 
+Cada año, la Defensora o el Defensor del Pueblo informará a la Asamblea Legislativa Plurinacional y al Control Social sobre la situación de los derechos humanos en el país y sobre la gestión de su administración. 
+La Defensora o Defensor del Pueblo podrá ser convocada o convocado en cualquier momento por la Asamblea Legislativa Plurinacional o el Control Social, para rendir informe respecto al ejercicio de sus funciones. 
+SECCIÓN II MINISTERIO PÚBLICO 
+Artículo 225. 
+I. El Ministerio Público defenderá la legalidad y los intereses generales de la sociedad, y ejercerá la acción penal pública. 
+El Ministerio Público tiene autonomía funcional, administrativa y financiera. 
+II. El Ministerio Público ejercerá sus funciones de acuerdo con los principios de legalidad, oportunidad, objetividad, responsabilidad, autonomía, unidad y jerarquía. 
+Artículo 226. 
+I. La Fiscal o el Fiscal General del Estado e s la autoridad jerárquica superior del Ministerio Público y ejercela representación de la institución. 
+II. El Ministerio Público contará con fiscales departamentales, fiscales de materia y demás fiscales establecidos por la ley. 
+Artículo 227. 
+I. La Fiscal o el Fiscal General del Estado se designará por dos tercios de votos de los miembros presentes de la Asamblea Legislativa Plurinacional. 
+La designación requerirá de convocatoria pública previa, y calificación de capacidad profesional y méritos, a través de concurso público. 
+II. La Fiscal o el Fiscal General del Estado reunirá los requisitos generales de los servidores públicos, así como los específicos establecidos para la Magistratura del Tribunal Supremo de Justicia. 
+Artículo 228. 
+La Fisca lV o el Fiscal General del Estado ejercerá sus funciones por seis años, sin posibilidad de nueva designación. 
+CAPÍTULO TERCERO FUNCIÓN DE DEFENSA DEL ESTADO SECCIÓN I PROCURADURÍA GENERAL DEL ESTADO 
+Artículo 229. 
+La Procuraduría General del Estado es la institución de representación jurídica pública que tiene como atribución promover, defender y precautelar los intereses del Estado. 
+Su organización y estructura serán determinadas por la ley. 
+Artículo 230. 
+I. La Procuraduría General del Estado está conformada por la Procuradora o el Procurador General, que la dirigirá, y los demás servidores públicos que determine la ley. 
+II. La designación de la Procuradora o el Procurador General del estado corresponderá a la Presidenta o al Presidente del Estado. La persona designada debe cumplir con los requisitos exigidos para la Magistratura del Tribunal Supremo de Justicia. 
+III. La designación podrá ser objetada por decisión de al menos dos tercios de los miembros presentes de la Asamblea Legislativa Plurinacional, en un plazo no mayor a sesenta días calendario desde su nombramiento. 
+La objeción tendrá por efecto el cese en las funciones de la persona designada. 
+Artículo 231. 
+Son funciones de la Procuraduría General del Estado, además de las determinadas por la Constitución y la ley: 
+1. Defender judicial y extrajudicialmente los intereses del Estado, asumiendo su representación jurídica e interviniendo como sujeto procesal de pleno derecho en todas las acciones judiciales y administrativas, en el marco de la Constitución y la ley. 
+2. Interponer recursos ordinarios y acciones en defensa de los intereses del Estado. 
+3. Evaluar y velar por el ejercicio de las acciones diligentes de las unidades jurídicas de la Administración Pública en los procesos que se sustancien ante autoridades jurisdiccionales o administrativas. 
+En caso de acción negligente, debe instar al inicio de las acciones que correspondan. 
+4. Requerir a las servidoras públicas o a los servidores públicos, y a las personas particulares, la información que considere necesaria a los fines del ejercicio de sus atribuciones. 
+Esta información no se le podrá negar por ninguna causa ni motivo; la ley establecerá las sanciones correspondientes. 
+5. Requerir a la máxima autoridad ejecutiva de las entidades públicas el enjuiciamiento de las servidoras públicas o los servidores públicos que, por negligencia o corrupción, ocasionen daños al patrimonio del Estado. 
+6. Atender las denuncias y los reclamos motivados de ciudadanos y entidades que conforman el Control Social, en los casos en que se lesionen los intereses del Estado. 
+7. Instar a la Fiscalía General del Estado al ejercicio de las acciones judiciales a que hubiera lugar por los delitos cometidos contra el patrimonio público de los cuales tenga conocimiento. 
+8. Presentar proyectos de ley sobre materias relativas a su competencia. 
+CAPÍTULO CUARTO SERVIDORAS PÚBLICAS Y SERVIDORES PÚBLICOS 
+Artículo 232. 
+La Administración Pública se rige por los principios de legitimidad, legalidad, imparcialidad, publicidad, compromiso e interés social, ética, transparencia, igualdad, competencia, eficiencia, calidad, calidez, honestidad, responsabilidad y resultados. 
+Artículo 233. 
+Son servidoras y servidores públicos las personas que desempeñan funciones públicas. 
+Las servidoras y los servidores públicos forman parte de la carrera administrativa, excepto aquellas personas que desempeñen cargos electivos, las designadas y los designados, y quienes ejerzan funciones de libre nombramiento. 
+Artículo 234. 
+Para acceder al desempeño de funciones públicas se requiere: 
+1. Contar con la nacionalidad boliviana. 
+2. Ser mayor de edad. 
+3. Haber cumplido con los deberes militares. 
+4. No tener pliego de cargo ejecutoriado, ni sentencia condenatoria ejecutoriada en materia penal, pendientes de cumplimiento. 
+5. No estar comprendida ni comprendido en los casos de prohibición y de incompatibilidad establecidos en la Constitución. 
+6. Estar inscrita o inscrito en el padrón electoral. 
+7. Hablar al menos dos idiomas oficiales del país. 
+Artículo 235. 
+Son obligaciones de las servidoras y los servidores públicos: 
+1. Cumplir la Constitución y las leyes. 
+2. Cumplir con sus responsabilidades, de acuerdo con los principios de la función pública. 
+3. Prestar declaración jurada de bienes y rentas antes, durante y después del ejercicio del cargo. 
+4. Rendir cuentas sobre las responsabilidades económicas, políticas, técnicas y administrativas en el ejercicio de la función pública. 
+5. Respetar y proteger los bienes del Estado, y abstenerse de utilizarlos para fines electorales u otros ajenos a la función pública. 
+Artículo 236. 
+Son prohibiciones para el ejercicio de la función pública: 
+I. Desempeñar simultáneamente más de un cargo público remunerado a tiempo completo. 
+II. Actuar cuando sus intereses entren en conflicto con los de la entidad donde prestan sus servicios, y celebrar contratos o realizar negocios con la Administración Pública directa, indirectamente o en representación de tercera persona 
+III. Nombrar en la función pública a personas con las cuales tengan parentesco hasta el cuarto grado de consanguinidad y segundo de afinidad. 
+Artículo 237. 
+I. Son obligaciones para el ejercicio de la función pública: 
+1. Inventariar y custodiar en oficinas públicas los documentos propios de la función pública, sin que puedan sustraerlos ni destruirlos. 
+La ley regulará el manejo de los archivos y las condiciones de destrucción de los documentos públicos. 
+2. Guardar secreto respecto a las informaciones reservadas, que no podrán ser comunicadas incluso después de haber cesado en las funciones. 
+El procedimiento de calificación de la información reservada estará previsto en la ley. 
+II. La ley determinará las sanciones en caso de violación de estas obligaciones. 
+Artículo 238. 
+No podrán acceder a cargos públicos electivos aquellas personas que incurran en las siguientes causales de inelegibilidad: 
+1. Quienes ocuparon u ocupen cargos directivos en empresas o corporaciones que tengan contratos o convenios con el Estado, y no hayan renunciado al menos tres meses antes al día de la elección. 
+2. Quienes hayan ocupado cargos directivos en empresas extranjeras transnacionales que tengan contratos o convenios con el Estado, y no hayan renunciado al menos cinco años antes al día de la elección. 
+3. Quienes ocupen cargos electivos, de designación o de libre nombramiento, que no hayan renunciado a éste, al menos tres meses antes al día de la elección, excepto el Presidente y el Vicepresidente de la República. 
+4. Los miembros de las Fuerzas Armadas y de la Policía Boliviana en servicio activo que no hayan renunciado al menos tres meses antes al día de la elección. 
+5. Los ministros de cualquier culto religioso que no hayan renunciado al menos tres meses antes al día de la elección. 
+Artículo 239. 
+Es incompatible con el ejercicio de la función pública: 
+1. La adquisición o arrendamiento de bienes públicos a nombre de la servidora pública o del servidor público, o de terceras personas. 
+2. La celebración de contratos administrativos o la obtención de otra clase de ventajas personales del Estado. 
+3. El ejercicio profesional como empleadas o empleados, apoderadas o apoderados, asesoras o asesores, gestoras o gestores de entidades, sociedades o empresas que tengan relación contractual con el Estado. 
+Artículo 240. 
+I. Toda persona que ejerza un cargo electo podrá ser revocada de su mandato, excepto el Órgano Judicial, de acuerdo con la ley. 
+II. La revocatoria del mandato podrá solicitarse cuando haya transcurrido al menos la mitad del periodo del mandato. 
+La revocatoria del mandato no podrá tener lugar durante el último año de la gestión en el cargo. 
+III. El referendo revocatorio procederá por iniciativa ciudadana, a solicitud de al menos el quince por ciento de votantes del padrón electoral de la circunscripción que eligió a la servidora o al servidor público. 
+IV. La revocatoria del mandato de la servidora o del servidor público procederá de acuerdo a Ley. 
+V. Producida la revocatoria de mandato el afectado cesará inmediatamente en el cargo, proveyéndose su suplencia conforme a ley. 
+VI. La revocatoria procederá una sola vez en cada mandato constitucional del cargo electo. 
+TÍTULO VI PARTICIPACIÓN Y CONTROL SOCIAL 
+Artículo 241. 
+I. El pueblo soberano, por medio de la sociedad civil organizada, participará en el diseño de las políticas públicas. 
+II. La sociedad civil organizada ejercerá el control social a la gestión pública en todos los niveles del Estado, y a las empresas e instituciones públicas, mixtas y privadas que administren recursos fiscales. 
+III. Ejercerá control social a la calidad de los servicios públicos 
+IV. La Ley establecerá el marco general para el ejercicio del control social. 
+V. La sociedad civil se organizará para definir la estructura y composición de la participación y control social. 
+VI. Las entidades del Estado generarán espacios de participación y control social por parte de la sociedad. 
+Artículo 242. 
+La participación y el control social implica, además de las previsiones establecidas en la Constitución y la ley: 
+1. Participar en la formulación de las políticas de Estado. 
+2. Apoyar al Órgano Legislativo en la construcción colectiva de las leyes. 
+3. Desarrollar el control social en todos los niveles del gobierno y las entidades territoriales autónomas, autárquicas, descentralizadas y desconcentradas. 
+4. Generar un manejo transparente de la información y del uso de los recursos en todos los espacios de la gestión pública. 
+La información solicitada por el control social no podrá denegarse, y será entregada de manera completa, veraz, adecuada y oportuna. 
+5. Formular informes que fundamenten la solicitud de la revocatoria de mandato, de acuerdo al procedimiento establecido en la Constitución y la Ley. 
+6. Conocer y pronunciarse sobre los informes de gestión de los órganos y funciones del Estado. 
+7. Coordinar la planificación y control con los órganos y funciones del Estado. 
+8. Denunciar ante las instituciones correspondientes para la investigación y procesamiento, en los casos que se considere conveniente. 
+9. Colaborar en los procedimientos de observación pública para la designación de los cargos que correspondan. 
+10. Apoyar al órgano electoral en transparentar las postulaciones de los candidatos para los cargos públicos que correspondan. 
+TÍTULO VII FUERZAS ARMADAS Y POLICÍA BOLIVIANA CAPÍTULO PRIMERO FUERZAS ARMADAS 
+Artículo 243. 
+Las Fuerzas Armadas del Estado están orgánicamente constituidas por el Comando en Jefe, Ejército, la Fuerza Aérea y la Armada Boliviana, cuyos efectivos serán fijados por la Asamblea Legislativa Plurinacional a propuesta del Órgano Ejecutivo. 
+Artículo 244. 
+Las Fuerzas Armadas tienen por misión fundamental defender y conservar la independencia, seguridad y estabilidad del Estado, su honor y la soberanía del país; asegurar el imperio de la Constitución, garantizar la estabilidad del Gobierno legalmente constituido, y participar en el desarrollo integral del país. 
+Artículo 245. 
+La organización de las Fuerzas Armadas descansa en su jerarquía y disciplina. 
+Es esencialmente obediente, no delibera y está sujeta a las leyes y a los reglamentos militares. 
+Como organismo institucional no realiza acción política; individualmente, sus miembros gozan y ejercen los derechos de ciudadanía en las condiciones establecidas por la ley. 
+Artículo 246. 
+I. Las Fuerzas Armadas dependen de la Presidenta o del Presidente del Estado y reciben sus órdenes, en lo administrativo, por intermedio de la Ministra o del Ministro de Defensa y en lo técnico, del Comandante en Jefe. 
+II. En caso de guerra, el Comandante en Jefe de las Fuerzas Armadas dirigirá las operaciones. 
+Artículo 247. 
+I. Ninguna extranjera ni ningún extranjero ejercerá mando ni empleo o cargo administrativo en las Fuerzas Armadas sin previa autorización del Capitán General. 
+II. Para desempeñar los cargos de Comandante en Jefe de las Fuerzas Armadas, Jefe del Estado Mayor General, Comandantes y Jefes de Estado Mayor del Ejército, Fuerza Aérea, Armada Boliviana y de grandes unidades, será indispensable ser boliviana o boliviano por nacimiento y reunir los requisitos que señale la ley. 
+Iguales condiciones serán necesarias para ser Viceministra o Viceministro del Ministerio de Defensa. 
+Artículo 248. 
+El Consejo Supremo de Defensa del Estado Plurinacional, cuya composición, organización y atribuciones determinará la ley, estará presidido por el Capitán General de las Fuerzas Armadas. 
+Artículo 249. 
+Todo boliviano estará obligado a prestar servicio militar, de acuerdo con la ley. 
+Artículo 250. 
+Los ascensos en las Fuerzas Armadas serán otorgados conforme con la ley respectiva. 
+CAPÍTULO SEGUNDO POLICÍA BOLIVIANA Artículo 251. 
+I. La Policía Boliviana, como fuerza pública, tiene la misión específica de la defensa de la sociedad y la conservación del orden público, y el cumplimiento de las leyes en todo el territorio boliviano. 
+Ejercerá la función policial de manera integral, indivisible y bajo mando único, en conformidad con la Ley Orgánica de la Policía Boliviana y las demás leyes del Estado. 
+II. Como institución, no delibera ni participa en acciónpolíticapartidaria,peroindividualmente sus miembros gozan y ejercen sus derechos ciudadanos, de acuerdo con la ley. 
+Artículo 252 Las Fuerzas de la Policía Boliviana dependen de la Presidenta o del Presidente del Estado por intermedio de la Ministra o Ministro de Gobierno. 
+Artículo 253. 
+Para ser designado Comandante General de la Policía Boliviana será indispensable ser boliviana o boliviano por nacimiento, General de la institución, y reunir los requisitos que señala la ley. 
+Artículo 254. 
+En caso de guerra internacional, las fuerzas de la Policía Boliviana pasarán a depender del Comando en Jefe de las Fuerzas Armadas por el tiempo que dure el conflicto. 
+TÍTULO VIII RELACIONES INTERNACIONALES, FRONTERAS, INTEGRACIÓN Y REIVINDICACIÓN MARÍTIMA CAPÍTULO PRIMERO RELACIONES INTERNACIONALES 
+Artículo 255. 
+I. Las relaciones internacionales y la negociación, suscripción y ratificación de los tratados internacionales responden a los fines del Estado en función de la soberanía y de los intereses del pueblo. 
+II. La negociación, suscripción y ratificación de tratados internacionales se regirá por los principios de: 
+1. Independencia e igualdad entre los estados, no intervención en asuntos internos y solución pacífica de los conflictos. 
+2. Rechazo y condena a toda forma de dictadura, colonialismo, neocolonialismo e imperialismo. 
+3. Defensa y promoción de los derechos humanos, económicos, sociales, culturales y ambientales, con repudio a toda forma de racismo y discriminación. 
+4. Respeto a los derechos de los pueblos indígenas originarios campesinos. 
+5. Cooperación y solidaridad entre los estados y los pueblos. 
+6. Preservación del patrimonio, capacidad de gestión y regulación del Estado. 
+7. Armonía con la naturaleza, defensa de la biodiversidad, y prohibición de formas de apropiación privada para el uso y explotación exclusiva de plantas, animales, microorganismos y cualquier materia viva. 
+8. Seguridad y soberanía alimentaria para toda la población; prohibición de importación, producción y comercialización de organismos genéticamente modificados y elementos tóxicos que dañen la salud y el medio ambiente. 
+9. Acceso de toda la población a los servicios básicos para su bienestar y desarrollo. 
+10. Preservación del derecho de la población al acceso a todos los medicamentos, principalmente los genéricos. 
+11. Protección y preferencias para la producción boliviana, y fomento a las exportaciones con valor agregado. 
+Artículo 256. 
+I. Los tratados e instrumentos internacionales en materia de derechos humanos que hayan sido firmados, ratificados o a los que se hubiera adherido el Estado, que declaren derechos más favorables a los contenidos en la Constitución, se aplicarán de manera preferente sobre ésta. 
+II. Los derechos reconocidos en la Constitución serán interpretados de acuerdo a los tratados internacionales de derechos humanos cuando éstos prevean normas más favorables. 
+Artículo 257. 
+I. Los tratados internacionales ratificados forman parte del ordenamiento jurídico interno con rango de ley. 
+II. Requerirán de aprobación mediante referendo popular vinculante previo a la ratificación los tratados internacionales que impliquen: 
+1. Cuestiones limítrofes. 
+2. Integración monetaria. 
+3. Integración económica estructural. 
+4. Cesión de competencias institucionales a organismos internacionales o supranacionales, en el marco de procesos de integración. 
+Artículo 258. 
+Los procedimientos de celebración de tratados internacionales se regularán por la ley. 
+Artículo 259. 
+I. Cualquier tratado internacional requerirá de aprobación mediante referendo popular cuando así lo solicite el cinco por ciento de los ciudadanos registrados en el padrón electoral, o el treinta y cinco por ciento de los representantes de la Asamblea Legislativa Plurinacional. 
+Estas iniciativas podrán utilizarse también para solicitar al Órgano Ejecutivo la suscripción de un tratado. 
+II. El anuncio de convocatoria a referendo suspenderá, de acuerdo a los plazos establecidos por la ley, el proceso de ratificación del tratado internacional hasta la obtención del resultado. 
+Artículo 260. 
+I. La denuncia de los tratados internacionales seguirá los procedimientos establecidos en el propio tratado internacional, las normas generales del Derecho internacional, y los procedimientos establecidos en la Constitución y la ley para su ratificación. 
+II. La denuncia de los tratados ratificados deberá ser aprobada por la Asamblea Legislativa Plurinacional antes de ser ejecutada por la Presidenta o Presidente del Estado. 
+III. Los tratados aprobados por referendo deberán ser sometidos a un nuevo referendo antes de su denuncia por la Presidenta o Presidente del Estado. 
+CAPÍTULO SEGUNDO FRONTERAS DEL ESTADO 
+Artículo 261. 
+La integridad territorial, la preservación y el desarrollo de zonas fronterizas constituyen un deber del Estado. 
+Artículo 262. 
+I. Constituye zona de seguridad fronteriza los cincuenta kilómetros a partir de la línea de frontera. 
+Ninguna persona extranjera, individualmente o en sociedad, podrá adquirir propiedad en este espacio, directa o indirectamente, ni poseer por ningún título aguas, suelo ni subsuelo; excepto en el caso de necesidad estatal declarada por ley expresa aprobada por dos tercios de la Asamblea Legislativa Plurinacional. 
+La propiedad o la posesión afectadas en caso de incumplimiento de esta prohibición pasarán a beneficio del Estado, sin ninguna indemnización. 
+II. La zona de seguridad fronteriza estará sujeta a un régimen jurídico, económico, administrativo y de seguridad especial, orientado a promover y priorizar su desarrollo, y a garantizar la integridad del Estado. 
+Artículo 263. 
+Es deber fundamental de las Fuerzas Armadas la defensa, seguridad y control de las zonas de seguridad fronteriza. 
+Las Fuerzas Armadas participarán en las políticas de desarrollo integral y sostenible de estas zonas, y garantizarán su presencia física permanente en ellas. 
+Artículo 264. 
+I. El Estado establecerá una política permanente de desarrollo armónico, integral, sostenible y estratégico de las fronteras, con la finalidad de mejorar las condiciones de vida de su población, y en especial de las naciones y pueblos indígena originario campesinos fronterizos. 
+II. Es deber del Estado ejecutar políticas de preservación y control de los recursos naturales en las áreas fronterizas. 
+III. La regulación del régimen de fronteras será establecida por la Ley. 
+CAPÍTULO TERCERO INTEGRACIÓN 
+Artículo 265. 
+I. El Estado promoverá, sobre los principios de una relación justa, equitativa y con reconocimiento de las asimetrías, las relaciones de integración social, política, cultural y económica con los demás estados, naciones y pueblos del mundo y, en particular, promoverá la integración latinoamericana. 
+II. El Estado fortalecerá la integración de sus naciones y pueblos indígena originario campesinos con los pueblos indígenas del mundo. 
+Artículo 266. 
+Las representantes y los representantes de Bolivia ante organismos parlamentarios supraestatales emergentes de los procesos de integración se elegirán mediante sufragio universal. 
+CAPÍTULO CUARTO REIVINDICACIÓN MARÍTIMA 
+Artículo 267. 
+I. El Estado boliviano declara su derecho irrenunciable e imprescriptible sobre el territorio que le dé acceso al océano Pacífico y su espacio marítimo. 
+II. La solución efectiva al diferendo marítimo a través de medios pacíficos y el ejercicio pleno de la soberanía sobre dicho territorio constituyen objetivos permanentes e irrenunciables del Estado boliviano. 
+Artículo 268. 
+El desarrollo de los intereses marítimos, fluviales y lacustres, y de la marina mercante será prioridad del Estado, y su administración y protección será ejercida por la Armada Boliviana, de acuerdo con la Ley. 
+TERCERA PARTE ESTRUCTURA Y ORGANIZACIÓN TERRITORIAL DEL ESTADO TÍTULO I ORGANIZACIÓN TERRITORIAL DEL ESTADO CAPÍTULO PRIMERO DISPOSICIONES GENERALES 
+Artículo 269. 
+I. Bolivia se organiza territorialmente en departamentos, provincias, municipios y territorios indígena originario campesinos. 
+II. La creación, modificación y delimitación de las unidades territoriales se hará por voluntad democrática de sus habitantes, de acuerdo a las condiciones establecidas en la Constitución y la ley. 
+III. Lasregionesformaránpartedelaorganización territorial, en los términos y las condiciones que determinen la ley. 
+Artículo 270. 
+Los principios que rigen la organización territorial y las entidades territoriales descentralizadas y autónomas son: la unidad, voluntariedad, solidaridad, equidad, bien común, autogobierno, igualdad, complementariedad, reciprocidad, equidad de género, subsidiariedad, gradualidad, coordinación y lealtad institucional, transparencia, participación y control social, provisión de recursos económicos y preexistencia de las naciones y pueblos indígena originario campesinos, en los términos establecidos en esta Constitución. 
+Artículo 271. 
+I. La Ley Marco de Autonomías y Descentralización regulará el procedimiento para la elaboración de Estatutos autonómicos y Cartas Orgánicas, la transferencia y delegación competencial, el régimen económico financiero, y la coordinación entre el nivel central y las entidades territoriales descentralizadas y autónomas. 
+II. La Ley Marco de Autonomías y Descentralización será aprobada por dos tercios de votos de los miembros presentes de la Asamblea Legislativa Plurinacional. 
+Artículo 272. 
+La autonomía implica la elección directa de sus autoridades por las ciudadanas y los ciudadanos, la administración de sus recursos económicos, y el ejercicio de las facultades legislativa, reglamentaria, fiscalizadora y ejecutiva, por sus órganos del gobierno autónomo en el ámbito de su jurisdicción y competencias y atribuciones. 
+Artículo 273. 
+La ley regulará la conformación de mancomunidades entre municipios, regiones y territorios indígena originario campesinos para el logro de sus objetivos. 
+Artículo 274. 
+En los departamentos descentralizados se efectuará la elección de prefectos y consejeros departamentales mediante sufragio universal. 
+Estos departamentos podrán acceder a la autonomía departamental mediante referendo. 
+Artículo 275. 
+Cada órgano deliberativo de las entidades territoriales elaborará de manera participativa el proyecto de Estatuto o Carta Orgánica que deberá ser aprobado por dos tercios del total de sus miembros, y previo control de constitucionalidad, entrará en vigencia como norma institucional básica de la entidad territorial mediante referendo aprobatorio en su jurisdicción. 
+Artículo 276. 
+Las entidades territoriales autónomas no estarán subordinadas entre ellas y tendrán igual rango constitucional. 
+CAPÍTULO SEGUNDO AUTONOMÍA DEPARTAMENTAL 
+Artículo 277. 
+El gobierno autónomo departamental está constituido por una Asamblea Departamental, con facultad deliberativa, fiscalizadora y legislativa departamental en el ámbito de sus competencias y por un órgano ejecutivo. 
+Artículo 278. 
+I. La Asamblea Departamental estará compuesta por asambleístas departamentales, elegidas y elegidos por votación universal, directa, libre, secreta y obligatoria; y por asambleístas departamentales elegidos por las naciones y pueblos indígena originario campesinos, de acuerdo a sus propias normas y procedimientos. 
+II. La Ley determinará los criterios generales para la elección de asambleístas departamentales, tomando encuenta representación poblacional, territorial, de identidad cultural y lingüística cuando son minorías indígena originario campesinas, y paridad y alternancia de género. 
+Los Estatutos Autonómicos definirán su aplicación de acuerdo a la realidad y condiciones específicas de su jurisdicción. 
+Artículo 279. 
+El órgano ejecutivo departamental está dirigido por la Gobernadora o el Gobernador, en condición de máxima autoridad ejecutiva. 
+CAPÍTULO TERCERO AUTONOMÍA REGIONAL 
+Artículo 280. 
+I. La región, conformada por varios municipios o provincias con continuidad geográfica y sin trascender límites departamentales, que compartancultura,lenguas,historia,economía y ecosistemas en cada departamento, se constituirá como un espacio de planificación y gestión. 
+Excepcionalmente una región podrá estar conformada únicamente por una provincia, que por sí sola tenga las características definidas para la región. En las conurbaciones mayores a 500. 
+000 habitantes, podrán conformarse regiones metropolitanas. 
+II. La Ley Marco de Autonomías y Descentralización establecerá los términos y procedimientos para la conformación ordenada y planificada de las regiones. 
+Donde se conformen regiones no se podrá elegir autoridades provinciales. 
+III. La región podrá constituirse en autonomía regional, a iniciativa de los municipios que la integran, vía referendo en sus jurisdicciones. 
+Sus competencias deben ser conferidas por dos tercios de votos del total de los miembros del órgano deliberativo departamental. 
+Artículo 281. 
+El gobierno de cada autonomía regional estará constituido por una Asamblea Regional con facultad deliberativa, normativoadministrativa y fiscalizadora, en el ámbito de sus competencias, y un órgano ejecutivo. 
+Artículo 282. 
+I. Las y los miembros de la Asamblea Regional serán elegidas y elegidos en cada municipio junto con las listas de candidatos a concejales municipales, de acuerdo a criterios poblacionales y territoriales. 
+II. La región elaborará de manera participativa su Estatuto, de acuerdo a los procedimientos establecidos para las autonomías regionales. 
+CAPÍTULO CUARTO AUTONOMÍA MUNICIPAL 
+Artículo 283. 
+El gobierno autónomo municipal está constituido por un Concejo Municipal con facultad deliberativa, fiscalizadora y legislativa municipal en el ámbito de sus competencias; y un órgano ejecutivo, presidido por la Alcaldesa o el Alcalde. 
+Artículo 284. 
+I. El Concejo Municipal estará compuesto por concejalas y concejales elegidas y elegidos mediante sufragio universal. 
+II. En los municipios donde existan naciones o pueblos indígena originario campesinos, que no constituyan una autonomía indígena originaria campesina, éstos podrán elegir sus representantes ante el Concejo Municipal de forma directa mediante normas y procedimientos propios y de acuerdo a la Carta Orgánica Municipal. 
+III. La Ley determinará los criterios generales para la elección y cálculo del número de concejalas y concejales municipales. 
+La Carta Orgánica Municipal definirá su aplicación de acuerdo a la realidad y condiciones específicas de su jurisdicción. 
+IV. El Concejo Municipal podrá elaborar el proyecto de Carta Orgánica, que será aprobado según lo dispuesto por esta Constitución. 
+CAPÍTULO QUINTO ÓRGANOS EJECUTIVOS DE LOS GOBIERNOS AUTÓNOMOS 
+Artículo 285. 
+I. Para ser candidata o candidato a un cargo electivo de los órganos ejecutivos de las gobiernos autónomos se requerirá cumplir con las condiciones generales de acceso al servicio público, y: 
+1. Haber residido de forma permanente al menos los dos años inmediatamente anterioresalaeleccióneneldepartamento, región o municipio correspondiente. 
+2. En el caso de la elección de la Alcaldesa o del Alcalde y de la autoridad regional haber cumplido veintiún años. 
+3. En el caso de la elección de Prefecta o Prefecto y Gobernador o Gobernadora haber cumplido veinticinco años. 
+II. El periodo de mandato de las máximas autoridades ejecutivas de los gobiernos autónomos es de cinco años, y podrán ser reelectas o reelectos de manera continua por una sola vez. 
+Artículo 286. 
+I. La suplencia temporal de la máxima autoridad ejecutiva de un gobierno autónomo corresponderá a un miembro del Concejo o Asamblea de acuerdo al Estatuto Autonómico o Carta Orgánica según corresponda. 
+II. En caso de renuncia o muerte, inhabilidad permanente o revocatoria de la máxima autoridad ejecutiva de un gobierno autónomo, se procederá a una nueva elección, siempre y cuando no hubiere transcurrido la mitad de su mandato. 
+En caso contrario, la sustituta o sustituto será una autoridad ya electa definida de acuerdo al Estatuto Autonómico o Carta Orgánica según corresponda. 
+CAPÍTULO SEXTO ÓRGANOS LEGISLATIVOS, DELIBERATIVOS Y FISCALIZADORES DE LOS GOBIERNOS AUTÓNOMOS 
+Artículo 287. 
+I. Las candidatas y los candidatos a los concejos y a las asambleas de los gobiernos autónomos deberán cumplir con las condiciones generales de acceso al servicio público, y: 
+1. Haber residido de forma permanente al menos los dos años inmediatamente anteriores a la elección en la jurisdicción correspondiente. 
+2. Tener 18 años cumplidos al día de la elección. 
+II. La elección de las Asambleas y Concejos de los gobiernos autónomos tendrá lugar en listas separadas de los ejecutivos. 
+Artículo 288. 
+El período de mandato de los integrantes de los Concejos y Asambleas de los gobiernos autónomos será de cinco años, y podrán ser reelectas o reelectos de manera continua por una sola vez. 
+CAPÍTULO SÉPTIMO AUTONOMÍA INDÍGENA ORIGINARIA CAMPESINA 
+Artículo 289. 
+La autonomía indígena originaria campesina consiste en el autogobierno como ejercicio de la libre determinación de las naciones y los pueblos indígena originario campesinos, cuya población comparte territorio, cultura, historia, lenguas, y organización o instituciones jurídicas, políticas, sociales y económicas propias. 
+Artículo 290. 
+I. La conformación de la autonomía indígena originario campesina se basa en los territorios ancestrales, actualmente habitados por esos pueblos y naciones, y en la voluntad de su población, expresada en consulta, de acuerdo a la Constitución y la ley. 
+II. El autogobierno de las autonomías indígenas originario campesinas se ejercerá de acuerdo a sus normas, instituciones, autoridades y procedimientos, conforme a sus atribuciones y competencias, en armonía con la Constitución y la ley. 
+Artículo 291. 
+I. Son autonomías indígena originario campesinas los territorios indígena originario campesinos, y los municipios, y regiones que adoptan tal cualidad de acuerdo a lo establecido en esta Constitución y la ley. 
+II. Dos o más pueblos indígenas originarios campesinos podrán conformar una sola autonomía indígena originaria campesina. 
+Artículo 292. 
+Cada autonomía indígena originario campesina elaborará su Estatuto, de acuerdo a sus normas y procedimientos propios, según la Constitución y la Ley. 
+Artículo 293. 
+I. La autonomía indígena basada en territorios indígenas consolidados y aquellos en proceso, una vez consolidados, se constituirá por la voluntad expresada de su población en consulta en conformidad a sus normas y procedimientos propios como único requisito exigible. 
+II. Si la conformación de una autonomía indígena originario campesina afectase límites de distritos municipales, el pueblo o nación indígena originario campesino y el gobierno municipal deberán acordar una nueva delimitación distrital. 
+Si afectase límites municipales, deberá seguirse un procedimiento ante la Asamblea Legislativa Plurinacional para su aprobación, previo cumplimiento de los requisitos y condiciones particulares que señale la Ley. 
+III. La Ley establecerá requisitos mínimos de población y otros diferenciados para la constitución de autonomía indígena originario campesina. 
+IV. Para constituir una autonomía indígena originario campesina cuyos territorios se encuentren en uno o más municipios, la ley señalará los mecanismos de articulación, coordinación y cooperación para el ejercicio de su gobierno. 
+Artículo 294. 
+I. La decisión de constituir una autonomía indígena originario campesina se adoptará de acuerdo a las normas y procedimientos de consulta, conforme a los requisitos y condiciones establecidos por la Constitución y la ley. 
+II. La decisión de convertir un municipio en autonomía indígena originario campesina se adoptará mediante referendo conforme a los requisitos y condiciones establecidos por ley. 
+III. En los municipios donde existan comunidades campesinas con estructuras organizativas propias que las articulen y con continuidad geográfica, podrá conformarse un nuevo municipio, siguiendo el procedimiento ante la Asamblea Legislativa Plurinacional para su aprobación, previo cumplimiento de requisitos y condiciones conforme a la Constitución y la ley. 
+Artículo 295. 
+I. Para conformar una región indígena originario campesina que afecte límites municipales deberá previamente seguirse un procedimiento ante la Asamblea Legislativa Plurinacional cumpliendo los requisitos y condiciones particulares señalados por Ley. 
+II. La agregación de municipios, distritos municipales y/o autonomías indígena originario campesinas para conformar una región indígena originario campesina, se decidirá mediante referendo y/o de acuerdo a sus normas y procedimientos de consulta según corresponda y conforme a los requisitos y condiciones establecidos por la Constitución y la Ley. 
+Artículo 296. 
+El gobierno de las autonomías indígena originario campesinas se ejercerá a través de sus propias normas y formas de organización, con la denominación que corresponda a cada pueblo, nación o comunidad, establecidas en sus estatutos y en sujeción a la Constitución y a la Ley. 
+CAPÍTULO OCTAVO DISTRIBUCIÓN DE COMPETENCIAS 
+Artículo 297. 
+I. Las competencias definidas en esta Constitución son: 
+1. Privativas, aquellas cuya legislación, reglamentación y ejecución no se transfiere ni delega, y están reservadas para el nivel central del Estado. 
+2. Exclusivas, aquellas en las que un nivel de gobierno tiene sobre una determinada materia las facultades legislativa, reglamentaria y ejecutiva, pudiendo transferir y delegar estas dos últimas. 
+3. Concurrentes, aquellas en las que la legislación corresponde al nivel central del Estado y los otros niveles ejercen simultáneamente las facultades reglamentaria y ejecutiva. 
+4. Compartidas, aquellas sujetas a una legislación básica de la Asamblea Legislativa Plurinacional cuya legislación de desarrollo corresponde a las entidades territoriales autónomas, de acuerdo a su característica y naturaleza. 
+La reglamentación y ejecución corresponderá a las entidades territoriales autónomas. 
+II. Toda competencia que no esté incluida en esta Constitución será atribuida al nivel central del Estado, que podrá transferirla o delegarla por Ley. 
+Artículo 298. 
+I. Son competencias privativas del nivel central del Estado: 
+1. Sistema financiero. 
+2. Política monetaria, Banco Central, sistema monetario, y la política cambiaria. 
+3. Sistema de pesas y medidas, así como la determinación de la hora oficial. 
+4. Régimen aduanero. 
+5. Comercio Exterior. 
+6. Seguridad del Estado, Defensa, Fuerzas Armadas y Policía boliviana. 
+7. Armas de fuego y explosivos. 
+8. Política exterior. 
+9. Nacionalidad, ciudadanía, extranjería, derecho de asilo y refugio. 10. Control de fronteras en relación a la seguridad del Estado. 
+11. Regulación y políticas migratorias. 
+12. Creación, control y administración de las empresas públicas estratégicas del nivel central del Estado. 
+13. Administración del patrimonio del Estado Plurinacional y de las entidades públicas del nivel central del Estado. 
+14. Control del espacio y tránsito aéreo,en todo el territorio nacional. 
+Construcción, mantenimiento y administración de aeropuertos internacionales y de tráfico interdepartamental. 
+15. Registro Civil. 
+16. Censos oficiales. 
+17. Política general sobre tierras y territorio, y su titulación. 
+18. Hidrocarburos. 
+19. Creación de impuestos nacionales, tasas y contribuciones especiales de dominio tributario del nivel central del Estado. 
+20. Política general de Biodiversidad y Medio Ambiente. 
+21. Codificación sustantiva y adjetiva en materia civil, familiar, penal, tributaria, laboral, comercial, minería y electoral. 
+22. Política económica y planificación nacional 
+II. Son competencias exclusivas del nivel central del Estado: 
+1. Régimen electoral nacional para la elección de autoridades nacionales y subnacionales, y consultas nacionales. 
+2. Régimen general de las comunicaciones y las telecomunicaciones. 
+3. Servicio postal. 
+4. Recursos naturales estratégicos, que comprenden minerales, espectro electromagnético, recursos genéticos y biogenéticos y las fuentes de agua. 
+5. Régimen general de recursos hídricos y sus servicios. 
+6. Régimen general de biodiversidad y medio ambiente. 
+7. Política Forestal y régimen general de suelos, recursos forestales y bosques. 
+8. Política de generación, producción, control, transmisión y distribución de energía en el sistema interconectado. 
+9. Planificación, diseño, construcción, conservación y administración de carreteras de la Red Fundamental. 
+10. Construcción, mantenimientoy administración de líneas férreas y ferrocarriles de la Red Fundamental. 
+11. Obras públicas de infraestructura de interés del nivel central del Estado 
+12. Elaboración y aprobación de planos y mapas cartográficos oficiales; geodesia. 
+13. Elaboración y aprobación de estadísticas oficiales. 
+14. Otorgación de personalidad jurídica a organizaciones sociales que desarrollen Actividades en más de un Departamento. 
+15. Otorgación y registro de personalidad jurídica a Organizaciones No Gubernamentales, Fundaciones y entidades civiles sin fines de lucro que desarrollen actividades en más de un Departamento. 
+16. Régimen de Seguridad Social. 
+17. Políticas del sistema de educación y salud 
+18. Sistema de Derechos Reales en obligatoria coordinación con el registro técnico municipal. 
+19. Áreas protegidas bajo responsabilidad del nivel central del Estado. 
+20. Reservas fiscales respecto a recursos naturales. 
+21. Sanidad e inocuidad agropecuaria. 
+22. Control de la administración agraria y catastro rural. 
+23. Política fiscal 
+24. Administración de Justicia 
+25. Promoción de la cultura y conservación del patrimonio cultural. histórico, artístico, monumental, arquitectónico, arqueológico, paleontológico, científico, tangible e intangible de interés del nivel central del Estado. 
+26. Expropiación de inmuebles por razones de utilidad y necesidad pública, conforme al procedimiento establecido por Ley. 
+27. Centros de información y documentación, archivos, bibliotecas, museos, hemerotecas y otros de interés del nivel central del Estado. 
+28. Empresas públicas del nivel central del Estado. 
+29. Asentamientos humanos rurales 
+30. Políticas de servicios básicos 
+31. Políticas y régimen laborales 
+32. Transporte, terrestre, aéreo, fluvial y otros cuando alcance a mas de un departamento. 
+33. Políticas de planificación territorial y ordenamiento territorial 
+34. Deuda pública interna y externa 
+35. Políticas generales de desarrollo productivo 
+36. Políticas generales de vivienda 
+37. Políticas generales de turismo 
+38. Régimen de la tierra. 
+La ley determinará las facultades a ser transferidas o delegadas a las autonomías. 
+Artículo 299. 
+I. Las siguientes competencias se ejercerán de forma compartida entre el nivel central del Estado y las entidades territoriales autónomas: 
+1. Régimen electoral departamental y municipal. 
+2. Servicios de telefonía fija, móvil y telecomunicaciones. 
+3. Electrificación urbana 
+4. Juegos de lotería y de azar. 
+5. Relaciones internacionales en el marco de la política exterior del Estado. 
+6. Establecimiento de Instancias de Conciliación ciudadana para resolución de conflictos entre vecinos sobre asuntos de carácter municipal. 
+7. Regulación para la creación y/o modificación de impuestos de dominio exclusivo de los gobiernos autónomos. 
+II. Las siguientes competencias se ejercerán de forma concurrente por el nivel central del Estado y las entidades territoriales autónomas: 
+1. Preservar, conservar y contribuir a la protección del medio ambiente y fauna silvestre manteniendo el equilibrio ecológico y el control de la contaminación ambiental. 
+2. Gestión del sistema de salud y educación. 
+3. Ciencia, tecnología e investigación. 
+4. Conservación de suelos, recursos forestales y bosques. 
+5. Servicio metereológico. 
+6. Frecuencias electromagnéticas en el ámbito de su jurisdicción y en el marco de las políticas del Estado. 
+7. Promoción y administración de proyectos hidráulicos y energéticos. 
+8. Residuos industriales y tóxicos. 
+9. Proyectos de agua potable y tratamiento de residuos sólidos 
+10. Proyectos de riego. 
+11. Protección de cuencas. 
+12. Administración de puertos fluviales 
+13. Seguridad ciudadana. 
+14. Sistema de control gubernamental. 
+15. Vivienda y vivienda social. 
+16. Agricultura, ganadería, caza y pesca 
+Artículo 300. 
+I. Son competencias exclusivas de los gobiernos departamentales autónomos, en su jurisdicción: 
+1. Elaborar su Estatuto de acuerdo a los procedimientos establecidos en esta Constitución y en la Ley. 
+2. Planificar y promover el desarrollo humano en su jurisdicción. 
+3. Iniciativa y convocatoria de consultas y referendos departamentales en las materias de su competencia. 
+4. Promoción del empleo y mejora de las condiciones laborales, en el marco de las políticas nacionales. 
+5. Elaboración y ejecución de Planes de Ordenamiento Territorial y de uso de suelos, en coordinación con los planes del nivel central del Estado municipales e indígena originario campesino. 
+6. Proyectos de generación y transporte de energía en los sistemas aislados. 
+7. Planificación, diseño, construcción conservación y administración de carreteras de la red departamental de acuerdo a las políticas estatales, incluyendo las de la Red Fundamental en defecto del nivel central, conforme a las normas establecidas por éste. 
+8. Construcción y mantenimiento de líneas férreas y ferrocarriles en el departamento de acuerdo a las políticas estatales, interviniendo en los de las Red fundamental en coordinación con el nivel central del Estado. 
+9. Transporte interprovincial terrestre, fluvial, ferrocarriles y otros medios de transporte en el departamento. 
+10. Construcción, mantenimiento y administración de aeropuertos públicos departamentales. 
+11. Estadísticas departamentales 
+12. Otorgar personalidad jurídica a organizaciones sociales que desarrollen actividades en el departamento. 
+13. Otorgar personalidad jurídica a Organizaciones No Gubernamentales, fundaciones y entidades civiles sin fines de lucro que desarrollen actividades en el departamento. 
+14. Servicios de sanidad e inocuidad agropecuaria. 
+15. Proyectos de electrificación rural. 
+16. Proyectos de fuentes alternativas y renovables de energía de alcance departamental preservando la seguridad alimentaria. 
+17. Deporte en el ámbito de su jurisdicción 
+18. Promoción y conservación del patrimonio natural departamental. 
+19. Promoción y conservación de cultura, patrimonio cultural. histórico, artístico, monumental, arquitectónico, arqueológico, paleontológico, científico, tangible e intangible departamental. 
+20. Políticas de turismo departamental. 
+21. Proyectos de infraestructura departamental para el apoyo a la producción. 
+22. Creación y administración de impuestos de carácter departamental, cuyos hechos imponibles no sean análogos a los impuestos nacionales o municipales. 
+23. Creación y administración de tasas y contribuciones especiales de carácter departamental. 
+24. Comercio, industria y servicios para el desarrollo y la competitividad en el ámbito departamental. 
+25. Expropiación de inmuebles en su jurisdicción por razones de utilidad y necesidad pública departamental, conforme al procedimiento establecido por Ley, así como establecer limitaciones administrativas y de servidumbre a la propiedad, por razones de orden técnico, jurídico y de interés público. 
+26. Elaborar, aprobar y ejecutar sus programas de operaciones y su presupuesto. 
+27. Fondos fiduciarios, fondos de inversión y mecanismos de transferencia de recursos necesarios e inherentes a los ámbitos de sus competencias. 
+28. Centros de información y documentación, archivos, bibliotecas, museos, hemerotecas y otros departamentales. 
+29. Empresas públicas departamentales. 
+30. Promoción y desarrollo de proyectos y políticas para niñez y adolescencia, mujer, adulto mayor y personas con discapacidad. 
+31. Promoción y administración de los servicios para el desarrollo productivo y agropecuario. 
+32. Elaboración y ejecución de planes de desarrollo económico y social departamental. 
+33. Participar en empresas de industrialización, distribución y comercialización de Hidrocarburos en el territorio departamental en asociación con las entidades nacionales del sector. 
+34. Promoción de la inversión privada en el departamento en el marco de las políticas económicas nacionales 
+35. Planificación del desarrollo departamental en concordancia con la planificación nacional 
+36. Administración de sus recursos por regalías en el marco del presupuesto general de la nación, los que serán transferidos automáticamente al Tesoro Departamental. 
+II. Los Estatutos Autonómicos Departamentales podrán a su vez definir como concurrentes algunas de sus competencias exclusivas, con otras entidades territoriales del departamento. 
+III. Serán también de ejecución departamental las competencias que le sean transferidas o delegadas. 
+Artículo 301. 
+La región, una vez constituida como autonomía regional, recibirá las competencias que le sean transferidas o delegadas. 
+Artículo 302. 
+I. Son competencias exclusivas de los gobiernos municipales autónomos, en su jurisdicción: 
+1. Elaborar su Carta Orgánica Municipal de acuerdo a los procedimientos establecidos en esta Constitución y la Ley. 
+2. Planificar y promover el desarrollo humano en su jurisdicción. 
+3. Iniciativa y convocatoria de consultas y referendos municipales en las materias de su competencia 
+4. Promoción del empleo y mejora de las condiciones laborales en el marco de las políticas nacionales. 
+5. Preservar, conservar y contribuir a la protección del medio ambiente y recursos naturales, fauna silvestre y animales domésticos 
+6. Elaboración de Planes de Ordenamiento Territorial y de uso de suelos, en coordinación con los planes del nivel central del Estado, departamentales e indígenas. 
+7. Planificar, diseñar, construir, conservar y administrar caminos vecinales en coordinación con los pueblos indígena originario campesinos cuando corresponda. 
+8. Construcción, mantenimiento y administración de aeropuertos públicos locales. 
+9. Estadísticas municipales 
+10. Catastro urbano en el ámbito de su jurisdicción en conformidad a los preceptos y parámetros técnicos establecidos para los Gobiernos Municipales. 
+11. Áreas protegidas municipales en conformidad con los parámetros y condiciones establecidas para los Gobiernos Municipales. 
+12. Proyectos de fuentes alternativas y renovables de energía preservando la seguridad alimentaria de alcance municipal. 
+13. Controlar la calidad y sanidad en la elaboración, transporte y venta de productos alimenticios para el consumo humano y animal. 
+14. Deporte en el ámbito de su jurisdicción 
+15. Promoción y conservación del patrimonio natural municipal. 
+16. Promoción y conservación d e cultura, patrimonio cultural. histórico, artístico, monumental, arquitectónico, arqueológico, paleontológico, científico, tangible e intangible municipal. 
+17. Políticas de turismo local. 
+18. Transporte urbano, registro de propiedad automotor, ordenamiento y educación vial, administración y control del tránsito urbano. 
+19. Creación y administración de impuestos de carácter municipal, cuyos hechos imponibles no sean análogos a los impuestos nacionales o departamentales. 
+20. Creación y administración de tasas, patentes a la actividad económica y contribuciones especiales de carácter municipal. 
+21. Proyectos de infraestructura productiva. 
+22. Expropiación de inmuebles en su jurisdicción por razones de utilidad y necesidad pública municipal, conforme al procedimiento establecido por Ley, así como establecer limitaciones administrativas y de servidumbre a la propiedad, por razones de orden técnico, jurídico y de interés público 
+23. Elaborar, aprobar y ejecutar sus programas de operaciones y su presupuesto. 
+24. Fondos fiduciarios, fondos de inversión y mecanismos de transferencia de recursos necesarios e inherentes a los ámbitos de sus competencias. 
+25. Centros de información y documentación, archivos, bibliotecas, museos, hemerotecas y otros municipales. 
+26. Empresas públicas municipales. 
+27. Aseo urbano, manejo y tratamiento de residuos sólidos en el marco de la política del Estado. 
+28. Diseñar, construir, equipar y mantener la infraestructura y obras de interés público y bienes de dominio municipal, dentro de su jurisdicción territorial. 
+29. Desarrollo urbano y asentamientos humanos urbanos. 
+30. Servicio de alumbrado público de su jurisdicción. 
+31. Promoción de la Cultura y actividades artísticas en elámbito de su jurisdicción 
+32. Espectáculos públicos y juegos recreativos. 
+33. Publicidad y propaganda urbana. 
+34. Promover y suscribir convenios de asociación o mancomunidad municipal con otros municipios. 
+35. Convenios y/o contratos con personas naturales o colectivas, públicas y privadas para el desarrollo y cumplimiento de sus atribuciones, competencias y fines. 
+36. Constituir y reglamentar la Guardia Municipal para coadyuvar el cumplimiento, ejercicio y ejecución de sus competencias así como el cumplimiento de las normas municipales y de sus resoluciones emitidas. 
+37. Políticas que garanticen la defensa de los consumidores y usuarios en el ámbito municipal. 
+38. Sistemas de microriego en coordinación con los pueblos indígena originario campesinos. 
+39. Promoción y desarrollo de proyectos y políticas para niñez y adolescencia, mujer, adulto mayor y personas con discapacidad. 
+40. Servicios básicos así como aprobación las tasas que correspondan en su jurisdicción. 
+41. Aridos y agregados, en coordinación con los pueblos indígena originario campesinos, cuando corresponda. 
+42. Planificacion del desarrollo municipal en concordancia con la planificación departamental y nacional. 
+43. Participar en empresas de industrialización, distribución y comercialización de Hidrocarburos en el territorio municipal en asociación con las entidades nacionales del sector. 
+II. Serán también de ejecución municipal las competencias que le sean transferidas o delegadas. 
+Artículo 303. 
+I. La autonomía indígena originario campesina, además de sus competencias, asumirá las de los municipios, de acuerdo con un proceso de desarrollo institucional y con las características culturales propias de conformidad a la Constitución y a la Ley Marco de Autonomías y Descentralización. 
+II. La región indígena originario campesina, asumirá las competencias que le sean transferidas o delegadas. 
+Artículo 304. 
+I. Las autonomías indígena originario campesinas podrán ejercer las siguientes competencias exclusivas: 
+1. Elaborar su Estatuto para el ejercicio de su autonomía conforme a la Constitución y la ley. 
+2. Definición y gestión de formas propias de desarrollo económico, social, político, organizativo y cultural, de acuerdo con su identidad y visión de cada pueblo. 
+3. Gestión y administración de los recursos naturales renovables, de acuerdo a la Constitución. 
+4. Elaboración de Planes de Ordenamiento Territorial y de uso de suelos, en coordinación con los planes del nivel central del estado, departamentales, y municipales. 
+5. Electrificación en sistemas aislados dentro de su jurisdicción. 
+6. Mantenimiento y administración de caminos vecinales y comunales. 
+7. Administración y preservación de áreas protegidas en su jurisdicción, en el marco de la política del Estado. 
+8. Ejercicio de la jurisdicción indígena originaria campesina para la aplicación de justicia y resolución de conflictos a través de normas y procedimientos propios de acuerdo a la Constitución y la ley. 
+9. Deporte, esparcimiento y recreación. 
+10. Patrimonio cultural, tangible e intangible. 
+Resguardo, fomento y promoción de sus culturas, arte, identidad, centros arqueológicos, lugares religiosos, culturales y museos. 
+11. Políticas de Turismo. 
+12. Crear y administrar tasas, patentes y contribuciones especiales en el ámbito de su jurisdicción de acuerdo a Ley. 
+13. Administrar los impuestos de su competencia en el ámbito de su jurisdicción. 
+14. Elaborar, aprobar y ejecutara sus programas de operaciones y su presupuesto. 
+15. Planificación y gestión de la ocupación territorial. 
+16. Vivienda, urbanismo y redistribución poblacional conforme a sus prácticas culturales en el ámbito de su jurisdicción. 
+17. Promover y suscribir acuerdos de cooperación con otros pueblos y entidades públicas y privadas. 
+18. Mantenimiento y administración de sus sistemas de microriego. 
+19. Fomento y desarrollo de su vocación productiva. 
+20. Construcción, mantenimiento y administración de la infraestructura necesaria para el desarrollo en su jurisdicción. 
+21. Participar, desarrollar y ejecutar los mecanismos de consulta previa, libre e informada relativos a la aplicación de medidas legislativas, ejecutivas y administrativas que los afecten. 
+22. Preservación del hábitat y el paisaje, conforme a sus principios, normas y prácticas culturales, tecnológicas, espaciales e históricas. 
+23. Desarrollo y ejercicio de sus instituciones democráticas conforme a sus normas y procedimientos propios. 
+II. Las autonomías indígena originario campesinas podrán ejercer las siguientes competencias compartidas: 
+1. Intercambios internacionales en el marco de la política exterior del Estado. 
+2. Participación y control en el aprovechamiento de áridos. 
+3. Resguardo y registro de los derechos intelectuales colectivos, referidos a conocimientos de recursos genéticos, medicina tradicional y germoplasma, de acuerdo con la ley. 
+4. Control y regulación a las instituciones y organizaciones externas que desarrollen actividades en su jurisdicción, inherentes al desarrollo de su institucionalidad, cultura, medio ambiente y patrimonio natural. 
+III. Las autonomías indígena originario campesinas podrán ejercer las siguientes competencias concurrentes: 
+1. Organización, planificación y ejecuciónde políticas de salud en su jurisdicción. 
+2. Organización, planificación y ejecución de planes, programas y proyectos de educación, ciencia, tecnología e investigación, en el marco de la legislación del Estado. 
+3. Conservación de recursos forestales, biodiversidad y medio ambiente 
+4. Sistemas de riego, recursos hídricos, fuentes de agua y energía, en el marco de la política del Estado, al interior de su jurisdicción. 
+5. Construcción de sistemas de microriego. 
+6. Construcción de caminos vecinales y comunales. 
+7. Promoción de la construcción de infraestructuras productivas. 
+8. Promoción y fomento a la agricultura y ganadería. 
+9. Control y monitoreo socioambiental a las actividades hidrocarburíferas y mineras que se desarrollan en su jurisdicción. 
+10. Sistemas de control fiscal y administración de bienes y servicios. 
+IV. Los recursos necesarios para el cumplimiento de sus competencias serán transferidos automáticamente por el Estado Plurinacional de acuerdo a la ley. 
+Artículo 305. 
+Toda asignación o transferencia de competencias deberá estar acompañada de la definición de la fuente de los recursos económicos y financieros necesarios para su ejercicio. 
+CUARTA PARTE ESTRUCTURA Y ORGANIZACIÓN ECONÓMICA DEL ESTADO TÍTULO I ORGANIZACIÓN ECONÓMICA DEL ESTADO CAPÍTULO PRIMERO DISPOSICIONES GENERALES 
+Artículo 306. 
+I. El modelo económico boliviano es plural y está orientado a mejorar la calidad de vida y el vivir bien de todas las bolivianas y los bolivianos. 
+II. La economía plural está constituida por las formas de organización económica comunitaria, estatal, privada y social cooperativa. 
+III. La economía plural articula las diferentes formas de organización económica sobre los principios de complementariedad, reciprocidad, solidaridad, redistribución, igualdad, seguridad jurídica, sustentabilidad, equilibrio, justicia y transparencia. 
+La economía social y comunitaria complementará el interés individual con el vivir bien colectivo. IV. Las formas de organización económica reconocidas en esta Constitución podrán constituir empresas mixtas. 
+V. El Estado tiene como máximo valor al ser humano y asegurará el desarrollo mediante la redistribución equitativa de los excedentes económicos en políticas sociales, de salud, educación, cultura, y en la reinversión en desarrollo económico productivo. 
+Artículo 307. 
+El Estado reconocerá, respetará, protegerá y promoverá la organización económica comunitaria. 
+Esta forma de organización económica comunitaria comprende los sistemas de producción y reproducción de la vida social, fundados en los principios y visión propios de las naciones y pueblos indígena originario y campesinos. 
+Artículo 308. 
+I. El Estado reconoce, respeta y protege la iniciativa privada, para que contribuya al desarrollo económico, social y fortalezca la independencia económica del país. 
+II. Se garantiza la libertad de empresa y el pleno ejercicio de las actividades empresariales, que serán reguladas por la ley. 
+Artículo 309. 
+La forma de organización económica estatal comprende a las empresas y otras entidades económicas de propiedad estatal, que cumplirán los siguientes objetivos: 
+1. Administrar a nombre del pueblo boliviano los derechos propietarios de los recursos naturales y ejercer el control estratégico de las cadenas productivas y los procesos de industrialización de dichos recursos. 2. Administrar los servicios básicos de agua potable y alcantarillado directamente o por medio de empresas públicas, comunitarias, cooperativas o mixtas. 
+3. Producir directamente bienes y servicios. 
+4. Promover la democracia económica y el logro de la soberanía alimentaria de la población. 
+5. Garantizar la participación y el control social sobre su organización y gestión, así como la participación de los trabajadores en la toma de decisiones y en los beneficios. 
+Artículo 310. 
+El Estado reconoce y protege las cooperativas como formas de trabajo solidario y de cooperación, sin fines de lucro. 
+Se promoverá principalmente la organización de cooperativas en actividades de producción. 
+Artículo 311. 
+I. Todas las formas de organización económica establecidas en esta Constitución gozarán de igualdad jurídica ante la ley. 
+II. La economía plural comprende los siguientes aspectos: 
+1. El Estado ejercerá la dirección integral del desarrollo económico y sus procesos de planificación. 
+2. Los recursos naturales son de propiedad del pueblo boliviano y serán administrados por el Estado. 
+Se respetará y garantizará la propiedad individual y colectiva sobre la tierra. 
+La agricultura, la ganadería, así como las actividades de caza y pesca que no involucren especies animales protegidas, son actividades que se rigen por lo establecido en la cuarta parte de esta Constitución referida a la estructura y organización económica del Estado. 
+3. La industrialización de los recursos naturales para superar la dependencia de la exportación de materias primas y lograr una economía de base productiva, en el marco del desarrollo sostenible, en armonía con la naturaleza. 
+4. El Estado podrá intervenir en toda la cadena productiva de los sectores estratégicos, buscando garantizar su abastecimiento para preservar la calidad de vida de todas las bolivianas y todos los bolivianos. 
+5. El respeto a la iniciativa empresarial y la seguridad jurídica. 
+6. El Estado fomentará y promocionará el área comunitaria de la economía como alternativa solidaria en el área rural y urbana. 
+Artículo 312. 
+I. Toda actividad económica debe contribuir al fortalecimiento de la soberanía económica del país. 
+No se permitirá la acumulación privada de poder económico en grado tal que ponga en peligro la soberanía económica del Estado. 
+II. Todas las formas de organización económica tienen la obligación de generar trabajo digno y contribuir a la reducción de las desigualdades y a la erradicación de la pobreza. 
+III. Todas las formas de organización económica tienen la obligación de proteger el medio ambiente. 
+Artículo 313. 
+Para eliminar la pobreza y la exclusión social y económica, para el logro del vivir bien en sus múltiples dimensiones, la organización económica boliviana establece los siguientes propósitos: 
+1. Generación del producto social en el marco del respeto de los derechos individuales, así como de los derechos de los pueblos y las naciones. 
+2. Laproducción, distribución y redistribución justa de la riqueza y de los excedentes económicos. 
+3. La reducción de las desigualdades de acceso a los recursos productivos. 
+4. La reducción de las desigualdades regionales. 
+5. El desarrollo productivo industrializador de los recursos naturales. 
+6. La participación activa de las economías pública y comunitaria en el aparato productivo. 
+Artículo 314. 
+Se prohíbe el monopolio y el oligopolio privado, así como cualquier otra forma de asociación o acuerdo de personas naturales o jurídicas privadas, bolivianas o extranjeras, que pretendan el control y la exclusividad en la producción y comercialización de bienes y servicios. 
+Artículo 315. 
+I. El Estado reconoce la propiedad de tierra a todas aquellas personas jurídicas legalmente constituidas en territorio nacional siempre y cuando sea utilizada para el cumplimiento del objeto de la creación del agente económico, la generación de empleos y la producción y comercialización de bienes y/o servicios. 
+II. Las personas jurídicas señaladas en el parágrafo anterior que se constituyan con posterioridad a la presente Constitución tendrán una estructura societaria con un número de socios no menor a la división de la superficie total entre cinco mil hectáreas, redondeando el resultado hacia el inmediato número entero superior. 
+CAPÍTULO SEGUNDO FUNCIÓN DEL ESTADO EN LA ECONOMÍA 
+Artículo 316. 
+La función del Estado en la economía consiste en: 
+1. Conducir el proceso de planificación económica y social, con participación y consulta ciudadana. 
+La ley establecerá un sistema de planificación integral estatal, que incorporará a todas las entidades territoriales. 
+2. Dirigir la economía y regular, conforme con los principios establecidos en esta Constitución, los procesos de producción, distribución, y comercialización de bienes y servicios. 
+3. Ejercer la dirección y el control de los sectores estratégicos de la economía 
+4. Participar directamente en la economía mediante el incentivo y la producción de bienes y servicios económicos y sociales para promover la equidad económica y social, e impulsar el desarrollo, evitando el control oligopólico de la economía 
+5. Promover la integración de las diferentes formas económicas de producción, con el objeto de lograr el desarrollo económico y social. 
+6. Promover prioritariamente la industrialización de los recursos naturales renovables y no renovables, en el marco del respeto y protección del medio ambiente, para garantizar la generación de empleo y de insumos económicos y sociales para la población. 
+7. Promover políticas de distribución equitativa de la riqueza y de los recursos económicos del país, con el objeto de evitar la desigualdad, la exclusión social y económica, y erradicar la pobreza en sus múltiples dimensiones. 
+8. Determinar el monopolio estatal de las actividades productivas y comerciales que se consideren imprescindibles en caso de necesidad pública. 
+9. Formular periódicamente, c o n participación y consulta ciudadana, el plan general de desarrollo, cuya ejecución es obligatoria para todas las formas de organización económica. 
+10. Gestionar recursos económicos para la investigación, la asistencia técnica y la transferencia de tecnologías para promover actividades productivas y de industrialización. 
+11. Regular la actividad aeronáutica en el espacio aéreo del país. 
+Artículo 317. 
+El Estado garantizará la creación, organización y funcionamiento de una entidad de planificación participativa que incluya a representantes de las instituciones públicas y de la sociedad civil organizada. 
+CAPÍTULO TERCERO POLÍTICAS ECONÓMICAS 
+Artículo 318. 
+I. El Estado determinará una política productiva industrial y comercial que garantice una oferta de bienes y servicios suficientes para cubrir de forma adecuada las necesidades básicas internas, y para fortalecer la capacidad exportadora. 
+II. El Estado reconoce y priorizará el apoyo a la organización de estructuras asociativas de micro, pequeñas y medianas empresas productoras, urbanas y rurales. 
+III. El Estado fortalecerá la infraestructura productiva, manufactura e industrial y los servicios básicos para el sector productivo. 
+IV. El Estado priorizará la promoción del desarrollo productivo rural como fundamento de las políticas de desarrollo del país. 
+V. El Estado promoverá y apoyará la exportación de bienes con valor agregado y los servicios. 
+Artículo 319. 
+I. La industrialización de los recursos naturales será prioridad en las políticas económicas, en el marco del respeto y protección del medio ambiente y de los derechos de las naciones y pueblos indígena originario campesinos y sus territorios. 
+La articulación de la explotación de los recursos naturales con el aparato productivo interno será prioritaria en las políticas económicas del estado. 
+II. En la comercialización de los recursos naturales y energéticos estratégicos, el Estado considerará, para la definición del precio de su comercialización, los impuestos, regalías y participaciones correspondientes que deban pagarse a la hacienda pública. 
+Artículo 320. 
+I. La inversión boliviana se priorizará frente a la inversión extranjera. 
+II. Toda inversión extranjera estará sometida a la jurisdicción, a las leyes y a las autoridades bolivianas, y nadie podrá invocar situación de excepción, ni apelar a reclamaciones diplomáticas para obtener un tratamiento más favorable. 
+III. Las relaciones económicas con estados o empresas extranjeras se realizarán en condiciones de independencia, respeto mutuo y equidad. 
+No se podrá otorgar a Estados o empresas extranjeras condiciones más beneficiosas que las establecidas para los bolivianos. 
+IV. El Estado es independiente en todas las decisiones de política económica interna, y no aceptará imposiciones ni condicionamientos sobre esta política por parte de estados, bancos o instituciones financieras bolivianas o extranjeras, entidades multilaterales ni empresas transnacionales. 
+V. Las políticas públicas promocionarán el consumo interno de productos hechos en Bolivia. 
+SECCIÓN I POLÍTICA FISCAL 
+Artículo 321. 
+I. La administración económica y financiera del Estado y de todas las entidades públicas se rige por su presupuesto. 
+II. La determinación del gasto y de la inversión pública tendrá lugar por medio de mecanismos de participación ciudadana y de planificación técnica y ejecutiva estatal. 
+Las asignaciones atenderán especialmente a la educación, la salud, la alimentación, la vivienda y el desarrollo productivo. 
+III. El Órgano Ejecutivo presentará a laAsamblea Legislativa Plurinacional, al menos dos meses antes de la finalización de cada año fiscal, el proyecto de ley del Presupuesto General para la siguiente gestión anual, que incluirá a todas las entidades del sector público. 
+IV. Todo proyecto de ley que implique gastos o inversiones para el Estado deberá establecer la fuente de los recursos, la manera de cubrirlos y la forma de su inversión. 
+Si el proyecto no fue de iniciativa del Órgano Ejecutivo, requerirá de consulta previa a éste. 
+V. El Órgano Ejecutivo, a través del Ministerio del ramo, tendrá acceso directo a la información del gasto presupuestado y ejecutado de todo el sector público. 
+El acceso incluirá la información del gasto presupuestado y ejecutado de las Fuerzas Armadas y la Policía Boliviana. 
+Artículo 322. 
+I. La Asamblea Legislativa Plurinacional autorizará la contratación de deuda pública cuando se demuestre la capacidad de generar ingresos para cubrir el capital y los intereses, y se justifiquen técnicamente las condiciones más ventajosas en las tasas, los plazos, los montos y otras circunstancias. 
+II. La deuda pública no incluirá obligaciones que no hayan sido autorizadas y garantizadas expresamente por la Asamblea Legislativa Plurinacional. 
+Artículo 323. 
+I. La política fiscal se basa en los principios de capacidad económica, igualdad, progresividad, proporcionalidad, transparencia, universalidad, control, sencillez administrativa y capacidad recaudatoria. 
+II. Los impuestos que pertenecen al dominio tributario nacional serán aprobados por la Asamblea Legislativa Plurinacional. 
+Los impuestos que pertenecen al dominio exclusivo de las autonomías departamental o municipal, serán aprobados, modificados o eliminados por sus Concejos o Asambleas, a propuesta de sus órganos ejecutivos. 
+El dominio tributario de los Departamentos Descentralizados, y regiones estará conformado por impuestos departamentales tasas y contribuciones especiales, respectivamente. 
+III. La Asamblea Legislativa Plurinacional mediante ley, clasificará y definirá los impuestos que pertenecen al dominio tributario nacional, departamental y municipal. 
+IV. La creación, supresión o modificación de los impuestos bajo dominio de los gobiernos autónomos facultados para ello se efectuará dentro de los límites siguientes: 
+1. No podrán crear impuestos cuyos hechos imponibles sean análogos a los correspondientes a los impuestos nacionales u otros impuestos departamentales o municipales existentes, independientemente del dominio tributario al que pertenezcan. 
+2. No podrán crear impuestos que graven bienes, actividades rentas o patrimonios localizados fuera de su jurisdicción territorial, salvo las rentas generadas por sus ciudadanos o empresas en el exterior del país. 
+Esta prohibición se hace extensiva a las tasas, patentes y contribuciones especiales. 3. No podrán crear impuestos que obstaculicen la libre circulación y el establecimiento de personas, bienes, actividades o servicios dentro de su jurisdicción territorial. 
+Esta prohibición se hace extensiva a las tasas, patentes y contribuciones especiales. 
+4. No podrán crear impuestos que generen privilegios para sus residentes discriminando a los que no lo son. 
+Esta prohibición se hace extensiva a las tasas, patentes y contribuciones especiales. 
+Artículo 324. 
+No prescribirán las deudas por daños económicos causados al Estado. 
+Artículo 325. 
+El ilícito económico, la especulación, el acaparamiento, el agio, la usura, el contrabando, la evasión impositiva y otros delitos económicos conexos serán penados por ley. 
+SECCIÓN II POLÍTICA MONETARIA 
+Artículo 326. 
+I. El Estado, a través del Órgano Ejecutivo, determinará los objetivos de la política monetaria y cambiaria del país, en coordinación con el Banco Central de Bolivia. 
+II. Las transacciones públicas en el país se realizarán en moneda nacional. 
+Artículo 327. 
+El Banco Central de Bolivia es una institución de derecho público, con personalidad jurídica y patrimonio propio. 
+En el marco de la política económica del Estado, es función del Banco Central de Bolivia mantener la estabilidad del poder adquisitivo interno de la moneda, para contribuir al desarrollo económico y social. 
+Artículo 328. 
+I. Son atribuciones del Banco Central de Bolivia, en coordinación con la política económica determinada por el Órgano Ejecutivo, además de las señaladas por la ley: 
+1. Determinar y ejecutar la política monetaria. 
+2. Ejecutar la política cambiaria. 
+3. Regular el sistema de pagos. 
+4. Autorizar la emisión de la moneda. 
+5. Administrar las reservas internacionales. 
+Artículo 329. 
+I. El Directorio del Banco Central de Bolivia estará conformado por una Presidenta o un Presidente, y cinco directoras o directores designados por la Presidenta o el Presidente del Estado de entre las ternas presentadas por la Asamblea Legislativa Plurinacional para cada uno de los cargos. 
+II. Los miembros del Directorio del Banco Central de Bolivia durarán en sus funciones cinco años, sin posibilidad de reelección. 
+Serán considerados servidoras y servidores públicos, de acuerdo con la Constitución y la ley. 
+Los requisitos particulares para el acceso al cargo serán determinados por la ley. 
+III. La Presidenta o el Presidente del Banco Central de Bolivia deberá rendir informes y cuentas sobre las funciones de la institución, cuantas veces sean solicitados por la Asamblea Legislativa Plurinacional o sus Cámaras. 
+El Banco Central de Bolivia elevará un informe anual a la Asamblea Legislativa y está sometido al sistema de control gubernamental y fiscal del Estado. 
+SECCIÓN III POLÍTICA FINANCIERA 
+Artículo 330. 
+I. El Estado regulará el sistema financiero con criterios de igualdad de oportunidades, solidaridad, distribución y redistribución equitativa. 
+II. El Estado, a través de su política financiera, priorizará la demanda de servicios financieros de los sectores de la micro y pequeña empresa, artesanía, comercio, servicios, organizaciones comunitarias y cooperativas de producción. III. El Estado fomentará la creación de entidades financieras no bancarias con fines de inversión socialmente productiva. 
+IV. El Banco Central de Bolivia y las entidades e instituciones públicas no reconocerán adeudos de la banca o de entidades financieras privadas. 
+Éstas obligatoriamente aportarán y fortalecerán un fondo de reestructuración financiera, que será usado en caso de insolvencia bancaria. 
+V. Las operaciones financieras de la Administración Pública, en sus diferentes niveles de gobierno, serán realizadas por una entidad bancaria pública. La ley preverá su creación. 
+Artículo 331. 
+Las actividades de intermediación financiera, la prestación de servicios financieros y cualquier otra actividad relacionada con el manejo, aprovechamiento e inversión del ahorro, son de interés público y sólo pueden ser ejercidas previa autorización del Estado, conforme con la ley. 
+Artículo 332. 
+I. Las entidades financieras estarán reguladas y supervisadas por una institución de regulación de bancos y entidades financieras. 
+Esta institución tendrá carácter de derecho público y jurisdicción en todo el territorio boliviano. 
+II. La máxima autoridad de la institución de regulación de bancos y entidades financieras será designada por la Presidenta o Presidente del Estado, de entre una terna propuesta por la Asamblea Legislativa Plurinacional, de acuerdo con el procedimiento establecido en la ley. 
+Artículo 333. 
+Las operaciones financieras realizadas por personas naturales o jurídicas, bolivianas o extranjeras, gozarán del derecho de confidencialidad, salvo en los procesos judiciales, en los casos en que se presuma comisión de delitos financieros, en los que se investiguen fortunas y los demás definidos por la ley. 
+Las instancias llamadas por la ley a investigar estos casos tendrán la atribución para conocer dichas operaciones financieras, sin que sea necesaria autorización judicial. 
+SECCIÓN IV POLÍTICAS SECTORIALES 
+Artículo 334. 
+En el marco de las políticas sectoriales, el Estado protegerá y fomentará: 
+1. Las organizaciones económicas campesinas, y las asociaciones u organizaciones de pequeños productores urbanos, artesanos, como alternativas solidarias y recíprocas. 
+La política económica facilitará el acceso a la capacitación técnica y a la tecnología, a los créditos, a la apertura de mercados y al mejoramiento de procesos productivos. 
+2. El sector gremial, el trabajo por cuenta propia, y el comercio minorista, en las áreas de producción, servicios y comercio, será fortalecido por medio del acceso al crédito y a la asistencia técnica. 
+3. La producción artesanal con identidad cultural. 
+4. Las micro y pequeñas empresas, así como las organizaciones económicas campesinas y las organizaciones o asociaciones de pequeños productores, quienes gozarán de preferencias en las compras del Estado. 
+Artículo 335. 
+Las cooperativas de servicios públicos serán organizaciones de interés colectivo, sin fines de lucro y sometidas a control gubernamental y serán administradas democráticamente. 
+La elección de sus autoridades de administración y vigilancia será realizada de acuerdo a sus propias normas estatutarias y supervisada por el Órgano Electoral Plurinacional. 
+Su organización y funcionamiento serán regulados por la ley. 
+Artículo 336. 
+El Estado apoyará a las organizaciones de economía comunitaria para que sean sujetos de crédito y accedan al financiamiento. 
+Artículo 337. 
+I. El turismo es una actividad económica estratégica que deberá desarrollarse de manera sustentable para lo que tomará en cuenta la riqueza de las culturas y el respeto al medio ambiente. 
+II. El Estado promoverá y protegerá el turismo comunitario con el objetivo de beneficiar a las comunidades urbanas y rurales, y las naciones y pueblos indígena originario campesinos donde se desarrolle esta actividad. 
+Artículo 338. 
+El Estado reconoce el valor económico del trabajo del hogar como fuente de riqueza y deberá cuantificarse en las cuentas públicas. 
+CAPÍTULO CUARTO BIENES Y RECURSOS DEL ESTADO Y SU DISTRIBUCIÓN 
+Artículo 339. 
+I. El Presidente de la República podrá decretar pagos no autorizados por la ley del presupuesto, únicamente para atender necesidades impostergables derivadas de calamidades públicas, de conmoción interna o del agotamiento de recursos destinados a mantener servicios cuya paralización causaría graves daños Los gastos destinados a estos fines no excederán del uno por ciento del total de egresos autorizados por el Presupuesto General. 
+II. Los bienes de patrimonio del Estado y de las entidades públicas constituyen propiedad del pueblo boliviano, inviolable, inembargable, imprescriptible e inexpropiable; no podrán ser empleados en provecho particular alguno. 
+Su calificación, inventario, administración, disposición, registro obligatorio y formas de reivindicación serán regulados por la ley. 
+III. Los ingresos del Estado se invertirán conforme con el plan general de desarrollo económico y social del país, el Presupuesto General del Estado y con la ley. 
+Artículo 340. 
+I. Las rentas del Estado se dividen en nacionales, departamentales, municipales, e indígena originario campesinas y se invertirán independientemente por sus Tesoros, conforme a sus respectivos presupuestos. 
+II. La ley clasificará los ingresos nacionales, departamentales, municipales e indígena originario campesinos. 
+III. Los recursos departamentales, municipales, de autonomías indígena originario campesinas, judiciales y universitarios recaudados por oficinas dependientes del nivel nacional, no serán centralizados en el Tesoro Nacional. 
+IV. El Órgano Ejecutivo nacional establecerá las normas destinadas a la elaboración y presentación del los proyectos de presupuestos de todo el sector público, incluidas las autonomías. 
+Artículo 341. 
+Son recursos departamentales: 
+1. Las regalías departamentales creadas por ley; 
+2. La participación en recursos provenientes de impuestos a los Hidrocarburos según los porcentajes previstos en la Ley; 
+3. Impuestos, tasas, contribuciones especiales y patentes departamentales sobre los recursos naturales; 
+4. Las transferencias del Tesoro General de la Nación destinadas a cubrir el gasto en servicios personales de salud, educación y asistencia social; 
+5. Las transferencias extraordinarias del Tesoro General de la Nación, en los casos establecidos en el Artículo 339. 
+I de esta Constitución; 
+6. Los créditos y empréstitos internos y externos contraídos de acuerdo a las normas de endeudamiento público y del sistema Nacional de Tesorería y Crédito Público; 
+7. Los ingresos provenientes de la venta de bienes, servicios y enajenación de activos; 
+8. Los legados, donaciones y otros ingresos similares. 
+TÍTULO II MEDIO AMBIENTE, RECURSOS NATURALES, TIERRA Y TERRITORIO CAPÍTULO PRIMERO MEDIO AMBIENTE 
+Artículo 342. 
+Es deber del Estado y de la población conservar, proteger y aprovechar de manera sustentable los recursos naturales y la biodiversidad, así como mantener el equilibrio del medio ambiente. 
+Artículo 343. 
+La población tiene derecho a la participación en la gestión ambiental, a ser consultado e informado previamente sobre decisiones que pudieran afectar a la calidad del medio ambiente. 
+Artículo 344. 
+I. Se prohíbe la fabricación y uso de armas químicas, biológicas y nucleares en el territorio boliviano, así como la internación, tránsito y depósito de residuos nucleares y desechos tóxicos. 
+II. El Estado regulará la internación, producción, comercialización y empleo de técnicas, métodos, insumos y sustancias que afecten a la salud y al medio ambiente. 
+Artículo 345. 
+Las políticas de gestión ambiental se basarán en: 
+1. La planificación y gestión participativas, con control social. 
+2. La aplicación de los sistemas de evaluación de impacto ambiental y el control de calidad ambiental, sin excepción y de manera transversal a toda actividad de producción de bienes y servicios que use, transforme o afecte a los recursos naturales y al medio ambiente. 
+3. La responsabilidad por ejecución de toda actividad que produzca daños medioambientales y su sanción civil, penal y administrativa por incumplimiento de las normas de protección del medio ambiente. 
+Artículo 346. 
+El patrimonio natural es de interés público y de carácter estratégico para el desarrollo sustentable del país. 
+Su conservación y aprovechamiento para beneficio de la población será responsabilidad y atribución exclusiva del Estado, y no comprometerá la soberanía sobre los recursos naturales. 
+La ley establecerá los principios y disposiciones para su gestión. 
+Artículo 347. 
+I. El Estado y la sociedad promoverán la mitigación de los efectos nocivos al medio ambiente, y de los pasivos ambientales que afectan al país. 
+Se declara la responsabilidad por los daños ambientales históricos y la imprescriptibilidad de los delitos ambientales. 
+II. Quienes realicen actividades de impacto sobre el medio ambiente deberán, en todas las etapas de la producción, evitar, minimizar, mitigar, remediar, reparar y resarcir los daños que se ocasionen al medio ambiente y a la salud de las personas, y establecerán las medidas de seguridad necesarias para neutralizar los efectos posibles de los pasivos ambientales. 
+CAPÍTULO SEGUNDO RECURSOS NATURALES 
+Artículo 348. 
+I. Son recursos naturales los minerales en todos sus estados, los hidrocarburos, el agua, el aire, el suelo y el subsuelo, los bosques, la biodiversidad, el espectro electromagnético y todos aquellos elementos y fuerzas físicas susceptibles de aprovechamiento. 
+II. Los recursos naturales son de carácter estratégico y de interés público para el desarrollo del país. 
+Artículo 349. 
+I. Los recursos naturales son de propiedad y dominio directo, indivisible e imprescriptible del pueblo boliviano, y corresponderá al Estado su administración en función del interés colectivo. 
+II. El Estado reconocerá, respetará y otorgará derechos propietarios individuales y colectivos sobre la tierra, así como derechos de uso y aprovechamiento sobre otros recursos naturales. 
+III. La agricultura, la ganadería, así como las actividades de caza y pesca que no involucren especies animales protegidas, son actividades que se rigen por lo establecido en la cuarta parte de esta Constitución referida a la estructura y organización económica del Estado. 
+Artículo 350. 
+Cualquier título otorgado sobre reserva fiscal será nulo de pleno derecho, salvo autorización expresa por necesidad estatal y utilidad pública, de acuerdo con la ley. 
+Artículo 351. 
+I. El Estado, asumirá el control y la dirección sobre la exploración, explotación, industrialización, transporte y comercialización de los recursos naturales estratégicos a través de entidades públicas, cooperativas o comunitarias, las que podrán a su vez contratar a empresas privadas y constituir empresas mixtas. 
+II. El Estado podrá suscribir contratos de asociación con personas jurídicas, bolivianas o extranjeras, para el aprovechamiento de los recursos naturales. 
+Debiendo asegurarse la reinversión de las utilidades económicas en el país. 
+III. La gestión y administración de los recursos naturales se realizará garantizando el control y la participación social en el diseño de las políticas sectoriales. 
+En la gestión y administración podrán establecerse entidades mixtas, con representación estatal y de la sociedad, y se precautelará el bienestar colectivo. 
+IV. Las empresas privadas, bolivianas o extranjeras, pagarán impuestos y regalías cuando intervengan en la explotación de los recursos naturales, y los cobros a que den lugar no serán reembolsables. 
+Las regalías por el aprovechamiento de los recursos naturales son un derecho y una compensación por su explotación, y se regularán por la Constitución y la ley. 
+Artículo 352. 
+La explotación de recursos naturales en determinado territorio estará sujeta a un proceso de consulta a la población afectada, convocada por el Estado, que será libre, previa e informada. 
+Se garantiza la participación ciudadana en el proceso de gestión ambiental y se promoverá la conservación de los ecosistemas, de acuerdo con la Constitución y la ley. 
+En las naciones y pueblos indígena originario campesinos, la consulta tendrá lugar respetando sus normas y procedimientos propios. 
+Artículo 353. 
+El pueblo boliviano tendrá acceso equitativo a los beneficios provenientes del aprovechamiento de todos los recursos naturales. 
+Se asignará una participación prioritaria a los territorios donde se encuentren estos recursos, y a las naciones y pueblos indígena originario campesinos. 
+Artículo 354. 
+El Estado desarrollará y promoverá la investigación relativa al manejo, conservación y aprovechamiento de los recursos naturales y la biodiversidad. 
+Artículo 355. 
+I. La industrialización y comercialización de los recursos naturales será prioridad del Estado. 
+II. Las utilidades obtenidas por la explotación e industrialización de los recursos naturales serán distribuidas y reinvertidas para promover la diversificación económica en los diferentes niveles territoriales del Estado. 
+La distribución porcentual de los beneficios será sancionada por la ley. 
+III. Los procesos de industrialización se realizarán con preferencia en el lugar de origen de la producción y crearán condiciones que favorezcan la competitividad en el mercado interno e internacional. 
+Artículo 356. 
+Las actividades de exploración, explotación, refinación, industrialización, transporte y comercialización de los recursos naturales no renovables tendrán el carácter de necesidad estatal y utilidad pública. 
+Artículo 357. 
+Por ser propiedad social del pueblo boliviano, ninguna persona ni empresa extranjera, ni ninguna persona o empresa privada boliviana podrá inscribir la propiedad de los recursos naturales bolivianos en mercados de valores, ni los podrá utilizar como medios para operaciones financieras de titularización o seguridad. 
+La anotación y registro de reservas es una atribución exclusiva del Estado. 
+Artículo 358. 
+Los derechos de uso y aprovechamiento sobre los recursos naturales deberán sujetarse a lo establecido en la Constitución y la ley. 
+Estos derechos estarán sujetos a control periódico del cumplimiento de las regulaciones técnicas, económicas y ambientales. 
+El incumplimiento de la ley dará lugar a la reversión o anulación de los derechos de uso o aprovechamiento. 
+CAPÍTULO TERCERO HIDROCARBUROS 
+Artículo 359. 
+I. Los hidrocarburos, cualquiera sea el estado en que se encuentren o la forma en la que se presenten, son de propiedad inalienable e imprescriptible del pueblo boliviano. 
+El Estado, en nombre y representación del pueblo boliviano, ejerce la propiedad de toda la producción de hidrocarburos del país y es el único facultado para su comercialización. 
+La totalidad de los ingresos percibidos por la comercialización de los hidrocarburos será propiedad del Estado. 
+II. Ningún contrato, acuerdo o convenio, de forma, directa o indirecta, tácita o expresa, podrá vulnerar total o parcialmente lo establecido en el presente Artículo . 
+En el caso de vulneración los contratos serán nulos de pleno derecho y quienes los hayan acordado, firmado, aprobado o ejecutado, cometerán delito de traición a la patria. 
+Artículo 360. 
+El Estado definirá la política de hidrocarburos, promoverá su desarrollo integral, sustentable y equitativo, y garantizará la soberanía energética. 
+Artículo 361. 
+I. Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) es una empresa autárquica de derecho público, inembargable, con autonomía de gestión administrativa, técnica y económica, en el marco de la política estatal de hidrocarburos. 
+YPFB, bajo tuición del Ministerio del ramo y como brazo operativo del Estado, es la única facultada para realizar las actividades de la cadena productiva de hidrocarburos y su comercialización. 
+II. YPFB no podrá transferir sus derechos u obligaciones en ninguna forma o modalidad, tácita o expresa, directa o indirectamente. 
+Artículo 362. 
+I. Se autoriza a YPFB suscribir contratos, bajo el régimen de prestación de servicios, con empresas públicas, mixtas o privadas, bolivianas o extranjeras, para que dichas empresas, a su nombre y en su representación, realicen determinadas actividades de la cadena productiva a cambio de una retribución o pago por sus servicios. 
+La suscripción de estos contratos no podrá significar en ningún caso pérdidas para YPFB o para el Estado. 
+II. Los contratos referidos a actividades de exploración y explotación de hidrocarburos deberán contar con previa autorización y aprobación expresa de la Asamblea Legislativa Plurinacional. 
+En caso de no obtener esta autorización serán nulos de pleno derecho, sin necesidad de declaración judicial ni extrajudicial alguna. 
+Artículo 363. 
+I. La Empresa Boliviana de Industrialización de Hidrocarburos (EBIH) es una empresa autárquica de derecho público, con autonomía de gestión administrativa, técnica y económica, bajo la tuición del Ministerio del ramo y de YPFB, que actúa en el marco de la política estatal de hidrocarburos. 
+EBIH será responsable de ejecutar, en representación del Estado y dentro de su territorio, la industrialización de los hidrocarburos. 
+II. YPFB podrá conformar asociaciones o sociedades de economía mixta para la ejecución de las actividades de exploración, explotación, refinación, industrialización, transporte y comercialización de los hidrocarburos. 
+En estas asociaciones o sociedades, YPFB contará obligatoriamente con una participación accionaria no menor al cincuenta y uno por ciento del total del capital social. 
+Artículo 364. 
+YPFB, en nombre y representación del Estado boliviano, operará y ejercerá derechos de propiedad en territorios de otros estados. 
+Artículo 365. 
+Una institución autárquica de derecho público, con autonomía de gestión administrativa, técnica y económica, bajo la tuición del Ministerio del ramo, será responsable de regular, controlar, supervisar y fiscalizar las actividades de toda la cadena productiva hasta la industrialización, en el marco de la política estatal de hidrocarburos conforme con la ley. 
+Artículo 366. 
+Todas las empresas extranjeras que realicen actividades en la cadena productiva hidrocarburífera en nombre y representación del Estado estarán sometidas a la soberanía del Estado, a la dependencia de las leyes y de las autoridades del Estado. 
+No se reconocerá en ningún caso tribunal ni jurisdicción extranjera y no podrán invocar situación excepcional alguna de arbitraje internacional, ni recurrir a reclamaciones diplomáticas. 
+Artículo 367. 
+La explotación, consumo y comercialización de los hidrocarburos y sus derivados deberán sujetarse a una política de desarrollo que garantice el consumo interno. 
+La exportación de la producción excedente incorporará la mayor cantidad de valor agregado. 
+Artículo 368. 
+Los departamentos productores de hidrocarburos percibirán una regalía del once por ciento de su producción departamental fiscalizada de hidrocarburos. 
+De igual forma, los departamentos no productores de hidrocarburos y el Tesoro General del Estado obtendrán una participación en los porcentajes, que serán fijados mediante una ley especial. 
+CAPÍTULO CUARTO MINERÍA Y METALURGIA 
+Artículo 369. 
+I. El Estado será responsable de las riquezas mineralógicas que se encuentren en el suelo y subsuelo cualquiera sea su origen y su aplicación será regulada por la ley. 
+Se reconoce como actores productivos a la industria minera estatal, industria minera privada y sociedades cooperativas. 
+II. Los recursos naturales no metálicos existentes en los salares, salmueras, evaporíticos, azufres y otros, son de carácter estratégico para el país. 
+III. Será responsabilidad del Estado la dirección de la política minera y metalúrgica, así como el fomento, promoción y control de la actividad minera. 
+IV. El Estado ejercerá control y fiscalización en toda la cadena productiva minera y sobre las actividades que desarrollen los titulares de derechos mineros, contratos mineros o derechos preconstituidos. 
+Artículo 370. 
+I. El Estado otorgará derechos mineros en toda la cadena productiva, suscribirá contratos mineros con personas individuales y colectivas previo cumplimiento de las normas establecidas en la ley. 
+II. El Estado promoverá y fortalecerá las cooperativas mineras para que contribuyan al desarrollo económico social del país. 
+III. El derecho minero en toda la cadena productiva así como los contratos mineros tienen que cumplir una función económica social ejercida directamente por sus titulares. 
+IV. El derecho minero que comprende las inversiones y trabajo en la prospección, exploración, explotación, concentración, industria o comercialización de los minerales o metales es de dominio de los titulares. 
+La ley definirá los alcances de este derecho. 
+V. El contrato minero obligará a los beneficiarios a desarrollar la actividad minera para satisfacer el interés económico social. 
+El incumplimiento de esta obligación dará lugar a su resolución inmediata. 
+VI. El estado, a través de sus entidades autárquicas, promoverá y desarrollará políticas de administración, prospección, exploración, explotación, industrialización, comercialización, evaluación e información técnica, geológica y científica de los recursos naturales no renovables para el desarrollo minero. 
+Artículo 371. 
+I. Las áreas de explotación minera otorgadas por contrato son intransferibles, inembargables e intransmisibles por sucesión hereditaria. 
+II. El domicilio legal de las empresas mineras se establecerá en la jurisdicción local donde se realice la mayor explotación minera. 
+Artículo 372. 
+I. Pertenecen al patrimonio del pueblo los grupos mineros nacionalizados, sus plantas industriales y sus fundiciones, los cuales no podrán ser transferidos o adjudicados en propiedad a empresas privadas por ningún título. 
+II. La dirección y administración superiores de la industria minera estarán a cargo de una entidad autárquica con las atribuciones que determine la ley. 
+III. El estado deberáparticiparenla industrialización y comercialización de los recursos mineralógicos metálicos y no metálicos, regulado mediante la ley. 
+IV. Las nuevas empresas autárquicas creadas por el Estado establecerán su domicilio legal en los departamentos de mayor producción minera, Potosí y Oruro. 
+CAPÍTULO QUINTO RECURSOS HÍDRICOS 
+Artículo 373. 
+I. El agua constituye un derecho fundamentalísimo para la vida, en el marco de la soberanía del pueblo. 
+El estado promoverá el uso y acceso al agua sobre la base de principios de solidaridad, complementariedad, reciprocidad, equidad, diversidad y sustentabilidad. 
+II. Los recursos hídricos en todos sus estados, superficiales y subterráneos, constituyen recursos finitos, vulnerables, estratégicos y cumplen una función social, cultural y ambiental. 
+Estos recursos no podrán ser objeto de apropiaciones privadas y tanto ellos como sus servicios no serán concesionados y están sujetos a un régimen de licencias, registros y autorizaciones conforme a Ley. 
+Artículo 374. 
+I. El Estado protegerá y garantizará el uso prioritario del agua para la vida. 
+Es deber del Estado gestionar, regular, proteger y planificar el uso adecuado y sustentable de los recursos hídricos, con participación social, garantizando el acceso al agua a todos sus habitantes. 
+La ley establecerá las condiciones y limitaciones de todos los usos. 
+II. El Estado reconocerá, respetará y protegerá los usos y costumbres de las comunidades, de sus autoridades locales y de las organizaciones indígena originaria campesinas sobre el derecho, el manejo y la gestión sustentable del agua. 
+III. Las aguas fósiles, glaciales, humedales, subterráneas, minerales, medicinales y otras son prioritarias para el Estado, que deberá garantizar su conservación, protección, preservación, restauración, uso sustentable y gestión integral; son inalienables, inembargables e imprescriptibles. 
+Artículo 375. 
+I. Es deber del Estado desarrollar planes de uso, conservación, manejo y aprovechamiento sustentable de las cuencas hidrográficas. 
+II. El Estado regulará el manejo y gestión sustentable de los recursos hídricos y de las cuencas para riego, seguridad alimentaria y servicios básicos, respetando los usos y costumbres de las comunidades. 
+III. Es deber del Estado realizar los estudios para la identificación de aguas fósiles y su consiguiente protección, manejo y aprovechamiento sustentable. 
+Artículo 376. 
+Los recursos hídricos de los ríos, lagos y lagunas que conforman las cuencas hidrográficas, por su potencialidad, por la variedad de recursos naturales que contienen y por ser parte fundamental de los ecosistemas, se consideran recursos estratégicos para el desarrollo y la soberanía boliviana. 
+El Estado evitará acciones en las nacientes y zonas intermedias de los ríos que ocasionen daños a los ecosistemas o disminuyan los caudales, preservará el estado natural y velará por el desarrollo y bienestar de la población. 
+Artículo 377. 
+I. Todo tratado internacional que suscriba el Estado sobre los recursos hídricos garantizará la soberanía del país y priorizará el interés del Estado. 
+II. El Estado resguardará de forma permanente las aguas fronterizas y transfronterizas, para la conservación de la riqueza hídrica que contribuirá a la integración de los pueblos. 
+CAPÍTULO SEXTO ENERGÍA 
+Artículo 378. 
+I. Las diferentes formas de energía y sus fuentes constituyen un recurso estratégico, su acceso es un derecho fundamental y esencial para el desarrollo integral y social del país, y se regirá por los principios de eficiencia, continuidad, adaptabilidad y preservación del medio ambiente. 
+II. Es facultad privativa del Estado el desarrollo de la cadena productiva energética en las etapas de generación, transporte y distribución, a través de empresas públicas, mixtas, instituciones sin fines de lucro, cooperativas, empresas privadas, y empresas comunitarias y sociales, con participación y control social. La cadena productiva energética no podrá estar sujeta exclusivamente a intereses privados ni podrá concesionarse. 
+La participación privada será regulada por la Ley. 
+Artículo 379. I. El Estado desarrollará y promoverá la investigación y el uso de nuevas formas de producción de energías alternativas, compatibles con la conservación del ambiente. 
+II. El Estado garantizará la generación de energía para el consumo interno; la exportación de los excedentes de energía debe prever las reservas necesarias para el país. 
+CAPÍTULO SÉPTIMO BIODIVERSIDAD, COCA, ÁREAS PROTEGIDAS Y RECURSOS FORESTALES SECCIÓN I BIODIVERSIDAD 
+Artículo 380. 
+I. Los recursos naturales renovables se aprovecharán de manera sustentable, respetando las características y el valor natural de cada ecosistema. 
+II. Para garantizar el equilibrio ecológico, los suelos deberán utilizarse conforme con su capacidad de uso mayor en el marco del proceso de organización del uso y ocupación del espacio, considerando sus características biofísicas, socioeconómicas, culturales y político institucionales. 
+La ley regulará su aplicación. 
+Artículo 381. 
+I. Son patrimonio natural las especies nativas de origen animal y vegetal. 
+El Estado establecerá las medidas necesarias para su conservación, aprovechamiento y desarrollo. 
+II. El Estado protegerá todos los recursos genéticos y micro organismos que se encuentren en los ecosistemas del territorio, así como los conocimientos asociados con su uso y aprovechamiento. 
+Para su protección se establecerá un sistema de registro que salvaguarde su existencia, así como la propiedad intelectual en favor del Estado o de los sujetos sociales locales que la reclamen. 
+Para todos aquellos recursos no registrados, el Estado establecerá los procedimientos para su protección mediante la ley. 
+Artículo 382. 
+Es facultad y deber del Estado la defensa, recuperación, protección y repatriación del material biológico proveniente de los recursos naturales, de los conocimientos ancestrales y otros que se originen en el territorio. 
+Artículo 383. 
+El Estado establecerá medidas de restricción parcial o total, temporal o permanente, sobre los usos extractivos de los recursos de la biodiversidad. 
+Las medidas estarán orientadas a las necesidades de preservación, conservación, recuperación y restauración de la biodiversidad en riesgo de extinción. 
+Se sancionará penalmente la tenencia, manejo y tráfico ilegal de especies de la biodiversidad. 
+SECCIÓN II COCA 
+Artículo 384. 
+El Estado protege a la coca originaria y ancestral como patrimonio cultural, recurso natural renovable de la biodiversidad de Bolivia, y como factor de cohesión social; en su estado natural no es estupefaciente. 
+La revalorización, producción, comercialización e industrialización se regirá mediante la ley. 
+SECCIÓN III ÁREAS PROTEGIDAS 
+Artículo 385. 
+I. Las áreas protegidas constituyen un bien común y forman parte del patrimonio natural y cultural del país; cumplen funciones ambientales, culturales, sociales y económicas para el desarrollo sustentable. 
+II. Donde exista sobreposición de áreas protegidas y territorios indígena originario campesinos, la gestión compartida se realizará con sujeción a las normas y procedimientos propios de las naciones y pueblos indígena originaria campesinos, respetando el objeto de creación de estas áreas. 
+SECCIÓN IV RECURSOS FORESTALES 
+Artículo 386. 
+Los bosques naturales y los suelos forestales son de carácter estratégico para el desarrollo del pueblo boliviano. 
+El Estado reconocerá derechos de aprovechamiento forestal a favor de comunidades y operadores particulares. 
+Asimismo promoverá las actividades de conservación y aprovechamiento sustentable, la generación de valor agregado a sus productos, la rehabilitación y reforestación de áreas degradadas. 
+Artículo 387. 
+I. El Estado deberá garantizar la conservación de los bosques naturales en las áreas de vocación forestal, su aprovechamiento sustentable, la conservación y recuperación de la flora, fauna y áreas degradadas. II. La ley regulará la protección y aprovechamiento de las especies forestales de relevancia socioeconómica, cultural y ecológica. 
+Artículo 388. 
+Las comunidades indígena originario campesinas situadas dentro de áreas forestales serán titulares del derecho exclusivo de su aprovechamiento y de su gestión, de acuerdo con la ley. 
+Artículo 389. 
+I. La conversión de uso de tierras con cobertura boscosa a usos agropecuarios u otros, sólo procederá en los espacios legalmente asignados para ello, de acuerdo con las políticas de planificación y conforme con la ley. 
+II. La ley determinará las servidumbres ecológicas y la zonificación de los usos internos, con el fin de garantizar a largo plazo la conservación de los suelos y cuerpos de agua. 
+III. Toda conversión de suelos en áreas no clasificadas para tales fines constituirá infracción punible y generará la obligación de reparar los daños causados. 
+CAPÍTULO OCTAVO AMAZONIA 
+Artículo 390. 
+I. La cuenca amazónica boliviana constituye un espacio estratégico de especial protección para el desarrollo integral del país por su elevada sensibilidad ambiental, biodiversidad existente, recursos hídricos y por las ecoregiones. 
+II. La amazonia boliviana comprende la totalidad del departamento de Pando, la provincia Iturralde del departamento de La Paz y las provincias Vaca Díez y Ballivián del departamento del Beni. 
+El desarrollo integral de la amazonia boliviana, como espacio territorial selvático de bosques húmedos tropicales, de acuerdo a sus específicas características de riqueza forestal extractiva y recolectora, se regirá por ley especial en beneficio de la región y del país. 
+Artículo 391. 
+I. El estado priorizará el desarrollo integral sustentable de la amazonia boliviana, a través de una administración integral, participativa, compartida y equitativa de la selva amazónica. 
+La administración estará orientada a la generación de empleo y a mejorar los ingresos para sus habitantes, en el marco de la protección y sustentabilidad del medio ambiente. 
+II. El estado fomentará el acceso al financiamiento para actividades turísticas, ecoturísticas y otras iniciativas de emprendimiento regional. 
+III. El Estado en coordinación con las autoridades indígena originario campesinas y los habitantes de la amazonia, creará un organismo especial, descentralizado, con sede en la amazonia, para promover actividades propias de la región. 
+Artículo 392. 
+I. El Estado implementará políticas especiales en beneficio de las naciones y pueblos indígena originario campesinos de la región para generar las condiciones necesarias para la reactivación, incentivo, industrialización, comercialización, protección y conservación de los productos extractivos tradicionales. 
+II. Se reconoce el valor histórico cultural y económico de la siringa y del castaño, símbolos de la amazonia boliviana, cuya tala será penalizada, salvo en los casos de interés público regulados por la ley. 
+CAPÍTULO NOVENO TIERRA Y TERRITORIO 
+Artículo 393. 
+El Estado reconoce, protege y garantiza la propiedad individual y comunitaria o colectiva de la tierra, en tanto cumpla una función social o una función económica social, según corresponda. 
+Artículo 394. 
+I. La propiedad agraria individual se clasifica en pequeña, mediana y empresarial, en función a la superficie, a la producción y a los criterios de desarrollo. 
+Sus extensiones máximas y mínimas, características y formas de conversión serán reguladas por la ley. 
+Se garantizan los derechos legalmente adquiridos por propietarios particulares cuyos predios se encuentren ubicados al interior de territorios indígena originario campesinos. 
+II. La pequeña propiedad es indivisible, constituye patrimonio familiar inembargable, y no está sujeta al pago de impuestos a la propiedad agraria. 
+La indivisibilidad no afecta el derecho a la sucesión hereditaria en las condiciones establecidas por ley. 
+III. El Estado reconoce, protege y garantiza la propiedad comunitaria o colectiva, que comprende el territorio indígena originario campesino, las comunidades interculturales originarias y de las comunidades campesinas. 
+La propiedad colectiva se declara indivisible, imprescriptible, inembargable, inalienable e irreversible y no está sujeta al pago de impuestos a la propiedad agraria. 
+Las comunidades podrán ser tituladas reconociendo la complementariedad entre derechos colectivos e individuales respetando la unidad territorial con identidad. 
+Artículo 395. 
+I. Las tierras fiscales serán dotadas a indígena originario campesinos, comunidades interculturales originarias, afrobolivianos y comunidades campesinas que no las posean o las posean insuficientemente, de acuerdo con una política estatal que atienda a las realidades ecológicas y geográficas, así como a las necesidades poblacionales, sociales, culturales y económicas. 
+La dotación se realizará de acuerdo con las políticas de desarrollo rural sustentable y la titularidad de las mujeres al acceso, distribución y redistribución de la tierra, sin discriminación por estado civil o unión conyugal. 
+II. Se prohíben las dobles dotaciones y la compraventa, permuta y donación de tierras entregadas en dotación. 
+III. Por ser contraria al interés colectivo, está prohibida la obtención de renta fundiaria generada por el uso especulativo de la tierra. 
+Artículo 396. 
+I. El Estado regulará el mercado de tierras, evitando la acumulación en superficies mayores a las reconocidas por la ley, así como su división en superficies menores a la establecida para la pequeña propiedad. 
+II. Las extranjeras y los extranjeros bajo ningún título podrán adquirir tierras del Estado. 
+Artículo 397. 
+I. El trabajo es la fuente fundamental para la adquisición y conservación de la propiedad agraria. 
+Las propiedades deberán cumplir con la función social o con la función económica social para salvaguardar su derecho, de acuerdo a la naturaleza de la propiedad. 
+II. La función social se entenderá como el aprovechamiento sustentable de la tierra por parte de pueblos y comunidades indígena originario campesinos, así como el que se realiza en pequeñas propiedades, y constituye la fuente de subsistencia y de bienestar y desarrollo sociocultural de sus titulares. 
+En el cumplimiento de la función social se reconocen las normas propias de las comunidades. 
+III. La función económica social debe entenderse como el empleo sustentable de la tierra en el desarrollo de actividades productivas, conforme a su capacidad de uso mayor, en beneficio de la sociedad, del interés colectivo y de su propietario. 
+La propiedad empresarial está sujeta a revisión de acuerdo con la ley, para verificar el cumplimiento de la función económica y social. 
+Artículo 398. 
+Se prohíbe el latifundio y la doble titulación por ser contrarios al interés colectivo y al desarrollo del país. 
+Se entiende por latifundio la tenencia improductiva de la tierra; la tierra que no cumpla la función económica social; la explotación de la tierra que aplica un sistema de servidumbre, semiesclavitud o esclavitud en la relación laboral o la propiedad que sobrepasa la superficie máxima zonificada establecida en la ley. 
+En ningún caso la superficie máxima podrá exceder las cinco mil hectáreas. 
+Artículo 399. 
+I. Los nuevos límites de la propiedad agraria zonificada se aplicarán a predios que se hayan adquirido con posterioridad a la vigencia de esta Constitución. 
+A los efectos de la irretroactividad de la Ley, se reconocen y respetan los derechos de posesión y propiedad agraria de acuerdo a Ley. 
+II. Las superficies excedentes que cumplan la Función Económico Social serán expropiadas. 
+La doble titulación prevista en el Artículo anterior se refiere a las dobles dotaciones tramitadas ante el ex Consejo Nacional de Reforma Agraria, CNRA. 
+La prohibición de la doble dotación no se aplica a derechos de terceros legalmente adquiridos. 
+Artículo 400. 
+Por afectar a su aprovechamiento sustentable y por ser contrario al interés colectivo, se prohíbe la división de las propiedades en superficies menores a la superficie máxima de la pequeña propiedad reconocida por la ley que, para su establecimiento, tendrá en cuenta las características de las zonas geográficas. 
+El Estado establecerá mecanismos legales para evitar el fraccionamiento de la pequeña propiedad. 
+Artículo 401. 
+I. El incumplimiento de la función económica social o la tenencia latifundista de la tierra, serán causales de reversión y la tierra pasará a dominio y propiedad del pueblo boliviano. 
+II. La expropiación de la tierra procederá por causa de necesidad y utilidad pública, y previo pago de una indemnización justa. 
+Artículo 402. 
+El Estado tiene la obligación de: 
+1. Fomentar planes de asentamientos humanos para alcanzar una racional distribución demográfica y un mejor aprovechamiento de la tierra y los recursos naturales, otorgando a los nuevos asentados facilidades de acceso a la educación, salud, seguridad alimentaría y producción, en el marco del Ordenamiento Territorial del Estado y la conservación del medio ambiente. 
+2. Promover políticas dirigidas a eliminar todas las formas de discriminación contra las mujeres en el acceso, tenencia y herencia de la tierra. 
+Artículo 403. 
+I. Se reconoce la integralidad del territorio indígena originario campesino, q u e incluye el derecho a la tierra, al uso y aprovechamiento exclusivo de los recursos naturales renovables en las condiciones determinadas por la ley; a la consulta previa e informada y a la participación en los beneficios por la explotación de los recursos naturales no renovables que se encuentran en sus territorios; la facultad de aplicar sus normas propias, administrados por sus estructuras de representación y la definición de su desarrollo de acuerdo a sus criterios culturales y principios de convivencia armónica con la naturaleza. 
+Los territorios indígena originario campesinos podrán estar compuestos por comunidades. 
+II. El territorio indígena originario campesino comprende áreas de producción, áreas de aprovechamiento y conservación de los recursos naturales y espacios de reproducción social, espiritual y cultural. 
+La ley establecerá el procedimiento para el reconocimiento de estos derechos. 
+Artículo 404. 
+El Servicio Boliviano de Reforma Agraria, cuya máxima autoridad es el Presidente del Estado, es la entidad responsable de planificar, ejecutar y consolidar el proceso de reforma agraria y tiene jurisdicción en todo el territorio del país. 
+TÍTULO III DESARROLLO RURAL INTEGRAL SUSTENTABLE 
+Artículo 405. 
+El desarrollo rural integral sustentable es parte fundamental de las políticas económicas del Estado, q ue priorizará sus acciones para el fomento de todos los emprendimientos económicos comunitarios y del conjunto de los actores rurales, con énfasis en la seguridad y en la soberanía alimentaria, a través de: 
+1. El incremento sostenido y sustentable de la productividad agrícola, pecuaria, manufacturera, agroindustrial y turística, así como su capacidad de competencia comercial. 
+2. La articulación y complementariedad interna de las estructuras de producción agropecuarias y agroindustriales. 
+3. El logro de mejores condiciones de intercambio económico del sector productivo rural en relación con el resto de la economía boliviana. 
+4. La significación y el respeto de las comunidades indígena originario campesinas en todas las dimensiones de su vida. 
+5. El fortalecimiento de la economía de los pequeños productores agropecuarios y de la economía familiar y comunitaria. 
+Artículo 406. 
+I. El estado garantizará el desarrollo rural integral sustentable por medio de políticas, planes, programas y proyectos integrales de fomento a la producción agropecuaria, artesanal, forestal y al turismo, con el objetivo de obtener el mejor aprovechamiento, transformación, industrialización y comercialización de los recursos naturales renovables. 
+II. El Estado promoverá y fortalecerá las organizaciones económicas productivas rurales, entre ellas a los artesanos, las cooperativas, las asociaciones de productores agropecuarios y manufactureros, y las micro, pequeñas y medianas empresas comunitarias agropecuarias, que contribuyan al desarrollo económico social del país, de acuerdo a su identidad cultural y productiva. 
+Artículo 407. 
+Son objetivos de la política de desarrollo rural integral del Estado, en coordinación con las entidades territoriales autónomas y descentralizadas: 
+1. Garantizar la soberanía y seguridad alimentaria, priorizando la producción y el consumo de alimentos de origen agropecuario producidos en el territorio boliviano. 
+2. Establecer mecanismos de protección a la producción agropecuaria boliviana. 
+3. Promover la producción y comercialización de productos agro ecológicos. 
+4. Proteger la producción agropecuaria y agroindustrial ante desastres naturales e inclemencias climáticas, geológicas y siniestros. 
+La ley preverá la creación del seguro agrario. 
+5. Implementar y desarrollar la educación técnica productiva y ecológica en todos sus niveles y modalidades. 
+6. Establecer políticas y proyectos de manera sustentable, procurando la conservación y recuperación de suelos. 
+7. Promover sistemas de riego, con el fin de garantizar la producción agropecuaria. 
+8. Garantizar la asistencia técnica y establecer mecanismos de innovación y transferencia tecnológica en toda la cadena productiva agropecuaria. 
+9. Establecer la creación del banco de semillas y centros de investigación genética. 
+10. Establecer políticas de fomento y apoyo a sectores productivos agropecuarios con debilidad estructural natural. 
+11. Controlar la salida y entrada al país de recursos biológicos y genéticos. 
+12. Establecer políticas y programas para garantizar la sanidad agropecuaria y la inocuidad alimentaria. 
+13. Proveer infraestructura productiva, manufactura e industrial y servicios básicos para el sector agropecuario. 
+Artículo 408. 
+El Estado determinará estímulos en beneficio de los pequeños y medianos productores con el objetivo de compensar las desventajas del intercambio inequitativo entre los productos agrícolas y pecuarios con el resto de la economía. 
+Artículo 409. 
+La producción, importación y comercialización de transgénicos será regulada por Ley. 
+QUINTA PARTE JERARQUÍA NORMATIVA Y REFORMA DE LA CONSTITUCIÓN TÍTULO ÚNICO PRIMACÍA Y REFORMA DE LA CONSTITUCIÓN 
+Artículo 410. 
+I. Todas las personas, naturales y jurídicas, así como los órganos públicos, funciones públicas e instituciones, se encuentran sometidos a la presente Constitución. 
+II. La Constitución es la norma suprema del ordenamiento jurídico boliviano y goza de primacía frente a cualquier otra disposición normativa. 
+El bloque de constitucionalidad está integrado por los Tratados y Convenios internacionales en materia de Derechos Humanos y las normas de Derecho Comunitario, ratificados por el país. 
+La aplicación de las normas jurídicas se regirá por la siguiente jerarquía, de acuerdo a las competencias de las entidades territoriales: 
+1. Constitución Política del Estado. 
+2. Los tratados internacionales 
+3. Las leyes nacionales, los estatutos autonómicos, las cartas orgánicas y el resto de legislación departamental, municipal e indígena 
+4. Los decretos, reglamentos y demás resoluciones emanadas de los órganos ejecutivos correspondientes. 
+Artículo 411. 
+I. La reforma total de la Constitución, o aquella que afecte a sus bases fundamentales, a los derechos, deberes y garantías, o a la primacía y reforma de la Constitución, tendrá lugar a través de una Asamblea Constituyente originaria plenipotenciaria, activada por voluntad popular mediante referendo. 
+La convocatoria del referendo se realizará por iniciativa ciudadana, con la firma de al menos el veinte por ciento del electorado; por mayoría absoluta de los miembros de la Asamblea Legislativa Plurinacional; o por la Presidenta o el Presidente del Estado. 
+La Asamblea Constituyente se autorregulará a todos los efectos, debiendo aprobar el texto constitucional por dos tercios del total de sus miembros presentes. 
+La vigencia de la reforma necesitará referendo constitucional aprobatorio. 
+II. La reforma parcial de la Constitución podrá iniciarse por iniciativa popular, con la firma de al menos el veinte por ciento del electorado; o por la Asamblea Legislativa Plurinacional, mediante ley de reforma constitucional aprobada por dos tercios del total de los miembros presentes de la Asamblea Legislativa Plurinacional. 
+Cualquier reforma parcial necesitará referendo constitucional aprobatorio. 
+DISPOSICIONES TRANSITORIAS 
+Primera. 
+I. El Congreso de la República en el plazo de 60 días desde la promulgación de la presente Constitución, sancionará un nuevo régimen electoral para la elección de la Asamblea Legislativa Plurinacional, Presidente y Vicepresidente de la República; la elección tendrá lugar el día 6 de diciembre de 2009. 
+II. Los mandatos anteriores a la vigencia de esta Constitución serán tomados en cuenta a los efectos del cómputo de los nuevos periodos de funciones. 
+III. Las elecciones de autoridades departamentales y municipales se realizarán el 4 de abril de 2010. 
+IV. Excepcionalmente se prorroga el mandato de Alcaldes, Concejales Municipales y Prefectos de Departamento hasta la posesión de las nuevas autoridades electas de conformidad con el párrafo anterior. 
+Segunda. 
+La Asamblea Legislativa Plurinacional sancionará, en el plazo máximo de ciento ochenta días a partir de su instalación, la Ley del Órgano Electoral Plurinacional, la Ley del Régimen Electoral, la Ley del Órgano Judicial, la Ley del Tribunal Constitucional Plurinacional y la Ley Marco de Autonomías y Descentralización. 
+Tercera. 
+I. Los departamentos que optaron por las autonomías departamentales en el referendo del 2 de julio de 2006, accederán directamente al régimen de autonomías departamentales, de acuerdo con la Constitución. 
+II. Los departamentos que optaron por la autonomía departamental en el referéndum del 2 de julio de 2006, deberán adecuar sus estatutos a esta Constitución y sujetarlos a control de constitucionalidad. 
+Cuarta. 
+La elección de las autoridades de los órganos comprendidos en la disposición segunda, se realizarán de conformidad al calendario electoral establecido por el Órgano Electoral Plurinacional. 
+Quinta. 
+Durante el primer mandato de la Asamblea Legislativa Plurinacional se aprobarán las leyes necesarias para el desarrollo de las disposiciones constitucionales. 
+Sexta. 
+En el plazo máximo de un año después de que entre en vigencia la Ley del Órgano Judicial, y de acuerdo con ésta, se procederá a la revisión del escalafón judicial. 
+Séptima. 
+A efectos de la aplicación del parágrafo I del Artículo 293 de esta Constitución, el territorio indígena tendrá como base de su delimitación a las Tierras Comunitarias de Origen. 
+En el plazo de un año desde la elección del Órgano Ejecutivo y Legislativo, la categoría de Tierra Comunitaria de Origen se sujetará a un trámite administrativo de conversión a Territorio Indígena Originario Campesino, en el marco establecido en esta Constitución. 
+Octava. 
+I. En el plazo de un año desde la elección del Órgano Ejecutivo y del Órgano Legislativo, las concesiones sobre recursos naturales, electricidad, telecomunicaciones y servicios básicos deberán adecuarse al nuevo ordenamiento jurídico. 
+La migración de las concesiones a un nuevo régimen jurídico en ningún caso supondrá desconocimiento de derechos adquiridos. . 
+II. En el mismo plazo, se dejarán sin efecto las concesiones mineras de minerales metálicos y no metálicos, evaporíticos, salares, azufreras y otros, concedidas en las reservas fiscales del territorio boliviano. 
+III. Las concesiones mineras otorgadas a las empresas nacionales y extranjeras con anterioridad a la promulgación de la presente Constitución, en el plazo de un año, deberán adecuarse a ésta, a través de los contratos mineros. 
+IV. El Estado reconoce y respeta los derechos preconstituidos de las sociedades cooperativas mineras, por su carácter productivo social. 
+V. Las concesiones de minerales radioactivos otorgadas con anterioridad a la promulgación de la Constitución quedan resueltas, y se revierten a favor del Estado. 
+Novena. 
+Los tratados internacionales anteriores a la Constitución y que no la contradigan se mantendrán en el ordenamiento jurídico interno, con rango de ley. 
+En el plazo de cuatro años desde la elección del nuevo Órgano Ejecutivo, éste denunciará y, en su caso, renegociará los tratados internacionales que sean contrarios a la Constitución. 
+Décima. 
+El requisito de hablar al menos dos idiomas oficiales para el desempeño de funciones públicas determinado en el Artículo 234. 
+7 será de aplicación progresiva de acuerdo a Ley. 
+DISPOSICIÓN ABROGATORIA 
+Disposición abrogatoria. 
+Queda abrogada la Constitución Política del Estado de 1967 y sus reformas posteriores. 
+DISPOSICIÓN FINAL 
+Esta Constitución, aprobada en referendo por el pueblo boliviano entrará en vigencia el día de su publicación en la Gaceta Oficial. 
+Remítase al Poder Ejecutivo, para fines constitucionales. 
+Por tanto, la promulgo para que se tenga y cumpla como Ley fundamental del nuevo Estado Unitario Social de Derecho Plurinacional Comunitario, descentralizado y con autonomías. 
+Ciudad de El Alto de La Paz, a los siete días del mes de febrero de dos mil nueve años. 
+FDO. Evo Morales Ayma, Presidente Constitucional de la República. 
+(TRADUCCIÓN NO OFICIAL, PARA CONSULTA CULTURAL Y NO JURÍDICA) LEY No. 045 LEY DE 8 DE OCTUBRE DE 2010 EVO MORALES AYMA PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA 
+Por cuanto, la Asamblea Legislativa Plurinacional, ha sancionado la siguiente Ley: 
+LA ASAMBLEA LEGISLATIVA PLURINACIONAL DECRETA: LEY CONTRA EL RACISMO Y TODA FORMA DE DISCRIMINACIÓN 
+CAPITULO I DISPOSICIONES GENERALES 
+Artículo 1. (OBJETO Y OBJETIVOS). 
+I. La presente Ley tiene por objeto establecer mecanismos y procedimientos para la prevención y sanción de actos de racismo y toda forma de discriminación en el marco de la Constitución Política del Estado y Tratados Internacionales de Derechos Humanos. 
+II. La presente Ley tiene por objeto eliminar conductas de racismo y toda forma de discriminación y consolidar políticas públicas de protección y prevención de delitos de racismo y toda forma de discriminación. Artículo 2. 
+(PRINCIPIOS GENERALES). La presente Ley se rige bajo los principios de: 
+a) Interculturalidad. 
+Entendida como la interacción entre las culturas, que se constituye en instrumento para la cohesión y convivencia armónica y equilibrada entre todos los pueblos y naciones para la construcción de relaciones de igualdad y equidad de manera respetuosa. 
+b) Igualdad. 
+Todos los seres humanos nacen libres e iguales en dignidad y derecho. 
+El Estado promoverá las condiciones necesarias para lograr la igualdad real y efectiva adoptando medidas y políticas de acción afirmativa y/o diferenciado que valoren la diversidad con el objeto de lograr equidad y justicia social, garantizando condiciones equitativas específicas para el goce y ejercicio de los derechos, libertades y garantías reconocidas en la Constitución Política del Estado, leyes nacionales y normativa internacional de Derechos Humanos. 
+c) Equidad. 
+Entendida como el reconocimiento a la diferencia y el valor social equitativo de las personas para alcanzar la justicia social y el ejercicio pleno de los derechos civiles, políticos, económicos, sociales y culturales. 
+d) Protección. 
+Todos los seres humanos tienen derecho a igual protección contra el racismo y toda forma de discriminación, de manera efectiva y oportuna en sede administrativa y/o jurisdiccional, que implique una reparación o satisfacción justa y adecuada por cualquier daño sufrido como consecuencia del acto racista y/o discriminatorio. 
+Artículo 3. 
+(ALCANCES Y ÁMBITO DE APLICACIÓN). 
+La presente Ley se aplicará en todo el territorio nacional y en los lugares sometidos a su jurisdicción. 
+No reconoce inmunidad, fuero o privilegio alguno y se aplica a: 
+a) Todos los bolivianos y bolivianas de origen o nacionalizados y todo estante y habitante en territorio nacional que se encuentre bajo la jurisdicción del Estado b) Autoridades, servidores y ex servidores públicos de los órganos Ejecutivo, Legislativo, Judicial y Electoral del Estado Plurinacional de Bolivia, sus entidades e instituciones del nivel central, descentralizadas o desconcentradas y de las entidades territoriales autónomas, departamentales, municipales, regionales e indígena originario campesinas. 
+c) Ministerio Público, Procuraduría General del Estado, Defensoría del Pueblo, Universidades, Policía Boliviana, Fuerzas Armadas y toda entidad de la estructura estatal. 
+d) Personas privadas jurídicas, instituciones no gubernamentales nacionales o extranjeras a través de sus representantes. 
+e) Organizaciones sociales y mecanismos de control social. 
+f) Misiones diplomáticas bilaterales, multilaterales y especiales ejerciendo funciones en territorio boliviano, de acuerdo a normas de derecho internacional. Artículo 4. 
+(OBSERVACIÓN). 
+Las autoridades nacionales, departamentales, regionales, municipales e indígena originario campesinas o de cualquier jerarquía, observarán la presente Ley, de conformidad a la Constitución Política del Estado y normas e instrumentos internacionales sobre derechos humanos, contra el racismo y toda forma de discriminación, ratificados por el Estado Plurinacional de Bolivia. 
+Artículo 5. 
+(DEFINICIONES). 
+Para efectos de aplicación e interpretación de la presente Ley, se adoptan las siguientes definiciones: 
+a) Discriminación. 
+Se define como “discriminación” a toda forma de distinción, exclusión, restricción o preferencia fundada en razón de sexo, color, edad, orientación sexual e identidad de géneros, origen, cultura, nacionalidad, ciudadanía, idioma, credo religioso, ideología filiación política o filosófica, estado civil, condición económica, social o de salud, profesión, ocupación u oficio, grado de instrucción, capacidades diferentes y/o discapacidad física, intelectual o sensorial, estado de embarazo, procedencia, apariencia física, vestimenta, apellido u otras que tengan por objetivo o resultado anular o menoscabar el reconocimiento, goce o ejercicio, en condiciones de igualdad, de derechos humanos y libertades fundamentales reconocidos por la Constitución Política del Estado y el derecho internacional. No se considerará discriminación a las medidas de acción afirmativa. 
+b) Discriminación Racial. Se entiende por “discriminación racial” a toda distinción, exclusión, restricción o preferencia basada en motivos de raza o por el color, ascendencia u origen nacional o étnico que tenga por objeto o por resultado anular o menoscabar, directa o indirectamente el reconocimiento, goce o ejercicio, en condiciones de igualdad, de los derechos humanos y libertades fundamentales reconocidos en la Constitución Política del Estado y las normas internacionales de Derechos Humanos, en las esferas política, económica, social, cultural o en cualquier otra esfera de la vida pública y/o privada. 
+c) Racismo. 
+Se considera “racismo” a toda teoría tendente a la valoración de unas diferencias biológicas y/o culturales, reales o imaginarias en provecho de un grupo y en perjuicio de otro, con el fin de justificar una agresión y un sistema de dominación que presume la superioridad de un grupo sobre otro. 
+d) Raza. 
+La “raza” es una noción construida socialmente, desarrollada a lo largo de la historia como un conjunto de prejuicios que distorsiona ideas sobre diferencias humanas y comportamiento de grupo. 
+Utilizada para asignar a algunos grupos un estatus inferior y a otros un estatus superior que les dio acceso al privilegio, al poder y a la riqueza. 
+Toda doctrina de superioridad basada en la diferenciación racial es científicamente falsa, moralmente condenable, socialmente injusta y peligrosa y nada en la teoría o en la práctica permite justificar la discriminación racial. 
+e) Equidad de Género. 
+Es el reconocimiento y valoración de las diferencias físicas y biológicas de mujeres y hombres, con el fin de alcanzar justicia social e igualdad de oportunidades que garantice el beneficio pleno de sus derechos sin perjuicio de su sexo en los ámbitos de la vida social, económica, política, cultural y familiar. 
+f) Equidad Generacional. 
+Es el reconocimiento y valoración de las diferencias generacionales de mujeres y hombres, con el fin de alcanzar justicia social que garantice el beneficio pleno de sus derechos sin perjuicio de su edad en los ámbitos de la vida social, económica, política, cultural y familiar. 
+g) Homofobia. 
+Se refiere a la aversión, odio, prejuicio o discriminación contra hombres o mujeres homosexuales, también se incluye a las demás personas que integran a la diversidad sexual. 
+h) Transfobia. 
+Se entiende como la discriminación hacia la transexualidad y las personas transexuales o transgénero, basada en su identidad de género. 
+i) Xenofobia. 
+Se entiende como el odio y rechazo al extranjero o extranjera, con manifestaciones que van desde el rechazo más o menos manifiesto, el desprecio y las amenazas, hasta las agresiones y diversas formas de violencia. 
+j) Misoginia. 
+Se entiende por misoginia cualquier conducta o comportamiento de odio manifiesto hacia las mujeres o género femenino, independientemente de la edad, origen y/o grado de instrucción que logre o pretenda vulnerar directa o indirectamente los Derechos Humanos y los principios de la presente Ley. 
+k) Acción Afirmativa. 
+Se entiende como acción afirmativa aquellas medidas y políticas de carácter temporal adoptadas en favor de sectores de la población en situación de desventaja y que sufren discriminación en el ejercicio y goce efectivo de los derechos reconocidos en la Constitución Política del Estado u en los instrumentos internacionales. Constituyen un instrumento para superar los obstáculos que impiden una igualdad real. 
+l) Acción Preventiva. 
+Son aquellas medidas públicas traducidas en campañas de concientización, educación y difusión de derechos humanos protectivos contra la discriminación y cualquier forma de manifestación. 
+m) Acción Correctiva. 
+La efectiva imposición de medidas sancionatorias o disciplinarias a los infractores, realizando el seguimiento a su aplicación y los resultados obtenidos. 
+CAPÍTULO II DE LAS MEDIDAS DE PREVENCIÓN Y EDUCACIÓN DESTINADAS A ERRADICAR EL RACISMO Y TODA FORMA DE DISCRIMINACIÓN 
+Artículo 6. 
+(PREVENCIÓN Y EDUCACIÓN). 
+Es deber del Estado Plurinacional de Bolivia definir y adoptar una política pública de prevención y lucha contra el racismo y toda forma de discriminación, con perspectiva de género y generacional, de aplicación en todos los niveles territoriales nacionales, departamentales y municipales, que contengan las siguientes acciones. 
+I: En el ámbito educativo: 
+a) Promover el diseño e implementación de políticas institucionales de prevención y lucha contra el racismo y la discriminación en las Universidades, Institutos Normales Superiores Nacionales públicos y privados, Sistema Educativo Nacional en los niveles preescolar primaria y secundaria. 
+b) Diseñar y poner en marcha políticas educativas, culturales, comunicacionales y de diálogo intercultural, que ataquen las causas estructurales del racismo y toda forma de discriminación; que reconozcan y respeten los beneficios de la diversidad y la plurinacionalidad y que incluyan en sus contenidos la historia y los derechos de las naciones y pueblos indígena originario campesinos y el pueblo afroboliviano. 
+c) Promover la implementación de procesos de formación y educación en derechos humanos y en valores, tanto en los programas de educación formal, como no formal, apropiados a todos los niveles del proceso educativo, basados en los principios señalados en la presente Ley, para modificar actitudes y comportamientos fundados en el racismo y la discriminación; promover el respeto a la diversidad; y contrarrestar el sexismo, prejuicios, estereotipos y toda práctica de racismo y/o discriminación. 
+II. En el ámbito de la administración pública. 
+a) Capacitar a los servidoras y servidores de la administración pública sobre las medidas de prevención, sanción y eliminación del racismo y toda forma de discriminación. 
+b) Gestionar y apoyar la inclusión curricular de la prevención contra el racismo y la discriminación en los Institutos Militares y Policiales. 
+c) Promover políticas institucionales de prevención y lucha contra el racismo y la discriminación en los sistemas de educación, salud y otros de prestación de servicios públicos, que incluyan. 
+d) Adopción de procedimientos o protocolos para la atención de poblaciones específicas. 
+e) Promover la ética funcionaria y el buen trato en la atención de la ciudadanía. 
+f) Garantizar que los sistemas políticos y jurídicos reflejen la plurinacionalidad del Estado boliviano en el marco de los Derechos Humanos. g) Promover el reconocimiento de los héroes y las heroínas nacionales pertenecientes a las naciones pueblos indígena originario campesinos, el pueblo afroboliviano y de comunidades interculturales. 
+III. En el ámbito de la comunicación, información y difusión. 
+a) El Estado deberá promover la producción y difusión de datos estadísticos, sobre racismo y toda forma de discriminación con el fin de eliminar las desigualdades sociales. 
+b) Promover la realización de investigaciones y estudios cuantitativos, sobre el racismo y toda forma de discriminación, así como los efectos de estos fenómenos sobre sus víctimas, con el fin de definir políticas y programas encaminados a combatirlos. 
+c) Los medios de comunicación públicos y privados deberán proveerse de mecanismos internos que garanticen la eliminación del racismo y toda forma de discriminación, en relación a su responsabilidad de generar opinión pública conforme a la Constitución Política del Estado. 
+d) Disponer que los medios de comunicación, radiales, televisivos, escritos y las nuevas tecnologías de la información y comunicación, como el internet, eliminen de sus programaciones, lenguajes, expresiones y manifestaciones racistas, xenófobas y otros de contenido discriminatorio. 
+e) Difundir el contenido de la presente Ley; los instrumentos nacionales e internacionales contra el racismo y toda forma de discriminación; y las políticas públicas relacionadas con el tema. 
+f) Los medios de comunicación deberán apoyar las medidas y acciones en contra del racismo y toda forma de discriminación. 
+IV. En el ámbito económico. 
+a) El Estado promoverá la inclusión social a través de la ejecución de las inversiones públicas y privadas, para generar oportunidades y la erradicación de la pobreza; orientada especialmente a los sectores más vulnerables. 
+CAPÍTULO III DEL COMITÉ NACIONAL CONTRA EL RACISMO Y TODA FORMA DE DISCRIMINACIÓN 
+Artículo 7. 
 (COMITÉ). 
-Utt’ayasiwa kukixa sata “Comité Naciona Contra el Racismo y Toda Forma de Discriminacion” jupanakawa lurapxani, irnaqapxani kunaymani amtawinaka ukhamaraki kamachinaka jani mayapisa jisk’achasiñaka, usuchjasiwinaka, uñisiwinaka, k’umiwinaka, yaqhachañanaka, uñanukuñanaka, yaqachxañanaka, nuwañanaka, utjañapataki. 
-“Viceministerio de Descolonizacion, Ministerio de Culturas uksa tuqitapxiwa” jupanakasti uñjapxaniwa tumpapxanixa “Comité Nacional contra el Racismo y toda Forma de Discriminación” Comité ukanxa utjaniwa akiri paya comisionanakampi: 
+Se crea el Comité nacional contra el Racismo y toda Forma de Discriminación, encargado de promover, diseñar e implementar políticas y normativa integrales contra el racismo y toda forma de discriminación. 
+El Comité Nacional contra el Racismo y toda Forma de Discriminación, estará bajo la tuición del Ministerio de Culturas a través del Viceministerio de Descolonización. El Comité estará conformado por dos comisiones: 
 a) Comisión de Lucha contra el Racismo. 
 b) Comisión de Lucha contra toda forma de Discriminación. 
-Uka paya comisionanakaxa Direccion General de Lucha Contra el Racismo y toda forma de Discriminación del Viceministerio de Descolonizacióan ukan apnaqataniwa. 
+El funcionamiento de ambas comisiones estará a cargo de la Dirección General de Lucha Contra el Racismo y toda forma de Discriminación, del Viceministerio de Descolonización, dependiente del Ministerio de Culturas. 
 Artículo 8. 
-(QHITINAKAS COMITÉ CONTRA EL RACISMO Y TODA FORMA DE DISCRIMINACIÓN UKSA TUQINKAPXASPA). 
-I. Aka kamachi phuqhasiñapatakixa kawkiriti “Comité contra el Racismo y toda forma de Discriminacion” sata tamaxa utt´ayataniwa akhama: 
-a) Markan Tamapa: 1. 
+(INTEGRANTES DEL COMITÉ CONTRA EL RACISMO Y TODA FORMA DE DISCRIMINACIÓN). 
+I. Para efectos de esta Ley, el Comité contra el Racismo y toda forma de Discriminación estará conformado por: 
+a) Instituciones públicas: 1. 
 Órgano Ejecutivo: Ministerio de Culturas, Ministerio de la Presidencia, Ministerio de Justicia, Ministerio de Gobierno, Ministerio de Educación, Ministerio de Planificación del Desarrollo y Ministerio de Defensa; 2. 
-Órgano Judicial; 3.Órgano Electoral; 4. 
+Órgano Judicial; 3. Órgano Electoral; 4. 
 Órgano Legislativo: Comisión de Derechos Humanos de la Cámara de Diputados; 5. 
-Gobiernos Autónomos Departamentales; 6. 
+Gobiernos Autónomos Departamentales; 6.. 
 Gobiernos Autónomos Municipales; 7. 
 Autonomías Indígena Originaria Campesinas. 
-b) Markachirinakan Tamapa. 
+b) Organizaciones Sociales. 
 c) Organizaciones Indígena Originaria Campesinas. 
-d) Comunidades Interculturales y Comunidades Afrobolivianas. 
-e) Organizaciones defensoras de los derechos de las mujeres, la juventud, la niñez y adolescencia, personas con discapacidad y sectores vulnerables de la sociedad. 
-f) Yaqha institucionanaka jan ukaxa Derechos Humanunakampita ukhamaraki sociedad civil ukanakat arxatirinaka. 
-II. Oficina del Alto Comisionado para los Derechos Humanos de Bolivia ukhamaraki Defensoría del Pueblo ukanaka uñch´ukirinakajama ukhamaraki acompañamiento técnico lurañataki. 
-III. Comitinkirinakaxa irnaqawipatxa janiw ni kuna salariosa katuqapkaniti Tesoro General de la nación tuqitxa. 
-IV. Viceministerio de Descolonización ukaxa tecnikunakxa contrataspawa profesionalanaka ukhamaraki jani profesionalanaka Comité Nacional contra el Racismo y toda Forma de Discriminacionaru yanapt´añapataki. 
-V. Comisionanakaxa: a) de lucha contra el racismo ukhamaraki b) lucha contra toda forma de discriminación ukanakaxa phuqt´ayataniwa comitinakana delegadunakapampi kunjamatix reglamento internuxa utjki ukhamarjam. 
-9. Kamachi. 
+d) Comunidades Interculturales y Comunidades Afrobolivianas 
+e) Organizaciones defensora de los derechos de las mujeres, la juventud, la niñez y adolescencia, personas con discapacidad y sectores vulnerables de la sociedad. 
+f) Otras instituciones y/o organizaciones defensoras de los Derechos Humanos y de la sociedad civil. 
+II. La Oficina del Alto Comisionado para los Derechos Humanos de Bolivia y la Defensoría del Pueblo como órganos observadores y de acompañamiento técnico. 
+III. Los miembros del Comité, por estas funciones, no percibirán salario alguno que provenga del Tesoro General de la Nación. 
+IV. El Viceministerio de Descolonización podrá contratar personal técnico, profesional o no profesional, para apoyar el funcionamiento del Comité Nacional contra el Racismo y toda forma de Discriminación. 
+V. Las comisiones: a) de lucha contra el racismo y b) lucha contra toda forma de discriminación, estarán conformadas por los delegados del comité, de acuerdo a un reglamento interno. 
+Artículo 9. 
 (DE LAS FUNCIONES DEL COMITÉ). 
-Akirinakaniwa Comité contra el Racismo y toda forma de Discriminacionana irnaqawinakapaxa: 
-a) Diagnóstico ukhamraki mä Plan nacional de acción contra el Racismo y toda Forma de Discriminación ukanaka p´iqinchaña kunjamti aka kamachina Artículo 6 siski ukhamarjama. 
-b) Políticas públicas de prevención y lucha contra el racismo y toda forma de discriminación ukanakaru nukt´añapataki ukhamaraki sarantayañapataki ukhamaraki phuqhañapataki. 
-c) Políticas públicas ukhamaraki proyectos ley ukanakana khuskhana sarnaqaña propuestanaka respetayañapa. 
-d) Seguimiento ukhamaraki evaluación ukhamraki monitoreo ukanaka lurañapa públicas y normativa vigente contra el racismo y toda forma de discriminación ukanakan phuqhawipana. 
-e) Reglamentos Internos de Personal, Reglamentos disciplinarios ukatxa yaqhanakampi Administración pública taypina, Policía Bolivianana ukhamaraki Fuerzas Armadas ukanaka uñch´ukiyañapa proceso interno ukhamaraki faltas ukanaka utjañapataki racismo ukhamraki taqi kasta jisk´achasiñanaka tuqita aka kamachirjama. 
-f) Entidades públicas tuqinakana nukt´añapa instancias de prevención ukanaka utjañapataki kunati racismo ukhamaraki taqi kasta jisk´achasiñanaka ukhamaraki denuncianaka katuqaña ukhamaraki procesos administrativos ukanaka tukuyañkama kunjamti reglamentuxa siski ukhamarjama. 
-g) Comisiones ukhamraki Comité contra el Racismo y toda forma de Discriminación nukt´aña medidas de prevención uka utjañapataki autonomía taypina 
-h) Kawkiri personas naturales ukhamraki jurídicas ukanakaru reconocimiento churayaña discriminación racial ukhamaraki taqi kasta jisk´achasiñanaka utjki ukana contra irnaqawipata. 
-i) Pueblos originario campesinos ukhamaraki pueblo afroboliviano ukhamraki comunidades interculturales ukanakan héroes ukhamaraki heroínas ukanakaru reconocimiento utjayaña. 
-10. Kamachi. 
-(QILLTHAPIÑA UKHAMARRAKII ARKAÑA TAQI IRAQAWINAKQ KAMACHI TUQITA JAN JIK´ACHASIÑA) qillthapiñataki ukhamaraki arkayañataki Comité Nacional Contra el Racismo y toda forma de Discriminación; el Ministerio de Culturas a través del Viceministerio de Descolonización, uksa tuqinkirinakaja apthapiniwa ukhamaraki uñstayaniwa irnaqawi kamachinakxaru qalltawi kunaymani jisk´atanakxaru. 
-11. Kamachi. 
-(QULLQI APNAQAWXATA) Tesoro General de la Nación uksa tuqinkirinaxa uskuniwa qhawqha qullqixa wakiski sapa mara Ministerio de Culturas tuqiru aka kamachi phuqasiñapataki 
-PUSIR JALJA TAQI JISK´ACHATANAKARU ARXATIRI TUQINAKA 
-12. Kamachi. 
-(ARXATIRI TUQINAKA) taqi jaqinaka jisk´achata uñjasipki ukanakaxa kijasipxaspawa constitucional, administrativa jan ukas discilinaria ukhamaraki penal kamachi tuqinaka. 
-13. Kamachi. 
-(ADMINISTRATIVA UKHAMARAKI DISCIPLINARIA KAMACHINAKA TUQI IRNAQAWINAKANA) 
-I. Kunaymani jik´achawinaka, usuchjawinaka función publica uksa tuqina akanakawa: 
-a) Arumpñi tuqisiñanaka, runkasiñanaca kunaymani jisk´achawinaka tuqi. 
-b) Jark´asiwinaka kunaymani yanapawinakata jisk´achasa 
-c) Janchir ususchajañanaka, chuymaru ususchajañanaka, jaqi mirañ tuqita ususchjaña 
-Taqi akanaka juchamchawinaka utjski irñaqawinakana irnaqirinaka jilatanaka kullakanaka 
-II. Taqi aka jisk´achawinaka ususchajawinaka qillqataki utjarakiwa código Penal sata qamachina Artículo 281 Bis ukhamaraki Artículo 281. 
+El Comité contra el Racismo y toda forma de Discriminación tendrá como tareas principales: 
+a) Dirigir la elaboración de un Diagnóstico y un Plan Nacional de Acción contra el Racismo y toda Forma de Discriminación, sobre la base de los lineamientos propuestos en el Artículo 6 de la presente Ley. 
+b) Promover, desarrollar e implementar políticas públicas de prevención y lucha contra el racismo y toda forma de discriminación. 
+c) Precautelar el respeto a la igualdad y no discriminación en las propuestas de políticas públicas y proyectos de ley. 
+d) Realizar seguimiento, evaluación y monitoreo a la implementación de políticas públicas y normativa vigente contra el racismo y toda forma de discriminación. 
+e) Velar porque los Reglamentos Internos de Personal, Reglamentos disciplinarios u otros al interior de la Administración Pública, Policía Boliviana y Fuerzas Armadas, incluyan como causal de proceso interno, faltas relativas al racismo y toda forma de discriminación, conforme a la presente Ley. 
+f) Promover en todas las entidades públicas, la creación de instancias de prevención contra el racismo y toda forma de discriminación, así como la recepción de denuncias e impulso de procesos administrativos hasta su conclusión, de acuerdo a reglamento. 
+g) Promover la conformación de Comisiones y Comité contra el Racismo y toda forma de Discriminación, con el propósito de implementar medidas de prevención en el marco de las autonomías. 
+h) Promover el reconocimiento público de personas naturales y/o jurídicas estatales o privadas que se hayan destacado por su labor en contra de la discriminación racial o toda forma de discriminación. 
+i) Promover el reconocimiento de los héroes y heroínas bolivianos, pertenecientes a las naciones pueblos indígena originario campesinos, el pueblo afroboliviano y de comunidades interculturales. 
+Artículo 10. 
+(REGISTRO Y SEGUIMIENTO DE PROCESOS ADMINISTRATIVOS Y JUDICIALES POR RACISMO Y TODA FORMA DE DISCRIMINACIÓN). Con fines de registro y seguimiento, el Comité Nacional Contra el Racismo y toda forma de Discriminación; el Ministerio de Culturas a través del Viceministerio de Descolonización, sistematizará y producirá información sobre los procesos administrativos y judiciales iniciados por causa de racismo y toda forma de discriminación. 
+Artículo 11. 
+(PRESUPUESTO). El Tesoro General de la Nación, otorgará los recursos económicos necesarios anualmente, al Ministerio de Culturas para el cumplimiento de las funciones señaladas en la presente Ley. 
+CAPÍTULO IV INSTANCIAS COMPETENTES DE PROTECCIÓN A LAS VÍCTIMAS DE RACISMO Y TODA FORMA DE DISCRIMINACIÓN 
+Artículo 12. 
+(INSTANCIAS COMPETENTES). Las personas que hubiesen sufrido actos de racismo o discriminación podrán optar por la vía constitucional, administrativa o disciplinaria y/o penal, según corresponda. 
+Artículo 13. 
+(VÍA ADMINISTRATIVA O DISCIPLINARIA EN INSTITUCIONES PÚBLICAS). 
+I. Constituyen faltas en el ejercicio de la función pública, las siguientes conductas: 
+a) Agresiones verbales fundadas en motivos racistas y/o discriminatorios, 
+b) Denegación de acceso al servicio por motivos racistas y/o discriminatorios, 
+c) Maltrato físico, psicológico y sexual por motivos racistas y discriminatorios, que no constituya delito. 
+Siempre que estas faltas se cometan en el ejercicio de funciones, en la relación entre compañeros de trabajo o con las y los usuarios del servicio. 
+II. Los motivos racistas y/o discriminatorios a los que se refiere el parágrafo precedente, se encuentran descritos en los Artículo s 281 Bis y 281 Ter del Código Penal. 
 a. 
-Kawknir irnaqiritixa juchachaskani kawknir irnaqawinsa jisk´achasa mayni jila kullaka masiparu, qullayasiñapawa chuyma tuqita, qullquisti uka qullayasiñapatakixa pachapa irnaqawita mistsuni. 
+La institución pública podrá disponer que la servidora o el servidor, infractor se someta a tratamiento psicológico, cuyos gastos correrán a cargo de la misma institución. 
 b. 
-Taqi instituciones públicassataki irnaqawinakaxa ruksupxañanakakpawa kunakitixa reglamento Interno irnaqirinakataki sata kamachinaka, ukhamaraki qillqantatañapawa kawkniritixa parágrafo I siski aka articuluna, taripawa qalltayañataki. 
+Todas las instituciones públicas deberán modificar sus Reglamentos Internos de Personal, Reglamentos Disciplinarios u otros que correspondan, de manera que se incluyan las faltas descritas en el parágrafo I del presente Artículo , como causal de inicio de proceso interno y motivo de sanción administrativa o disciplinaria. 
 c. 
-Tarawintixa unstani ma irnaqirina juchachasiwipaxa responsabilidad penal siski uka juchanakaxa, istitucion publica siski uka irnaqawiwa Ministerio Publico siski uka taript´ayiriruw pasayani. 
+En caso de que en el proceso administrativo o interno, se determine la existencia de responsabilidad penal, la institución pública deberá remitir el caso al Ministerio Público. 
 d. 
-Taqi jisk´achawinaka, irnaqirinakana juchachasiwipaxa taripayatawa uñjasiñapa paschpa Institucion Publica irnaqawina kawknir juchanakatixa administrativa ukhamaraki disciplinarias siski uka kasta juchanaka. 
+Los actos de racismo y toda forma de discriminación que constituyan faltas cometidas por servidoras y servidores públicos serán denunciados ante la misma institución a la que pertenecen, a fin de aplicar las sanciones administrativas o disciplinarias correspondientes. 
 e. 
-Kawknir Institucion Publica siski uka irnaqawinxa taripawi kunaymani kisk´achasiwinakata taripawi utjki pasayañapawa ma copia uka taripawxata qillqata kawkniritixa sataki Direccion general de Lucha Contra el Racismo y Toda Forma de Discriminacion Viceministerio de Descolonizacion, Ministerio de Culturas sataki uksa tuqiru ma suma arkayañataki kunjamaskisa uka taripawixa yatiñataki. 
+La institución pública que conoce denuncias sobre racismo y toda forma de discriminación deberá remitir copia de las mismas a la Dirección General de Lucha contra el Racismo y toda forma de Discriminación del Viceministerio de Descolonización, del Ministerio de Culturas, para fines de registro y seguimiento. 
 f. 
-Kawknir irnaqiritixa kijaskani, ukata taripawi maykani pasayañapawa ma copia uka taripawita qillqataki Ministerio de Culturas uksa tuqiri arkayañataki kunjamaskisa uka taripawixa yatiñataki. 
-14. Kamachi. 
-(INSTITUCIONES PRIVADAS SATA IRNAQAWINAKA) 
-I. Taqi Instituciones Privadas sataki uka irnaqawinakaxa rukakipapxañanakapawa Reglamentos Internos sataki uka kamachinaka ukhamaraki qillqantañanakapawa kunaymani jisk´achasiña sataki uka kasta juchachasiñanaka: 
-a) Aru tuqi usuchañanaka jisk´achasiñanaka 
-b) Jark´asiwinaka kunaymani yanapawinakata jisk´achasa 
-c) Janchir ususchajañanaka, chuymaru ususchajañanaka, jaqi mirañ tuqita ususchjaña 
-d) Kunaymani usuchajawinaka jisk´achawinaka 
-II. Taqi aka jisk´achawinaka ususchajawinaka qillqataki utjarakiwa código Penal sata qamachina Artículo 281 Bis ukhamaraki articulo 281 
-III. Jisk´achasiwi qhinchachasiwi juchatixa utjani pasayataniwa Ministerio Publico taripawinaka tuqiru. 
-IV. Kawknir Institucion Privada irnaqawinxa taripawi jisk´achasiña tuqi juchanakxata utjkani pasayaña2pawa ma copia uka taripawita qillqata Direccion General de Lucha Contra el Racismo y toda forma de Discriminacion viceministerio de Descolonizacion Ministerio de Culturas tuqiru arkayañataki yatiñataki. 
-15. Kamachi (KUNAYMANI MARKACHIRINAKANA UTAPA JARK´ASIWINAKA) 
-I. Kawknir qillqatanakatixa uskutakani kunaymani kasta jaqinakaru jark´añataki jan mantañapataki markachirinakan kunaymani utanakaru, manqa aljawi, anataña utanaka uka kasta jisk´achasiña uskurinakaxa juchata juchachasiñata uñt´ataniwa, naraqatxa kinsuruwa jint´antata unjasini, wastantix uskuscankchini ukjaxa kinsa tunka uruwa jist´antata unjasini janipunitixa kasuschini ukjaxa wiñayatakiwa jist´antata unjasini, 
-II. Aka kasta juchanchañanakasti taripawinakasti kawknirikanatixa Gobiernos Autonomos Municipales siski uksa tuqinkirinakawa taript´ayapxani ma kamachi qillqata uksa tuqita. 
-III. Taqi kasta markachirinakan kunaymani utanaka kunjamakitixa manqa aljawi, anataña utanaka taqi kasta markachirinakan utanakaxa uskupxañanakapawa aka kasta qillqata “taqiniw aka kamachitakixa ma kastakitana” kunapachatixa jark´asiwi utjkani aka kasta markachirinakan utaparu mantaña uka jaqinakaxa kijasipxaspawa kunakitixa Gobiernos Autónomos Municipales uksa tuqiru. 
-16. Kamachi. 
-(YATIYAWINAKA APNAQIRI TAQI MARKACHIRINAKATAKI TUQI) kawkniri yatiyawinaka apnaqiri tuqinakasti yatiyapkani kunaymani jisk´achisiwinaka, usuchjasiwinaka, qhiñchachasiwinaka kunaymani kasta jaqinakaru, juchañchataniwa qullqi tuqita jan ukasti uka yatiyawinaka apañaqiri radionakasti, periodikunakasti, telewisionanakasti jist´antatawa uñjasispa, ukhamaraki ma kamachiwa utjañapa uksa tuqita. 
-17. Kamachi. 
-(JAN AMUKI UNCH´UKIÑATAKI). 
-Kawkniri jaqitixa función publika siski uksa tuqina irnaqkani, ukata uñjani kunaymani jisk´achasiwinaka, usuchjawinaka ukata amuki uch´ukini jan jilirinakaru yatiyasa, juchañchatawa uñjasispa kunakitija Articulo 178 Código Penal siski uka kamachiru. 
-18. Kamachi. 
-(JIK´ACHATANAKA, IST´IRI/UÑJIRI JISKLK´ACHAWINAKA YATIYIRI) Bolivia marka apanaqirinakaxa uskupñxañanakapawa, uñjapjañanakapawa khiti jaqinakatixa jik´achata, ukhamaraki isti´iri/uñjiri, ukatsti jisk´achawinaka yatiyiri uka kasta jaqinakaru janchipa jan usuchjañanakapataki, chuyma jan usuchajañanakapataki. 
-19. Kamachi. 
-(YAQHA MISTSUWINAKA) Artículo pätunka suxtani Código Procedimiento Penal ukanx kunjam qilqatasa ukarjamaxa, Ministerio Publicowa thaqhani mä wakiskiri thakhi kamachirjama, penal ch’axwawi askichañataki 
-20. Kamachi. 
-(K’ARI QHANAÑCHAWI). 
-Mä jaqixa aliqata k’arintaspa jaqiru jisk’achiwi luri sasa, penal kija qalltayañataki ukax uka k’arisirixa Artículo 166 Código Penal ukarjamaw juchañchatani. 
-PHISQIR JALJA WALI JACHÁ JUCHANAKA TAQI JAQINAKAN KANKAÑAPA USUCHAJAWI. 
-21. Kamachi. 
-(DELITOS) Capítulo II, Título III Libro Primero Código Penal, ukanxa akhama kamachinakampiwa qilqata: 
-“Artículo 40 Payiri. 
+La denunciante o el denunciante, podrá remitir copia de la denuncia contra la servidora o servidor público, al Ministerio de Culturas para fines de registro y seguimiento. 
+Artículo 14. 
+(INSTITUCIONES PRIVADAS). 
+I. Todas las instituciones privadas deberán adoptar o modificar sus Reglamentos Internos de manera que incluyan como faltas, conductas racistas y/o discriminatorias, tales como: 
+a) Agresiones verbales por motivos racistas y/o discriminatorios, 
+b) Denegación de acceso al servicio por motivos racistas y/o discriminatorios 
+c) Maltrato físico, psicológico y sexual por motivos racistas y discriminatorios, que no constituya delito, 
+d) Acciones denigrantes. 
+II. Los motivos racistas y/o discriminatorios a los que se refiere el parágrafo precedente, se encuentran descritos en los Artículo s 281 Bis y 281 Ter del Código Penal. 
+III. En caso de existir indicios de responsabilidad penal, deberá remitirse a conocimiento del Ministerio Público 
+IV. La institución privada que conozca denuncias sobre racismo y toda forma de discriminación contra sus empleados, deberá remitir copia de las mismas a la Dirección General de Lucha contra el Racismo y toda forma de Discriminación del Viceministerio de Descolonización, del Ministerio de Culturas, para fines de registro y seguimiento. Artículo 15. 
+(PROHIBICIÓN DE RESTRINGIR EL ACCESO A LOCALES PÚBLICOS). 
+I. Queda prohibida toda restricción de ingreso y colocado de carteles con este propósito, a locales o establecimientos de atención, servicio o entretenimiento abiertos al público, bajo sanción de clausura por tres días en la primera vez, de treinta días en la segunda y definitiva en la tercera. Salvando aquellas prohibiciones previstas por ley que protejan derechos o para las actividades que no estén dirigidas al público en general por su contenido. 
+II. Esta medida será aplicada por los Gobiernos Autónomos Municipales de acuerdo a reglamentación especial, quienes deberán verificar los extremos de la denuncia. 
+III. Se declara la obligatoriedad de exhibir carteles en el ingreso a los establecimientos públicos y privados de atención, servicio o entretenimiento abiertos al público, en forma visible el siguiente texto: “Todas las personas son iguales ante la Ley”. En caso de restringirse ilegalmente el acceso a locales públicos, podrá presentar su denuncia ante los Gobiernos Autónomos Municipales. 
+Artículo 16. 
+(MEDIOS MASIVOS DE COMUNICACIÓN). El medio de comunicación que autorizare y publicare ideas racistas y discriminatorias será pasible de sanciones económicas y de suspensión de licencia de funcionamiento, sujeto a reglamentación. 
+Artículo 17. 
+(OBLIGACIÓN DE DENUNCIAR). 
+La persona que en ejercicio de la función pública conociere hechos de racismo y toda forma de discriminación, está en la obligación de denunciar ante las autoridades correspondientes; en caso de no hacerlo será pasible a la sanción dispuesta en el Artículo 178 del Código Penal. 
+Artículo 18. 
+(PROTECCIÓN DE VÍCTIMAS, TESTIGOS Y DENUNCIANTES). El Estado garantizará la seguridad física y psicológica de las víctimas, testigos y denunciantes de delitos de racismo y toda forma de discriminación. 
+Artículo 19. 
+(SALIDAS ALTERNATIVAS). Conforme a lo establecido por el Artículo 26 del Código de Procedimiento Penal, el Ministerio Público buscará en el marco de la legalidad solución del conflicto penal, mediante la aplicación de las salidas alternativas previstas por Ley 
+Artículo 20. 
+(DENUNCIA FALSA O TEMERARIA). 
+La persona que a sabiendas acusare o denunciare como autor o autora, o participe de un delito de racismo o cualquier forma de discrimininación a una persona que no lo cometió, dando lugar a que se inicie el proceso penal correspondiente, será sancionado conforme a lo previsto en el Artículo 166 del Código Penal. 
+CAPITULO V DELITOS CONTRA LA DIGNIDAD DEL SER HUMANO 
+Artículo 21. 
+(DELITOS) Se incorpora en el Capítulo II, del Título III del Libro Primero del Código Penal, la disposición siguiente: 
+“Artículo 40 Bis. 
 (Agravante General). 
-Minimoxa mä tercioruwa yapxatatani, maximoxa mä chikataruwa yapxatatarakini, Parte Especial aka Codigona ukhamaraki yaqha phuqhachawi kamachinakarjama, uñisiwi – jisk’achawi luratapata, Artículo 281 Payiri ukhamaraki Artículo 281 kimsiri aka pachpa Codigorjama. 
-Kunakipansa janiwa juchañchawixa maximota jilañapakiti Constitución Política del Estado ukarjamaxa”. 
-22. Kamachi. 
-Mayjt’ayatawa Título VIII, Libro Segundo Código Penal ukana qilqataxa, akahamaru: 
-“Jaqinakana jakawiparu yanqhachawinaka” 
-23. Kamachi. 
-Título VIII Libro Segundo Código Penal ukaruw uskuta “Delitos contra la Dignidad del Ser Humano” ukhama sutini “Phisqhiri Capituloxa”, ukata ukanxa akhama kamachinakawa qilqata: 
-281 Kamachi. payiri. - (Racismo) I. Khiti jaqiya aliqata jisk’ach-chini, uñisch-chini, jaqinakana ukhamaraki tantachawinakana wilaparu, jaqi markaparu, isiparu, aruparu ukaxa juchañchataniwa kimsa marata paqalqu marakama llawintawimpi - jist’antawimpi. II. Juchañchawixa yapxatataniwa minimoxa mä tercioru, ukat chikataruwa maximoxa yapxatatarakini, kunapachatixa: 
-a) Mä jaqixa markataki irnaqiri jan ukax jirilirita irnaqiri jucharu puririwa juchañchata uñjasini. 
-b) Mä markachirixa mä público irnaqawina irnaqkasa jucharu puririwa juchañchata uñjasini. 
-c) Xaxmampi nuwasa usuchasa jucha luririxa juchañchatawa uñjasini. 
-281 Kamachi. ter. 
-(Discriminación) Khiti jaqiya aliqata yanqhach-chini markachirinakana, tantachawinakana derechonakaparu, chachatapata, warmitapata, wawatapata, waynatapata, tawaqutapata, awkitapata, taykatapata, q’iwsatapata, urquchitapata, machuratapata, jaqi saphini - sarnaqawinitapata, mä markankiritapata, mä kasta aru parliritapata, mä religionaru iyawsiritapata, jayiru iyawsiritapata, amuyiritapata, amuyupa arsuritapata, jaqichasitatapata, qulqinitapata, jani qulqinitapata, usutatapata, mä kasta irnaqawinitapata, yatiñanitapata, jani yatiñanitapata, juykhutapata, amututupata, uqaratapata, kayuta usutatatapata, amparata usutatapata, p’iqita usutatapata, muq’utapata, usuritapata, mä chaqankiritapata, mä uñtanitapata, isisitapata, layku ukaxa juchañchataniwa mä marata phisqha markama llawxasiwimpi jan - jist’antawimpi. 
-I. Juchañchawixa yapxatataniwa minimoxa mä tercioru, ukat chikataruwa maximoxa yapxatatarakini, kunapachatixa: 
-a) Mä jaqixa markataki irnaqiri jan ukax jirilirita irnaqiri juchañchata uñjasini. 
-b) Mä markachirixa mä público irnaqawina juchañchata uñjasini. 
-c) Juchañchata uñjasini jaxmata jan aski luratapata. 
-281 Kamachi. quater. - (Difusión e Incitación al Racismo o a la Discriminación). 
-Khiti jaqiya kunanaktuqi jach’a jach’a tukuña amuyunaka parlchini, jan ukaxa uñisisiña – jisk’achasiñax walikiskiw sas parlachini, akxatxa Artículo s 281 bis ukhamaraki 281 ter ukanakanwa qhanañchi, jan ukaxa qhitiya amtaychini jaxmampi yanqhachaña, jan ukaxa jaqinakaru ukhamaraki tantachawinakaru arknaqaychini uñisiña – jisk’achaña taypina, ukaxa juchañchataniwa mä marata phisqha marakama llawxasiwimpi – jist’antawimpi. 
-I. Juchañchawixa minimonxa mä tercioruwa jilxatayatani, maximosti chikataruwa jilxatayatarakini markataki irnaqiri jan ukaxa jilirita irnaqiri juchañchataruxa. 
-II. Radiona, televisionana, prensana irnaqiri jan ukaxa ukanakana dueñopa jucharu purini ukaxa janiw qhispkaniti yaqha kamachinaka aytasisaxa. 
-Khiti jaqiya uñisiwi – jisk’achawi sartayiri tantachawinakana participchini Artículo 281 bis ukhamaraki Artículo 281 ter ukanakarjama, jan ukaxa khitiya amtaychini uñisiñax walikiskiwa sasa, usuchjañkama nuwayaña amtayiri, jaqinakaru arknaqayiri ukhamaraki tantachawinakaru uñisiwi – jisk’achawi layku, uka jaqixa mä marata phisqha markamawa jist’antani – llawxasitani. 
-Ukata juchañchawixa yapxatataniwa mä tercioro minimoxa, mä chikataru maximoxa kunapachatixa mä servidora jan ukax servidor publicoxa juchañchatani ukapachaxa. 
-Khitiya kunatuqisa yanqhach-chini, arumpisa usuchjani uñisiña – jisk’achasiña taypina Artículo 281 bis ukhamaraki Artículo 281 ter ukanakarjama ukaxa trabajirapiniwa pusitunka uruta tunka kimsaqalquni phaxsikama ukxaruxa multa jakhuntañaparaki pusitunka uruta pataka phisqhatunkani urukama. 
-Jucha luriri jaqixa chiqapiniw juchanita saspa janira kija qalltatakasaxa kijaxa pachparukiwa tukusxani. Ukata wasitata juchachasxarak-kini ukaxa janiw ist’ataxaniti. 
-I. Aka juchaxa lurataspa qilqatana, amparampi qilqatana, jan ukaxa mä medio de comunicación tuqi, juchañchawixa mä tercioruwa yapxatatani minimoxa, mä chikataruwa yapxatatarakini maximoxa. 
-II. Jucha luriri jaqixa chiqapiniw juchanita saspa janira kija qalltatakasaxa kijaxa pachparukiwa tukusxani. 
-Ukata wasitata juchachasxarak-kini ukaxa janiw ist’ataxaniti. III. Kunatuqiya jucha lurchi ukat ukatuqirakiwa mä disculpa mayisxañapa, ukata kuna gastonaka utjani ukaxa amukiwa pagañapaxa. 
-24 Kamachi. 
+Se elevarán en un tercio el mínimo y en un medio el máximo, las penas de todo delito tipificado en la Parte Especial de este Código y otras leyes penales complementarias, cuando hayan sido cometidos por motivos racistas y/o discriminatorios descritos en los Artículo s 281 bis y 281 ter de este mismo Código. 
+En ningún caso la pena podrá exceder el máximo establecido por la Constitución Política del Estado”. 
+Artículo 22. 
+Se modifica el Título VIII del Libro Segundo del Código Penal cuyo texto quedará redactado en los siguientes términos: 
+“Delitos Contra la Vida, la Integridad y la Dignidad del Ser Humano”. 
+Artículo 23. 
+Se incorpora en el Título VIII del Libro Segundo del Código Penal, el “Capítulo V” denominado: “Delitos contra la Dignidad del Ser Humano”, el mismo que comprenderá las siguientes disposiciones: 
+Artículo 281 bis. - (Racismo) I. La persona que arbitrariamente e ilegalmente, restrinja, anule, menoscabe o impida el ejercicio de derechos individuales o colectivos por motivos de raza, origen nacional o étnico, color, ascendencia, pertenencia a naciones y pueblos indígena originario campesinos o el pueblo afroboliviano o uso de su vestimenta o idioma propio, será sancionado con pena privativa de libertad de tres a siete años. 
+II. La sanción será agravada en un tercio el mínimo y en una mitad el máximo cuando: 
+a) El hecho sea cometido por una servidora o servidor público o autoridad pública. 
+b) El hecho sea cometido por un particular en la prestación de un servicio público. 
+c) El hecho sea cometido con violencia. 
+Artículo 281 ter. - (Discriminación) La persona que arbitrariamente e ilegalmente obstruya, restrinja, menoscabe, impida o anule el ejercicio de los derechos individuales y colectivos, por motivos de sexo, edad, género, orientación sexual e identidad de género, identidad cultural, filiación familiar, nacionalidad, ciudadanía, idioma, credo religioso, ideología, opinión política o filosófica, estado civil, condición económica o social, enfermedad, tipo de ocupación, grado de instrucción, capacidades diferentes o discapacidad física, intelectual o sensorial, estado de embarazo, procedencia regional, apariencia física y vestimenta, será sancionado con pena privativa de libertad de uno a cinco años. 
+I. La sanción será agravada en un tercio el mínimo y en una mitad el máximo cuando: 
+a) El hecho sea cometido por una servidora o servidor público o autoridad pública. 
+b) El hecho sea cometido por un particular en la prestación de un servicio público. 
+c) El hecho sea cometido con violencia. 
+Artículo 281 quater. - (Difusión e Incitación al Racismo o a la Discriminación). 
+La persona que por cualquier medio difunda ideas basadas en la superioridad o en el odio racial, o que promuevan y/o justifiquen el racismo o toda forma de discriminación, por los motivos descritos en los Artículo s 281 bis y 281 ter, o incite a la violencia, o a la persecución de personas o grupos de personas, fundados en motivos racistas o discriminatorios, será sancionado con la pena privativa de libertad de uno a cinco años. 
+I. La sanción será agravada en un tercio del mínimo y en una mitad del máximo, cuando el hecho sea cometido por una servidora o servidor público, o autoridad pública. 
+II. Cuando el hecho sea cometido por una trabajadora o un trabajador de un medio de comunicación social, o propietario del mismo, no podrá alegarse inmunidad ni fuero alguno. 
+Artículo 281 septieser (Organizaciones o Asociaciones Racistas o Discriminatorias) La persona que participe en una organización o asociación que promuevan y/o justifiquen el racismo o la discriminación descritos en los Artículo s 281 bis y 281 ter o incite al odio, a la violencia o la persecución de personas o grupos de personas fundados en motivos racistas o discriminatorios, serán sancionados con pena privativa de libertad de uno a cuatro años. 
+La sanción será agravada en un tercio el mínimo y en una mitad el máximo, cuando el hecho sea cometido por una servidora o servidor público o autoridad pública. 
+Artículo 281 octies. - (Insultos y otras agresiones verbales por motivos racistas o discriminatorios) El que por cualquier medio realizare insultos u otras agresiones verbales, por motivos racistas o discriminatorios descritos en los Artículo s 281 bis y 281 ter, incurrirá en prestación de trabajo de cuarenta días a dieciocho meses y multa de cuarenta a ciento cincuenta días. 
+I. Si este delito fuera cometido mediante impreso, manuscrito o a través de medios de comunicación, la pena será agravada en un tercio el mínimo y en un medio el máximo. 
+II. Si la persona sindicada de este delito se retractare, antes o a tiempo de la imputación formal, la acción penal quedará extinguida. 
+No se admitirá una segunda retractación sobre el mismo hecho. 
+III. La retractación deberá realizarse por el mismo medio, en iguales condiciones y alcance por el cual se realizó el insulto o la agresión verbal, asumiendo los costos que ello implique. 
+Artículo 24. 
 (ACCIÓN PENAL). 
-Mayjt’ayatawa Artículo 20 ukhamaraki Artículo 26 ukanakaxa Título II Libro Primero Código Procedimiento Penal ukana, ukata akahama mayjt’ayatawa uka Articulonakaxa: 
-20º. - Kamachi. (Delitos de acción penal). 
-Delitos acción privada ukanxa akanakawa jucha: cheque churaña bancona jani qulqinikasa, clientenakaru sallqaqaña, lunthatiri irnaqirinaka, apaqaña, aliqata jaqiru yanqhachaña, yänaka t’unjaña sallqaqañataki, servicionaka lurasa jan ukaxa manq’anaktuqina sallqaqaña, aliqata irxatayasa, aparaña, qurpanaka unuqiyaña, arch’ukiña, lakampi chuyma usuchaña, uñisiña – jisk’achaña thakina. 
-Yaqha juchanakaxa yaqha kamachinakarjama uñjataniwa. 
-26º. - Kamachi. (Conversión de acciones). 
-Mayni yanqhachataxa mayispa ukaxa penal pública kijaxa privada kijaruwa purxaspa akhamanakana: 
-1. Kunapachatixa mä jucha lurataxa munaspa jan walt’ayatana amtawipa, jan ukaxa excepción kamachirjama Artículo 17º aka Codigona. 
-2. Kunapachatixa juchanakaxa yanaktuqitani, ukhamaraki mä akatjamata chijiru purisa jani jiwatampi jucharu puritani, markaru jan añcha jan walt’ayasa. 
-3. Kunapachatixa “Juchaxa utjani jaqinaka manqha”, ukatxa markaru jach’a yanqhachawixa janiwa utjñapakiti. 
-4. Kunapachatixa suyt’ayataspa kunatixa Artículo 304º ukan qilqatakana ukaxa, jan ukaxa phuqhayasa numeral I kamachi, Artículo 21º aka Codigona, ukhamaraki yanqhachataxa jan ukaxa kijasirixa jani iyawsatapata. 
-Kunanakasa utji Numeral I) ukhamaraki numeral 2) ukanakana, ukata ukanakarjamaxa privada kijaru puriñatakixa Fiscal Distrito jan ukaxa lantipampiwa iyawsañapa, ukaxa kimsa urutwa mistuñapa, mayiwi uruta jakhusa. 
-Numeral 3) ukarjamaxa conversonxa mä juezawa iyawsañapa. 
-DISPOSICIÓN FINAL Órgano Ejecutivowa aka kamachi reglamentani, llatunktunka uruna, promulgatata jakhusina, taqinimpi aruskipt’asa. 
-DISPOSICIÓN TRANSITORIA Ministerio Justiciaruwa iwxata, wakichañpataki mä panka Código Penal uksata, mayjt’ayatanakampi. 
-DISPÓSICIÓN ABROGATORIA Aka kamachi manqha kamachinakaxa taqpachawa p’amp’achata. 
-Apayatapan Organo Ejecutivo uksa tuqiru phuqasiñapataki 
-Kunalaykutix, aka kamachwa Asamblea Legislativa Plurinacionalax utt´ayi kinsaqallqu uruna octubre sata paxsina pawaranqa tunkani marana. 
-Firma sata chimpumpix rixint´awapxiwa: Rene Oscar Martinez Callahuanca, Hector enrique Arce zaconeta, andes A. Villca Daza, Clementina Garnica Cruz, Pedro Nuny Caity, Jose Antonio Yucra Paredes. 
-Aka kamichix uskutawa phuqhasiñapataki taqi markachirinakataki. 
-Palacio de Gobierno siski uksa jach´a jilir irpir presidenten utapana Chukiawu markana kinsaqallqu uruna octubre sata paxsina pawaranqa tunkani marana. 
-Firma sata chimpumpix rixint´awapxiwa: EVO MORALES AYMA, Oscar Coca Antezana, sacha Sergio Llorentty soliz, Walter Juvenal Delgadillo Terceros MINISTRO DE OBRAS PUBLICAS, SERVICIOS Y VIVIENDA E INTERINO DE PLANIFICACION DEL DESARROLLO, drano MINISTRA DE DESARROLLO PRODUCTIVO Y ECONOMIA PLURAL E INTERINA DE ECONOMIA Y FINANZAS PUBLICAS, Gomez, Nilda Copa Condori, Elizabeth Arismendi Chumacero MINISTRA DE DEFENSA LEGAL DEL ESTADO E INTERINA DE AUTONOMIA, Zulma Yugar Parraga. 
+Se modifican los Artículo s 20 y 26 del Título II del Libro Primero del Código de Procedimiento Penal, cuyo texto quedará redactado en los siguientes términos: 
+Artículo 20º. - (Delitos de acción privada). 
+Son delitos de acción privada: el giro de cheque en descubierto, giro defectuoso de cheque, desvío de clientela, corrupción de dependientes, apropiación indebida, abuso de confianza, los delitos contra el honor, destrucción de cosas propias para defraudar, defraudación de servicios o alimentos, alzamiento de bienes o falencia civil, despojo, alteración de linderos, perturbación de posesión, daño simple e insultos y otras agresiones verbales por motivos racistas o discriminatorios. 
+Los demás delitos son de acción pública. 
+Artículo 26º. - (Conversión de acciones). 
+A pedido de la víctima, la acción penal pública podrá ser convertida en acción privada en los siguientes casos: 
+1. Cuando se trate de un delito que requiera instancia de parte, salvo las excepciones previstas en el Artículo 17º de este Código; 
+2. Cuando se trate de delitos de contenido patrimonial o de delitos culposos que no tengan por resultado la muerte siempre que no exista un interés público gravemente comprometido; y, 
+3. Cuando se trate de “Delitos contra la Dignidad del Ser Humano” siempre que no exista un interés público gravemente comprometido, 
+4. Cuando se haya dispuesto el rechazo previsto en el Artículo 304º o la aplicación del criterio de oportunidad previsto en el numeral I) del Artículo 21º de este Código y la víctima o el querellante hayan formulado oposición. 
+En los casos previstos en los numerales I) y 2) la conversión será autorizada por el Fiscal del Distrito o por quien él delegue, autorización que será emitida dentro de los tres días de solicitada. 
+En el caso del numeral 3) la conversión será autorizada por el juez competente. DISPOSICIÓN FINAL ÚNICA. 
+El Órgano Ejecutivo, se encargará de la reglamentación de la presente Ley, en lo que corresponda en un plazo de 90 días a partir de su promulgación, en base a un amplio proceso de concertación y participación social. 
+DISPOSICIÓN TRANSITORIA ÚNICA. Se encomienda al Ministerio de Justicia, la elaboración de un texto ordenado del Código Penal, incluyendo las modificaciones incorporadas por la presente Ley. 
+DISPÓSICIÓN ABROGATORIA ÚNICA. Quedan abrogadas todas las disposiciones contrarias a la presente Ley. 
+Remítase al Órgano Ejecutivo, para fines constitucionales. 
+Es dada en la Sala de Sesiones de la Asamblea Legislativa Plurinacional, a los ocho días del mes de octubre del año dos mil diez. 
+Fdo. Callahuanca, Hector enrique Arce zaconeta, andes A. ina Garnica Cruz, Pedro Nuny Caity, Jose Antonio Yucra Paredes. 
+Por tanto, la promulgo para que se tenga y cumpla como Ley del Estado Plurinacional de Bolivia 
+Palacio de Gobierno de la ciudad de La Paz, a los ocho días del mes de octubre de dos mis diez años. Fdo. 
+Oscar Coca Antezana, sacha Sergio Llorentty soliz, Walter Juvenal Delgadillo Terceros MINISTRO DE OBRAS PUBLICAS, SERVICIOS Y VIVIENDA E INTERINO DE PLANIFICACION DEL DESARROLLO, drano MINISTRA DE DESARROLLO PRODUCTIVO Y ECONOMIA PLURAL E INTERINA DE ECONOMIA Y FINANZAS PUBLICAS, Gomez, Nilda Copa Condori, Elizabeth Arismendi Chumacero MINISTRA DE DEFENSA LEGAL DEL ESTADO E INTERINA DE AUTONOMIA, Zulma Yugar Parraga. 
 

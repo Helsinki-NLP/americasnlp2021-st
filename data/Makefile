@@ -27,7 +27,8 @@ ${XMLALG}:
 		-src ${firstword ${sort ${patsubst %.xml,%.sentxml,\
 			${wildcard ${@:.alignxml=}.*.xml}}}} \
 		-trg ${lastword ${sort ${patsubst %.xml,%.sentxml,\
-			${wildcard ${@:.alignxml=}.*.xml}}}} | iconv -f UTF-8 -t LATIN1 > $@
+			${wildcard ${@:.alignxml=}.*.xml}}}} 2> $@.log | \
+	iconv -f UTF-8 -t LATIN1 > $@
 	opus2bitext \
 		-e ${dir $@}sent-${notdir $(patsubst %.sentxml,%,\
 			${firstword ${sort ${patsubst %.xml,%.sentxml,\
