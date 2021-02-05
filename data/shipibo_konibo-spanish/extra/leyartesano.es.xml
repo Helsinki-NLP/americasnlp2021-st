@@ -1,0 +1,933 @@
+<?xml version="1.0" ?>
+<doc>
+	<p id="p1">
+		<s id="es1">Ley 29073</s>
+	</p>
+	<p id="p2">
+		<s id="es2">LEY DEL ARTESANO Y DEL DESARROLLO DE LA ACTIVIDAD ARTESANAL</s>
+	</p>
+	<p id="p3">
+		<s id="es3">Presentación</s>
+	</p>
+	<p id="p4">
+		<s id="es4">En el Perú habitan actualmente 55 pueblos indígenas u originarios.</s>
+		<s id="es5">De ellos, 51 son originarios de la Amazonía y 4 de los Andes.</s>
+		<s id="es6">La Constitución Política del Perú y la Ley N° 29735 - Ley que regula el uso, preservación, desarrollo, recuperación, fomento y difusión de las lenguas originarias del Perú, garantizan el ejercicio de los derechos lingüísticos de manera individual y colectiva, así como el derecho de todas las personas a usar su lengua en todos los ámbitos.</s>
+	</p>
+	<p id="p5">
+		<s id="es7">Se entiende por lenguas indígenas u originarias del Perú todas aquellas que son anteriores a la difusión del idioma castellano o español y que se preservan o emplean en el ámbito del territorio nacional1.</s>
+		<s id="es8">De acuerdo con los datos del Censo de Población y Vivienda 2007, cuatro millones cuarenta y cinco mil setecientas trece personas tenían por lengua materna una lengua indígena u originaria, lo cual representa aproximadamente el 15% de la población nacional2.</s>
+		<s id="es9">La lengua Shipibo-Konibo pertenece a la familia lingüística Pano y es hablada en las cuencas de los ríos Ucayali, Pisqui, Madre de Dios y Rímac, y la quebrada Genepanshea, de los departamentos de Huánuco, Loreto, Madre de Dios, Ucayali y Lima.</s>
+		<s id="es10">Por otro lado, mediante la Ley N° 29073 – “Ley del Artesano y del Desarrollo de la Actividad Artesanal” se busca promover el desarrollo del artesano y de la artesanía en sus diversas modalidades; asimismo, se busca facilitar el acceso del artesano al financiamiento privado mejorando sus condiciones de productividad, competitividad, rentabilidad y gestión del mercado.</s>
+		<s id="es11">También es un objetivo de la norma en mención, fomentar la formación de artesanos y la divulgación de sus técnicas, desarrollando sus aptitudes o habilidades.</s>
+		<s id="es12">La Dirección General de Artesanía del Ministerio de Comercio Exterior y Turismo, organiza anualmente la feria nacional Arte Nativa que congrega a los artesanos y artesanas de los pueblos originarios amazónicos con el fin de dar a conocer su oferta artesanal al mercado y generar nuevas oportunidades económicas para estas poblaciones.</s>
+	</p>
+	<p id="p6">
+		<s id="es13">MINCETUR ha visto necesario publicar la “Ley del Artesano y del Desarrollo de la Actividad Artesanal” en una versión bilingüe del castellano a la lengua originaria shipibo-konibo, teniendo como objetivo hacer de mayor conocimiento los derechos y oportunidades que en materia artesanal que brinda el estado peruano a los artesanos de origen shipibo, quienes tienen en la artesanía una actividad con alto potencial económico.</s>
+		<s id="es14">De este modo, se beneficia a una cantidad importante de comunidades nativo hablantes, entre ellas, organizaciones de artesanos de las líneas artesanales: textil, artesanías en fibra vegetal, artesanía tallada en madera, entre otras.</s>
+	</p>
+	<p id="p7">
+		<s id="es15">La publicación de la Ley del Artesano y del Desarrollo de la Actividad Artesanal en su versión castellano - shipibo-konibo cumple dos objetivos: la difusión de la ley, asi como el fomento en el uso y difusión de las lenguas originarias del país.</s>
+	</p>
+	<p id="p8">
+		<s id="es16">1 Reglamento de la Ley N° 29735, Artículo 3 numeral 14.</s>
+	</p>
+	<p id="p9">
+		<s id="es17">2 Ministerio de Cultura.</s>
+		<s id="es18">(2015).</s>
+		<s id="es19">Política Nacional de Transversalización del Enfoque de Interculturalidad.</s>
+		<s id="es20">Lima.</s>
+	</p>
+	<p id="p10">
+		<s id="es21">Edgar Manuel Vásquez Vela Ministro de Comercio Exterior y Turismo</s>
+	</p>
+	<p id="p11">
+		<s id="es22">Artesano</s>
+	</p>
+	<p id="p12">
+		<s id="es23">LEY DEL ARTESANO Y DEL DESARROLLO DE LA ACTIVIDAD ARTESANAL LEY N° 29073</s>
+	</p>
+	<p id="p13">
+		<s id="es24">LA PRESIDENTA DEL CONGRESO DE LA REPÚBLICA</s>
+	</p>
+	<p id="p14">
+		<s id="es25">POR CUANTO:</s>
+	</p>
+	<p id="p15">
+		<s id="es26">LA COMISIÓN PERMANENTE DEL CONGRESO DE LA REPÚBLICA;</s>
+	</p>
+	<p id="p16">
+		<s id="es27">Ha dado la Ley siguiente:</s>
+	</p>
+	<p id="p17">
+		<s id="es28">LEY DEL ARTESANO Y DEL DESARROLLO DE LA ACTIVIDAD ARTESANAL</s>
+	</p>
+	<p id="p18">
+		<s id="es29">TÍTULO I</s>
+	</p>
+	<p id="p19">
+		<s id="es30">Disposiciones generales</s>
+	</p>
+	<p id="p20">
+		<s id="es31">CAPÍTULO I</s>
+	</p>
+	<p id="p21">
+		<s id="es32">Objeto, finalidad y ámbito de aplicación</s>
+	</p>
+	<p id="p22">
+		<s id="es33">Artículo 1.- Objeto de la Ley</s>
+	</p>
+	<p id="p23">
+		<s id="es34">La presente Ley establece el régimen jurídico que reconoce al artesano como constructor de identidad y tradiciones culturales, que regula el desarrollo sostenible, la protección y la promoción de la actividad artesanal en todas sus modalidades, preservando para ello la tradición artesanal en todas sus expresiones, propias de cada lugar, difundiendo y promoviendo sus técnicas y procedimientos de elaboración, teniendo en cuenta la calidad, representatividad, tradición, valor cultural y utilidad, y creando conciencia en la población sobre su importancia económica, social y cultural.</s>
+	</p>
+	<p id="p24">
+		<s id="es35">Artículo 2.- Finalidad</s>
+	</p>
+	<p id="p25">
+		<s id="es36">Son fines de la presente Ley promover el desarrollo del artesano y de la artesanía en sus diversas modalidades, integrándolos al desarrollo económico del país; facilitar el acceso del artesano al financiamiento privado; mejorar sus condiciones de productividad, competitividad, rentabilidad y gestión en el mercado; fomentar la formación de artesanos y la divulgación de sus técnicas, desarrollando sus aptitudes o habilidades; y recuperar y promover las manifestaciones y valores culturales, históricos y la identidad nacional, con el fin de hacer de la actividad artesanal un sector descentralizado, económicamente viable y generador de empleo sostenible.</s>
+	</p>
+	<p id="p26">
+		<s id="es37">Artículo 3.- Ámbito de aplicación</s>
+	</p>
+	<p id="p27">
+		<s id="es38">La presente Ley es de aplicación para los artesanos, empresas de la actividad artesanal y organismos e instituciones vinculados al desarrollo y promoción artesanal.</s>
+		<s id="es39">Estos pueden gozar de los beneficios establecidos en la presente Ley al obtener la Certificación Artesanal y/o encontrándose registrados en el Registro Nacional del Artesano, de acuerdo a lo establecido en los artículos 29 y 30, respectivamente.</s>
+	</p>
+	<p id="p28">
+		<s id="es40">CAPÍTULO II</s>
+	</p>
+	<p id="p29">
+		<s id="es41">Definiciones y clasificación de artesanía</s>
+	</p>
+	<p id="p30">
+		<s id="es42">Artículo 4.- Artesano</s>
+	</p>
+	<p id="p31">
+		<s id="es43">Entiéndese por artesano a la persona que se dedica a la elaboración de objetos que reúnan las características establecidas en el artículo 5, y que desarrolle una o más de las actividades señaladas en el Clasificador Nacional de Líneas Artesanales.</s>
+	</p>
+	<p id="p32">
+		<s id="es44">Artículo 5.- Artesanía</s>
+	</p>
+	<p id="p33">
+		<s id="es45">Entiéndese por artesanía a la actividad económica y cultural destinada a la elaboración y producción de bienes, ya sea totalmente a mano o con ayuda de herramientas manuales, e incluso medios mecánicos, siempre y cuando el valor agregado principal sea compuesto por la mano de obra directa y esta continúe siendo el componente más importante del producto acabado, pudiendo la naturaleza de los productos estar basada en sus características distintivas, intrínsecas al bien final ya sea en términos del valor histórico, cultural, utilitario o estético, que cumplen una función social reconocida, empleando materias primas originarias de las zonas de origen y que se identifiquen con un lugar de producción.</s>
+	</p>
+	<p id="p34">
+		<s id="es46">CONCORDANCIAS: D.S. Nº 008-2010-MINCETUR (Reglamento), Arts.</s>
+		<s id="es47">7 y 32</s>
+	</p>
+	<p id="p35">
+		<s id="es48">Artesanía tradicional</s>
+	</p>
+	<p id="p36">
+		<s id="es49">Artesanía innovada</s>
+	</p>
+	<p id="p37">
+		<s id="es50">Artículo 6.- Clasificación de artesanía</s>
+	</p>
+	<p id="p38">
+		<s id="es51">Para los efectos de la presente Ley, la artesanía se clasifica en:</s>
+	</p>
+	<p id="p39">
+		<s id="es52">a) Artesanía tradicional: Son los bienes que tienen un uso utilitario, ritual o estético y que representan las costumbres y tradiciones de una región determinada.</s>
+		<s id="es53">Constituye por lo tanto, expresión material de la cultura de comunidades o etnias, y puede ser:</s>
+	</p>
+	<p id="p40">
+		<s id="es54">i) Utilitaria</s>
+	</p>
+	<p id="p41">
+		<s id="es55">ii) Artística</s>
+	</p>
+	<p id="p42">
+		<s id="es56">b) Artesanía innovada: Son bienes que tienen una funcionalidad generalmente de carácter decorativo o utilitario, que está muy influenciada por la tendencia del mercado, y puede ser:</s>
+	</p>
+	<p id="p43">
+		<s id="es57">i) Utilitaria</s>
+	</p>
+	<p id="p44">
+		<s id="es58">ii) Artística</s>
+	</p>
+	<p id="p45">
+		<s id="es59">CONCORDANCIAS: D.S. Nº 008-2010-MINCETUR (Reglamento), Art.</s>
+		<s id="es60">7</s>
+	</p>
+	<p id="p46">
+		<s id="es61">Artículo 7.- Líneas Artesanales y Clasificador Nacional de Líneas Artesanales</s>
+	</p>
+	<p id="p47">
+		<s id="es62">7.1 Líneas Artesanales son los diferentes procesos de producción artesanal, vinculados a las materias primas que se utilicen en las diferentes regiones del país, existentes y futuras, que expresan la creatividad y habilidad manual del artesano.</s>
+	</p>
+	<p id="p48">
+		<s id="es63">7.2 El Clasificador Nacional de Líneas Artesanales es el inventario de las líneas artesanales existentes y de las que se desarrollen en el futuro.</s>
+		<s id="es64">Tiene la finalidad de identificar adecuadamente los productos artesanales.</s>
+	</p>
+	<p id="p49">
+		<s id="es65">7.3 El Ministerio de Comercio Exterior y Turismo aprueba el Clasificador Nacional de Líneas Artesanales.</s>
+	</p>
+	<p id="p50">
+		<s id="es66">Líneas artesanales</s>
+	</p>
+	<p id="p51">
+		<s id="es67">CAPÍTULO III</s>
+	</p>
+	<p id="p52">
+		<s id="es68">Entidades involucradas en la actividad artesanal</s>
+	</p>
+	<p id="p53">
+		<s id="es69">Artículo 8.- Empresas de la actividad artesanal</s>
+	</p>
+	<p id="p54">
+		<s id="es70">Son empresas de la actividad artesanal todas las personas naturales y las personas jurídicas compuestas por artesanos dedicadas a la producción y comercialización de objetos que reúnan las características establecidas en el artículo 5 y que se encuentran consideradas en el Clasificador Nacional de Líneas Artesanales.</s>
+	</p>
+	<p id="p55">
+		<s id="es71">Artículo 9.- Rol promotor del Estado</s>
+	</p>
+	<p id="p56">
+		<s id="es72">El Estado promueve y facilita el desarrollo de la actividad artesanal a través de los diversos sectores y niveles de gobierno, estableciendo mecanismos para incentivar la inversión privada, la producción, el acceso a los mercados interno y externo, la investigación, el rescate y la difusión cultural, así como otros mecanismos que permitan la organización empresarial y asociativa que coadyuven al crecimiento sostenible de la artesanía.</s>
+	</p>
+	<p id="p57">
+		<s id="es73">Artículo 10.- Ente rector</s>
+	</p>
+	<p id="p58">
+		<s id="es74">10.1 El Ministerio de Comercio Exterior y Turismo - MINCETUR es la entidad competente para ejecutar la promoción, orientación y regulación de la artesanía de acuerdo a la Ley Nº 27790, Ley de Organización y Funciones del Ministerio de Comercio Exterior y Turismo.</s>
+	</p>
+	<p id="p59">
+		<s id="es75">Rol promotor del Estado y Ente rector</s>
+	</p>
+	<p id="p60">
+		<s id="es76">10.2 En el ámbito regional, son competentes los gobiernos regionales, ejerciendo las funciones establecidas en la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, y su modificatoria, la Ley Nº 27902.</s>
+	</p>
+	<p id="p61">
+		<s id="es77">10.3 En el ámbito local, los entes competentes son las municipalidades provinciales y distritales de acuerdo a la Ley Nº 27972, Ley Orgánica de Municipalidades.</s>
+	</p>
+	<p id="p62">
+		<s id="es78">Artículo 11.- Entidades involucradas</s>
+	</p>
+	<p id="p63">
+		<s id="es79">Se encuentran involucradas en el establecimiento de medidas conducentes al cumplimiento de los distintos lineamientos y mecanismos de promoción y desarrollo artesanal, de acuerdo a sus correspondientes ámbitos de competencia nacional, regional y local, las entidades del sector público y privado que tengan vinculación directa o indirecta con la actividad artesanal.</s>
+	</p>
+	<p id="p64">
+		<s id="es80">Artículo 12.- Consejo Nacional de Fomento Artesanal</s>
+	</p>
+	<p id="p65">
+		<s id="es81">12.1 Créase el Consejo Nacional de Fomento Artesanal en el Ministerio de Comercio Exterior y Turismo, el cual reemplazará al Comité Consultivo de Artesanía.</s>
+	</p>
+	<p id="p66">
+		<s id="es82">12.2 Está integrado por once (11) representantes:</s>
+	</p>
+	<p id="p67">
+		<s id="es83">12.2.1 Un representante del Ministerio de Comercio Exterior y Turismo, quien lo presidirá.</s>
+	</p>
+	<p id="p68">
+		<s id="es84">12.2.2 Un representante del Ministerio de la Producción.</s>
+	</p>
+	<p id="p69">
+		<s id="es85">12.2.3 Un representante del Ministerio de Educación.</s>
+	</p>
+	<p id="p70">
+		<s id="es86">12.2.4 Un representante del Instituto Nacional de Cultura.*</s>
+	</p>
+	<p id="p71">
+		<s id="es87">12.2.5 Un representante de instituciones privadas de desarrollo vinculadas con el sector artesanal.</s>
+	</p>
+	<p id="p72">
+		<s id="es88">CONCORDANCIAS: D.S. N° 001-2008-MINCETUR, Art.</s>
+		<s id="es89">17</s>
+	</p>
+	<p id="p73">
+		<s id="es90">*Actualmente Ministerio de Cultura.</s>
+		<s id="es91">Ley Nº 29565 (21/07/2010)</s>
+	</p>
+	<p id="p74">
+		<s id="es92">12.3 Seis representantes de los artesanos peruanos, elegidos entre las asociaciones de artesanos formalmente constituidas y registradas en el Registro Nacional del Artesano.</s>
+	</p>
+	<p id="p75">
+		<s id="es93">12.4 Los gobiernos regionales, a través de las Direcciones Regionales de Comercio Exterior y Turismo, contarán con un Consejo Regional de Fomento Artesanal como órgano de coordinación entre el sector público y privado.</s>
+		<s id="es94">La composición y funciones son establecidas por resolución regional.</s>
+	</p>
+	<p id="p76">
+		<s id="es95">CONCORDANCIAS: D.S. N° 001-2008-MINCETUR, Art.</s>
+		<s id="es96">14</s>
+	</p>
+	<p id="p77">
+		<s id="es97">12.5 Las municipalidades provinciales y distritales contarán con un Consejo Local de Fomento Artesanal como órgano de coordinación entre el sector público y privado.</s>
+		<s id="es98">La composición y funciones son establecidas por norma local.</s>
+	</p>
+	<p id="p78">
+		<s id="es99">CONCORDANCIAS: D.S. N° 001-2008-MINCETUR, Art.</s>
+		<s id="es100">14, Art.</s>
+		<s id="es101">15</s>
+	</p>
+	<p id="p79">
+		<s id="es102">D.S. N° 001-2008 - MINCETUR (Reglamento del Registro Nacional del Artesano y del Consejo Nacional de Fomento Artesanal, creados mediante los Artículos 12 y 30 de la Ley Nº 29073 - Ley del Artesano y del Desarrollo de la Actividad Artesanal )</s>
+	</p>
+	<p id="p80">
+		<s id="es103">D.S. Nº 008-2010-MINCETUR (Reglamento), Arts.</s>
+		<s id="es104">10, 12 y 14, num.</s>
+		<s id="es105">14.3</s>
+	</p>
+	<p id="p81">
+		<s id="es106">Artículo 13.- Funciones del Consejo Nacional de Fomento Artesanal</s>
+	</p>
+	<p id="p82">
+		<s id="es107">Son funciones del Consejo Nacional de Fomento Artesanal:</s>
+	</p>
+	<p id="p83">
+		<s id="es108">a) Proponer la política artesanal del país y las normas y acciones de apoyo a dicha actividad</s>
+	</p>
+	<p id="p84">
+		<s id="es109">b) Evaluar permanentemente el cumplimiento de los objetivos propuestos y sustentar las medidas necesarias para su eficaz aplicación;</s>
+	</p>
+	<p id="p85">
+		<s id="es110">c) Promover la organización de certámenes nacionales, regionales y locales, para la superación de los artesanos;</s>
+	</p>
+	<p id="p86">
+		<s id="es111">d) Proponer el Clasificador Nacional de Líneas Artesanales;</s>
+	</p>
+	<p id="p87">
+		<s id="es112">e) Promover que las personas con discapacidad tengan acceso a los Centros de Formación y Capacitación Artesanal, así como a los centros o talleres de producción artesanal, de conformidad con la Ley Nº 27050, Ley de la Persona con Discapacidad;</s>
+	</p>
+	<p id="p88">
+		<s id="es113">y, f) Las demás que señale el reglamento.</s>
+	</p>
+	<p id="p89">
+		<s id="es114">CONCORDANCIAS: D.S. N° 001-2008-MINCETUR, Art.</s>
+		<s id="es115">14 D.S. Nº 008-2010-MINCETUR (Reglamento), Art.</s>
+		<s id="es116">11</s>
+	</p>
+	<p id="p90">
+		<s id="es117">Consejo Nacional de Fomento Artesanal – CONAFAR</s>
+	</p>
+	<p id="p91">
+		<s id="es118">TÍTULO II</s>
+	</p>
+	<p id="p92">
+		<s id="es119">Lineamientos y mecanismos de promoción, comercialización, accceso al mercado y sistema de información de la actividad artesanal</s>
+	</p>
+	<p id="p93">
+		<s id="es120">CAPÍTULO I</s>
+	</p>
+	<p id="p94">
+		<s id="es121">Lineamientos estratégicos</s>
+	</p>
+	<p id="p95">
+		<s id="es122">Artículo 14.- Lineamientos estratégicos de promoción</s>
+	</p>
+	<p id="p96">
+		<s id="es123">La acción del Estado en materia de promoción de la actividad artesanal se orienta por los siguientes lineamientos estratégicos:</s>
+	</p>
+	<p id="p97">
+		<s id="es124">a) Promover el crecimiento, desarrollo integral y reconocimiento del artesano y de la actividad artesanal impulsando la inversión privada y el acceso al mercado interno y externo de este sector.</s>
+	</p>
+	<p id="p98">
+		<s id="es125">b) Promover y preservar los valores culturales, históricos y de identidad nacional.</s>
+	</p>
+	<p id="p99">
+		<s id="es126">c) Fomentar la innovación tecnológica y el uso de normas técnicas para el mejoramiento de la calidad y competitividad de los productos artesanales.</s>
+	</p>
+	<p id="p100">
+		<s id="es127">d) Propiciar la articulación, cooperación y asociatividad de los diferentes agentes que intervienen en el sector artesanal.</s>
+	</p>
+	<p id="p101">
+		<s id="es128">e) Promover la permanente capacitación del artesano, estimulando el desarrollo de las aptitudes y habilidades que incrementen su potencial creativo, técnico y económico.</s>
+	</p>
+	<p id="p102">
+		<s id="es129">f) Fomentar y difundir, en el sector artesanal, el uso y aplicación de la regulación relativa a la propiedad intelectual.</s>
+	</p>
+	<p id="p103">
+		<s id="es130">g) Promover una cultura de conservación y sostenibilidad del medio ambiente en los procesos productivos de la actividad artesanal.</s>
+	</p>
+	<p id="p104">
+		<s id="es131">h) Fomentar la conciencia ciudadana, promoviendo las condiciones adecuadas para el logro del bienestar socioeconómico del sector artesanal.</s>
+	</p>
+	<p id="p105">
+		<s id="es132">i) Reconocer y apoyar a los artesanos productores de las comunidades campesinas y nativas.</s>
+	</p>
+	<p id="p106">
+		<s id="es133">CAPÍTULO II</s>
+	</p>
+	<p id="p107">
+		<s id="es134">Mecanismos de promoción, asociatividad y comercialización</s>
+	</p>
+	<p id="p108">
+		<s id="es135">Artículo 15.- Rol formalizador de las entidades descentralizadas</s>
+	</p>
+	<p id="p109">
+		<s id="es136">El Ministerio de Comercio Exterior y Turismo - MINCETUR, en coordinación con los gobiernos regionales y los gobiernos locales, a través de sus órganos competentes, orienta a los artesanos en los actos de formalización, constitución, organización y acceso al mercado nacional e internacional.</s>
+		<s id="es137">Estas labores serán realizadas conjuntamente con las demás entidades públicas vinculadas a la promoción del artesano y de la actividad artesanal, así como con las entidades del sector privado.</s>
+	</p>
+	<p id="p110">
+		<s id="es138">Artículo 16.- Cooperación y asociatividad</s>
+	</p>
+	<p id="p111">
+		<s id="es139">El Estado, a través de las entidades a las que se refiere el artículo 11 y dentro del ámbito de sus competencias, promueve y fomenta la complementación, cooperación, asociatividad y el desarrollo de sinergias entre los distintos agentes incluidos en la cadena de valor de la artesanía.</s>
+	</p>
+	<p id="p112">
+		<s id="es140">Artículo 17.- Comercialización</s>
+	</p>
+	<p id="p113">
+		<s id="es141">El Estado, a través de las entidades a las que se refiere el artículo 11 y dentro del ámbito de sus competencias, incentiva la comercialización directa de los productos artesanales.</s>
+		<s id="es142">Para tal efecto, se incentiva la comercialización directa de los artesanos productores de las comunidades campesinas y nativas, o mediante las propias organizaciones de artesanos.</s>
+	</p>
+	<p id="p114">
+		<s id="es143">Asociatividad</s>
+	</p>
+	<p id="p115">
+		<s id="es144">Artículo 18.- Ferias</s>
+	</p>
+	<p id="p116">
+		<s id="es145">29.1 El Ministerio de Comercio Exterior y Turismo - MINCETUR propone, coordina, supervisa y evalúa las políticas y normas orientadas a promover la organización de las ferias de artesanía, emitiendo la normativa de alcance nacional.</s>
+	</p>
+	<p id="p117">
+		<s id="es146">29.2 Los gobiernos regionales, las municipalidades provinciales y distritales, en coordinación con las entidades públicas y privadas, organizan y promueven ferias y exposiciones artesanales en sus jurisdicciones.</s>
+	</p>
+	<p id="p118">
+		<s id="es147">29.3 En toda feria internacional donde esté representado el Estado peruano mediante alguna de sus instituciones, debe existir presencia de los artesanos productores y sus obras, en especial los de las comunidades campesinas y nativas.</s>
+	</p>
+	<p id="p119">
+		<s id="es148">Artículo 19.- Promoción de la actividad artesanal</s>
+	</p>
+	<p id="p120">
+		<s id="es149">La promoción de la actividad artesanal, prevista en la presente Ley, involucra los procesos culturales, así como todas las fases del proceso económico, es decir, producción, comercialización y distribución.</s>
+		<s id="es150">La política de apoyo no excluye atender emprendimientos individuales, pero privilegia las diversas formas asociativas, constituidas o por constituirse como personas jurídicas domiciliadas en el país.</s>
+	</p>
+	<p id="p121">
+		<s id="es151">CAPÍTULO III</s>
+	</p>
+	<p id="p122">
+		<s id="es152">Acceso a mercados y competitividad</s>
+	</p>
+	<p id="p123">
+		<s id="es153">Artículo 20.- Acceso a mercados</s>
+	</p>
+	<p id="p124">
+		<s id="es154">El Ministerio de Comercio Exterior y Turismo - MINCETUR, conjuntamente con las instituciones públicas encargadas de la promoción de las exportaciones, de la promoción turística, y de la promoción de la pequeña y microempresa, en coordinación con el Ministerio de Relaciones Exteriores, los gobiernos regionales y locales y otros sectores o instituciones competentes, facilita el acceso a los mercados, interno y externo, a los artesanos y empresas de la actividad artesanal, a través de diversos instrumentos de promoción, cooperación, asociatividad, capacitación empresarial y facilitación comercial.</s>
+		<s id="es155">Para tal efecto, promueve la diversificación y expansión del mercado interno y de la exportación de las artesanías artísticas y utilitarias.</s>
+	</p>
+	<p id="p125">
+		<s id="es156">Artículo 21.- Competitividad para la exportación</s>
+	</p>
+	<p id="p126">
+		<s id="es157">21.2 El Estado, a través del órgano competente, complementa programas anuales para la participación, en el exterior, de los artesanos y de las empresas productoras artesanales, con la finalidad de fomentar la exportación de sus productos.</s>
+	</p>
+	<p id="p127">
+		<s id="es158">21.2 Asimismo, desarrolla programas permanentes de capacitación para los artesanos y sus asociaciones, con el fin de adecuar su producción a los estándares de calidad y competitividad que exige el mercado internacional.</s>
+	</p>
+	<p id="p128">
+		<s id="es159">Ferias</s>
+	</p>
+	<p id="p129">
+		<s id="es160">CAPÍTULO IV</s>
+	</p>
+	<p id="p130">
+		<s id="es161">Sistema de información para la promoción y desarrollo del artesano</s>
+	</p>
+	<p id="p131">
+		<s id="es162">Artículo 22.- Sistema de Información para la Promoción y Desarrollo del Artesano</s>
+	</p>
+	<p id="p132">
+		<s id="es163">El Ministerio de Comercio Exterior y Turismo - MINCETUR es el encargado de implementar en su página web el Sistema de Información para la Promoción y Desarrollo del Artesano, el cual deberá mantenerse debidamente actualizado y accesible al artesano las veinticuatro (24) horas del día, incluyendo feriados.</s>
+	</p>
+	<p id="p133">
+		<s id="es164">Para tal efecto, las entidades públicas vinculadas a la promoción y desarrollo artesanal deben suministrar a dicho Ministerio toda la información requerida para su implementación y actualización permanente.</s>
+	</p>
+	<p id="p134">
+		<s id="es165">Artículo 23.- Acciones del Sistema</s>
+	</p>
+	<p id="p135">
+		<s id="es166">El Sistema de Información para la Promoción y Desarrollo del Artesano debe cumplir con las siguientes acciones:</s>
+	</p>
+	<p id="p136">
+		<s id="es167">1. Informar sobre las oportunidades de negocios comerciales vinculados a la actividad artesanal, así como acerca de las demandas del mercado nacional e internacional y, en particular, sobre cómo adecuar sus artesanías a los requerimientos, exigencias, necesidades y condiciones de la demanda internacional.</s>
+	</p>
+	<p id="p137">
+		<s id="es168">2. Absolver consultas en materias legales, comerciales y tributarias.</s>
+	</p>
+	<p id="p138">
+		<s id="es169">3. Brindar información que permita el acceso del artesano a los principales mercados externos.</s>
+	</p>
+	<p id="p139">
+		<s id="es170">4. Orientar al artesano sobre todas las distintas modalidades de pago y financiamiento que ofrece el sistema financiero nacional.</s>
+	</p>
+	<p id="p140">
+		<s id="es171">5. Crear un registro electrónico que permita al artesano suscribirse y contactarse con otros artesanos, con fines asociativos.</s>
+	</p>
+	<p id="p141">
+		<s id="es172">6. Ofrecer el acceso al directorio de las siguientes entidades:</s>
+	</p>
+	<p id="p142">
+		<s id="es173">- Organizaciones gubernamentales,</s>
+	</p>
+	<p id="p143">
+		<s id="es174">- Organismos no gubernamentales,</s>
+	</p>
+	<p id="p144">
+		<s id="es175">- Organismos privados relacionados con la actividad artesanal,</s>
+	</p>
+	<p id="p145">
+		<s id="es176">- Padrón de artesanos de las distintas regiones por líneas de actividad,</s>
+	</p>
+	<p id="p146">
+		<s id="es177">- Asociaciones de artesanos ordenados por regiones,</s>
+	</p>
+	<p id="p147">
+		<s id="es178">- Exportadores de artesanía,</s>
+	</p>
+	<p id="p148">
+		<s id="es179">- Importaciones de artesanía,</s>
+	</p>
+	<p id="p149">
+		<s id="es180">- Calendario anual de ferias internacionales,</s>
+	</p>
+	<p id="p150">
+		<s id="es181">- Calendario anual de ferias regionales.</s>
+	</p>
+	<p id="p151">
+		<s id="es182">7. Incentivar y difundir la realización de concursos anuales de artesanos.</s>
+	</p>
+	<p id="p152">
+		<s id="es183">8. Publicar el programa de los foros, conferencias, seminarios, talleres y demás eventos vinculados a la actividad artesanal.</s>
+	</p>
+	<p id="p153">
+		<s id="es184">9. Publicar la relación de insumos, materias primas y bienes intermedios prohibidos y/o restringidos por afectar la salud pública, la seguridad y el medio ambiente.</s>
+	</p>
+	<p id="p154">
+		<s id="es185">10. Publicar la demanda de los mercados internacionales reportada por los funcionarios públicos que viajan para tratar asuntos vinculados a la actividad artesanal.</s>
+	</p>
+	<p id="p155">
+		<s id="es186">11. Difundir la oferta de los artesanos para la demanda internacional.</s>
+	</p>
+	<p id="p156">
+		<s id="es187">12. Proporcionar las normas técnicas internacionales y de calidad exigidas por los mercados internacionales.</s>
+	</p>
+	<p id="p157">
+		<s id="es188">13. Publicar las convocatorias a becas, programas de capacitación, concursos, así como los requisitos para los mismos, y las entidades que los convocan; a capacitaciones y talleres organizados por entidades públicas y privadas destinados a promover la creatividad del artesano.</s>
+	</p>
+	<p id="p158">
+		<s id="es189">14. Comunicar el Plan Estratégico Nacional de Artesanía y sus avances.</s>
+	</p>
+	<p id="p159">
+		<s id="es190">Integración entre turismo y artesanía</s>
+	</p>
+	<p id="p160">
+		<s id="es191">CAPÍTULO V</s>
+	</p>
+	<p id="p161">
+		<s id="es192">Articulación entre turismo y artesanía</s>
+	</p>
+	<p id="p162">
+		<s id="es193">Artículo 24.- Integración entre turismo y artesanía*</s>
+	</p>
+	<p id="p163">
+		<s id="es194">El Estado reconoce a la artesanía como un recurso turístico incorporable en todos los productos turísticos del Perú.</s>
+		<s id="es195">Para tal efecto, las distintas entidades públicas en los ámbitos nacional, regional y local incorporan el componente artesanía en la normativa del sector turismo, en los programas, proyectos de desarrollo y de promoción de productos turísticos, atendiendo a la clasificación prevista en el artículo 6.</s>
+	</p>
+	<p id="p164">
+		<s id="es196">Artículo 25.- Incorporación de los pueblos o conglomerados artesanales al producto turístico</s>
+	</p>
+	<p id="p165">
+		<s id="es197">Las entidades públicas vinculadas a la actividad turística y actividad artesanal, en coordinación con organismos privados del sector turismo y los gremios artesanales, diseñan, ejecutan y supervisan programas y proyectos para incorporar a las poblaciones o conglomerados artesanales a los circuitos y/o productos turísticos.</s>
+	</p>
+	<p id="p166">
+		<s id="es198">*Modificado por Ley Nº 30930 (11/04/2019)</s>
+	</p>
+	<p id="p167">
+		<s id="es199">CAPITULO VI</s>
+	</p>
+	<p id="p168">
+		<s id="es200">Del reconocimiento y estímulo</s>
+	</p>
+	<p id="p169">
+		<s id="es201">Artículo 26.- Del reconocimiento a los Artesanos</s>
+	</p>
+	<p id="p170">
+		<s id="es202">El Estado, a través del ente rector, promueve concursos y certámenes con el objeto de valorar el talento, la competitividad y la creatividad del artesano peruano; asimismo, reconoce y distingue a los artesanos, empresas de la actividad artesanal y otras personas e instituciones involucradas en el sector artesanal que fomentan y difunden la identidad nacional.</s>
+	</p>
+	<p id="p171">
+		<s id="es203">Artículo 27.- Del Día del Artesano</s>
+	</p>
+	<p id="p172">
+		<s id="es204">Desde la entrada en vigencia de la presente Ley, institucionalízase al día 19 de marzo de cada año como el “Día del Artesano Peruano”.</s>
+	</p>
+	<p id="p173">
+		<s id="es205">Artículo 28.- De los concursos anuales</s>
+	</p>
+	<p id="p174">
+		<s id="es206">El Ministerio de Comercio Exterior y Turismo organiza los concursos anuales “Premio Nacional Amautas de la Artesanía Peruana” y “Premio Nacional de Diseño de la Artesanía Peruana”.</s>
+	</p>
+	<p id="p175">
+		<s id="es207">Los concursos de artesanía de iniciativa privada podrán contar con el reconocimiento del Ministerio de Comercio Exterior y Turismo, previa calificación.</s>
+	</p>
+	<p id="p176">
+		<s id="es208">Asimismo, el Congreso de la República, en coordinación con el Ministerio de Comercio Exterior y Turismo, impondrá la Medalla “Joaquín López Antay”, en reconocimiento a la trayectoria artístico-artesanal.</s>
+	</p>
+	<p id="p177">
+		<s id="es209">CONCORDANCIAS: D.S. Nº 008-2010-MINCETUR (Reglamento), Art.</s>
+		<s id="es210">35, num.</s>
+		<s id="es211">35.1</s>
+	</p>
+	<p id="p178">
+		<s id="es212">Reconocimiento y estímulo al artesano</s>
+	</p>
+	<p id="p179">
+		<s id="es213">TÍTULO III</s>
+	</p>
+	<p id="p180">
+		<s id="es214">Medidas para la certificación y protección de la propiedad intelectual en la actividad artesanal</s>
+	</p>
+	<p id="p181">
+		<s id="es215">CAPÍTULO I</s>
+	</p>
+	<p id="p182">
+		<s id="es216">Certificación artesanal y Registro Nacional del Artesano</s>
+	</p>
+	<p id="p183">
+		<s id="es217">Artículo 29.- De la Certificación Artesanal</s>
+	</p>
+	<p id="p184">
+		<s id="es218">29.1 El Ministerio de Comercio Exterior y Turismo otorga Certificación Artesanal a los artesanos, a las personas jurídicas que realicen actividad artesanal y a los organismos e instituciones de desarrollo y promoción artesanal.</s>
+		<s id="es219">Puede crear también otras certificaciones o registros.</s>
+	</p>
+	<p id="p185">
+		<s id="es220">29.2 Esta Certificación permite gozar de los beneficios de acreditación dados a la actividad artesanal ante las entidades internacionales y nacionales.</s>
+	</p>
+	<p id="p186">
+		<s id="es221">29.3 Los gobiernos regionales otorgan Certificación Artesanal en su jurisdicción a través de las Direcciones Regionales de Turismo y Artesanía o las que hagan sus veces.</s>
+	</p>
+	<p id="p187">
+		<s id="es222">Día del artesano</s>
+	</p>
+	<p id="p188">
+		<s id="es223">Registro Nacional del Artesano – RNA</s>
+	</p>
+	<p id="p189">
+		<s id="es224">29.4 Las municipalidades provinciales y distritales otorgan Certificación Artesanal en su jurisdicción, a través del órgano competente.</s>
+	</p>
+	<p id="p190">
+		<s id="es225">Artículo 30.- Registro</s>
+	</p>
+	<p id="p191">
+		<s id="es226">El Ministerio de Comercio Exterior y Turismo, en coordinación con los gobiernos regionales y los gobiernos locales y los sectores o instituciones a que se refiere el artículo 11, establece el Registro Nacional del Artesano.</s>
+		<s id="es227">Este Registro debe tener características unificadas y descentralizadas.</s>
+	</p>
+	<p id="p192">
+		<s id="es228">El Registro Nacional del Artesano constituye un insumo base para el cumplimiento de los objetivos y la finalidad de la presente Ley, así como para el logro de las acciones y lineamientos estratégicos establecidos para la actividad artesanal.</s>
+		<s id="es229">En tal sentido, apoya la labor que corresponde al ente rector y a las entidades involucradas en la actividad artesanal; en consecuencia, su implementación y actualización tiene carácter obligatorio.</s>
+	</p>
+	<p id="p193">
+		<s id="es230">CONCORDANCIAS: D.S. N° 001-2008-MINCETUR (Reglamento del Registro Nacional del Artesano y del Consejo Nacional de Fomento Artesanal, creados mediante los Artículos 12 y 30 de la Ley Nº 29073 - Ley del Artesano y del Desarrollo de la Actividad Artesanal) D.S. N° 001-2008-MINCETUR, Art.</s>
+		<s id="es231">5 D.S. Nº 008-2010-MINCETUR (Reglamento), Arts.</s>
+		<s id="es232">23 y 27</s>
+	</p>
+	<p id="p194">
+		<s id="es233">CAPÍTULO II</s>
+	</p>
+	<p id="p195">
+		<s id="es234">Protección de la propiedad intelectual del artesano y de la tradición artesanal</s>
+	</p>
+	<p id="p196">
+		<s id="es235">Artículo 31.- Protección de los derechos intelectuales del artesano</s>
+	</p>
+	<p id="p197">
+		<s id="es236">El Estado promueve la protección de la creatividad del artesano a través de las diferentes formas de protección de la propiedad intelectual.</s>
+	</p>
+	<p id="p198">
+		<s id="es237">Artículo 32.- Alcance de la protección*</s>
+	</p>
+	<p id="p199">
+		<s id="es238">Reconócese a los artesanos los derechos morales y los derechos patrimoniales contenidos en el Decreto Legislativo 822, Ley sobre el Derecho de Autor, de conformidad con los requsitos que este señale.</s>
+		<s id="es239">De la misma manera, las obras de artesanía gozan de la protección que otorga la legislación de propiedad industrial vigente.</s>
+	</p>
+	<p id="p200">
+		<s id="es240">Artículo 33.- Derechos intelectuales</s>
+	</p>
+	<p id="p201">
+		<s id="es241">El INDECOPI es la autoridad encargada de reconocer y cautelar los derechos intelectuales de los artesanos en el marco de lo establecido en el Decreto Legislativo Nº 822, Ley sobre el Derecho de Autor, y demás normativa.</s>
+		<s id="es242">Asimismo, le corresponde la protección de las marcas colectivas.</s>
+	</p>
+	<p id="p202">
+		<s id="es243">Artículo 34.- Denominaciones de origen</s>
+	</p>
+	<p id="p203">
+		<s id="es244">El INDECOPI otorga denominación de origen de las obras artesanales, siempre que cumplan con los requisitos previstos en la normativa vigente sobre la materia.</s>
+	</p>
+	<p id="p204">
+		<s id="es245">*Modificado por Ley Nº 30930 (11/04/2019)</s>
+	</p>
+	<p id="p205">
+		<s id="es246">Formación y Capacitación del artesano</s>
+	</p>
+	<p id="p206">
+		<s id="es247">TÍTULO IV</s>
+	</p>
+	<p id="p207">
+		<s id="es248">Capacitación, asistencia e innovación tecnológica del artesano</s>
+	</p>
+	<p id="p208">
+		<s id="es249">CAPÍTULO I</s>
+	</p>
+	<p id="p209">
+		<s id="es250">Formación y capacitación del artesano</s>
+	</p>
+	<p id="p210">
+		<s id="es251">Artículo 35.- Acciones para la capacitación del artesano</s>
+	</p>
+	<p id="p211">
+		<s id="es252">35.1 El Ministerio de Comercio Exterior y Turismo podrá autorizar a los Centros de Innovación Tecnológica de Artesanía y Turismo del Perú y a otras entidades educativas, así como a empresas acreditadoras, realizar la certificación de competencias para el desarrollo de oficios artesanales, de conformidad con los lineamientos, requisitos y condiciones que establezca dicho sector, previo reconocimiento de entidades tales como el Ministerio de Trabajo y Promoción del Empleo, del Ministerio de Educación u otro organismo del Gobierno Nacional, regional o local, vinculado a la educación, cultura o actividad artesanal para que los artesanos puedan ejercer la docencia para la enseñanza de aprendizajes de artesanía en los Centros de Educación Técnico-Productiva o en los Centros de Educación Ocupacional.</s>
+	</p>
+	<p id="p212">
+		<s id="es253">35.2 Además, mediante los Centros de Innovación Tecnológica de Artesanía y Turismo del Perú y otras entidades educativas, como los Centros de Educación Ocupacional (CEO) o los Centros de Educación Técnico-Productiva (CEPROS), el Estado promueve el desarrollo productivo y de gestión de artesanos y empresas de la actividad artesanal.</s>
+	</p>
+	<p id="p213">
+		<s id="es254">35.3 Los Centros de Desarrollo Artesanal (CEDAR) del sector público serán rehabilitados para su funcionamiento como Centros de Innovación Tecnológica de Artesanía y Turismo, pudiendo establecer convenios con entidades del sector público y privado.</s>
+	</p>
+	<p id="p214">
+		<s id="es255">CAPÍTULO II</s>
+	</p>
+	<p id="p215">
+		<s id="es256">Investigación, asistencia e innovación tecnológica</s>
+	</p>
+	<p id="p216">
+		<s id="es257">Artículo 36.- Programas de investigación</s>
+	</p>
+	<p id="p217">
+		<s id="es258">El Ministerio de Comercio Exterior y Turismo, así como los gobiernos regionales y locales, coordinan con los organismos competentes de investigación, desarrollo tecnológico y competitividad del país la formulación de programas y proyectos específicos destinados a mejorar la competitividad de la producción artesanal.</s>
+	</p>
+	<p id="p218">
+		<s id="es259">Artículo 37.- Innovación tecnológica</s>
+	</p>
+	<p id="p219">
+		<s id="es260">Las universidades, institutos superiores tecnológicos y Centros de Innovación Tecnológica de Artesanía y Turismo estatales asisten tecnológicamente y en forma descentralizada a la actividad artesanal, en el desarrollo de programas de investigación que propicien la innovación, transferencia, desarrollo, intercambio, difusión y la utilización de tecnologías adecuadas, coadyuvando a elevar la competitividad del sector artesanal.</s>
+	</p>
+	<p id="p220">
+		<s id="es261">Artículo 38.- Normas técnicas</s>
+	</p>
+	<p id="p221">
+		<s id="es262">38.1 El Ministerio de Comercio Exterior y Turismo difunde y promueve la creación y el uso de las certificaciones de calidad para la artesanía peruana, de acuerdo a lo establecido en el reglamento de la presente Ley.</s>
+	</p>
+	<p id="p222">
+		<s id="es263">38.2 En coordinación con el sector privado, el Ministerio de Comercio Exterior y Turismo y los demás organismos competentes fomentarán el uso y aplicación de Normas Técnicas y Manuales de Buenas Prácticas de Manufactura y Mercadeo, elaboradas por dicho sector en coordinación con el sector privado.</s>
+	</p>
+	<p id="p223">
+		<s id="es264">Artesanía del Pueblo Shipibo</s>
+	</p>
+	<p id="p224">
+		<s id="es265">CAPÍTULO III</s>
+	</p>
+	<p id="p225">
+		<s id="es266">Del medio ambiente</s>
+	</p>
+	<p id="p226">
+		<s id="es267">Artículo 39.- Materias primas en peligro de extinción</s>
+	</p>
+	<p id="p227">
+		<s id="es268">Los organismos competentes del Estado, en coordinación con el Ministerio de Comercio Exterior y Turismo, velan por la adecuada conservación, protección y por la explotación sustentable de materias primas en peligro de extinción que sean utilizadas en la elaboración de productos artesanales.</s>
+	</p>
+	<p id="p228">
+		<s id="es269">Artículo 40.- De las artesanías de origen indígena y nativo</s>
+	</p>
+	<p id="p229">
+		<s id="es270">El Estado, a través del Ministerio de Comercio Exterior y Turismo y en coordinación con los organismos competentes, velará por el desarrollo y preservación de las artesanías de origen indígena y nativo, respetando las diferencias de las etnias buscando asegurar el equilibrio ecológico necesario, en especial en las zonas naturales protegidas.</s>
+	</p>
+	<p id="p230">
+		<s id="es271">Artículo 41.- Medio ambiente</s>
+	</p>
+	<p id="p231">
+		<s id="es272">Los programas y proyectos para el sector artesanía, ejecutados por el sector público o por el sector privado, deben contener un componente que asegure la conservación y sostenibilidad del medio ambiente.</s>
+	</p>
+	<p id="p232">
+		<s id="es273">Medio ambiente y materias primas</s>
+	</p>
+	<p id="p233">
+		<s id="es274">Disposiciones complementarias</s>
+	</p>
+	<p id="p234">
+		<s id="es275">PRIMERA.- Información estadística</s>
+	</p>
+	<p id="p235">
+		<s id="es276">El Instituto Nacional de Estadística e Informática y el Ministerio de Comercio Exterior y Turismo coordinan la implementación y utilización del Clasificador Nacional de Líneas Artesanales como instrumento que facilite la obtención de información para evaluar el desempeño económico del sector artesanal.</s>
+		<s id="es277">Asimismo, crean mecanismos e instrumentos que faciliten la elaboración estadística oficial sobre la actividad artesanal y los productos artesanales.</s>
+	</p>
+	<p id="p236">
+		<s id="es278">SEGUNDA.- Adecuación</s>
+	</p>
+	<p id="p237">
+		<s id="es279">Otórgase a los gobiernos regionales y a los gobiernos locales un plazo de ciento veinte (120) días, contados desde la entrada en vigencia de la presente Ley, para que se adecuen a lo dispuesto en esta norma.</s>
+	</p>
+	<p id="p238">
+		<s id="es280">TERCERA.- Informe</s>
+	</p>
+	<p id="p239">
+		<s id="es281">Anualmente, con ocasión de la celebración del Día Nacional del Artesano, el Ministro de Comercio Exterior y Turismo acude a una sesión de la Comisión de Comercio Exterior y Turismo del Congreso de la República con el objeto de informar acerca del impacto de los planes y programas dirigidos a la promoción del artesano peruano y al desarrollo de la actividad artesanal.</s>
+	</p>
+	<p id="p240">
+		<s id="es282">CUARTA.- Plazo de instalación</s>
+	</p>
+	<p id="p241">
+		<s id="es283">El Consejo Nacional de Fomento Artesanal señalado en el artículo 12 debe instalarse en un plazo no mayor de sesenta (60) días a partir de la vigencia de la presente Ley.</s>
+	</p>
+	<p id="p242">
+		<s id="es284">Disposiciones Finales</s>
+	</p>
+	<p id="p243">
+		<s id="es285">PRIMERA.- Normas derogatorias</s>
+	</p>
+	<p id="p244">
+		<s id="es286">Deróguense la Ley Nº 24052 y las demás normas que se opongan a la presente Ley; asimismo, déjase sin efecto su Reglamento, aprobado por Decreto Supremo Nº 091-85ICTI/IND.</s>
+	</p>
+	<p id="p245">
+		<s id="es287">SEGUNDA.- Reglamento</s>
+	</p>
+	<p id="p246">
+		<s id="es288">El Poder Ejecutivo elabora el reglamento de la presente Ley en el plazo de noventa (90) días, contados desde la fecha de su entrada en vigencia.</s>
+	</p>
+	<p id="p247">
+		<s id="es289">POR TANTO:</s>
+	</p>
+	<p id="p248">
+		<s id="es290">Habiendo sido reconsiderada la Ley por el Congreso de la República, aceptándose las observaciones formuladas por el señor Presidente de la República, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Estado, ordeno que se publique y cumpla.</s>
+	</p>
+	<p id="p249">
+		<s id="es291">En Lima, a los veintitrés días del mes de julio de dos mil siete.</s>
+	</p>
+	<p id="p250">
+		<s id="es292">MERCEDES CABANILLAS BUSTAMANTE Presidenta del Congreso de la República</s>
+	</p>
+	<p id="p251">
+		<s id="es293">FABIOLA MORALES CASTILLO Segunda Vicepresidenta del Congreso de la República</s>
+	</p>
+	<p id="p252">
+		<s id="es294">Mekeman teetaiboan joibo axebo itan moatin axebo koshi joini koiranai</s>
+	</p>
+	<p id="p253">
+		<s id="es295">Mekemana akanabo metsa akinres akanabo</s>
+	</p>
+	<p id="p254">
+		<s id="es296">Mekeman westiora teebicho akaima</s>
+	</p>
+	<p id="p255">
+		<s id="es297">Wetsa maroibo betan maroi tanati jikiti</s>
+	</p>
+	<p id="p256">
+		<s id="es298">Onan shinabo koiranai joi</s>
+	</p>
+	<p id="p257">
+		<s id="es299">Mekeman tee akanaibo onamati</s>
+	</p>
+	<p id="p258">
+		<s id="es300">Jaskati koshi joi yoyo ika</s>
+	</p>
+	<p id="p259">
+		<s id="es301">Mekeman tee akaibo</s>
+	</p>
+	<p id="p260">
+		<s id="es302">Mekeman tee akai</s>
+	</p>
+	<p id="p261">
+		<s id="es303">Mekeman tee akana</s>
+	</p>
+	<p id="p262">
+		<s id="es304">Mesko akaxbo maroti</s>
+	</p>
+	<p id="p263">
+		<s id="es305">Saweti jaweki - Jan jawekiati</s>
+	</p>
+	<p id="p264">
+		<s id="es306">Jaan teeti jawekibo</s>
+	</p>
+	<p id="p265">
+		<s id="es307">Non onana jawekibo</s>
+	</p>
+	<p id="p266">
+		<s id="es308">Moatianbi non axe jaweki</s>
+	</p>
+	<p id="p267">
+		<s id="es309">Aresbireskin tee atima</s>
+	</p>
+	<p id="p268">
+		<s id="es310">Soi akin aka jaweki</s>
+	</p>
+	<p id="p269">
+		<s id="es311">Nonabi jaweki</s>
+	</p>
+	<p id="p270">
+		<s id="es312">Ja teebo akaibo jikiti</s>
+	</p>
+	<p id="p271">
+		<s id="es313">Mekeman tee akanabo wetsa paronkobo bomati</s>
+	</p>
+	<p id="p272">
+		<s id="es314">Mekeman tee akabo wetsanko bomati</s>
+	</p>
+	<p id="p273">
+		<s id="es315">Mekeman akaibo wishati</s>
+	</p>
+	<p id="p274">
+		<s id="es316">Mekeman tee akaibaon onan shinan koiranti</s>
+	</p>
+	<p id="p275">
+		<s id="es317">Wishakati</s>
+	</p>
+	<p id="p276">
+		<s id="es318">Senen ati joimeran yoiyai keska akin ati</s>
+	</p>
+	<p id="p277">
+		<s id="es319">Neskara tee akaibo</s>
+	</p>
+	<p id="p278">
+		<s id="es320">Wetsankoniabo koriki jato benaxonti</s>
+	</p>
+	<p id="p279">
+		<s id="es321">Marotiainkobo jikiti</s>
+	</p>
+	<p id="p280">
+		<s id="es322">Moa teebo akana jakon akin bena ati</s>
+	</p>
+	<p id="p281">
+		<s id="es323">Jaska akin senen ati</s>
+	</p>
+	<p id="p282">
+		<s id="es324">Mesko akin mekeman tee ati</s>
+	</p>
+	<p id="p283">
+		<s id="es325">Non niibo</s>
+	</p>
+	<p id="p284">
+		<s id="es326">Neskara tee akaibo</s>
+	</p>
+	<p id="p285">
+		<s id="es327">Jainoax jaskati shinan iti pikotabo</s>
+	</p>
+	<p id="p286">
+		<s id="es328">Jan jato onamai jainxon tee akana joai riki ixon</s>
+	</p>
+	<p id="p287">
+		<s id="es329">Jaskaakin tee atibo onamati</s>
+	</p>
+	<p id="p288">
+		<s id="es330">Mekeman mesko akin tee akanabo</s>
+	</p>
+	<p id="p289">
+		<s id="es331">Jatobichokeax teetai</s>
+	</p>
+	<p id="p290">
+		<s id="es332">Jato ikainkoniax wishakati</s>
+	</p>
+	<p id="p291">
+		<s id="es333">Ayamama senen ati</s>
+	</p>
+	<p id="p292">
+		<s id="es334">Ja senen ati joibo</s>
+	</p>
+	<p id="p293">
+		<s id="es335">Marokin apo kopi ati</s>
+	</p>
+	<p id="p294">
+		<s id="es336">Jain mekeman tee akaibo wishakata</s>
+	</p>
+	<p id="p295">
+		<s id="es337">Jain maroti benaxonti</s>
+	</p>
+	<p id="p296">
+		<s id="es338">Mekeman teetaibo jakon akin tee anon ixon axeati</s>
+	</p>
+</doc>
