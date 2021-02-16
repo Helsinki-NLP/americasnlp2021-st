@@ -4,7 +4,9 @@
 import argparse
 import logging
 import os
+import re
 
+import opusfilter
 from yaml import dump, Dumper
 
 
@@ -14,7 +16,7 @@ LANGCODE = {
     'ashaninka': 'cni',
     'aymara': 'aym',
     'bribri': 'bzd',
-    'guarani': 'gn',  
+    'guarani': 'gn',
     'hñähñu': 'oto',
     'nahuatl': 'nah',
     'quechua': 'quy',
@@ -135,8 +137,43 @@ def get_work_files(lang, prefix):
     return [src, tgt]
 
 
+# From https://github.com/pywirrarika/wixnlp/blob/master/normwix.py
+def normwix(text):
+    text = text.lower()
+    text = re.sub(r"´", "'", text, flags=re.IGNORECASE)
+    #text = re.sub(r"'", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"v", "w", text, flags=re.IGNORECASE)
+    text = re.sub(r"(c|qu)", "k", text, flags=re.IGNORECASE)
+    text = re.sub(r"[0-9]+", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"ch", "ts", text, flags=re.IGNORECASE)
+    text = re.sub(r"rr", "x", text, flags=re.IGNORECASE)
+    text = re.sub(r" +", " ", text, flags=re.IGNORECASE)
+    text = re.sub(r"[üï]", "+", text, flags=re.IGNORECASE)
+    text = re.sub(r"^ ", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"(?<!t|\[)s", "ts", text, flags=re.IGNORECASE)
+    text = re.sub(r"[áàä]", "a", text, flags=re.IGNORECASE)
+    text = re.sub(r"[éèë]", "e", text, flags=re.IGNORECASE)
+    text = re.sub(r"[íì]", "i", text, flags=re.IGNORECASE)
+    text = re.sub(r"[óòö]", "o", text, flags=re.IGNORECASE)
+    text = re.sub(r"[úù]", "u", text, flags=re.IGNORECASE)
 
-def main(output, workdir):
+
+    text = re.sub(r"([a-z+])\1+", r"\1", text, flags=re.IGNORECASE)
+    return text
+
+
+class WixarikaNormalizer(opusfilter.PreprocessorABC):
+    """Normalizer for the Wixarika bible corpus. Normalizes only the 2nd input file."""
+
+    def process(self, segments, f_idx=0):
+        for segment in segments:
+            if f_idx == 1:
+                yield normwix(segment)
+            else:
+                yield segment
+
+
+def main(output, workdir, tokenize=False):
     # WORKDIR = 'processed_data'
     # OUTPUT = 'opusfilter.yaml'
 
@@ -162,24 +199,7 @@ def main(output, workdir):
             }
         })
 
-    # Bibles
-    for lang in LANGUAGES:
-        inputs = [get_bible_files('spanish'), get_bible_files(lang)]
-        outputs = get_work_files(lang, 'bibles')
-        steps.append({
-            'type': 'product',
-            'parameters': {
-                'inputs': inputs,
-                'outputs': outputs,
-                'skip_empty': True,
-                'skip_duplicates': True,
-                'k': 10,
-                'seed': 'bibles'
-            }
-        })
-
     # TODO: add extra cleaning for specific corpora?
-    # * the wixarika bible should use normalization in normwix.py
 
     # Combine training data sets
     for lang in LANGUAGES:
@@ -187,7 +207,6 @@ def main(output, workdir):
             inputs = [get_work_files(lang, 'train')]
         else:
             inputs = [get_input_files(lang)]
-        inputs.append(get_work_files(lang, 'bibles'))
         if lang in EXTRA:
             for params in EXTRA[lang]:
                 inputs.append(get_input_files(lang, **params))
@@ -231,7 +250,7 @@ def main(output, workdir):
         'TerminalPunctuationFilter': {'threshold': -2},
         'NonZeroNumeralsFilter': {'threshold': 0.5}
     }
-    
+
     active_filters = {
         'ashaninka': ['LengthRatioFilter'],
         'aymara': ['LengthFilter', 'LengthRatioFilter', 'CharacterScoreFilter',
@@ -247,7 +266,7 @@ def main(output, workdir):
         'shipibo_konibo': [],
         'wixarika': ['LengthRatioFilter', 'NonZeroNumeralsFilter']
     }
-    
+
     for lang in LANGUAGES:
         inputs = get_work_files(lang, 'dedup')
         outputs = get_work_files(lang, 'dedup_filtered')
@@ -261,42 +280,79 @@ def main(output, workdir):
             }
         })
 
-    # Tokenize training sets
-    # FIXME: does not work properly at least for wixarika
+    # Bibles
+    # * at most k=5 entries per line
+    # * all tokenized -> detokenize
+    # * wixarika should use normalization in normwix.py
     for lang in LANGUAGES:
-        inputs = get_work_files(lang, 'dedup_filtered')
-        outputs = get_work_files(lang, 'dedup_filtered_tokenized')
+        inputs = [get_bible_files('spanish'), get_bible_files(lang)]
+        raw = get_work_files(lang, 'bibles-raw')
+        outputs = get_work_files(lang, 'bibles')
+        steps.append({
+            'type': 'product',
+            'parameters': {
+                'inputs': inputs,
+                'outputs': raw,
+                'skip_empty': True,
+                'skip_duplicates': True,
+                'k': 5,
+                'seed': 'bibles'
+            }
+        })
+        preprocessors = []
+        if lang == 'wixarika':
+            preprocessors.append({'WixarikaNormalizer': {}, 'module': 'create_opusfilter_config'})
+        preprocessors.append(
+            {'Detokenizer': {
+                'tokenizer': 'moses',
+                'languages': ['es', LANGCODE[lang]]
+            }}
+        )
         steps.append({
             'type': 'preprocess',
             'parameters': {
-                'inputs': inputs,
+                'inputs': raw,
                 'outputs': outputs,
-                'preprocessors': [
-                    {'Tokenizer': {
-                        'tokenizer': 'moses',
-                        'languages': ['es', LANGCODE[lang]]
-                    }}
-                ]
+                'preprocessors': preprocessors
             }
         })
 
-    # Tokenize dev sets
-    for lang in DEVSETS:
-        inputs = get_input_files(lang, prefix='dev')
-        outputs = get_work_files(lang, prefix='dev_tokenized')
-        steps.append({
-            'type': 'preprocess',
-            'parameters': {
-                'inputs': inputs,
-                'outputs': outputs,
-                'preprocessors': [
-                    {'Tokenizer': {
-                        'tokenizer': 'moses',
-                        'languages': ['es', LANGCODE[lang]]
-                    }}
-                ]
-            }
-        })
+    if tokenize:
+        # Tokenize training sets
+        # FIXME: does not work properly at least for wixarika
+        for lang in LANGUAGES:
+            inputs = get_work_files(lang, 'dedup_filtered')
+            outputs = get_work_files(lang, 'dedup_filtered_tokenized')
+            steps.append({
+                'type': 'preprocess',
+                'parameters': {
+                    'inputs': inputs,
+                    'outputs': outputs,
+                    'preprocessors': [
+                        {'Tokenizer': {
+                            'tokenizer': 'moses',
+                            'languages': ['es', LANGCODE[lang]]
+                        }}
+                    ]
+                }
+            })
+        # Tokenize dev sets
+        for lang in DEVSETS:
+            inputs = get_input_files(lang, prefix='dev')
+            outputs = get_work_files(lang, prefix='dev_tokenized')
+            steps.append({
+                'type': 'preprocess',
+                'parameters': {
+                    'inputs': inputs,
+                    'outputs': outputs,
+                    'preprocessors': [
+                        {'Tokenizer': {
+                            'tokenizer': 'moses',
+                            'languages': ['es', LANGCODE[lang]]
+                        }}
+                    ]
+                }
+            })
 
     logging.info("%s steps generated for %s", len(steps), output)
 
