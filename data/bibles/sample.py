@@ -42,4 +42,4 @@ if __name__ == "__main__":
 	for lg in ("ashaninka", "aymara", "bribri", "guarani", "hñähñu", "nahuatl", "quechua", "raramuri", "shipibo", "wixarika"):
 		l2 = loadBibles(lg)
 		sample(l1, l2, "sampled/spanish_{}.txt".format(lg))
-	
+
