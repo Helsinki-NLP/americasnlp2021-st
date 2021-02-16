@@ -81,6 +81,43 @@ EXTRA = {
     ]
 }
 
+BIBLES = {
+    'ashaninka': ['cni-x-bible-cni-v1.txt'],
+    'aymara': ['ayr-x-bible-1997-v1.txt', 'ayr-x-bible-2011-v1.txt'],
+    'bribri': ['bzd-x-bible-bzd-v1.txt'],
+    'guarani': ['gug-x-bible-gug-v1.txt'],
+    'hñähñu': ['ote-x-bible-ote-v1.txt'],
+    'nahuatl': [
+        'nah-NHXNTV.txt',
+        'azz-x-bible-azz-v1.txt',
+        'nch-x-bible-nch-v1.txt',
+        'ncj-x-bible-ncj-v1.txt',
+        'ngu-x-bible-ngu-v1.txt',
+        'nhe-x-bible-nhe-v1.txt',
+        'nhi-x-bible-nhi-v1.txt',
+        'nhw-x-bible-nhw-v1.txt',
+        'nhy-x-bible-nhy-v1.txt'
+    ],
+    'quechua': ['quy-x-bible-quy-v1.txt', 'quz-x-bible-quz-v1.txt'],
+    'raramuri': ['tac-x-bible-tac-v1.txt'],
+    'shipibo_konibo': ['shp-SHPTBL.txt'],
+    'wixarika': ['hch-x-bible-hch-v1.txt'],
+    'spanish': [
+        'spa-x-bible-americas.txt.jhubc',
+        'spa-x-bible-hablahoi-latina.txt.jhubc',
+        'spa-x-bible-lapalabra.txt.jhubc',
+        'spa-x-bible-newworld.txt.jhubc',
+        'spa-x-bible-nuevadehoi.txt.jhubc',
+        'spa-x-bible-nuevaviviente.txt.jhubc',
+        'spa-x-bible-nuevointernacional.txt.jhubc',
+        'spa-x-bible-reinavaleracontemporanea.txt.jhubc'
+    ]
+}
+
+
+def get_bible_files(lang):
+    return ['../data/bibles/{lang}/{fname}'.format(lang=lang, fname=fname) for fname in BIBLES[lang]]
+
 
 def get_input_files(lang, prefix='train', code=None):
     src = '../data/{lang}-spanish/{prefix}.es'.format(lang=lang, prefix=prefix)
@@ -125,7 +162,24 @@ def main(output, workdir):
             }
         })
 
+    # Bibles
+    for lang in LANGUAGES:
+        inputs = [get_bible_files('spanish'), get_bible_files(lang)]
+        outputs = get_work_files(lang, 'bibles')
+        steps.append({
+            'type': 'product',
+            'parameters': {
+                'inputs': inputs,
+                'outputs': outputs,
+                'skip_empty': True,
+                'skip_duplicates': True,
+                'k': 10,
+                'seed': 'bibles'
+            }
+        })
+
     # TODO: add extra cleaning for specific corpora?
+    # * the wixarika bible should use normalization in normwix.py
 
     # Combine training data sets
     for lang in LANGUAGES:
@@ -133,6 +187,7 @@ def main(output, workdir):
             inputs = [get_work_files(lang, 'train')]
         else:
             inputs = [get_input_files(lang)]
+        inputs.append(get_work_files(lang, 'bibles'))
         if lang in EXTRA:
             for params in EXTRA[lang]:
                 inputs.append(get_input_files(lang, **params))
