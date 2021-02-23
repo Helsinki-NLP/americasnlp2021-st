@@ -233,6 +233,48 @@ class BribriNormalizer(opusfilter.PreprocessorABC):
             yield output
 
 
+class RaramuriTrainCleaner(opusfilter.PreprocessorABC):
+    """Cleaner for Raramuri train data. Assumes Spanish - Raramuri input."""
+
+    starting_cparen = re.compile(r'^[0-9a-z] \) ')
+    starting_paren = re.compile(r'^(\( ([0-9]{1,2}|[a-z]) \) )+')
+    ending_paren = re.compile(r' \( [0-9a-z] \)$')
+    middle_paren = re.compile(r'\( [^\)]+? \)')
+
+    def process(self, pairs):
+        for segments in pairs:
+            esp, tar = segments
+            if re.match(self.starting_cparen, tar):
+                # e ) ŕekó perá
+                # 3 ) kepi tzo
+                # a ) empolvarse
+                tar = re.sub(self.starting_cparen, '', tar)
+            if re.match(self.starting_cparen, esp):
+                # a ) empolvarse
+                # a ) hacerse neblina , formarse niebla
+                esp = re.sub(self.starting_cparen, '', esp)
+            if re.match(self.starting_paren, tar):
+                # ( 1 ) ga'rá ka rá asiba !
+                tar = re.sub(self.starting_paren, '', tar)
+            if re.match(self.starting_paren, esp):
+                # ( 1 ) hacer que se limpie
+                esp = re.sub(self.starting_paren, '', esp)
+            if re.search(self.ending_paren, tar):
+                # bowérema ( 2 )
+                tar = re.sub(self.ending_paren, '', tar)
+            if not '(' in tar and re.search(self.middle_paren, esp):
+                # otro que cayó ! ( en la trampa )
+                # ( en ) El Yeso
+                # ( se oye ) que ahí va una culebra !
+                esp = re.sub(self.middle_paren, '', esp)
+                esp = re.sub(r' +', ' ', esp)
+            if ' , ' in esp and not ' , ' in tar and len(esp) > 1.5 * len(tar):
+                # asiento , silla , banco
+                # -> select first
+                esp = esp.split(' , ')[0]
+            yield esp, tar
+
+
 def main(output, workdir, tokenize=False):
     # WORKDIR = 'processed_data'
     # OUTPUT = 'opusfilter.yaml'
@@ -246,6 +288,8 @@ def main(output, workdir, tokenize=False):
         preprocessors = []
         if lang == 'bribri':
             preprocessors.append({'BribriNormalizer': {}, 'module': 'create_opusfilter_config'})
+        elif lang == 'raramuri':
+            preprocessors.append({'RaramuriTrainCleaner': {}, 'module': 'create_opusfilter_config'})
         elif TOKENIZED_TRAIN[lang]:
             preprocessors.append({'Detokenizer': {
                 'tokenizer': 'moses',
