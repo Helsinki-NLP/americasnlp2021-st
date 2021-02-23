@@ -165,12 +165,12 @@ def normwix(text):
 class WixarikaNormalizer(opusfilter.PreprocessorABC):
     """Normalizer for the Wixarika bible corpus. Normalizes only the 2nd input file."""
 
-    def process(self, segments, f_idx=0):
-        for segment in segments:
-            if f_idx == 1:
-                yield normwix(segment)
-            else:
-                yield segment
+    def process(self, pairs):
+        for segments in pairs:
+            output = []
+            for idx, segment in enumerate(segments):
+                output.append(normwix(segment) if idx == 1 else segment)
+            yield output
 
 
 # From data/bribri-spanish/bribri-orthography-conversion.ipynb
@@ -220,12 +220,17 @@ def convertToHumanSpelling(bribriInput, outputOrthography):
 class BribriNormalizer(opusfilter.PreprocessorABC):
     """Normalizer for the Bribri train/dev corpora. Normalizes only the 2nd input file."""
 
-    def process(self, segments, f_idx=0, orthography='constenla'):
-        for segment in segments:
-            if f_idx == 1:
-                yield convertToHumanSpelling(segment, orthography)
-            else:
-                yield segment
+    def __init__(self, orthography='constenla', **kwargs):
+        self.orthography = orthography
+        super().__init__(**kwargs)
+
+    def process(self, pairs):
+        for segments in pairs:
+            output = []
+            for idx, segment in enumerate(segments):
+                output.append(convertToHumanSpelling(
+                    segment, self.orthography) if idx == 1 else segment)
+            yield output
 
 
 def main(output, workdir, tokenize=False):
