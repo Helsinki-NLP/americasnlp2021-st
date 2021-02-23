@@ -1,896 +1,896 @@
-m+k+ paukah+a tsimupe xik+ra+ye ti xuxuweme de oro 
-k+naya tatsiu, xeimieme, pure'eri: 
-kename pinieya meta tewi heh+k+t+me ogro,  
-nepexei tsipeme ki,  
-meta mepeka uxipi naipariena cenicienta,  
-kepa+ka yamure enax+tsie,  
-kuyekai meta hem+nikiekai lkuit+wa,  
-per+ iyarieya yutemawiet+ waik+ karehaye wakai, meta petay+: 
-"¡waik+ nepuka+ ye+wari wa+ka +xa, waik+ nepuka+ yeiwari wa+ka +xa!" 
-arikie, peti h+niyax+ tetexi tsi'aneneme peti ikatax+. 
-"kuit+ tanika xeiyakuni uye."-per+ waik+ mepukaheika xei. 
-kepa+ka memexeitsie 'aix+ tiuka 'iyari uki 
-watitui wiki teik+ peih+a ekapa 
-meta hetaxeiyat+ manati nekai tau,  
-upait+ ahauka tewikaku kuieta anayuri. 
-kepa+ka mureti matsie yu papa hetsie mieme,  
-tsimem+t+t+ pepetiyua: 
-"hu"-petay+ ukaratsi, -"hik+ri nep+h+k+ reina." 
-peiyuri ik+ renatipiniri xarieya tsie.  
-ha tsipure tukakai hepa+ xik+ri,  
-mexa muwa pewekai,  
-meta m+k+ peita +wiyax+ meta peika may+at+yeikakai,  
-"uxa'a ximeripait+ kaku hek+ariwekaku,  
-yunait+ mepanaka k+ muwa,  
-kename rey hekawenikiekai axa muti'anetsie." 
-yu xexuime memuteu uwak+ reino meta 
-kuit+ta xewit+ timemiwame penuku wei kiena,  
-metahuta tsunariyari xeimieme wayet+a kuraruta,  
-blanca-nieves kane yeikani 'aix+ iyari,  
-mep+yuhaika puteyate
-meta panuka t+a tukarik+,  
-"uxa'a xeik+ari paneniwewi riem+k+ tsipeme uximayatsika. 
-pauta'ha +tsita 
-tsinurixi, meyuit+wat+ kait+ yu mu'ute, mepetiyua hekuamek+: 
-per+ nit+ma waik+ mepukate nakix+. 
-kuit+tari hipat+ ana memeyu k+xe+ritsie,  
-m+k+ pekumawerix+ h+xiena. 
-"¿elsie, titarita yapeiu tsuaka?" 
-kememute xatakai. 
-m+k+ peiti'+i meta penuta yepi,  
-meta peku eiri mantel hets+a wewiwame carbon. 
-kam+ts+ puyepiyariex+a uparite de oro m+k+. 
-kuit+kieta peye'a kie yu kutsiyari. 
-kepa+ka manatinetsie metsa, m+k+ mepa'ui uyeta,  
-mep+kutsu
-m+k+ t+t+, kuinie remaiwekai mitsu peti awietakai 
-"ne +xatsi petiu weiya,  
-"pan+y+ne yu tamamata heimana huta teyu kuikate,  
-tsimu'ane tuturi kuinie kemuti y+we,  
-'ik+ mitsu
-"nekuri, nepau harim+k+,  
-ke'ane m+k+k+ mujti nuiwa hexeiyat+ kanayeim+k+ wa+ka suerte. 
-"¡oh!"-petay+ temu, -"¡ukaratsi tsimu'ane! 
-pereu tocarowa la puerta pure hiwax+ y+k+p+tata: 
-kepa+kari hek+ y+reku,  
-payene kie asta yu xewit+ uka nunutsi. 
-zapatero hetsiena, kahauku yeiwekai,  
-peixei kename hepa+ he'anekai +yaya mem+kai,  
-puxu peti kienikiekai ventana,  
-meta meyuparewiet+ tsiere manuti neikat+. 
-m+k+ tiwareta h+awix+ kename reina heita aitakai mieriya,  
-mitsuta petayer+ kuiepa aurie tai,  
-ne neuraheriwa pepukatimate tsimepute u kuika wikixi. 
-warexei wikixi mana mauye w+x+aximeme,  
-xeimieme paye'eri yu purutsata meta petaxei yu yename ya,  
-meta yeme heitserie tsipe'anenekai 
-kepa+kari xemu'u uxenitsie tsepa xemuteu kutsix+ estiwa. 
-tanixa wit+yuni. 
-hu, m+k+ retima ke muranekai temaik+,  
-re eniekai naime,  
-amure ye'atsie yeikametsie kuyuama+ye,  
-papaya petay+ tawari: 
-"hik+ri keneneye tuiri pemunere xat+a." 
-mik+ri peixei kename hetamiekai hets+ana,  
-kepa+ka ri ukaratsi re eriekai pukutsuri wa+ka,  
-tupiriyate panahipitekai meta retawayakai hetsie ki,  
-nait+ peta h+nix+ k+tsa meta esplendor,  
-kam+ts+ petay+: 
-"¡ket+!"-petay+ timemiwame,  
-y+wik+ta meta tukarik+ peti'eriwakai kemei yurienikiekai. 
-waruti kuaik+ +rawe, kauka maye neniere akuxi? 
-meta panumawekai yeikame ni k+ye,  
-meta keheite+takie makuyanikiekaik+. 
-"m+k+ katiyuri matsi hik+ tsipa anekai ke meripai,  
-ata hutariekata: 
-"hik+ ta, "reyuta h+awix+, "neuti eriex+ani nemi heyest+anik+." 
-"¿ ik+ta kastillo ti'apini? 
-ne nep+'uki
-peye'a kie xeit+ bruja. 
-nexeik+a nepiye pit+yeikakai neiye h+at+. 
-iyarieya pet+rar+kakai marikak+. 
-yu nait+ mepeti hiwax+ kename m+k+ hehek+atakai yu hax+a,  
-per+ nit+ma kahaye'ukai xeimetsie. 
-ik+ uki xeik+a karaye axe sinu nieka re+ t+r+ka+ye,  
-yu hutat+ tsime'anenet+ meta tsime+t+t+ ukiritsitsixi memamawet+ mepe'ax+a,  
-'ik+ neh+xi nep+tserieta
-meta hax+ak+ rehiwax+: 
-matutu nunutsi heitserie,  
-m+k+ tatsanutuani, teyu xexuime." 
-kuya peyutamaix+a, uxa'arieka pureta uximayatax+ kemura mex+a,  
-per+ temu, heiwa anunakieka yu promesa,  
-008-k+xeme mu yuawi 
-a iwaurika katinayuye at+am+k+. 
-peutaha hawaye xawakaku kiyeta meta pauku. 
-heiwa paukayaxikiekai manzana de oro, per+ta h+k+ ne t+ma kaheka neika xawari. 
-nepeiti'itiri xapatuxieya tsiere naime nepureita uximayatsiri miscelaneos. 
-peyeikakai ye xewit+ rey ware xeiyat+ yu niwema tamamata heimana huta,  
-tamama ka +kate y+y+xawi apini hepa+. 
-kuit+ m+k+ mismo pastor pureta 'ai,  
-pini nemama netiuku namiriekai  
-preke m+k+ meputeku eriwakai: 
-meta meputeti xa hetsie mieme xutuxi tinamaika naime 
-"¡ke'ane netsanuti hareni, kana yeim+k+ +rawe,  
-x+ka rewit+ n+'arieya ne papa muwa ayeneni tiwatuiyatsie netsexeiya muwa nekaime,  
-"¡oh cielos!"pure hiwax+ m+k+, "¿kepa+ ne'+y+ka uwapai nepuye'a murinata?" 
-"¿titarita hawaik+?"-petay+ temaik+. 
-pan+t+a y bahardilla, panuti h+nax+ xamu'ane yu iwi,  
-kuit+tari petayua nautsarik+,  
-niwa uka
-ts+k+ p+tuxa
-meta reina xiete peita iwawiuyax+ x+ka hek+ipim+rikait+ni 
-meta mepekup+tari y+wa+kawa metekuinit+ariet+ kait+. 
-kam+ts+ m+k+ xeime peta'ini tsimute meta pureita h+awix+: 
-x+ka xewit+ hula haumieni xeitsieniyari keyari hepa kastillo,  
-"ket+"-petay+ uki, -"kanayeim+k+ waniu reina." 
-kuit+ta pure hiwax+: 
-kuit+ kieri reita h+awix+ mamawarieya: 
-"nepure kuinix+ ne +katetsie, neneuwiri etsiwa t+xi nehetsie." 
- 'aix+ kahan+y+t+ meta axa kan+y+t+ kuikari meripait+ 
-hairieka tukari peiwita simpleton,  
-kepa+katari mewata nex+aka anta+ye,  
-tsiere pete+tax+ uka ya petua uyeta reitah+awix+,   
-"mutitsitsi+rare +imari,      
-nait+ m+k+ aix+puremiekai wahetsie,  
-kuit+kie meputeta xat+a rey kemure y+anekai,  
-kepa+ka maye'a t+kari hix+apa,  
-heiwamie meri wareka xei y+wa+ka kapetsixi 
-yunait+ mepenuku wei,  
-kaiwat+ meta mapeta axekai xa+tsie,  
-waranuku wei an+ka, memuteu 'iyari hepa+ hechiceras,  
-rey ha'at+ petay+: 
-panutit+a xeimieme hetsiena wewiyakametsie yeikame. 
-meta reina payexei xeime uka nunutsi tsi'aneme maske rey 
-kam+ts+ m+k+ pure'hiwax+: 
-tewi waik+ri hexeiyat+ kat+a uxipiya yu tukaritsie. 
-m+k+ mepe'ax+a, meteheu kuaikut+ meta meteu ikut+,  
-per+ etsiwa amureu tewikai wa+ka de media hora,  
-"hik+ts xekene t+kiyu tetexi aneneme,   
-'ik+ tuutu tsip+pe
-karexeiya uki korbes,  
-hepa+na peiyuri keme'anekai reina,  
- 'aix+ niweya molinero pat+a reina. 
-"¿pati'awa+riya pemunetsa pa+ritsirieni xeime tsipeme tiwekame 
-"per+ an+kai neta niut+, xeime panuta h+t+ani." 
-metari m+k+ wareta wikuest+akai, ware at+a yu a+x+wime miriyari a+tetsi,  
-"pero cervantillo nehamat+a yemie, waik+ nepuka'iku eirieni." 
-ne nepanuti tsunax+ heima tupiriya mana mepehuwakai 
-"kam+ts+ kenemie hets+ana, kaneh+k+t+niri emperadora." 
-"iwarika yemek+ kuinie putimariwe"-pure'eri sastre,  
-peta werix+ta tupiriya, tsi'anet+ peyewe tupiriya. 
-kuit+wa, kepa+ka temaik+ mexeitsie princesa,  
-"nemeutiu ter+war+wa blanca-nieves."tiwareta h+awix+. 
-re uximayat+ naimetiti hauxinat+. 
-temari mepeku nakai m+k+k+,  
-meta wareparewi memeweiyanik+ xeime tukari 'aix+ aneme,  
-niweya rey payeim+k+kai wapai hets+ana,   
-petamarikiekai xei tsien miriyari carbunclos. 
-peta ait+ria tixa+t+ tawari. 
-kepa+ka maukuhutu k+yeyari aurie cerezas,  
-kurieya kuinie murexeiya,  
-auriena heti ukak+ avellanos. 
-"parats+, nemuta xiteni manzana hutame nemaye x+rieni. 
-meta mepeukuakai atsi mekata'eriwat+." 
-hik+tari nati naya kuit+ta ha petix+riya tatini kuaikuni. 
-meta peya'a rekaketsix+a kui kuiepa 
-mepekuinikiekai hakak+ meta uxiyak+. 
-petima wa+ka matsi pait+ wakawe kamatsie. 
-reina, kepa+ka manunakix+tsie xapa meta pekater+wax+,  
-petayuat+kateiri xeru mieme xei kuarto yari maye'anik+ tamamata huta. 
-"waik+ nepukaramate hetsie mieme anillo."purei eiyakai m+k+. 
-hakewa mauye yer+kai ukiri wakana hetsie itupari ayeut+,  
-meta nametinita xat+am+k+ kepa+ pemure kuewieni ha m+ wa+riya. 
-petakuikax+ h+xiena hewet+ rey meta nimeye tsiere,   
-meta peiye tuiri m+k,  
-"hay, ukaratsi"-petay+ uki,  
-warepit+a memauta hax+ani yu haikame kawamateme ukari,  
-hutarieka titu'áme kaheyeim+k+kai muramaikaik+,  
-merik+ts+ muwa newekait+ni ukirast+t+ kastillo 
-meputeyuti ket+a xeimieme,  
-"teyu kua'amete yeutari xeimieme mepeitax+."re'eri yu hetsie. 
-per+ axamutiuka 'iyari ukaratsi, amure nua yu kita,  
-m+k+ pemierienikiekai x+ka kahe xeiyanikie ukiratsi xupureru. 
-waikawa panuyuta nar+makai h+ri, hiwatarieka kieri,  
-wa+ka ikuaite y+k+ ti'aneneme,  
-hetakuaka m+k+ tsipeme ku panu 
-meta warewit+ takua,  
-"¿titarita waik+?"-petay+ ukaratsi. 
-meyu hutat+ mepe kui'iuarie yu ir+teya 
-per+ xewita gradatsie peikuha tawari pekunuit+a. 
-ek+ta.keneuti wewixi tsit+me xapatuxi wapini yu xexuime." 
-m+k+ mapeka xeiya uye ap+ta mieme yukie,  
-meta arikie hemiet+ ahayakari, peye'a xeime kiekaritsie. 
-hutarieka t+kari nunutsie pekuyeix+a tawari,  
-atsi mukareka iyarikai,  
-sastre peta eimax+ corona heitanaka 
-"m+k+ waik+ kaputi k+tsawe tawaiyatakie yu hetsie,  
-arautewikakuri muwa patihauximet+ hawayeyet+ yu teta mu ura+ye,  
-kenameta kurieya xewit+ keyu in+atake zapatilla. 
-pemutina maikait+ni kuta meta a h+xite pemunanuta yepiet+katei t+ni. 
-meripai ti'ane utiniereme kemura anet+ kani waritana. 
-ne nep+y+ane wata kukuya xei weiyari atahuta,  
-per+ tetexi pahetekai kaheti werikax+a mana pekawe m+kit+. 
-tsatu peikuiei y+ +t+ma palacio meta peikate camayatsie. 
-m+k+ wakutsunu simpleton meta wikuest+kai memukaita taiyanikiekaik+,  
-"nepu uxe, neta 'aix+  nepureu kumuk+ ahepa+,  
-nitixa+ tawari warah+pakai 
-tsimu'ane +imari pe'at+a sencillon,  
-grethel tsipeme petsani pani hansel,  
-"x+ka pewaruku yuit+ani ne te+teri, meta pautapena nexiete,  
-niweya rey pewitr+kie memaku uit+ariekai tsie,  
-rei'eriekai kenameri hiwatamerieka tukari hey+anekai,  
-waik+ kauhane xuriya xapatuxitsie,  
-niweya rey reke yu temawiet+ mexeiyakaik+ tawari yu waikari,   
-m+k+ muwa mure uximayakak+ raheteme de ximeri hasta y+wik+ta,   
-pet+a peinakix+ niweya rey. 
-niyu xewit+ tesoro kay+we mupata tita mureuye h+aka wa+ka. 
-reuna kitenie hauta haku, axa'anet+ animari 
-"hik+rix+a temari tenih+k+t+ni tsiteteyu xexeiyat+,  
-per+ pakunua xeimieme unautsar+met+ 
-x+ka penetsiuku yuit+ani ne kutsukaku nemes hapanirieni anakate." 
-"¡tsiti temaik+t+ ukaratsi!" 
-amemute xeiyax+atsie m+k+ ikiyate,  
-yu nait+ mepeixat+akai uximayatsika tsepa ke'anet+,  
-"aix+ pep+te nani la puerta, parats+ kautahakenik+". 
-"waik+ napuye tuaniri wa+ka tawari,  
-m+pa+ zapatero pan+t+a naurieka hets+a rey reita h+awix+: 
-kename m+k+ mat+a hechicera ukaratsi meteturiekai yu niwemat+,  
-katiniwa hapanani tsiti'aneneme: 
-kepa+ka meme ax+atsie mepexei blanca-nieves kuiepa,  
-hetseriet+ hutse heita tuaxakie mu'uyatsie. 
-"nenanutuaka meri"petay+ temaik+ mexeiya suerte,  
-wai war+kariyari, meta kuakuaxit+kait+ mana pureku pinirix+,  
-metar+ wat+r+kariya naime tukaritsie,  
-kepa+ka haukuyu m+k+ mepauta hax+ani, meteku wienita,  
-kaukats+ ne kutsi tikuikake hexeiyat+ 'aix+ ti anemek+ reyutamini". 
-ne neputixe pa+rit+ani tita xemuneta iwawirieni hek+na." 
-"ik+ +rawe xeima kare itaiyane."meta kueyu wa+ri. 
-peika may+a, meta wareta ait+a yukuyaxi meyeimienikie +yaya,  
-m+k+ 'aix+ puret+a kemure y+wekax+a,  
-metari atsi tepukateyuku h+aweni temuteyuta tsanienik+,  
-tawari 'aix+ nani+y+niri." 
-meta tsimepe yuri palacio de cera xeimieme 
-"x+ka pekau ye+m+k+ni rey, ne h+rix+a nepau ye+m+k+ reina. 
-"nepapa, neneu pit+a ne nepuwaumie ha."-,  
-kenemie meta keneta ini amupa tsapa mauyuawi,  
-pukara'eriwakai etsiwa muranu pikaik+k+. 
-peh+k+t+kai kuinie kaheyu may+in+at+ meta tuxat+ hepa+ +wi,  
-axamu aneneta xekuxexe+riwat+." 
-merik+ts+ meripài mutiyu kuinekaitsie,  
-tsimutewita petay+: 
-hutak+a tawari nanamieni, ni tawari." 
-neuti tsikita ta xapatuxite meta neutseiriyax+a ta xapatuxite. 
-hetsiena mieme pakuyeix+a kuraruta huathanimieka yapa+ +xa,  
-"¿ke'ane payer+ ne +paritsie?" 
-kepa+ka yareu tewikaku ikiritsi pautaha, meta peta'iwau: 
-petan+'a yu ukiyari mei mienik+ 
-ana pait+t+ri,  
-ke'ane m+k+ tiwapinit+kai kuie xeme xem+k+ ma+wa. 
-ti h+weme, mayekukutsukai kita kuit+,  
-"niwa, deyuri, tameta estiwa tatenatuiri." 
-kepa+kata haikieka tawari patine ix+arari,  
-xati'aneneme neputi uximayata,  
-mepeyu hayewax+ m+k+ wa+ka mauku wewerut+ meta wa+ka tukari. 
-kuit+ta reina petay+: 
-"waik+ pumawe wa'uyeri te+teri, ni yeikame." 
-per+ meripai hepa+,  
-tsimuyu mateta peyutawau kehei pit+anikie mauwaumiek+ ha,  
-"¡ah!"petay+ ukaratsi uka,  
-xa+tsie u xiekariyakaku pekatei wa+ka wiyari meta axatiu'anekaku. 
-"ne muwa naniwaruku nani,  
-meta mepe'uwakai meyutemamawiet+ yu tukaritsie. 
-waik+ t+ma kahawaye yeikakai yuhekua, meta kita,  
-¡karay, tsi'anet+ princesa!, ¿titata raniere hik+ ahetsie? 
-pet+a muwa pait+ heye'anikie kieta. 
-a+rieya pawawakikai, meta h+xiteya xatat+. 
-peta peikaket+a p+ta de k+ye. 
-per+ m+k+ta yaxeik+a mepey+. 
-areutewikaku rey pakunua yu  palacio 
-mutiuye mate 'aix+ heitseriemek+ putiku neniere. 
-mex+ manati hanakai marques hatesta hapa,  
-meta tuturi hekuet+ xeik+a de oro yu mamatsie,  
-ti'+kit+arika: 
-kepa+ka uki makunuatsie yu kie,  
-meta tukaritsie mepekax+ri  
-pet+a pekunierix+ titakuta muwa re'awiet+kai h+ritsie. 
-heitimaix+aka kaheituaxix+ 
-kepa+katari hemiekaku haika tukari,  
-m+k+ta pei t+r+kariyax+ uxa'arieka manuku kienik+ ximeripait+ 
-kuinie re 'iyari tse'ikai hepa+ ai pureita h+awix+: 
-kuit+tari ana pireuyepiyarie kitenie,  
-mets+ kam+, yunait+ maunei xeiyakait+ni kemureyuka temawi 
-naime ximeri, ukalai ukaratsi peta'axekai kita meta retihiwakai: 
-petitsuata wa+ka ukaiyata pekax+ri hetsie tupiriya meta peikahawiyax+. 
-"neretimame meri ke'aneneme putiuye uit+a t+r+kariya." 
-nepu at+a xeime unicornio meta netiuwi xeime tuixu yeutanaka,  
-nanaku nieri meta nanieri tawari,  
-meta joya mey+k+ xe+rienik+ nait+ pinieya mat+a grethel. 
-'ik+ ts+k+ tsip+pa
-hayeikawakai kuiepa, metikatset+ yu anate meta mautitsuat+: 
-heiwamieri meteti x+ka ikuate, wewiwame carbon petay+: 
-wa+ka akuxi ameputeu tewikai,  
-pet+a heitserie yu kie,  
-meripa+ axamuti'ane,  
-¿hakewata  mepeye uwa memutakatu'a?"petay+ niweya rey. 
-kepa+ka maye'atsie etsixa,  
-meta panuku wei yu uye nit+ma kahenaku xeiyaka. 
-xewit+meri pehanakai hiru meta anak+h+pat+ xik+ra+ye,   
-o naime a tukaritsie pekare xeiyat+ panayeim+k+ ikuai." 
-"hik+ ukiratsi nema yeiximek+,  
-m+k+ ware'at+wakai +rawetsixi meta wikixi,  
-blanca-nieves hekuamek+ waik+ kare xe+makai,  
-m+k+ 'ena puwe
-m+k+ pauye'i vinu, kepa+kari meiye x+kaitsie,  
-m+k+ xeik+a waik+ kawareta ini yu iwama,  
-paniti xitex+am+k+ meta panaye x+rim+k+  tsipepeme." 
-hetitsukuakat+, utawik+ayat+, meta ukakuit+ xeime kuikari,  
-"oh, reina, 'ek+ pani h+k+t+ni tsipemutio temaik+,  
-hax+ak+ pakatsunax+ wapait+ tuxeu  tsie. 
-"ketine yetua, neputi newieni kenemura pika ne,  
-tupiriya 'aix+ p+reke teik+ pet+a sastre ekapa. 
-pakuakai xeitek+mayari +xamakame.  
-hansel petatsanax+ yu pini yu purutsata,   
-anati neximekaku tau, penua xeit+ kaxeta mena wieta yu ata nauka kabayutsixi mau tuxat+,  
-hjeta kuaiyakai +rawetsixik+ yeutari,  
-per+ kuinie pureiku kukuinekai hek+na corso,  
-meta kepa+ka makunuatsie yu kie,  
-m+pa+ri reina peiye tuiri xapa,  
-ni wakuikari wikixi,  
-meta pekat+t+a kuka de oro 
-hetaiyaneme carbon muwa,  
-bruja neuyewiri casaldotsie. 
-"paniuti eiya naime iwaurika hepa+ tewi timaiwe,  
-per+ ukaratsi, tinaimek+ kahetiku,  
-purah+ani meta pura'iyamat+ani. 
-ya pùre yuri kemureku ukai rapatsie m+k+,  
-yapureu terix+ petayua wa'at+ purekutsukai xurainarik+,  
-teik+ peih+a atewa wa+ka kaheyu hek+arix+. 
-'ik+ mep+mu'u
-pauyuyeh+a xeimieme kemutre y+wekai meta pautaha kita kuaiyak+,  
-y+ wa+kawata meta ut+katei waritana hutat+ 
-waik+ atsi karekaheriet+ya m+k+. 
-kuit+ta m+k+ paukuhui mamayatsie 
-"tepukateu yepieni kitenie."mepute hiwax+ m+k+. 
-kename m+k+ kayewe." 
-tutu '+imari
-awat+ rei a+tsikawiyakai awayatsie tsiranye m+ts+t+. 
-peti'erier+a hekuakame kepa+ murei mienikiekai,  
-meta keramaikakiekai kemure y+kai tuminieyak+. 
-ik+ hik+ y+wik+ta,  
-payuye +t+a y+ h+xie,  
-"a alteza, sastre axakatiniuka iyarini 
-heiti tuku peta nautsax+ +t+mana.  
-tsimuyu mate m+k+, kuit+tapetay+: 
-"oh, mets+kam+ nenayetsa anayatsie xupureru,  
-tierikayak+ mitsu 'aix+ mepei yuriekai. 
-"¡xewi, huta,  haika, k+m+!" 
-per+ kepa+ka muwareta xeitsie,  
--"ne'hayewa  watayani."- 
-"naniuta wikuest+ani ne niwe metari xewit+ kaitiwit+ni." 
-sastre pumieme xeime tuixu yeutanaka axeurety yuruwa yeuta,  
-heiwamieri reta hayewaka uximayatsikak+,  
-hairiekata reutaha huxunuta, nauriekata reutaha kutsinata,  
-meta tipata xeik+a yu hetsie miemek+. 
-meta heita inieka peiyexat+a heituirienikie,  
-kepa+ka heku eriwat+ mayani y+k+natsie,  
-matsikame petiharixi mekairi haya m+k+,  
-tewi peyuit+a y+ +ya,  
-tsipepeme wareta t+kit+a pani yu xexuime,  
-waik+ nepukaretima hexeiyat+ kemureu erieka hekuame hora,  
-zapatilla yeme kui pepekai hetsiena mieme. 
-meta peita kuikiri xeimieme: 
-"mana xekenatet+ meta xekeneuka uxipieka." 
-tspeta kiewari meyuku xexeiyakaitsie blanca-nieves,   
-peyeit+wakai wiki,  
-panuti makix+ta tupiriya tsie meta warekuewiekamek+ kemey+nikiekai. 
-reita xat+a tinaime kemure y+kai meta rana n+it+a: 
-meta pauyukiet+a yutema wiet+. 
-"¡ne h+xite nit+ma tsi'aneme kaxeiyawekai ni heiwamie!" 
-meta m+k+ yemek+ tsipe'it+arie tsiere 
-hetsie captulas petayua mer+kariyak+. 
-xietexi meta memaye tunik+ wa xieteyari,  
-yorinda pekuikakai: 
-mexi petahiwax+ wa+kamex+a kui kemure y+wekai: 
-waik+ xeik+a rey 'aix+ kuaneti tukai." 
-warek+ xe+rita yunaime segadores meta tiwareta h+awix+: 
-meteyuta h+aweka, mepeyuka uit+ax+a. 
-meta kanetiniye tuiriem+k+ yu pini." 
-"nanita hilarowam+k+ lino meta neraye h+anita ik+ oro,  
-"keneneuti wiri etsiwa harinak+ ne +katsie." 
-xeimieme itarika panakawe,  
-r+ka pe'ita nali++erienike, nait+ ik+ apini h+k+t+nike." 
-peti ne+kit+arie hapa+ka heta tuiyaka meta regocijo,  
-xeimieme pakawiwi k+pa meta niweya rey panutit+a. 
-pureta h+awix+ y+ +ya, meripa+ teka kutsir+met+: 
-mepe'ax+a memuyu huta amemuyu mate 
-meta awakaitsixi tuminik+ meta petinanenik+ apinite hehekuame,  
-petaáit+a y+ n+'ari wayehuputsie  
- 'aix+ re'eri rey,  
-xeimieme ik+ temaik+ henuani xapaya,  
-meta petaiwayiyax+ molinero meta +yaya tsiere x+ka ame tewikai temaik+ he niweyat+kait+ni. 
-m+k+, kuit+, petanautsakai yu buhardillata,  
-meta kuinie re rurair+kat+ meputeyuta h+awix+: 
-per+ yeme anuye miekaku kepa+ka kitenie de hierro,  
-per+ xeik+a heyuit+aku huso,  
-h+k+ teme kukui'inikie teyunait+!" 
-hik+ta, 'ek+ naime patine yuriem+k+ 
-"waik+ naputi hayewa x+kakie rey netsiya tuirieni yu niwe mayanik+ ne'+ya,  
-per+ +rawe wareta xei, nit+ma kahe uxet+,  
-"¿kepa+ pe+y+ka pepuye'a takie?" 
-tahetsie mieme ta w+t+arika,  
-"¿peramateri, kam+ts+,  
-kemutiu xatax+ani eriyarik+,  
-per+ kaheyu maiwet+, pey+ wa+ri mau maimiek+ +imari princesa. 
-m+k+meta niwemama mepe iyamat+kai kuaiyak+,  
-kuinie tinutuixiet+ wareuye x+rik+ meyu atahutame yu niwema,  
-xewit+ matsika petiwierix+ mamayatsie yu kuri meta reita h+awix+: 
-"ket+"-petay+ m+k+,  
-"ne nepura'eriwa"-petay+ judia,  
-rei'ei ukaratsi. 
- 'aix+ purehui +paritsie meta  pauku. 
-mexi +yaya he'+wanekai meta warewatsi+xat+ t+ri,  
-"m+k+ ukiritsitsixi wa+ka teputexeiya wahek+,  
-meta mofa peye'axekai wahets+a yu kurima. 
-"nepa pa+rita pastel meta vinu. 
-meta kuinie mepute u'uxekai nutuixiyak+,  
-per+ m+k+ kaheh+k+ sinu tetexi ranuku neit+we. 
-re h+awekai tememiwameta manait+ kani mamaneparewim+k+.  
-"keneneu hurit+a xapa ayeume." 
-m+k+ mepute heku eriwakai ke he kanike mil kilometros he tewakaku. 
-hakakait+ yu war+itsie. 
-meta ketineuka wewi 'aix+ ti'aneme a matsika pinieya,  
-"keneu wipa nehetsie,  
-m+k+ peta'iwau: 
-meta peita hat+wakai jaulata meta peihanakai kita kastillota. 
-hans penukairi meta apureu tewikairi yu kie,  
-ne +ya puxei a rapunzeles yu ventanapait+,   
-pein+t+a meta pei'uayema mureka eniwakaik+.  
-wa+riyarika wa+ka apayakai 
-pakunua yu kie,  
-tsepa pemutiukunua nitixa+t+k+." 
-"waik+ nit+ma atsi karanuy+nekai, " 
-waik+ mepukatatsi hayewakai?m+k+ kaballo kauka'iyari,  
-kepa+ka xewit+ nunutsi mekawautsekaitsie hets+ana, m+k+ wareta kukuyakai,  
-meta meputeti kuinix+ yu mamatetsie meta y+'+katetsie. 
-anari deyuri natiumaweni. 
-mexi kaiwat+, kepa+ka ti'uximayatame hakunuaka yu kie,  
-mepayekai yu mexatsie tsi'aneme wakana warikime memeita kuanik+ yu nait+. 
-kuit+ta m+k+ petahiwax+: 
- 'aix+ wareku yuriri xeime kita manuyekatei,   
-tsipe'anet+ tuturi panutayepi y+h+xite meta panuta nierix+, meta tsipurei xei. 
-xeimiemeri nanika xeiyam+k+ yepa+ temuteyu parewieni."  
-"kaniuti nuiwa xewit+ nunutsihaye+t+ nembrana yu mutsie,  
-ha+t+mek+ ha'at+ metayuanik+ uximayatsikak+. 
-petay+ ti'uximayatame. 
-meta netse kiekanikiekai,  
-pekahui 'aix+ anek+a yu kamatsie,  
-reita h+awix+ ke hei pariewienike met+maiyast+anik+ k+naya,  
-per+ta t+r+karieya puxu payex+x+aximekairi,  
-como ta manakakukiekai ukaiya a+rieyatsie! 
-pureta'xa sastre, meta pureita xat+a niuki. 
-petahiwax+ kui kemuyuane: 
-meta yu awiet+ tsata ikuaite 
-meta pure'eriekai kename hekut+ heta niunikiekai meta hetayuanikie enigma. 
-waik+ t+ma atsi kahetay+, per+ xeimieme,  
-tsatuta tawari pu enex+ hekuamek+, y+wik+tata,  
-mepetitananai hetsienamieme meta meputeita h+awix+: 
-meta xeime ka+k+xemek+ k+xeme de wiya heyu k+xiyat+ kita,  
-meputei eiyakai: 
-per+ta xeik+a pexeiyakai tamamata heimana huta xak+r+te de oro hetsiena memutekuanik+,  
-"ke petiu nierix+, ne hamiku"peita iwawiyax+ sastre. 
-meta anamat+ tsi'aneme kuruna de oro,  
-xewit+ tsipet+ wiki hautuxat+ yapureta axekai tupiriyatsie,  
-yu temawierikak+ pureka wayakai mexatsie meta anuku tsunast+wat+ watsute,  
-per+ perno pureu kuinit+a amuranuka yatsie. 
-"waik+"-petay+ blanca-nieves, -"waik+ neukati naki'erie." 
-per+ nit+ma kahey+wekai,   
-meta pautih+a yu ika yu naiparie meta pet+a. 
-m+k+ mepek+ hets+a ti uximayatame meta meputeita h+awix+: 
-reik+ h+awet+ x+ka uxa'arieka waik+ 
-ne axati'aneneme uximayatsika neputik+ma+wa."petay+. 
-¿titak+ kuta reiyeh+wa?pexei kenameri kawatiyeiwekai muwa hem+kikiekai. 
-meta deyu xexuime ware n+'ákai 
-teh+wemete memeti'ukai kitenie h+xie palacio 
-tawari maye'atsie taikai, cenicienta pet+a,  
-panutit+a xeiya +xatsata meta pekahui yu kamatsie. 
-meta watitui xei mamayari tumini,  
-kuya, naimeri pure xeiyakai,  
-petiwewi tsitipepeme waika kayu matsi+k+me,  
-kam+ts+ xeiwit+ ayumate pet+a utamana,  
-"oh, hu, per+ grethel, ne +ya kaniye mieni ne hamat+a." 
-tawari tixa+ napura nierit+a nameniye tuam+k+" 
-"nemie"-petay+ +yakame,  
-mauta tetewa meta amatayeyeu, naime kepa+met+ me'uwanikie nombres.  
-mauta tetewa meta amatayeyeu, naime kepa+met+ me'uwanikie nombres.          
-yeuta wa kiekari tsie mepeku tekai yu hutat+ ama+t+t+ mete ware nawatsiriet+ wet+,  
-panetiuta uxit+ak+ 'aix+ kepereuku kani hik+!"-,  
-rei iwawiyax+ papaya cenicienta. 
-per+ t+ma kaballo kawakie meta kaiwat+ peitamarikast+a,  
-per+ uki mutsira mat+k+ xeimieme pekuwau 
-pet+a kayu kematsima tawari putsuta. 
-"hu kanih+k+t+kam+k+ apini"pureita h+awix+ diablo,  
-kepa+ka me'enitsie xik+ri m+pa+ reku xatame,  
-meta kaye'eri kemuraye tse'ikai,  
-wa+ka memuk+ wa+t+we kuiniya. 
-kuit+ta hukayatsie wakaxi, hiwatareikari +rawetsie. 
-ke'ane panuye hanakiekai mayanik+ +yaya, m+k+ petay+: 
-kepa+ka p+re eri +rawe pitakuakai ukalai m+k+ pita wikuest+anikekai,  
-hik+ta, xeniu tiniuwa hepa+ tsapari memukaniuwawe,  
-hehayewaka etsiwa hehek+akame h+xiena,  
-muwa mepexei tsi'utewime tewi hautsiuma+yeme aurie mexa. 
-areutewit+ a mutewi kaheyuta maix+awekai, kuit+ kie panuta nierix+. 
-peyeikakai xeit+ temaik+ peyuyuri hepa+ kuya,  
-ne nanitaiyam+k+ etsiwa tai xemuka xerikuit+kanik+." 
-per+ atsi mukareti mamatekienik+ rey ana y+wik+ta,  
-yaxeik+a anet+ meta xe+matsiwakamek+. 
-"¡ik+t+ xei tek+mayari natini yurim+k+ per+ kaiwat+ xeik+a!" 
-"¿tita perapa+rita tsik+iwititsie?". 
-niyu xewit+ y+k+ t+ma kahe'anekai? 
-"xeik+a nemie upai meta kenenierimie kehey+ elsie meta n+'ari." 
-"ne uka chimutewi, ¿tita kuta pereti maka wa+ka?,  
-botero hula pat+a meta reita h+awix+ kenanuti yer+. 
-"neuxei ne niwe, 'aix+ ketineuka iyarini meta tineu'aka nenimayat+,  
-niwa, nenemera h+awe, kenamie nemanukatsie,  
-meta tawari atsi kaheta y+. 
-meta pemieka wa+ka akuxi,  
-nepeti weni yatewa kitenie, waik+ neukareyu uxiwat+ani." 
-"nenepureu erie ne suerte waik+ awat+ kaheu'axe." 
-hek+na ne'+ya, 'aix+ isabela,  
-uki pureta h+awix+ta y+ +ya: 
-mekutsukai reitsieni wiyari mex+a, meta tsiere rey,  
-tawri pekawa kuiepa. 
-kareku kukuinenik+ yu waritsie yat+ni heti warim+rek+. 
-pekame tsiere m+k+. 
-tawari deyuri tewi nanayani,  
-meikuwawiriet+wet+ parewiya cenicienta 
-nanipiniriemieni yapa+ rapunzeles, tsepa kenemure y+." 
-yu ait+ mepaye kukutsukai xeime kita,  
-"tepukateu yepieni kitenie,  
-heiwamie peyeikakai niweya kuinie rexeiyat+ 
-ariri setenta heimana nauka, kuit+,  
-meta naikatsita memamat+ kaballo tsixi,  
-m+pa+ pureiha naime +tsita 
-kepa+ka memei enitsie te+teri sastre pa+ reku xatakai tsie,   
-waika matsi kepa+ka memetimatsie kuiniyaya,  
-meta uki nit+ma etsiwa 'aix+ kareka eriwekai 
-temaik+ tumaxi p+titewa
- 'aix+ memuteu 'iyari tsimem+t+t+ tsiempre meputeiti h+awekai: 
-xei t+kari, kepa+kari 'aix+ mureuti anekaitsie,  
-"muwa kaneye yeikani botero hapa,  
-amutewi re'eri sastrecillo tsipu re hein+kai,  
-tsepa, neuti kuani meri." 
-meta tsime'anekaik+ hepa+ ruritse hepa+ tsi'anet+,  
-xeimiemet+, ikuait+arika, postres,  
-reukau uwani y+ xa+ta kalle +t+ma tsiere uyeta. 
-petitserax+ y+ +kate meta peka'uxipi. 
-kuit+kie, hix+apa kitenie pakatei rendija,  
-meta nitixa+ mepukate hayewax+ ni asti mekauti yuat+. 
-+kit+arika: 
-m+k+ yuxewit+ petay+ kainakiemek+: 
-meta tsi'aneneme xapatuxi,  
-"per+ axenepureu erie t+ri nutuitek+ t+ri,  
-meta titamuratiniere kuieta, nepini katina yeim+k+." 
-"¡tanitayuakuni uximayatsikak+ hetsiena!"-petay+ hansel,  
-meta pet+a uyeta atsi kara eriwat+ri. 
-"nameniti tsik+t+am+k+ atsuritsie,  
-meta mepek+ meku'eirieka y+xa+ta temaik+ hatesta. 
-xeit+ tawet+ kayumaiwet+ paukaha tatsiu kutsiurita,  
-meta nqaitsariena auriena n+'arimama 
-uta tsuat+ a uyuat+ matsi tawari a uyuat+ tixa+ kati eniet+. 
-mekuwaut+wet+ tuxeri meripai hepa+ aneme reina tsi'aneme. 
-kuit+kieri uki pekuyua meta petay+ niuki wriwekamek+: 
-hetaxeiyat+ a+tsiya h+ritsie mieme,  
-"¡uy!"muwa peyeyeika bruja nieti mariy+k+t+ kita,  
-neta nexa+ta ena netiuka +tsita nat+maiyariet+ naime kuitsie. 
-hansel mat+a grethel mepute'ui kememutanaka mamaka 
-patini tewakam+k+ "nawieya hutse." 
-meripait+ memek+ k+nix+akai 
-nit+ma waik+ kaheku itseit+wanikiekai naime yu tukaritsie. 
-waik+ naputa ikuewani uxa'akie,  
-k+ipit+a sastre. 
-kutsieya pekatei yeuta, a he tewakaku kiena. 
-m+k+ petayer+ kuiepa nait+ kemuti nutuixieka,  
-¡ay, comota taruya utatsuat+ pauhanimiekai ha,  
-tita mutiuta ait+arieni putiy+ nirin+a an+kai. 
-puti'at+a +tsita timieme repini yu xexuime." 
-tetu'amete mepeyuxeiyax+a kememutanaka mamaka,  
-wa+ka akuxi kahe in+atawekai pureka eriet+ya kenameri aix`reka eriximekai,  
-hakewa meita iwawiyax+tsie ti h+wema kitenie pureita h+awix+ kepetikuyuriene 
-pexeiri ayeume kiekari 'aix+ 
-m+k+ hein+tsika petawe kueyaritsie palacio. 
-pekatei heiwamie yu uwa hakuet+,  
-m+k+k+ puran+n+ temawierikak+,  
-wakana ukiri kab¡nih+k+t+ni xeik+a astilla ka+h+k+ pikaxi!-" 
-porkets+ ramaikai rik+ri mureiti xaxat+wakai de yuri. 
-"Oh, ne'+ya, hik+ri pem+h+k+ reina." 
-"kename tsiere payeika 
-kam+ts+tari amemuyu mate atsi mepukahe tiyua tawari. 
-yapa`tin+weme xei xapatuyeyari. 
-kepa+kari nait+ zapatillas kuinieri kure xaxawakai,  
-"rutuxi katina maika naime:taniy+ +wiyakakuni,  
-meta tawari petatsua wa+ka y+h+xitek+,  
-purey+ kepa+ka wakutunir+mekaku etsikina, kepa+ka tsimutewi mehiwar+mekaitsie  
-"kepa+kari wa+ka m+y+winitsie,  
-m+pa+tari pet+a muwa,  
-rey pureta n+'a tawari haniya sastre meta pureita h+awix+: 
-tau tari pakayunir+ mekairi. 
-kepa+ka rey meixeitsie, tiwareta h+awix+ tememiwamete: 
-per+ta kuinie nepureu uxe wa'at+ deyuri neputiuti'iti." 
-matsi wa+ka 'aix+ p+ y+kai. 
-huxa'arika kie, kepa+ka taruya meiku tuiritsie barrilya  
-nait+ta kaiwat+ pemakai nit+ma nitixa+ kare'eniekai,  
-xeimiemet+ y+k+ ti'aneneme purana kat+ yu kamixate,  
-reu tocaruwa la puerta re hiwax+,  
-meta yunait+ mepexei mik+ri,  
-perewiyak+ tixa+ kewaiyariya,  
-"p+h+k+ nunutsi de suerte, tsepa tita putik+ h+wirieni." 
-kuit+ta k+naya peyuta maix+a peita iwawiyax+: 
-"naniuka xeiyari 'aix+ mu'ane suerte nemuku eriwakai,  
-meta tiwareta xat+a tinaime kemure y+kai hetsiena mieme,  
-heiwari 'aix+ meteka erieka, mepetiyua: 
-peitui anatari molinero +yayata,  
-meka'ut+kait+ memei h+kai,  
-m+k+ wa+ka yuari petama,  
-muwa pekawiekai yu kama, meta peyuku ha'arit+a menierek+ 
-kepa+ka nemaukutsie +xapa."  
-meta puranuti n+it+a itarikahepa+ 
-"hu nepapa, naneyeikakait+me kuietsie axati'aneme. 
-waik+ kareti mamatekiekai kemeti it+riwakai. 
-kuit+ tari m+k+ pet+a kutsinata 
-per+ kepa+ka meyet+atsie meta mekuyuax+atsie,  
-paneikakai tse'it+ hiruyari xiete. 
-meta rutuxi pexei xak+,  
-per+ nit+ma hula kahe+t+a ni huta kieyari tsikiera hets+ana. 
-ik+ tsik+witi nepahana rayepikame ikuai meta tep+k+k+ne naime kuietsie" 
-"natineka pini hamat+a k+naya tatsiu,  
-"waik+ pauka mutuxairikieni m+k+"-petay+ cigueña,  
-kepa+kari nait+ mautiparekai, petay+ rey: 
-xeik+ata keneta ini." 
-"¡meta xeimieme nanaka imuriemeni ne mama sinut+ni ne ika!" 
-ware'eni yu hutame te+teri wa'at+ muwa meputeu hukai, yu xewit+ petainekai: 
-panitsie mermelada paye teik+ heniereme, hulawa,  
-m+k+ kane kani haukie kitenie."petay+ amupa tsapa mauyuawi. 
-hetsie mieme huta pariyari xapatuxite. 
-hax+ak+ rekawax+a axa'anemek+. 
-kam+ts+ tixa+t+tsie penetoiu parewiwe." 
-hutat+ ukaiya pahawiyax+ h+xitana,  
-ar+ke hemiet+  a reu tewit+,   
-"ik+ri kauka neh+k+ hiwatarieka tukari."-re'eri. 
-meta xetame xuriyaya,  
-etsiwa h+x+apa uku at+ muta h+ne. 
-rey pureta ay mekehapanienikie niukipa,  
-"waik+ ne atsi neukatimate hetsiena"purei'ei,  
-yu hetsie meteuti pinite imikieri meta mautikuit+: 
-per+ h+rix+a, x+ka anuka yayu haika tukari 
-m+pa+ wareti kuanik+ yu hutame heiwamie. 
-atahutametsie xak+r+te, meta atahutame watsute,  
-"xeime mexatsie puranaka h+ne tsiti'anenet+ pinite ti kuaiwame meta ti'iwame,  
-xeik+atari peyu hayewienekai xeime ducado yu purutsata. 
-"per+ pato hau tuxat+ mana yehaune,  
-pei tati r+ka kareita x+at+anike waniu,   
-peitse xeime mamayatsie,  
-meta kanewarixiwiya cenicienta,  
-kaiwat+ pakumakai, meta pety+ wa ukiyari petay+: 
-kuit+ta tawari rey peta'ini  
-kepa+ka memeye'ax+atsie kiena pastor,  
-metapakat+a m+k+ hix+apa 
-rey pewewi ix+arari kename reuterekiekai haika tukari,  
-neneupit+a nepuwata inieni ena boda,  
-ke'ane a ikuai puwewiekai aurie tai. 
-m+k+ petainekai A, matsip+ta B, m+pa+ naimek+,  
-"¿keti y+ni a+m+ tahek+? 
-"nait+tari m+k+ de yuri tsime'anekai 
-meta peiwi xeime +kayatsie. 
-"aix+"-petay+ kuya,  
-xei watsuyarita vinu meta peitatuiri hets+ana mexatsie m+k+ temaik+. 
-peyuit+a jaula yu tuturik+ meta tsiere ukiratsi tewi,  
-w+t+arika manuyew+kame yu pareku yu xexuit+ ekatsieta yu xewit+,  
-meta pehapax+a namiki yari yu mamatek+,  
-per+ tari mey+wikai metari mepukahe y+wawekai amemak+ nekiekai,  
-meta nawi pauyekatei yu xexuime wa mu'utsie m+k+. 
-per+ta xei tek+mayari payex+ mexi princesa,  
-"¿m+k+ te+teri, yu tewamak+k+,  
-tsipepeme wakekat+ peix+riximekai aneneme kuiepa. 
-per+ta cerezas kuinie putit+t+re ne hek+,  
-petaxei palacio detete,  
-niweya wa'+wiyame,  
-amutewi kahey+wekai  ta aurie yu mu'u mah+anikekai,  
-"¡ah ja! ¡x+ka neramaika!"petay+ diablo,  
-heiwari meti matiwak+ nenuyu nauka, mepet+ xawat+riya,  
-"¿ke'ane ranuti'i ne watsuta?" 
-rey pewi kararayari meta penuti h+niri. 
-mepute'eriekai tinaime karanu pinikiekai. 
-kepa+ka me hut+ uyeta, niweya uki rey re'enakai wa'at+ tixa+ raka murir+mekai +t+mana. 
-meware hapaximeme m+k+ yu niwema: 
-"nemepet+a molino"-petay+, "nepeye anikieyu reina hets+a,  
-meta akuxi pauye +it+akai yapa+ tukari yu mamatsie,  
-"¡oh hu!"-petay+ papaya, -"m+k+ atsi kaputiuka iyari."  
-"tsikiere etsiwa kenaka nieri."petay+ ukaratsi. 
-"mana pei xeiyat+ pepureti mani x+ka ne ukit+ni". 
-"nehek+ ne tixa+ naputi enie wa+ka kepa+ka nemuti hilarowakatsie,  
-"¿yapetiuka iyari"-petay+ axarei xeiyat+,  
-katirateta uyew+t+ naime kimusta,  
-neiyari
-¡amupa tsapa mauyuawi waik+ kametsa yeit+awe emperadora! 
-kepa+ka ya mayakai yatewa,  
-metari, meta 'aix+ aneme mexeiyakaik+ iyari,  
-heiwamie peyeikakai tsapa weweiyame he 
-per+ maukat+atsie, yu nait+ mepeti tsuanakai,  
-mepeitaxei naime meta mepekaxei tsikieme uayemakame k+pateyatsie. 
- 'aix+ wataru petikuei xeime nawaxa, panuti xite xeime yu mama tsimupeyari,  
-heiwakie xei tukari purey+ xeit+ kuya xa'anet+,  
-rey kahey+wekax+a heita h+awekie,  
--"temanuye nex+anik+ +tsitana bruja." 
-kaiwat+ ketine kaniri. 
-tawari nit+mari xeime napuka xeiya hepa+na aneme." 
-025-tsi'anet+ hetikukutsut+ +tsita 
-per+ sastre, wariena payeikakai,  
-principe, xeimieme,  
-mautahanikiekai heitserie kiteniena hix+apa wayekateitsie,  
-meta kuinie tiware parewi memukateu xeiya 
-m+k+ ax+neka petanautsax+ kitenie heyemieka yu kie,  
-aimieme kanenewaye tuani kuraruta." 
-tewi yapureyuri naime tiyu uayemawame kemure h+awekai. 
-meta wareta n+'a yu tamamata heimana huta its+kate,  
-petay+ temaik+. 
-upait+ paneta xeiyam+k+ hutame mekuiximeme 
-"hik+ rix+a kaiwat+ tinekani, idiosa temu"petay+ m+k+. 
-me'at+anikie ukaratsi tsi'aneme kita. 
-metarita meme'enie yuariyaya hatsa,  
-mepauta hax+a yu xexuit+ principe tsixi yu xexuit+ meputiwaret+ neit+ax+ ke'ane memuteware pinit+kai,  
-matsi kuinie tikawet+ ke meripai kemu'anekai. 
-tatenetimani kename pekuwaune mantsana tupiriyari ayaniereme,   
-"¿ketita tih+k+ neniwe, ketita tih+k+ cervantillo? 
-ukiritsi peyuhek+atax+ meta reita h+awix+: 
-pureyuta h+awix+ hiwatarieka. 
-kita payekatei xewit+ ukalai hekait+ h+xie xeime uso,  
-kepa+ka meye'atsie kuietsanarita,  
-"hu , per+ts+ axati'áneme. 
-m+k+ peuku yanikiekai hetsiena,  
-niwa,  uka,  
-muwa pau nierix+ an+kai ventana re hiwax+: 
-"ke'aneta tsi'aneme netsi'at+irieni anillo,  
-kuit+ tete xeime pakah+a 
-'ik+ tuutu tsip+pa
-kuit+ reina xaureka eriet+ya,  
-xexuime xak+r+tetsie anati'ut+kait+ kutsarate. 
-wauw+t+k+kat+ upait+ hetana meta tsiere herie.  
-meta pepatax+ mantel awak+k+,  
-heiwa maye yeikakaitsie papaya,  
-"altezaya, sastre tawari peyuka temawi,  
-kepa+ta hik+ne'iyurieni nemuraye at+anik+. 
-nawieya hutse peta exanax+a iyarieya. 
-hik+ ena takua puwe, ta'ikuewat+ kepa+ka neita inienik+ ne hamat+a." 
-kutsirak+ muwareta ni+t+akaik+ 
-meripai uxa'arieka, meripai mekanuta nenieriwekaku t+ri,  
-amurenuatsie palacio,  
-peiku yuit+a hasta pait+ menutah+t+a, meta purehiwax+: 
-reku'eriwat+ kenameri reiye tuirienikiekai tita murei xat+akai. 
-taikaitari, kepa+ka menutsie rey puretima kename hexeiyakai nunutsi,  
-hik+tari p+ta 'aix+ purekatei yu temawiet+ kewa metakuewiyakai. 
-"hik+ta, naniku waum+k+ uximayatsika." 
-meta puware huriri xapa yu ukiyarima,  
-xek+a kena pa+ritsiri remos mamateyatsie" 
-cigueña yu waritsie pakaha maletaya meit+kai,  
-per+ tsimem+t+ papatutsixi xeimieme 
-heitseriemek+ yu tukari rey+ ni+tat+ 
-yamepak+ etsiwa 
-naimek+ yu tukaritsie. 
-kepa+ka pekawe m+kini hepa+. 
-paukuei me'itetuiniyakai itupari meta penanai kaunari,  
-xeit+ uki meta +yaya, mepa tekai rati nanautsat+retsie,  
-yu mu'ute yu anateta,  
-retimaku petay+ niweya uka: 
-ukirtsi uti tsukuakat+ xeimek+k+ y+ +ka, meta rekuikakai: 
-narewewiyakakie pure ne iwama wahamat+a." 
-meta xeiya tsimupepek+ yu mamate zapatero 
-xeimiemetari yarey+k+ tinait+,  
-meputeku xatakai tsiti'aneme niuki. 
-018-rumpeles-tijeles   
-kuit+wa, m+k+ nit+ma muwa kan+t+a,  
-hansel pek+ n+t+wakai yu taru reik+ h+awet+: 
-ra +t+a anenemek+ reku ukai "ATA HUTA XEI WEIYARI",  
-"xeit+ karaka katei takamatsie tsiere" 
-temuxeiyak+ ke'ane kuta p+h+k+ tatsi parewie?" 
-meta oekahui kuiepa wa'at+ tim+ki. 
-yareutewikaku ware taxei amem+t+t+. 
-temari mepeka uit+arie y+ +t+a mau'ut+ kemure xatsiekai. 
-hik+ta jacta x+ka m+k+ y+wa+riyani,  
-yeneuti tsuna kitenie,  
-ukari watukari
-"¡kaiwat+!"-petay+ erizo, -"ne niuki. 
-hix+apa meyewekai pat+k+kai yuteta xeime x+peri,  
-xeimieme muwa payene unicornio peta nautsax+ heitserie sastre hets+a 
-'ik+ kaunari p+tsi+ra+ye
--"aix+, ne tiyama." 
-metakuiewiet+ niukieya y+'+t+ma mehau ut+,  
-"¿kay+we?"-purehiwax+ ogro, "¡parats+ paninierim+k+!" 
-memuteyu kua'a yeutari mepenautsax+aximekai +t+manata m+k+,  
-uki nunutsi retewakai hansel (juancito),  
-rey peixei wa+ka panakamakai 
-per+ta simpleton waik+ kaware pit+a petay+: 
-kuit+kieri kapure eri,  
-neneupit+a aix+ri matsi nemeti t+t+ani." 
-pareyer+ 'aix+ +pariyaritsie kaxeta,  
-kepa+ka memeye'ax+atsie kastillo yoyatsoe tewi,  
-hakait+ xeime tro tsie matsi kuinie pametsie,  
-"¡ket+ a+m+!"-re'eri m+k+,  
-peihapat+ata m+k+ yu hutame puxuri ma+t+k+me oro. 
-wa'at+ xeit+ im+ari mana tiukawe, deyurita titineni. 
-per+ wakana re'erieka pautiwi yek+ritana pait+,  
-meta mepei xert+a uye muheitserie. 
-kuit+ta kepa+ka meye'atsie hets+a kaballo m+kit+,  
-anat+ mismo tukaritsie patine boda,  
-nit+ma kaetatua mamaya,  
-raip+tsi, mepuka heu enanakai,   
-kepa+ka pini nemuranu nanakiekaitsie ne nehets+a,  
--"nemie hik+ pinieya bruja, panenu wit+m+k+ h+xie niuki." 
-"m+k+ atsi pukareti mani de ik+."petay+ ti uximayatame. 
-meputayuye +t+axie tsimemuteyu xexeiyanik+,  
-meta peyeyatsakai yapai papas taipa,  
-rey kiekaritsie mieme pe'eni hula timieme hetsiena,  
-meta peixest+a tesoro naime mexeiyakai. 
-meta rei'it+iri peiye'at+a hets+a mexa 
-manahauye wiet+ patayua niuyak+ meta petay+: 
-ek+tapenetiye tuirieni apini." 
-yuimuana parari hetsiena mu tsuna y+witata ment+nik+. 
-per+ h+rixie mepeka w+t+arieni kiekai. 
-anayuri pexei xeime ukaratsi 
-xeimieme panutit+a hepa+ anet+ princesa,  
-waik+ kapu yeika,  yu xewit+,  
-heiwa xewit+ ukaratsi nieti y+'+raxiet+ kainakiet+ hilariyatsiyak+,  
-meta peikam+ ax+aya. 
-xeimeta tsipeme +pari muka ux+piwenik+ hetsiena. 
-nauka wiyari anuye miekaku peye'a posada hakewa uyeta memukahei naki'eriekai,  
-"huma kaballo pem+ki kuiepa huma hulawa,  
-mana, hetsie avellano, mepauye tekai yu hutat+ palomatsixi mete iwat+: 
-"¿ketita rayani hiwatamerieka ik+ nait+?" 
-meta maneneuti muririeni ne aki. 
-mepek+ memutewaye pit+katsie, mepuwaye huriex+a tsimu'anene iwite,  
-pikaxi 
-k+tsik+ wah+xite panuyuta nax+a, kuit+ mepeu kutsix+. 
-m+ap+ anet+ pet+a wakie atahuta tsimem+t+t+. 
-tsiere pe'eriekai hetawereme h+xiena. 
-mepama corona tuwaxatsie. 
-per+ tsiere m+k+ payatsu kanuta niere naime t+karik+." 
-xeime corona de oro anamakame yu mutsie,  
-'ek+ papu uxiweri wa+ka m+k+ri katini aix+t+ni."  
-m+k+ tsiere pekaxei tsatu,  
-"kename 'ek+ y+k+ pem+y+ni pey+we 
-waik+ kapu yeika, yu xewit+,  
-uxa'arieka ximeri niweya rey petaxa 
-"¡ah!"-pureita h+awix+ ukaratsi,  
-tsile kemakax+a m+k+ heiwa kaenakat+wekai tsiere kainaki eriekai. 
-peika n+t+ya naime hetsiena meta penuti n+it+a: 
-meta mepei eni kename m+k+ hey+anekai nawieya hutse,  
-meta waik+ t+ma atsi karemaikai hakewa manuhunikiekai. 
-"neutahaki." 
-zapatero petay+: 
-"hey, henry, akaxeta tamurir+me." 
-manatari paloma penyeha hetsiena. 
-"hik+tari panaku nuam+k+ akie,  
-"nek+na"-petay+ m+k+, "nepayani super emperadora. 
-trigo petinex+a, petiweri meta hatsiyari petitse+yex+ 
-ukaratsi penua kuit+ waranuta h+t+a t+ri tiwareku h+awet+: 
-namenaye tu'iriem+k+ tawari xeime a h+xi m+k+k+." 
-mepe'ax+a wapini ki. 
-m+k+ peyeikakai meta peyuka temawi ix+ararik+,  
-¿pera heriwa kepenereta h+awix+ 
-ne nametini yem+k+ wa'at+ peutine niwe nehets+a palacio real." 
-meta metinenieret+ yumu'utek+, meputeita h+awix+: 
-amureku hek+arix+ nait+ lino pehilarowatsiekai 
-xeme xep+yuhuta '+imarixi
-yareu tewit+ kueyu waiwekai ke'anetsie meika tsut+anikiekai. 
-'ik+ p+xutsi
-"hu, wa'at+, "reita h+awix+ rey  
-t+ri mepe'eni ukaratsi mureku xaxat+wakaitsie yuwik+ta wapapa: 
-petaiyax+ xeime fosforo meik+xiyak+. 
-nait+ yapurey+ kemetay+kai tsatu. 
-matsika murexeiya, waika matsi,  
-peta hanist+akai m+k+tsie vinu,  
-petawe naime kiekaritsie,  
-"nehets+ pep+y+ane." 
-kamenanu tuam+k+ an+ta+ye, meta paneti h+niyam+k+ akurtari." 
-tiware hiwiwat+ mekehei parewienikie 
-"¡oh, tsieru! kam+ts+ ne natih+k+." 
-neiyari aix+ p+'ane
+  ella echó la pequeña rueda de hilar de oro 
+ El esposo de la liebre,  sin embargo,  pensó:
+  cuyo dueño y señor era un ogro,  
+  ví una pequeña casa,  
+ y se posaron en los hombros de Cenicienta, 
+ Cuando ella oyó aquello, 
+ tan enfermo que pronto moriría, 
+ Pero su corazón orgulloso no estaba saciado aún,  y dijo:
+ -"¡No quiero más hierba,  no quiero más hierba!"-
+ Al fin,  se llenó con cuanta piedra preciosa pudo cargar.
+ -"Pronto encontraremos el camino."- Pero no lo encontraron.
+  y cuando vieron que el apuesto hombre 
+  tomó al pájaro y lo lanzó al aire.
+  y observando la salida del sol,  
+    kilómetros bajo tierra en ese momento.
+  cuando supo de la resolución de su padre, 
+ Los enanos dijeron:
+ -"Sí"- dijo la mujer,  -"ahora soy reina."-
+ y éste la hizo desempacar todas sus jarras.
+  y el agua era pura como el cristal, 
+ la mesa estaba puesta,  
+ Y ella lo cuidó y acarició, 
+  -"mañana temprano al amanecer, 
+ Todos bajaron allí, 
+  y el reino caerá en la ruina."-
+ y cada especie de animal en el reino debe 
+ Entonces un cazador lo siguió hasta llegar al refugio, 
+ Y en dos rápidos saltos salió del establo,  
+    Blanca-Nieves aún vive con muy buena salud, 
+éstos son tres pájaros
+ Así pasó todo el día, 
+ -"Mañana solamente deberás hacerme un trabajito muy pequeñito.
+  y se interno en la foresta.
+ Y los perritos,  meneando sus cabecitas,  dijeron de nuevo:
+  pero todavía hicieron menos. 
+   y ofender a los pretendientes que allí se habían reunido, 
+  que se desvaneció de su vista.
+ -"¿Elsie,  por qué lloras así?"-
+  según lo acordado.
+ Él la recogió y la abrió, 
+  dejó el mantel con el carbonero.
+ Entonces le abrieron las puertas de oro a él.
+  hasta llegar a la casa del amo.
+ Cuando la luna salió,  ellos se pusieron en camino, 
+ellos están durmiendo
+ En realidad,  el astuto gato había escondido 
+ -"Si sigues mi consejo, 
+ -"Significa que doce asesinos, 
+ y Preciosa Rosa con todo esplendor, 
+este gato
+ -"Hermana,  tengo sed, 
+  y quien quiera que nazca con eso tendrá muy buena suerte.
+ -"¡Oh!"- contestó la rana,  -"¡La mujer más bella! 
+  tocó a la puerta y gritó con otra voz:
+ Cuando ya había oscurecido,  
+ Y sucedió que por fin fue una niña.
+ El zapatero por su parte,  no se rendía, 
+  y vio que en todo respecto era como su fallecida esposa, 
+ El burro se pararía en la ventana,  
+ y apoyarse y parecerse uno al otro.
+ Ella les dijo que la reina la mandó a matar, 
+ El gato se sentó en el suelo junto al fogón, 
+  Y yo creo también que no te has dado cuenta de lo dulce que cantan los pajaritos.
+  vio a los pájaros pasar volando, 
+  y de pronto exploró  su bolsillo y encontró su pipa de tabaco, 
+  y estaban tan perfectamente confeccionados 
+  y cuando estén cansados pueden dormir un ratito.
+  vendremos por ustedes.
+ Así,  ella descubrió de que nivel social provenía el joven monarca, 
+  que había escuchado todo, 
+ y al llegar al sendero dorado, 
+  el padre dijo de nuevo:
+ -"Ahora dame lo prometido."
+  y el búho notó que venían en contra de él,  
+  y cuando ella pensó que ya estaba bien dormido, 
+ Los árboles se doblaban y pegaban contra las casas,  
+   y todo se llenó de pompa y esplendor, 
+ Entonces le dijo:
+ -"¡Caray!"- dijo el cazador, 
+  y de noche y de día estudiaba cómo podría realizarlo.
+  que se las tragó el lobo para su cena,  estuvieran aún con vida?"-
+  y como no había puente ni tablón, 
+ y los acompañara en su recorrido.
+ -"Eso no es cierto pues estaba muchísimo mejor que lo usual, 
+ El séptimo:
+ -"Pero ahora"- se dijo,  "pensaré algo que será tu final."
+ -"¿Y este castillo también te pertenece? 
+yo soy hombre
+  y llegó a una choza donde vivía una bruja. 
+  yo sólo lo hacía por necesidad.
+ y su corazón latía con deleite.
+  todos gritaban que él sí demostraba su bravura,  
+  pero no estaba escrito en ninguno.
+  este hombre sería muy útil y valioso, 
+  dos lindos y pequeños hombrecillos desnudos llegaron, 
+este es mi ojo derecho
+ que en su angustia gritó:
+  quienes traían al niño correcto, 
+  él nos pasará,  uno después del otro."- 
+ El soldado consintió,  y al día siguiente trabajó con todas sus fuerzas, 
+ Pero la rana,  una vez recibida la promesa, 
+ 008-La Luz Azul 
+  tu promesa debe ser cumplida.
+  se metió en un hueco de un gran árbol y se durmió.
+  una vez daba manzanas de oro,  pero ahora no da ni hojas.
+ limpiar sus botas y hacer todos los trabajos misceláneos.
+ Había una vez un rey que tenía doce hijas, 
+  nuestra madre no tiene patas negras como las tuyas.
+ Entonces el mismo pastor se alarmó, 
+  cosa que  mi madre me había ya prohibido hacer."-
+ Porque ellos pensaban:
+ Y a él le hablaron acerca del Doctor Sábelotodo 
+ -"¡Quien beba de mí,  se volverá lobo, 
+ -"si alguien del reino de mi padre viene a ese mercado y me ve sentada allí, 
+ -"¡Oh cielos!"- gritó el,  -"¿Cómo sería que llegué hasta este molino?"-
+ -"¿Por qué no?"- preguntó el muchacho.
+  fue a su buhardilla,  se quitó su sucio vestido, 
+ Entonces empezó a correr, 
+ven mujer
+mi perro es blanco
+  y la reina abeja le preguntó si tenía una torcedura 
+  los que tuvieron que irse sufriendo múltiples heridas.
+ Entonces ella llamó a una de las pequeñas y dijo:
+ Si alguien se acercaba a cien pasos del castillo, 
+ -"Caray"- dijo el hombre,  -"desea ser reina."-
+ Entonces gritó:
+  que al fin dijo la madrastra:
+ -"Me he herido los pies,  ponme un poco de masa sobre ellos."-
+  que no era ni mejor ni peor que las canciones que habitualmente 
+ Al siguiente día le tocó el turno a Simpletón, 
+ Y cuando llegaron a la orilla contraria, 
+  Entonces acompañó a Caperucita un pequeño tramo del camino y luego le dijo, 
+ -"Verdecita doncellita,  
+  todo siguió bien con ellos,  
+  Al fin le llegaron noticias al rey sobre este asunto, 
+ Cuando llegó la medianoche, 
+ Lo primero que se encontró fue un potro café 
+  todos lo persiguieron, 
+  en secreto o se trasladaran a otro sitio, 
+  y los siguió sigilosamente,  como lo hacen las hechiceras, 
+ El rey dijo molesto:
+  se subió rápidamente sobre aquél recién construido puente.
+  y la reina tuvo una niña tan preciosa que el rey 
+ Entonces ella gritó:
+ el  hombre no volvió a tener descanso en su vida.
+ Y ellos llegaron,  y querían comer y beber, 
+  pero como se había atrasado y llevaba más de media hora, 
+ -"Ahora vayan por algunas piedras grandes, 
+esta flor es pequeña
+ Pobre señor Korbes, 
+ Le dio la forma y apariencia de la reina, 
+ y la buena hija del molinero llegó a ser la reina.
+ -"¿Serías tan amable de traerme un pequeño envoltorio 
+ -"Pero habla bajito,  no vayas a despertar a alguien."-
+  cuyo nido una vez él salvó,  vino con cinco mil hormigas, 
+  -"Pero el cervatillo debe ir conmigo,  no puedo abandonarlo."-
+  Yo salté por encima del árbol porque había 
+ -"Pues ve con ella,  ya es emperadora."-
+ -"El premio en verdad es grande"- pensó el sastre, 
+ Y la rama creció,  llegando a ser un frondoso árbol.
+ Sin embargo,  cuando el joven vio a la princesa, 
+ -"Mi nombre es Blanca-Nieves."- contestó.
+   y realizar todos los trabajos de limpieza.
+  y los jóvenes eran atrapados por ellos, 
+   y las ayudó a llevar una vida digna, 
+ El hijo del rey quería subir hasta ella, 
+  resplandecía como cien mil carbunclos.
+  -"debes realizar antes una hazaña heroica más.
+ y cuando pasaban por un árbol de cerezas,  
+ La hermana muy rica,  
+  al lado de unos avellanos.
+ -"Mira,  cortaré la manzana en dos piezas.
+ Y siguieron comiendo sin más preocupación.
+ Para empezar enciende el fuego ahora mismo y pon agua a hervir para hacer la cena.
+ Y en su enojo zapateó tan duro en la tierra 
+  morirían de hambre y debilidad.
+  se horrorizó tanto que hasta se cayó de la cama.
+ La reina,  cuando recibió la carta y la leyó, 
+ ya sonaban en el reloj un cuarto para las doce.
+ -"No sé nada acerca del anillo."- le contestó ella.
+    donde el gallo se había sentado sobre el portón, 
+  y te diré como podrás obtener el agua de la vida.
+  y cantó delante del rey y de su hija, 
+  y en recompensa por él, 
+ -"Ay,  señora"- dijo el hombre, 
+ Y dejó entrar a las tres desconocidas mujeres, 
+ El segundo sirviente no deseaba ir del todo, 
+ Hubo una vez un viejo castillo 
+ Se vistieron con gran rapidez, 
+ -"Las bestias salvajes pronto la devorarán."- se pensó él.
+ Pero la perversa mujer,  al llegar a su habitación, 
+ Él habría sido derrotado si no hubiera tenido el viejo sombrero.
+  más se cerraban las montañas,  y al final, 
+ con la más exquisita comida, 
+ Al comer aquel pedacito de serpiente había 
+ Y los llevó afuera,  
+ -"¿Por qué no?"- dijo la mujer.
+ Las dos fueron exhorcitadas para eliminarles sus brujerías 
+  pero en las gradas un hombre la sostuvo y la llevó de regreso.
+  y tú,  hazle un par de zapatitos para cada uno."-
+ Ellos no encontrarán el camino de regreso a casa, 
+  y después de caminar un largo trecho,  llegó a una gran ciudad.
+ A la noche siguiente el niño vino de nuevo, 
+  quien era honesta, 
+ El sastre envolvió la corona cerrando 
+  -"él no ha tenido reparo en engordar por sí mismo, 
+  y momentos después subía nadando trayendo en su boca la bola, 
+   y que la otra hermana debería medirse la zapatilla.
+ Debiste haber sido cauteloso y mantener los ojos abiertos.
+  es prudente observar antes cómo está todo alrededor.
+  porque aquél que de un golpe termina con siete, 
+ pero las piedras estaban tan pesadas que no soportó el esfuerzo y cayó muerto.
+  el duende la llevó de regreso al palacio y la colocó en su cama.
+  del tronco que Simpletón había defendido de ser quemado, 
+ -"Estoy cansada,  quiero dormir tan bien como tú, 
+ Y ninguna otra cosa más que desprecio 
+  a la bella doncella que trajo Sencillón, 
+  Grethel compartió su pedacito de pan con Hansel, 
+ -"Si tocas a mi gente,  y destruyes mi panal, 
+ Y la hija del rey fue llevada a través de las filas, 
+  y sintiendo que ya estaba en sus últimos días, 
+    no hay sangre en el zapato, 
+ La hija del rey quedó encantada de ver una vez más de nuevo a su juguete, 
+ Allí ella tenía que hacer trabajos duros desde la mañana hasta la noche, 
+   y fue a la presencia del hijo del rey.
+ Ningún tesoro puede sustituir lo que se ama profundamente.
+  cerró la puerta detrás de él,  y la furiosa bestia, 
+ -"Ahora somos muchachos lindos para ver, 
+  pero regresó inmediatamente corriendo 
+  si me vuelves a molestar en mi dormir te jalaré las orejas."
+  -  "¡Que encantadora muchacha!"- 
+ Al ver ellas las pruebas contundentes, 
+  todos le daban trabajo voluntariamente, 
+  -"cerraremos bien la puerta,  de modo que no pueda ingresar".-
+ -"No puedo dar más de mi capacidad, 
+ Así que el malvado zapatero fue por cuarta vez donde el rey a decirle:
+  que contra ella hicieron la hechicera mujer y su hija, 
+ que tiene propiedades extrañas:
+ Cuando llegaron y vieron a Blanca-Nieves en el suelo, 
+ Y apuntó hacia el oso disparándole al hocico.
+ -"Pásame primero"- dijo el joven con suerte, 
+ carnes asadas y cocidas aparecieron allí, 
+ ya que el esfuerzo de toda su vida, 
+  y cuando él se haya dormido ellos entrarán,  lo amarrarán, 
+  así que mi pobre abuelita enferma va a tener algo bueno para fortalecerse".-
+  yo le daré a ustedes lo que pidan por ella."-
+ -"Este lobo piensa engañar a alguien."- y se negó.
+  la palmeó,  y ordenó a los soldados capturar a su antiguo amo, 
+  hizo el bien lo más que pudo, 
+ ,  para que no haya discusiones sobre la repartición, 
+  y una vez más volví a estar limpio."-
+  y modelaron el palacio en cera tan rápidamente 
+ -"si no quieres ser rey,  yo sí quiero ser reina.
+ -"Padre,  déjame a mí ir por el agua."-, 
+ Vuelve y llama al Gran Pez Azul,  
+ inconforme por haber recibido tan poquito. 
+  era todo delicado y blanco como la nieve, 
+           las malas al montón." "-
+ Había una vez en tiempos de guerras, 
+ El enano dijo:
+    Dos veces más vendré,  luego nunca más."-
+  cepilla nuestros zapatos y sujeta nuestras zapatos.
+  de la propiedad fue al establo por algo de paja, 
+ -"¿Quién se ha sentado en mi silla?"-
+  Y cuando poco después el hombrecito entró,  y preguntó:
+  envió al regimiento a capturar 
+  y desde entonces, 
+  de quién eran esos terrenos que estaban limpiando.
+ La criada,  que dormía en la habitación contigua, 
+ -"Ven,  sé serio,  y pásanos algo a nosotros."-
+ Cuando por tercera vez hubo otra fiesta, 
+  excepto algunos trabajos rudos, 
+  quedando ellas con las cicatrices por muchos días.
+ Entonces contestó la reina:
+  -"No veo huellas humanas,  ni un puente."-
+  pero como en las veces anteriores, 
+  el más joven rogó para que se le permitiera ir a buscar el agua, 
+ -"¡Ah!"- dijo la vieja mujer, 
+ a un desierto donde tuvo que vivir en gran pesadumbre y miseria.
+  -"Yo los condené a estar allí, 
+  y vivieron muy felices hasta el fin de sus vidas.
+  no se atrevía a salir de su nuevo refugio, 
+ ¡Caray,  bella princesa!,  ¿que vendrá para ti ahora?
+  y avanzó hacia ella hasta llegar a un rancho.
+ Sus mejillas estaban pálidas,  y sus ojos enrojecidos.
+  y la echó dándole de palos.
+  pero corrieron la misma suerte.
+ Tiempo después el rey retornó de su gira a palacio 
+ La sabiduría se basa en la correcta observación.
+ Mientras los guardias sacaban al Marqués fuera del río, 
+  y con un cetro de oro puro en sus manos, 
+ Enseñanza:
+ Cuando el hombre regresó a casa, 
+ y cayeron en un modo de vida 
+  fue a curiosear qué secreto había realmente escondido en la montaña.
+  por lo que decidió no disparar.
+  y cuando había caminado por tres días, 
+  y él la obligó a que en la mañana debería levantarse temprano 
+ que tenía su corazón más duro que una roca le dijo:
+ Entonces la puerta fue abierta para él, 
+  pues si no,  todos hubieran visto cuan contento 
+ Todas las mañanas,  la vieja mujer iba al establo y gritaba:
+   y lloró tanto que las lágrimas cayeron sobre la rama y la humedeció.
+ -"Primero debo saber que clase de poderes son."-
+  traje a un unicornio y capturé a un jabalí salvaje, 
+ -"Voltea y vuelve a ver, 
+ para que las joyas suyas se juntaran con las de Grethel.
+este perro es grande
+  en el suelo,  agitando sus alitas y lloriqueando:
+ Una vez terminada la cena,  el carbonero dijo:
+ Ambos contaban con mucho tiempo, 
+ siguió su rumbo a casa, 
+ Ante las dificultades, 
+ -"¿Dónde están los sirvientes?"- dijo la hija del rey.
+ Cuando llegó el tiempo de la siembra, 
+ y siguió su camino sin volverlo siquiera a ver.
+ La primera jalaba el hilo y pedaleaba la rueda, 
+  o en el futuro no tendrás nada para comer."-
+ -"Porque ahora que me estoy poniendo viejo, 
+ Él atraía hacia sí bestias y pájaros, 
+ La pobre Blanca-Nieves de nuevo no tuvo suspicacia, 
+ella está parado aquí
+ Ella bebió el vino,  y cuando lo hubo terminado,  
+ Él no solamente invitó a sus familiares, 
+ córtalo y divídelo en piezas."- 
+  saltaba,  silbaba,  o cantaba una canción, 
+ -"Oh,  reina,  eres lo más bello que yo he visto, 
+  y en su desesperación saltó desde lo alto de la torre.
+ -"Haz tu voluntad,  soportaré lo que deba, 
+  la rama regresó a su posición lanzando al sastre por los aires.
+   que lo había tomado junto al bocado de heno.
+  Hansel desmenuzaba el suyo en su bolsillo, 
+  al levantar el sol,  llegó un carruaje con ocho caballos blancos, 
+ sido despedazada por las fieras salvajes del bosque, 
+ Pero la herida era tan simple que el corso, 
+ y cuando tuvo que regresar a casa, 
+ Así pues que la reina le entregó la carta, 
+  ni cantos de aves, 
+  y le puso un collar de oro 
+ quien estaba quemando carbón allí, 
+  y la bruja ya cuelga en el cadalso.
+ -"Has contestado las tres preguntas como un hombre sabio, 
+ Pero la mujer,  del todo no pudo dormir,  
+  definitivamente lleva al éxito.
+  hizo lo que estaba escrito en ella, 
+  y pasado un rato comenzó a fingir que roncaba, 
+ la lanzó tan alto que fue difícil seguirla con la vista. 
+esta es mi cabeza
+  se estrujó lo más que pudo y entró a la casa por el vertedero, 
+ y a ambos lados de ella estaban dos 
+  y no tuvo ningún temor hacia él.
+ Entonces ella se abalanzó en sus brazos 
+ -"No abriremos la puerta."- gritaron ellas.
+ que realmente eso es imposible."-
+muchacha flor
+  como si le hubieran escupido sobre su cuerno sin más ceremonia.
+ Y pensó y pensó de nuevo cómo podría matarla, 
+ y que podría saber qué fue lo que pasó con su dinero.
+  en el transcurso de la  noche,  
+  se pintó la cara, 
+ -"Su Alteza,  el sastre es un tipo arrogante 
+ y recogiéndola corrió con ella.
+ La menor de ellas,  sin embargo,  dijo:
+ -"Oh,  simplemente ponme en el ala del sombrero,  
+  pues las amenazas del gato los habían amedrentado.
+ -"¡Uno,  dos,  tres,  fuera!"-
+  pero cuando al fin los halló, 
+ -"Déjalo entrar."-
+ -"He librado a mi hija de su inesperado pretendiente."-
+  el sastre debería capturar para él a un jabalí salvaje que hace grandes estragos en el bosque, 
+ Una vez que terminó el trabajo,  
+  la tercera dentro de la estufa,  la cuarta en la cocina, 
+  de lo contrario sólo servirá para generar su propia desgracia.
+  y llamándolo se los ofreció en venta, 
+  y cuando pensaba sobre su futuro esposo, 
+  el hermano iba a beber agua de ella, 
+  el campesino tocó a su esposa, 
+ Les dio un pedacito de pan a cada uno, 
+ No sabré lo que es tener una nueva hora feliz, 
+  y la zapatilla era demasiado pequeña para ella.
+  y le cantó lo siguiente:
+ -"Tomen un asiento y descansen."- 
+ donde quiera que viera a Blanca-Nieves, 
+  la transformaba en un pájaro, 
+    se subió a un árbol y esperó a ver que sucedía.
+ Y le contó todo lo acontecido y agregó:
+   y se lo puso emocionadamente.
+ -"¡Mis ojos jamás habían visto tanta belleza!"-
+  y ella fue ataviada bellamente y 
+  en las cúpulas comenzaban a brillar.
+  a las abejas y cogerles su miel, 
+ Yorinda estaba cantando:
+  a pesar de que gritó varias veces tan alto como pudo:
+   y no pongas reparos en el rey que tan mal me ha tratado."-
+  reunió a algunos segadores y les dijo:
+ Y diciéndolo,  se colocaron en sus posiciones.
+  y me heredará su reino."-
+  -"tengo que hilar lino y convertirlo en oro, 
+ -"Rocíame un poco de harina sobre mis pies."-
+ Inmediatamente el truco se desvaneció, 
+ Si lo hubieras aceptado,  todo eso sería tuyo."-
+ La boda se llevó a cabo con gran magnificencia y regocijo, 
+ Inmediatamente la cabellera bajó y el hijo de rey subió.
+  le dijo a su esposa,  antes de ir a dormir:
+ llegaron los dos hermanos mayores 
+ y tus bueyes por dinero para comprarte alguna ropa venida al caso, 
+  le ordenó a su criada introducirse en el dormitorio 
+ Le pareció bien la idea al rey,  
+ -"Tan pronto como este muchacho llegue con la carta, 
+  y le preguntó al molinero y su esposa si ese alto joven era su hijo.
+ Ella,  sin embargo,  había corrido a su buhardilla, 
+  y roncaba tan fuerte que se dijeron:
+ Pero justo cuando iba pasando por la puerta de hierro, 
+ Pero nada más había tocado el huso, 
+  al menos hubiéramos muerto juntos!"-
+ Ahora,  todo lo que tú tienes que hacer 
+ -"no haré la paz hasta que el rey me de a su hija por esposa, 
+ Pero el lobo las encontró,  y sin ninguna ceremonia, 
+ -"¿Y cómo fue que llegaste a nuestra cabaña?"-
+  sobre nosotros desde las horcas,  
+ -"¿Y ya sabes,  entonces,  
+ Planificar con el adecuado conocimiento, 
+ pero no tenía paz,  y decidió ir a conocer a la joven princesa.
+  y él y su familia acostumbraban comerlos, 
+ y muy tristes con la pérdida de sus siete hijos, 
+ Un hermano tomo de la mano a su hermana y le dijo:
+ -"Caray"- dijo él, 
+ -"Yo creo"- contestó la judía,  
+ - contestó la muchacha.
+   y se acomodó sobre una banca y se quedó dormido.
+  mientras su esposa estaba bañando y secando a los niños, 
+ -"Esos hombrecitos nos han hecho ricos, 
+ y mofa le llegaba de sus hermanas mayores.
+ -"Traigo pastel y vino.
+  y estaban tan cansados por la tristeza, 
+     pero no son sino piedras en danza.
+  y dijo que los cazadores pueden proveerle de la ayuda necesaria.
+ -"Denme una hoja grande de papel."-
+ y su deseo era más bien que estuviera a mil kilómetros de distancia.
+  acostado en su cuna.
+  y cocina algo bueno para tu hermano, 
+ -"Cóseme la costura, 
+  y ella preguntó:
+  y la metía en una jaula y la llevaba a un salón del castillo.
+ Hans había llegado hacía rato a casa, 
+ Mi esposa ha visto sus rapunzeles desde la ventana, 
+ convencerlo de que le revelara la causa de su angustia.
+ Difícilmente había recorrido unos cientos 
+ Él regresó al hogar, 
+    puedes quedarte lo que quieras por nada."-
+ -"No significaba ninguna ofensa, 
+  no nos dejan de maltratar tanto? Ese caballo estúpido, 
+ Cuando un niño caía en su poder,  ella lo mataba, 
+  y se maltrataron los brazos y las piernas.
+  pues seguramente habré muerto.
+ Mientras tanto,  cuando el campesino regresaba a casa, 
+   y tenían en su mesa un delicioso pollo asado para comerlo juntos.
+ Y entonces la creatura gritó:
+  y les aclaró un espacio en la primera habitación, 
+  Preciosa Rosa abrió sus ojos y despertó,  y lo miró muy dulcemente.
+  que ya pronto encontraré la manera de ayudarnos."-
+ -"Acaba de nacer un niño con una membrana en su cabeza, 
+  con fresco coraje para empezar su trabajo.
+  replicó el campesino.
+  él me mantendría, 
+  se acostó tranquilamente en su cama, 
+ y rogó que le ayudara a deshacerse de su marido, 
+   pero la fuerza del burro ya decaía, 
+  y cómo corrían las lágrimas por sus mejillas!
+  replicó el sastre,  y le contó el asunto.
+  gritó con voz bien fuerte:
+  o escondiéndose dentro de los alimentos 
+  y pensó que quizás hablara dormido y delatara el enigma.
+ No dijo nada,  pero sin embargo, 
+ El duende escuchó el nuevo plan,  y en la noche, 
+ se burlaron de él y le dijeron:
+   y una débil lámpara de aceite alumbraba la habitación, 
+    contestaban:
+  pero solamente tenía doce platos de oro para servir en la cena, 
+ -"Qué te pareció,  compañero"-  preguntó el sastre. 
+  y portaba una gran corona de oro, 
+   y un pequeño pajarito blanco venía siempre al árbol, 
+  y en su alegría golpeaba la mesa hasta hacer danzar a los vasos, 
+  pero el perno lo maltrató al sentarse.
+ -"No"- dijo Blanca-Nieves,  -"No debo aceptar nada."- 
+ Pero era imposible, 
+ Y se echó su maleta al hombro y se marchó.
+ Ellos fueron donde el campesino y le dijeron:
+  diciéndole que si para el día siguiente no 
+  excepto algunos trabajos rudos."- contestó.
+   ¿De qué le serviría eso? Vio él que no podría escapar de la muerte.
+  de modo que a cada una le seguía 
+ Los guardas que estaban afuera del palacio 
+ Al llegar otra vez el atardecer,  Cenicienta quiso retirarse, 
+ y subió de prisa las gradas y se acostó en su cama.
+ y sacó un puñado de monedas, 
+ El soldado,  que había observado todo, 
+ hizo tantísimos puntos finos que difícilmente podían distinguirse, 
+ Entonces uno de los mayores cogió hacia el este, 
+ -"Oh,  sí,  pero Grethel,  mi esposa debe ir conmigo."-
+  no tengo más opción que entregarte"-
+ -"Ve"- dijo la esposa,  
+ a lo ancho y largo,  por todos los nombres que hubiera.
+ a lo ancho y largo,  por todos los nombres que hubiera.
+ En un bosque de su país vivían dos gigantes que causaban gran desasosiego con sus robos, 
+  que el ejercicio que has hecho hoy te sea de gran provecho!"-, 
+  le preguntó el padre a Cenicienta.
+  pero el caballo no se amedrentó y lo dejó rugir, 
+ Pero el hombre de la mochila pronto consiguió 
+  que se vio obligada a regresar al pozo de nuevo.
+ -"Y seguirá siendo tuyo"- contestó el Diablo, 
+ Cuando ella oyó al espejo hablar así, 
+  y olvidando cualquier peligro, 
+ de los que buscan hacer daño. 
+  en el estómago de una vaca,  y luego en el de un lobo.
+ cuál preferiría por esposa,  él contestó:
+  cuando pensó que el lobo podría haber devorado a la viejita y que aún podría ser salvada, 
+ Ahora,  aunque se diga que los peces son mudos, 
+  dejando a la vista un pasadizo secreto, 
+ Allí vieron a un pequeño hombre gris sentado junto a una mesa.
+ Por un rato el gigante no reaccionaba,  pero al fin despertó, 
+  hubo una vez un joven que se enlistó como soldado, 
+ yo encenderé una pequeña fogata para que no se enfríen."-
+ Pero para que el rey no se diera cuenta esa noche, 
+  y con una apariencia muy extraña.
+ -"¡Esto será un bocado muy delicado!"-
+ -"¿Y qué llevas en esa canasta?".-
+  sin ninguna diferencia en su forma?
+ -"Sólo ve al sótano y averigua que pasó con Elsie y la criada."-
+ -"Mi muchachita,  ¿qué es lo que te asustó tanto?, 
+ El botero se acercó y le pidió que subiera.
+ -"Mi querida hija,  se siempre buena y piadosa, 
+    ven,  te lo suplico,  ven donde estoy.
+  y no pudo ocultarse más.
+ Él siguió avanzando, 
+ Estaré a un lado de la puerta,  no estorbaré."-
+  -"y yo siento como que mi suerte no ha llegado aún a su fin."-
+    Por mi esposa,  la buena Isabel, 
+ El hombre dijo a la esposa:
+  quien ha estado dormida por cien años,  y que también el rey, 
+  cayó de nuevo al suelo.
+  para no maltratarse la espalda o hacerse alguna herida inesperada.
+  cayó también muerta.
+ de nuevo mi presencia humana, 
+  y buscaron obtener el favor de Cenicienta 
+  le traeré algunos rapunzeles,  no importa lo que cueste."-
+ Todas dormían en una misma alcoba, 
+ -"No abriremos la puerta, 
+ Hubo una vez un hijo de un rico 
+ En la jornada setenta y cuatro,  sin embargo, 
+  y los ratones en briosos caballos, 
+  y así lo arrastró por todo el bosque 
+ Cuando esos hombres oyeron al sastre hablando así, 
+ mucho al saber de su enfermedad,  
+ El hombre no había tenido un segundo de tranquilidad 
+el muchacho se llama tomás
+  por lo que los buenos enanos siempre le decían:
+ Y una noche,  cuando todo estuvo listo, 
+ -"Hay un botero en el río, 
+  y el gigante pensó que el sastrecillo había entrado en sueño profundo, 
+  Bueno,  comeré primero."- 
+ Y como ella era tan dulce y buena, 
+ Instantáneamente,  ensaladas,  postres, 
+ Nunca anden solos por las calles y caminos.
+  estiró sus piernas y descansó.
+ Sin embargo,  en medio de la puerta había una rendija, 
+  y no dejaron nada sin examinar minuciosamente.
+ Enseñanza:
+ Uno de ellos dijo algo disgustado:
+  de los cortes usuales de los zapatos, 
+ -"Pero me siento muy afligido por los pobres niños, 
+ y lo se que produzca bajo tierra,  será mío."-
+ -"¡Empecemos a trabajar en ella!"- dijo Hansel, 
+ y partió a su camino con la mente tranquila.
+  -"voy a hacerte cosquillas en la nariz, 
+  y se retiraron dejando al joven solo en la playa.
+ Un atolondrado e ingenuo conejo saltó a la bolsa, 
+  y a ambos lados de ella sus criadas 
+  y a llorar más alto y más alto sin llegar a sentir consuelo.
+  buscando una novia que igualara a la anterior reina en belleza.
+ Al rato el hombre volvió y dijo con una voz profunda:
+  disfrutando de la brisa de la mañana, 
+ -"¡Uy!,  hay una espantosa bruja metida en la casa, 
+ y yo estoy aquí sola en el bosque olvidada por todo el mundo.
+ Hansel y Grethel quedaron tan terriblemente asustados 
+  serás llamado "Piel de Oso."-
+ a los que con anterioridad habían 
+  no se le debe entorpecer su honesta actividad.
+  no esperaré hasta mañana, 
+  alrededor de la garganta al sastre.
+ La abuelita vivía en el bosque,  como a un kilómetro de su casa.
+ Él se sentó en el suelo todo triste, 
+ ¡Ay,  cómo la pobre hermanita se lamentaba cuando tenía que traer el agua, 
+  las tareas se pueden realizar exitosamente.
+  y ha traído del bosque algo para cada una de ustedes."-
+  los sirvientes se vieron terriblemente perdidos, 
+ No más la había probado cuando sintió que su mal se retiraba, 
+  donde el guardián de las puertas le preguntó a que venía 
+  yacía la gran ciudad real con sus 
+ Y ese sueño se hizo extensivo para todo el territorio del palacio.
+ Estaba un día sentado con su caña en la ribera, 
+ Y con eso terminó el encantamiento, 
+ el gallo no es más que una astilla y no una viga!-"
+  porque sabía que el espejo le decía siempre la verdad.
+ -"Oh,  esposa,  ahora eres reina."-
+  -"que también te puedes transformar 
+ Entonces ya los mayores no pusieron más oposición.
+  necesario para un par de zapatos.
+  cuando ya todas las zapatillas tenían sus suelas llenas de huecos, 
+ -"El doctor lo sabe todo: debemos cuidarnos, 
+  y lloró una vez más con ambos ojos, 
+ Y pasó que al doblar en una esquina,  cuando el pequeño iba gritando 
+ -"Cuando ya esté entrada la noche, 
+ Así que se dirigió allá, 
+ El rey mandó a traer otra vez al sastre y le dijo:
+ El sol estaba aún terminando de ponerse.
+ Cuando el rey lo vio,  dijo a los cazadores:
+  pero me siento tan cansada como si realmente hubiera hecho todo aquello."-
+ se habría enfurecido muchísimo más.
+  y a la siguiente vez,  cuando el hermano le devolvió el barril, 
+  y todo estaba tan silencioso que un respiro podía oírse, 
+  y rápidamente se cambió de ropas, 
+  tocó a la puerta y gritó:
+ y todos vieron al búho, 
+ Y con ayuda de algo de brujería, 
+ -"Es un niño con suerte,  y cualquier suceso siempre se tornará a su favor."-
+ Entonces su esposo se alarmó y preguntó:
+ -"Ya encontré la buena suerte que deseaba, 
+ y les contó todo lo que había ocurrido con él, 
+  una vez satisfechos,  dijeron:
+ Se lo llevó entonces al molinero y su esposa, 
+  filas de sus guardas personales, 
+ Aquello provocó un gran disturbio, 
+ Allí tenía su cama,  y se alistó para ver 
+  cuando dormí en la foresta."-
+ y agregó como en broma 
+ -"Sí padre,  anduve por el mundo en tantas situaciones.
+  no percibía lo que pasaba.
+ Luego ella se fue a la cocina y 
+ Pero cuando empezó a caminar y moverse, 
+  chorreaba un grueso hilo de miel.
+ El doctor miró el plato, 
+  pero no se le pudo acercar siquiera a dos pasos de él.
+  tomemos esta canasta con algunas frutas y vamos a recorrer el ancho mundo"-
+ -"He hecho una apuesta con el esposo de la liebre, 
+ -"No te pongas canoso por eso"- dijo la cigüeña, 
+ Cuando todo terminó,  el rey dijo:
+ Simplemente llámalo."-
+  -"¡tan fácil que sería quebrarse un brazo o una pierna!"-
+  oyó a dos hombres que pasaban por allí,  y uno de ellos decía:
+ Puso el pan con la mermelada hacia arriba,  cerca de él, 
+ Ella está junto a la puerta."- dijo el Gran Pez Azul.
+  material para dos pares de zapatos.
+  se estremeció y golpeteó con rabia.
+ y podría ayudarte de alguna otra manera."-
+ Dos de sus lágrimas le humedecieron sus ojos, 
+ Después de caminar un largo trecho, 
+ -"Este será mi último placer."- pensó.
+   el rojo de la sangre, 
+   que aún estaba a medio llenar.
+ El rey ordenó que ambas fueran llevadas a la justicia, 
+ -"No sé nada de ello"- contestó, 
+  poniéndose encima los regalos y cantando:
+ Pero eso sí,  si al cabo de tres días 
+  y así comer a dos de una sola vez.
+  en siete platitos,  y siete vasitos, 
+ -"una mesa repleta de buenas cosas para comer y beber, 
+  y solamente le quedaba un ducado en su bolsillo.
+  -"pero hay un pato blanco nadando allí, 
+  y le amenazó de que si no le decía la verdad, 
+  se punzó uno de sus dedos, 
+ Y volvió la espalda a Cenicienta,  
+  y se veía tranquila,  por lo que el capitán dijo:
+ Entonces el rey de nuevo mandó a llamar 
+ Cuando llegaron a la casa del pastor, 
+ y empezó a bajar por medio 
+  que el rey organizó un festival que duraría tres días, 
+     Permíteme invitarlas a la boda, 
+  quien estaba preparando su cena junto al fuego. 
+ Si él decía A,  debía ser B,  y así con todo, 
+ -"¿Qué irá a ser de nosotros?
+ -"Después de todo sería una verdadera lástima que el bello 
+  y la agarró por una pata.
+ -"Bien"- dijo el soldado,  
+  de un vaso de vino que se lo pasó a través de la mesa a la joven.
+  tocó la jaula con su flor y también al viejo hombre.
+  de las horcas balanceándose uno contra el otro con el viento, 
+  y tomó los cordones de cierre con sus patas delanteras, 
+ pero como ya estaba oscuro y no podían avanzar más, 
+  y un cuervo se posaba en la cabeza de cada uno de ellos.
+  pero casi todos los bocados que la princesa tomaba, 
+ - "¿Por qué esos hombres,  con sus torpes bestias, 
+ y a menudo se detenía para tirar una borona en el suelo.
+  pero las cerezas crecen muy alto para mí, 
+ se encontró con un gran palacio de piedra, 
+ La propia hija de la tutora, 
+  y el gigante que no podía voltear la cabeza, 
+ -"¡Ah já! ¡si lo supieran!"- contestó el diablo, 
+ Una vez satisfechos los cuatro,  apagaron la luz, 
+ -"¿Quien bebió de mi jarra?"-
+ El rey agarró la capa y se la quitó.
+ creyeron que del todo no llevaría nada.
+ Y cuando iban de camino,  el hijo del rey escuchó que algo se quebraba atrás de él.
+  que arrojaban de él a sus hijos:
+ -"Vengo del molino"- contestó,  -"y deseo llegar donde la reina, 
+ Y como aún conservaba un poco de libertad en sus manos, 
+ -"¡Oh sí!"- dijo el padre,  -"ella es bien capaz."-
+ -"Supongo que al menos podrías mirar."- dijo la vieja.
+ "Ahí puedes ver la clase de hombre que soy".-
+ -"Para mí no hay sonido tan gratificante como cuando están hilando, 
+ -"¿Cómo te atreves"- dijo ella con una mirada furiosa, 
+  y candelabros colgando del techo, 
+mi corazón
+ ¡El Gran Pez Azul no te puede hacer emperadora! 
+ Cuando había recorrido alguna distancia, 
+   Sin embargo,  por tener gran corazón,  
+ Había una vez un pescador que 
+ Pero cuando bajó,  todos estaban juntos llorando, 
+ La revisaron y encontraron el peine envenenado en la cabellera.
+ La buena hermana tomó un cuchillo,  cortó uno de sus pequeños dedos, 
+ Hasta que un día sucedió que un pobre soldado, 
+ El rey no se atrevió a hablarle, 
+ -" para que podamos salir del bosque de la bruja."
+ quédate satisfecha.
+  de otra forma no podré encontrar a nadie que la reemplace."-
+ 025-La Bella Durmiente del Bosque 
+  pero el sastre,  dando la vuelta por fuera, 
+ El príncipe,  sin embargo, 
+  que viniera directo a su puerta por el centro del sendero, 
+  y dio generosa ayuda a los pobres 
+ Ella se soltó y corrió hacia la puerta y se hubiera ido, 
+ y me ha sacado del establo."-
+ El campesino hizo todo lo que el médico le dijo que hiciera.
+  y enviopor los doce jueces,  
+  dijo el joven.
+ Adentro encontrarás dos hambrientos 
+ -"Ahora te estarás quieta,  odiosa rana."- dijo ella.
+  trajera la mujer más hermosa a casa.
+  y como oían el golpear de un hacha, 
+  entraron y cada príncipe danzó con la joven de su preferencia, 
+  y mucho más apuesto que como nunca había estado antes.
+  supimos que andabas en busca de la manzana del Árbol de la Vida, 
+ -"¿Qué será de mi niño,  qué será de mi cervatillo?
+ y el hombrecito apareció y le dijo:
+  se dijo el sastre al fin.
+ En el cuarto estaba una anciana sentada frente a un huso, 
+ Cuando llegó al campo, 
+ -"Sí,  pero una muy mala oportunidad.
+ Ella quería deshacerse de él, 
+ -"Ven,  Caperucita, 
+  y asomando su delicada cabeza por la ventana gritó:
+ -"Aquél que me traiga el anillo más bello,  
+  y entonces dejó caer una piedra y 
+esta flor es grande
+ Entonces la reina se enfureció,  
+ y con cada plato una cucharita.
+ volando hacia adentro y hacia afuera de él.
+ y cambió el mantel por el cuerno, 
+  en uno de los viajes que el padre acostumbraba hacer, 
+ -"Su Alteza,  el sastre de nuevo se puso insolente, 
+  sobre como podría cumplir aquella tarea.
+  Piel de Oso sintió su corazón aliviado.
+  Y ahora está ahí afuera,  esperando que la ingrese conmigo."-
+ con la espada que les prestó, 
+ Temprano en la mañana,  antes de que se despertaran los niños, 
+  y al llegar al palacio, 
+ la movió hasta despertarla,  y gritó:
+  esperando  que le concediese la prometida recompensa. 
+ Al atardecer,  cuando llegó el rey y supo que tenían un hijo, 
+  quien ahora estaba feliz en su nuevo hogar celestial.
+ -"Ahora,  conseguiré trabajo."-
+  y llevó la carta a su patrón y patrona, 
+ solamente ponle los remos en sus manos"-
+  la cigüeña bajó de su espalda su maletín de viajes, 
+   pero los pequeños duendes urgentemente 
+  honestamente la vida haciendo presentaciones 
+  caminaron por un corto tiempo y 
+  por el resto de su vida.
+ cuando cayó como muerta.
+ Quitó la cerradura a la puerta y compró el lazo, 
+ Un hombre y su esposa,  estaban sentados en el corredor, 
+ sus cabezas de debajo de las alas,  
+  quien al saberlo dijo a su hija:
+  hombrecito que brincando en un pie,  cantaba:
+  ya estaría hecha puré como mis compañeras."-
+  y rapidez con sus pequeños dedos que el zapatero 
+  inmediatamente después de todo aquello, 
+  sostenían  una animada conversación.
+ 018-Rúmpeles-Tíjeles  
+ Sin embargo,  él en realidad no fue allá, 
+  y Hansel confortaba a su hermanita diciéndole:
+  la bordó con grandes letras que decían "SIETE DE UN GOLPE", 
+ -"Alguien ha estado en nuestras camas también"-
+ para ver quien es el que nos da esta mano de ayuda?"-
+  y se tiró en el suelo como si estuviera muerto.
+ Al cabo de un rato encontró a los gigantes.
+  los jóvenes fueron colocados en filas de acuerdo a su rango y posición.
+ Ahora se jacta de que si él quiere,  
+ salta hacia la puerta, 
+día de la mujer
+ -"¡Cálmate!"- dijo el erizo,  -"Es mi asunto.
+ El que venía en medio llevaba en la boca una concha, 
+ De pronto apareció el unicornio que corrió directo hacia el sastre 
+ese mecate es verde 
+ -"Bienvenidas,  queridas tías."-
+ en espera de órdenes formando una fila, 
+ -"¿Imposible?"- gritó el ogro,  -"¡Ya lo verás!"-
+  y las bestias salvajes corrían tras ella, 
+ El niño se llamaba Hansel (Juancito), 
+ El rey vio que estaba sumamente alterada y 
+ Pero Simpletón no lo permitiría y dijo:
+ Por fin tomó una decisión, 
+ Permíteme ponértelo adecuadamente de una vez."-
+ y sentó a ambos en un asiento del carruaje, 
+ Cuando llegaron al castillo del noble,  
+  y sentada en un trono aún más grande, 
+ -"¡Caray!"- pensó ella,  
+  dándole también dos burros cargados de oro.
+  que si una semilla cayera allí,  con seguridad nacería.
+  pero el gallo decidió volar hasta la cumbre, 
+  y le indicaron el camino correcto.
+ Sin embargo cuando llegó donde el caballo muerto, 
+ Y ese mismo día se celebró la boda, 
+  y nunca le soltó la mano, 
+ Las moscas,  que no entendían aquel lenguaje, 
+ Cuando las cosas iban bien conmigo, 
+ -"Ve ahora y atas a la bruja,  y la llevas ante la justicia."-
+ -"Ella no sabrá nada de esto."- dijo el campesino.
+  se pintaron muy coquetamente, 
+  y tenía algunas papas en el fuego,  
+ El rey del país oyó acerca de su sabiduría, 
+ y le mostró los tesoros que había apilados.
+  y por medio de señas lo llevó hasta una mesa 
+ colgados comenzó a hablar y dijo:
+  y a cambio tú me das la tuya."-
+  al atardecer para entonces saltar sobre ella y devorarla en la oscuridad.
+  pues de lo contrario serían colgados.
+ En eso vio a una mujer que 
+ De inmediato subió como una princesa, 
+    y no hay ninguna,  que por su bondad, 
+ Había una vez una joven muy perezosa que no le gustaba hilar, 
+ y le envió una maldición.
+   y una pequeña silla como provisión contra el cansancio.
+ Al cuarto año llegó a una posada donde el posadero no lo recibía, 
+ -"Hay un caballo muerto en el suelo por aquí cerca,  
+  y allí,  en el avellano,  estaban las dos palomas que gritaban:
+ -"¿Y cuál será el final de todo esto?"-
+  y me quebraron las costillas.
+  fueron a sus armarios,  sacaron preciosos vestidos, 
+ La Viga
+  sus ojos se cerraban fatigados,  y al fin cayeron dormidos.
+   y así regresó a la casa de los siete enanos en la montaña.
+ habría pensado que crecía solo ante sus ojos.
+  pusieron la corona en el pañuelo.
+  pero de todas formas el payaso no despertará en toda la noche."-
+  con una gran corona de oro en su cabeza, 
+  tu infatigable industriosidad es de un valor suficiente."-
+  y también se encontró con el duende, 
+  -"que eres capaz de cambiarte a la forma 
+    y no hay ninguna,  que por su bondad, 
+ A la mañana siguiente la hija del rey anunció 
+ -"¡Ah!"- respondió la mujer, 
+ que le quedaba tan bien que ella nunca quería usar otra cosa, 
+ le recorrió todo el cuerpo y le agregó:
+  y oyeron que él era Piel de Oso, 
+  y no sabía donde pasar la noche.
+ -"Entra."-
+ El zapatero dijo:
+ -"Hey,  Henry,  el carruaje se está quebrando."-
+     y la paloma se lo llevó de allí.
+ -"Debes retornar a tu hogar, 
+ -"Esposo"- dijo ella,  -"seré Super Emperadora.
+ El trigo nació,  creció y los granos maduraron 
+  la mujer vino y despertó a los niños diciéndoles:
+ Te sacaré el otro ojo a cambio."-
+ regresaron los dueños de la cabaña.
+ Él disfrutó y gozó mucho de la fiesta,  
+ ¿Recuerdas lo que me dijiste 
+  yo te trataré como mi hijo,  y habitarás conmigo en el palacio real."-
+  y asomando las cabezas,  le dijeron:
+  y al amanecer ya tenía todo el lino hilado 
+ustedes son dos muchachas
+  y por un rato no se decidía por cual empezaría.
+ésta es una calabaza
+ - "Oh,  sí,  claro"- contestó al rey, 
+  y los niños oyeron a la mujer diciéndole en la noche a su padre:
+    encendió un fósforo para alumbrarlos.
+ todo sucedió como lo dijo el duende.
+ El hermano rico,  sin embargo, 
+  y dejó correr el  vino hacia ella, 
+  se corrió por toda la región, 
+ -"Estás conmigo."-
+  pídale que lo pase al otro lado,  y podrá llenar sus sacos."-
+ implorándoles que lo ayudaran 
+ -"¡Oh,  cielos! Entonces no soy yo."- 
+mi corazón está bien
