@@ -77,9 +77,10 @@ EXTRA = {
     ],
     'wixarika': [
         {'prefix': 'extra/sent-mxconst'},
-        {'prefix': 'extra/corp-train', 'code': 'wix'},
-        {'prefix': 'extra/corp-dev', 'code': 'wix'},
-        {'prefix': 'extra/corp-test', 'code': 'wix'}
+        # Note: train.wix/hch is the combination of these:
+        # {'prefix': 'extra/corp-train', 'code': 'wix'},
+        # {'prefix': 'extra/corp-dev', 'code': 'wix'},
+        # {'prefix': 'extra/corp-test', 'code': 'wix'}
     ]
 }
 
