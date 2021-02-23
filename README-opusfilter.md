@@ -2,7 +2,7 @@
 
 Steps:
 
-1) Install OpusFilter using `nlingual-preprocessors` branch (https://github.com/Helsinki-NLP/OpusFilter/tree/nlingual-preprocessors)
+1) Install OpusFilter using `develop` branch (https://github.com/Helsinki-NLP/OpusFilter/tree/develop)
 
 2) Create OpusFilter configuration using `processed_data` as work directory:
 
