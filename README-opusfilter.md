@@ -13,8 +13,8 @@ python create_opusfilter_config.py opusfilter.yaml processed_data
 3) Run OpusFilter on the configuration:
 
 ```
-PYTHONPATH=. opusfilter opusfilter.yaml
+PYTHONPATH=$PYTHONPATH:. opusfilter opusfilter.yaml
 ```
-(PYTHONPATH added to include custom preprocessor in `create_opusfilter_config.py`.)
+(PYTHONPATH added to include custom preprocessors in `create_opusfilter_config.py`.)
 
 The filtered output files are in: `processed_data/[LANGUAGE]/dedup_filtered.[LANGCODE].gz`

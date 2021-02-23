@@ -173,29 +173,105 @@ class WixarikaNormalizer(opusfilter.PreprocessorABC):
                 yield segment
 
 
+# From data/bribri-spanish/bribri-orthography-conversion.ipynb
+def convertToHumanSpelling(bribriInput, outputOrthography):
+    bribriOutput = bribriInput
+    punctuation = {
+        " .": ".", " ,": ",", " !": "!", " ?": "?"
+    }
+    if (outputOrthography=="constenla"):
+
+        # These use Sofía Flores' diacritic conventions,
+        # where the line is a COMBINING MINUS SIGN BELOW 0x0320
+        diacriticChars = {
+            "ã":"a̠", "ẽ":"e̠","ĩ":"i̠", "õ":"o̠","ũ":"u̠",                  # Nasal low tone
+            "áx":"á̠", "éx":"é̠", "íx":"í̠", "óx":"ó̠", "úx":"ú̠",           # Nasal falling tone
+            "àx":"à̠", "èx":"è̠", "ìx":"ì̠", "òx":"ò̠", "ùx":"ù̠",           # Nasal high tone
+            "âx":"â̠", "êx":"ê̠", "îx":"î̠", "ôx":"ô̠", "ûx":"û̠",           # Nasal rising tone
+            "éq":"ë́", "óq":"ö́", "èq":"ë̀", "òq":"ö̀", "êq":"ë̂", "ôq":"ö̂"  # Lax vowels
+        }
+        for c in diacriticChars: bribriOutput = bribriOutput.replace(c, diacriticChars.get(c))
+        for c in punctuation: bribriOutput = bribriOutput.replace(c, punctuation.get(c))
+    elif (outputOrthography=="jara"):
+        diacriticChars = {
+            "ã":"ã","ẽ":"ẽ","ĩ":"ĩ","õ":"õ","ũ":"ũ",                # Nasal low tone
+            "áx":"ã́","éx":"ẽ́","íx":"ĩ́","óx":"ṍ","úx":"ṹ",           # Nasal falling tone
+            "àx":"ã̀","èx":"ẽ̀","ìx":"ĩ̀","òx":"õ̀","ùx":"ũ̀",           # Nasal high tone
+            "âx":"ã̂","êx":"ẽ̂","îx":"ĩ̂","ôx":"õ̂","ûx":"ũ̂",           # Nasal rising tone
+            "éq":"ë́","óq":"ö́","èq":"ë̀","òq":"ö̀","êq":"ë̂","ôq":"ö̂"   # Lax vowels
+        }
+        coromaChanges = {
+            "tk":"tch",
+            "Ñãlàx":"Ñõlòx","ñãlàx":"ñõlòx",                   # road
+            "Káx":"Kóx","káx":"kóx",                           # place
+            "Kàxlĩ":"Kòxlĩ","kàxlĩ":"kòxlĩ",                   # rain
+            "Káxwötã'":"Kóxwötã'","káxwötã'":"kóxwötã'",       # need
+            "Káxwötã":"Kóxwötã","káxwötã":"kóxwötã",           # need
+            "Dakarò":"Krò","dakarò":"krò"                      # chicken
+        }
+        for c in coromaChanges: bribriOutput = bribriOutput.replace(c, coromaChanges.get(c))
+        for c in diacriticChars: bribriOutput = bribriOutput.replace(c, diacriticChars.get(c))
+        for c in punctuation: bribriOutput = bribriOutput.replace(c, punctuation.get(c))
+    else:
+        print("Please specify one of the two available systems: constenla, jara")
+    return(bribriOutput)
+
+
+class BribriNormalizer(opusfilter.PreprocessorABC):
+    """Normalizer for the Bribri train/dev corpora. Normalizes only the 2nd input file."""
+
+    def process(self, segments, f_idx=0, orthography='constenla'):
+        for segment in segments:
+            if f_idx == 1:
+                yield convertToHumanSpelling(segment, orthography)
+            else:
+                yield segment
+
+
 def main(output, workdir, tokenize=False):
     # WORKDIR = 'processed_data'
     # OUTPUT = 'opusfilter.yaml'
 
     steps = []
 
-    # Detokenize train sets
+    # Preprocess/copy train sets
     for lang in LANGUAGES:
-        if not TOKENIZED_TRAIN[lang]:
-            continue
-        inputs = get_input_files(lang)  # train.lang
+        inputs = get_input_files(lang, 'train')
         outputs = get_work_files(lang, 'train')
+        preprocessors = []
+        if lang == 'bribri':
+            preprocessors.append({'BribriNormalizer': {}, 'module': 'create_opusfilter_config'})
+        elif TOKENIZED_TRAIN[lang]:
+            preprocessors.append({'Detokenizer': {
+                'tokenizer': 'moses',
+                'languages': ['es', LANGCODE[lang]]
+            }})
+        else:
+            pass  # no preprocessing needed
         steps.append({
             'type': 'preprocess',
             'parameters': {
                 'inputs': inputs,
                 'outputs': outputs,
-                'preprocessors': [
-                    {'Detokenizer': {
-                        'tokenizer': 'moses',
-                        'languages': ['es', LANGCODE[lang]]
-                    }}
-                ]
+                'preprocessors': preprocessors
+            }
+        })
+
+    # Preprocess/copy dev sets
+    for lang in DEVSETS:
+        inputs = get_input_files(lang, 'dev')
+        outputs = get_work_files(lang, 'dev')
+        preprocessors = []
+        if lang == 'bribri':
+            preprocessors.append({'BribriNormalizer': {}, 'module': 'create_opusfilter_config'})
+        else:
+            pass  # no preprocessing needed
+        steps.append({
+            'type': 'preprocess',
+            'parameters': {
+                'inputs': inputs,
+                'outputs': outputs,
+                'preprocessors': preprocessors
             }
         })
 
@@ -338,7 +414,7 @@ def main(output, workdir, tokenize=False):
             })
         # Tokenize dev sets
         for lang in DEVSETS:
-            inputs = get_input_files(lang, prefix='dev')
+            inputs = get_work_files(lang, prefix='dev')
             outputs = get_work_files(lang, prefix='dev_tokenized')
             steps.append({
                 'type': 'preprocess',
@@ -365,11 +441,6 @@ def main(output, workdir, tokenize=False):
     }
     with open(output, 'w') as fobj:
         fobj.write(dump(config, Dumper=Dumper))
-
-    # create lang subdirs (TODO: fix OpusFilter to be able to create new input dirs)
-    os.makedirs(workdir, exist_ok=True)
-    for lang in LANGUAGES:
-        os.makedirs(os.path.join(workdir, lang), exist_ok=True)
 
 
 if __name__ == '__main__':
