@@ -94,15 +94,16 @@ BIBLES = {
     'guarani': ['gug-x-bible-gug-v1.txt'],
     'hñähñu': ['ote-x-bible-ote-v1.txt'],
     'nahuatl': [
-        'nah-NHXNTV.txt',
-        'azz-x-bible-azz-v1.txt',
+        # Yves: I would restrict the selection of Bibles to nch, ngu, nhe, nhw.
         'nch-x-bible-nch-v1.txt',
-        'ncj-x-bible-ncj-v1.txt',
         'ngu-x-bible-ngu-v1.txt',
         'nhe-x-bible-nhe-v1.txt',
-        'nhi-x-bible-nhi-v1.txt',
         'nhw-x-bible-nhw-v1.txt',
-        'nhy-x-bible-nhy-v1.txt'
+        # 'nah-NHXNTV.txt',
+        # 'azz-x-bible-azz-v1.txt',
+        # 'ncj-x-bible-ncj-v1.txt',
+        # 'nhi-x-bible-nhi-v1.txt',
+        # 'nhy-x-bible-nhy-v1.txt'
     ],
     'quechua': ['quy-x-bible-quy-v1.txt', 'quz-x-bible-quz-v1.txt'],
     'raramuri': ['tac-x-bible-tac-v1.txt'],
