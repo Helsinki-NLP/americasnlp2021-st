@@ -246,6 +246,13 @@ class RaramuriTrainCleaner(opusfilter.PreprocessorABC):
     ending_paren = re.compile(r' \( [0-9a-z] \)$')
     middle_paren = re.compile(r'\( [^\)]+? \)')
 
+    # Cleanups mentioned in https://github.com/AmericasNLP/americasnlp2021/pull/5
+    tz2ch = (re.compile(r'tz'), 'ch')
+    star_token = (re.compile(r' \* '), '')
+    two_apostrophes_token = (re.compile(r" ` ' "), "’")
+    apostrophe_token = (re.compile(r" ' "), "’")
+    apostrophe_middle = (re.compile(r"(?<=\w)'(?=\w)"), "’")
+
     def process(self, pairs):
         for segments in pairs:
             esp, tar = segments
@@ -277,6 +284,9 @@ class RaramuriTrainCleaner(opusfilter.PreprocessorABC):
                 # asiento , silla , banco
                 # -> select first
                 esp = esp.split(' , ')[0]
+            for pat, rep in [self.tz2ch, self.star_token, self.two_apostrophes_token,
+                             self.apostrophe_token, self.apostrophe_middle]:
+                tar = re.sub(pat, rep, tar)
             yield esp, tar
 
 
