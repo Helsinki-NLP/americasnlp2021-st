@@ -38,8 +38,6 @@ TOKENIZED_TRAIN = {
     'wixarika': False
 }
 
-DEVSETS = ['aymara', 'bribri', 'nahuatl', 'quechua', 'raramuri', 'wixarika']
-
 EXTRA = {
     'aymara': [
         {'prefix': 'parallel_data/es-aym/opus_globalvoices.es-aym'},
@@ -348,7 +346,7 @@ def main(output, workdir, tokenize=False):
         })
 
     # Preprocess/copy dev sets
-    for lang in DEVSETS:
+    for lang in LANGUAGES:
         inputs = get_input_files(lang, 'dev')
         outputs = get_work_files(lang, 'dev')
         preprocessors = []
@@ -529,7 +527,7 @@ def main(output, workdir, tokenize=False):
                 }
             })
         # Tokenize dev sets
-        for lang in DEVSETS:
+        for lang in LANGUAGES:
             inputs = get_work_files(lang, prefix='dev')
             outputs = get_work_files(lang, prefix='dev_tokenized')
             steps.append({
