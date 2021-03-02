@@ -122,6 +122,18 @@ BIBLES = {
 }
 
 
+MONOLINGUAL = {
+    'ashaninka': ['mono/test.txt', 'mono/train.txt', 'mono/valid.txt'],
+    'aymara': ['mono/wiki.ay.aa'],
+    'guarani': ['mono/wiki.gn.aa'],
+    'hñähñu': ['mono/ote.txt'],
+    'nahuatl': ['mono/wikibooks.nah.aa', 'mono/wiki.nah.aa'],
+    'quechua': ['mono/wikibooks.qu.aa', 'mono/wiki.qu.aa'],
+    'shipibo_konibo': ['mono/test.txt', 'mono/train.txt', 'mono/valid.txt'],
+    'wixarika': ['mono/social.wix']
+}
+
+
 def get_bible_files(lang):
     return ['../data/bibles/{lang}/{fname}'.format(lang=lang, fname=fname) for fname in BIBLES[lang]]
 
@@ -238,6 +250,28 @@ class BribriNormalizer(opusfilter.PreprocessorABC):
             yield output
 
 
+class RaramuriNormalizer(opusfilter.PreprocessorABC):
+    """Normalizer for Raramuri data. Assumes Spanish - Raramuri input.
+
+    Applies conversions mentioned in https://github.com/AmericasNLP/americasnlp2021/pull/5
+
+    """
+
+    tz2ch = (re.compile(r'tz'), 'ch')
+    star_token = (re.compile(r' \* '), '')
+    two_apostrophes_token = (re.compile(r" ` ' "), "’")
+    apostrophe_token = (re.compile(r" ' "), "’")
+    apostrophe_any = (re.compile(r"['`´]"), "’")
+
+    def process(self, pairs):
+        for segments in pairs:
+            esp, tar = segments
+            for pat, rep in [self.tz2ch, self.star_token, self.two_apostrophes_token,
+                             self.apostrophe_token, self.apostrophe_any]:
+                tar = re.sub(pat, rep, tar)
+            yield esp, tar
+
+
 class RaramuriTrainCleaner(opusfilter.PreprocessorABC):
     """Cleaner for Raramuri train data. Assumes Spanish - Raramuri input."""
 
@@ -245,13 +279,6 @@ class RaramuriTrainCleaner(opusfilter.PreprocessorABC):
     starting_paren = re.compile(r'^(\( ([0-9]{1,2}|[a-z]) \) )+')
     ending_paren = re.compile(r' \( [0-9a-z] \)$')
     middle_paren = re.compile(r'\( [^\)]+? \)')
-
-    # Cleanups mentioned in https://github.com/AmericasNLP/americasnlp2021/pull/5
-    tz2ch = (re.compile(r'tz'), 'ch')
-    star_token = (re.compile(r' \* '), '')
-    two_apostrophes_token = (re.compile(r" ` ' "), "’")
-    apostrophe_token = (re.compile(r" ' "), "’")
-    apostrophe_middle = (re.compile(r"(?<=\w)'(?=\w)"), "’")
 
     def process(self, pairs):
         for segments in pairs:
@@ -284,10 +311,8 @@ class RaramuriTrainCleaner(opusfilter.PreprocessorABC):
                 # asiento , silla , banco
                 # -> select first
                 esp = esp.split(' , ')[0]
-            for pat, rep in [self.tz2ch, self.star_token, self.two_apostrophes_token,
-                             self.apostrophe_token, self.apostrophe_middle]:
-                tar = re.sub(pat, rep, tar)
             yield esp, tar
+
 
 
 def main(output, workdir, tokenize=False):
@@ -305,6 +330,7 @@ def main(output, workdir, tokenize=False):
             preprocessors.append({'BribriNormalizer': {}, 'module': 'create_opusfilter_config'})
         elif lang == 'raramuri':
             preprocessors.append({'RaramuriTrainCleaner': {}, 'module': 'create_opusfilter_config'})
+            preprocessors.append({'RaramuriNormalizer': {}, 'module': 'create_opusfilter_config'})
         elif TOKENIZED_TRAIN[lang]:
             preprocessors.append({'Detokenizer': {
                 'tokenizer': 'moses',
@@ -339,17 +365,41 @@ def main(output, workdir, tokenize=False):
             }
         })
 
-    # TODO: add extra cleaning for specific corpora?
+    # Combine extra data sets
+    for lang in EXTRA:
+        inputs = [get_input_files(lang, **params) for params in EXTRA[lang]]
+        for idx in [0, 1]:
+            steps.append({
+                'type': 'concatenate',
+                'parameters': {
+                    'inputs': [f[idx] for f in inputs],
+                    'output': get_work_files(lang, 'extra-raw')[idx]
+                }
+            })
 
-    # Combine training data sets
-    for lang in LANGUAGES:
-        if TOKENIZED_TRAIN[lang]:
-            inputs = [get_work_files(lang, 'train')]
+    # Preprocess/copy extra corpora
+    for lang in EXTRA:
+        inputs = get_work_files(lang, 'extra-raw')
+        outputs = get_work_files(lang, 'extra')
+        preprocessors = []
+        if lang == 'raramuri':
+            preprocessors.append({'RaramuriNormalizer': {}, 'module': 'create_opusfilter_config'})
         else:
-            inputs = [get_input_files(lang)]
+            pass  # no preprocessing needed
+        steps.append({
+            'type': 'preprocess',
+            'parameters': {
+                'inputs': inputs,
+                'outputs': outputs,
+                'preprocessors': preprocessors
+            }
+        })
+
+    # Combine training and extra data sets
+    for lang in LANGUAGES:
+        inputs = [get_work_files(lang, 'train')]
         if lang in EXTRA:
-            for params in EXTRA[lang]:
-                inputs.append(get_input_files(lang, **params))
+            inputs.append(get_work_files(lang, 'extra'))
         for idx in [0, 1]:
             steps.append({
                 'type': 'concatenate',
@@ -442,6 +492,8 @@ def main(output, workdir, tokenize=False):
         preprocessors = []
         if lang == 'wixarika':
             preprocessors.append({'WixarikaNormalizer': {}, 'module': 'create_opusfilter_config'})
+        elif lang == 'raramuri':
+            preprocessors.append({'RaramuriNormalizer': {}, 'module': 'create_opusfilter_config'})
         preprocessors.append(
             {'Detokenizer': {
                 'tokenizer': 'moses',
