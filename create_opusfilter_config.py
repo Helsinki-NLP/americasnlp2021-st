@@ -121,19 +121,24 @@ BIBLES = {
 
 
 MONOLINGUAL = {
-    'ashaninka': ['mono/test.txt', 'mono/train.txt', 'mono/valid.txt'],
-    'aymara': ['mono/wiki.ay.aa'],
-    'guarani': ['mono/wiki.gn.aa'],
-    'hñähñu': ['mono/ote.txt'],
-    'nahuatl': ['mono/wikibooks.nah.aa', 'mono/wiki.nah.aa'],
-    'quechua': ['mono/wikibooks.qu.aa', 'mono/wiki.qu.aa'],
-    'shipibo_konibo': ['mono/test.txt', 'mono/train.txt', 'mono/valid.txt'],
-    'wixarika': ['mono/social.wix']
+    'ashaninka': ['test.txt', 'train.txt', 'valid.txt'],
+    'aymara': ['wiki.ay.aa'],
+    'guarani': ['wiki.gn.aa'],
+    'hñähñu': ['ote.txt'],
+    'nahuatl': ['wikibooks.nah.aa', 'wiki.nah.aa'],
+    'quechua': ['wikibooks.qu.aa', 'wiki.qu.aa'],
+    'shipibo_konibo': ['test.txt', 'train.txt', 'valid.txt'],
+    'wixarika': ['social.wix']
 }
 
 
 def get_bible_files(lang):
     return ['../data/bibles/{lang}/{fname}'.format(lang=lang, fname=fname) for fname in BIBLES[lang]]
+
+
+def get_monolingual_files(lang):
+    return ['../data/{lang}-spanish/mono/{fname}'.format(lang=lang, fname=fname)
+            for fname in MONOLINGUAL[lang]]
 
 
 def get_input_files(lang, prefix='train', code=None):
@@ -313,7 +318,7 @@ class RaramuriTrainCleaner(opusfilter.PreprocessorABC):
 
 
 
-def main(output, workdir, tokenize=False):
+def main(config_output, workdir, tokenize=False):
     # WORKDIR = 'processed_data'
     # OUTPUT = 'opusfilter.yaml'
 
@@ -507,6 +512,18 @@ def main(output, workdir, tokenize=False):
             }
         })
 
+    # Combine monolingual data sets
+    for lang in MONOLINGUAL:
+        inputs = get_monolingual_files(lang)
+        output = get_work_files(lang, 'monolingual')[1]
+        steps.append({
+            'type': 'concatenate',
+            'parameters': {
+                'inputs': inputs,
+                'output': output
+            }
+        })
+
     if tokenize:
         # Tokenize training sets
         # FIXME: does not work properly at least for wixarika
@@ -544,7 +561,7 @@ def main(output, workdir, tokenize=False):
                 }
             })
 
-    logging.info("%s steps generated for %s", len(steps), output)
+    logging.info("%s steps generated for %s", len(steps), config_output)
 
     # Write YAML configuration for opusfilter
     config = {
@@ -553,7 +570,7 @@ def main(output, workdir, tokenize=False):
         },
         'steps': steps
     }
-    with open(output, 'w') as fobj:
+    with open(config_output, 'w') as fobj:
         fobj.write(dump(config, Dumper=Dumper))
 
 
