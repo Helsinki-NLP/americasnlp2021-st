@@ -24,16 +24,16 @@
 
 | Language pair | BLEU  | chrF2 | Language pair | BLEU  | chrF2 |
 | ------------- | ----- | ----- | ------------- | ----- | ----- |
-| es-aym        |  |  | aym-es        |  |  |
-| es-bzd        |  |  | bzd-es        |  |  |
-| es-cni        |  |  | cni-es        |  |  |
-| es-gn         |  |  | gn-es         |  |  |
-| es-hch        |  |  | hch-es        |  |  |
-| es-nah        |  |  | nah-es        |  |  |
-| es-oto        |  |  | oto-es        |  |  |
-| es-quy        |  |  | quy-es        |  |  |
-| es-shp        |  |  | shp-es        |  |  |
-| es-tar        |  |  | tar-es        |  |  |
+| es-aym        | 5.44 | 0.290 | aym-es        | 7.38 | 0.278 |
+| es-bzd       | 11.40 | 0.315 | bzd-es        | 8.44 | 0.310 |
+| es-cni        | 3.80 | 0.287 | cni-es        | 6.10 | 0.247 |
+| es-gn         | 8.50 | 0.298 | gn-es         | 7.97 | 0.315 |
+| es-hch        | 7.16 | 0.307 | hch-es        | 7.63 | 0.297 |
+| es-nah        | 4.11 | 0.292 | nah-es        | 5.61 | 0.301 |
+| es-oto        | 2.16 | 0.178 | oto-es        | 3.78 | 0.204 |
+| es-quy        | 5.48 | 0.306 | quy-es        | 9.63 | 0.364 |
+| es-shp        | 5.05 | 0.246 | shp-es        | 9.93 | 0.333 |
+| es-tar        | 3.32 | 0.212 | tar-es        | 2.46 | 0.200 |
 
 
 ## Multilingual models with English
