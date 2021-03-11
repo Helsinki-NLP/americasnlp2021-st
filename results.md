@@ -4,6 +4,7 @@
 
 - Standard transformers, 100k training steps
 - SentencePiece joint 8k vocab
+- evaluated on dev set
 
 | Language pair | BLEU  | chrF2 | Language pair | BLEU  | chrF2 |
 | ------------- | ----- | ----- | ------------- | ----- | ----- |
