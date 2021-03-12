@@ -21,19 +21,20 @@
 
 
 ## Multilingual models without English (Raul)
-
+ - standard transformer with language tags in the src sentence
+ - many-to-many 200k steps
 | Language pair | BLEU  | chrF2 | Language pair | BLEU  | chrF2 |
 | ------------- | ----- | ----- | ------------- | ----- | ----- |
-| es-aym        | 5.44 | 0.290 | aym-es        | 7.38 | 0.278 |
-| es-bzd       | 11.40 | 0.315 | bzd-es        | 8.44 | 0.310 |
-| es-cni        | 3.80 | 0.287 | cni-es        | 6.10 | 0.247 |
-| es-gn         | 8.50 | 0.298 | gn-es         | 7.97 | 0.315 |
-| es-hch        | 7.16 | 0.307 | hch-es        | 7.63 | 0.297 |
-| es-nah        | 4.11 | 0.292 | nah-es        | 5.61 | 0.301 |
-| es-oto        | 2.16 | 0.178 | oto-es        | 3.78 | 0.204 |
-| es-quy        | 5.48 | 0.306 | quy-es        | 9.63 | 0.364 |
-| es-shp        | 5.05 | 0.246 | shp-es        | 9.93 | 0.333 |
-| es-tar        | 3.32 | 0.212 | tar-es        | 2.46 | 0.200 |
+| es-aym        | 3.40 | 0.223 | aym-es        | 4.40 | 0.221 |
+| es-bzd        | 3.35 | 0.203 | bzd-es        | 5.23 | 0.249 |
+| es-cni        | 2.36 | 0.222 | cni-es        | 3.39 | 0.199 |
+| es-gn         | 3.88 | 0.247 | gn-es         | 4.98 | 0.238 |
+| es-hch        | 6.32 | 0.258 | hch-es        | 4.35 | 0.232 |
+| es-nah        | 2.05 | 0.242 | nah-es        | 3.80 | 0.218 |
+| es-oto        | 1.08 | 0.137 | oto-es        | 1.60 | 0.175 |
+| es-quy        | 2.34 | 0.206 | quy-es        | 5.77 | 0.271 |
+| es-shp        | 2.10 | 0.158 | shp-es        | 5.85 | 0.256 |
+| es-tar        | 1.21 | 0.162 | tar-es        | 1.19 | 0.189 |
 
 
 ## Multilingual models with English
