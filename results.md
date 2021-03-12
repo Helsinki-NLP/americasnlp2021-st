@@ -23,6 +23,8 @@
 ## Multilingual models without English (Raul)
  - standard transformer with language tags in the src sentence
  - many-to-many 200k steps
+ 
+
 | Language pair | BLEU  | chrF2 | Language pair | BLEU  | chrF2 |
 | ------------- | ----- | ----- | ------------- | ----- | ----- |
 | es-aym        | 3.40 | 0.223 | aym-es        | 4.40 | 0.221 |
