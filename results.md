@@ -59,3 +59,23 @@
 | es-quy        | 3.314 | 0.325 | quy-es        | 8.742 | 0.287 |
 | es-shp        | 4.455 | 0.299 | shp-es       | 11.362 | 0.340 |
 | es-tar        | 1.090 | 0.172 | tar-es        | 1.663 | 0.196 |
+
+- High-capacity transformers (run 3 with data bug fixes and joint vocab)
+- Pretraining: 90% English, 10% remaining languages
+- SentencePiece joint 32k vocab
+- Evaluated on dev set after 72k pretraining steps
+
+| Language pair | *LC BLEU* | *BLEU* | *chrF2* | | *BLEU* | *chrF2* |
+| ------------- | ----- | ----- | ----- | --- |  ----- | ----- |
+|               | *Full devset*  | | | | *Half devset* | |
+| es-en         | 32.635 | 31.703 | 0.567 | |      |       |
+| es-aym        | 3.500 | 3.374 | 0.306 | |  3.544 | 0.302 |
+| es-bzd        | 5.446 | 4.773 | 0.225 | |  5.292 | 0.229 |
+| es-cni        | 2.766 | 2.636 | 0.239 | |  1.925 | 0.236 |
+| es-gn         | 5.702 | 5.345 | 0.299 | |  5.170 | 0.300 |
+| es-hch        | 8.803 | 8.669 | 0.303 | |  8.864 | 0.302 |
+| es-nah        | 2.959 | 2.681 | 0.279 | |  2.494 | 0.274 |
+| es-oto        | 1.085 | 1.043 | 0.139 | |  0.989 | 0.138 |
+| es-quy        | 2.413 | 2.220 | 0.265 | |  2.709 | 0.272 |
+| es-shp        | 4.681 | 4.519 | 0.299 | |  4.449 | 0.297 |
+| es-tar        | 1.297 | 1.184 | 0.173 | |  1.153 | 0.175 |
