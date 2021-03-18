@@ -56,7 +56,7 @@
 | es-shp        | 4.58 | 0.292 | shp-es        | 6.82 | 0.265 |
 | es-tar        | 1.04 | 0.159 | tar-es        | 1.21 | 0.188 |
 
-## Multilingual models with English
+## Multilingual models with English (Yves)
 
 - High-capacity transformers
 - Pretraining: 90% English, 10% remaining languages
@@ -96,3 +96,52 @@
 | es-quy        | 2.413 | 2.220 | 0.265 | |  2.709 | 0.272 |
 | es-shp        | 4.681 | 4.519 | 0.299 | |  4.449 | 0.297 |
 | es-tar        | 1.297 | 1.184 | 0.173 | |  1.153 | 0.175 |
+
+- Finetuning: 50% English, 50% one American language pair
+- Evaluated on dev set after 72k pretraining steps + 4k fine-tuning steps
+
+| Language pair | *BLEU* | *chrF2* | | *BLEU* | *chrF2* |
+| ------------- | ----- | ----- | --- |  ----- | ----- |
+|               | *Full devset*  | | | *Half devset* | |
+| es-en         |       |       | |       |       |
+| es-aym        | 4.061 | 0.325 | | 4.432 | 0.326 |
+| es-bzd        | 4.498 | 0.226 | | 4.704 | 0.227 |
+| es-cni        | 2.325 | 0.272 | | 2.026 | 0.267 |
+| es-gn         | 5.397 | 0.320 | | 5.546 | 0.322 |
+| es-hch        | 7.310 | 0.297 | | 7.493 | 0.300 |
+| es-nah        | 3.250 | 0.289 | | 3.847 | 0.292 |
+| es-oto        | 0.917 | 0.140 | | 0.900 | 0.138 |
+| es-quy        | 3.062 | 0.281 | | 3.549 | 0.285 |
+| es-shp        | 4.391 | 0.300 | | 4.257 | 0.299 |
+| es-tar        | 1.017 | 0.190 | | 1.106 | 0.189 |
+
+## Multilingual models with OPUS data, without backtranslations (Jörg)
+
+| Language pair | *BLEU* | *chrF2* |
+| ------------- | ----- | ----- |
+| es-aym        | 2.9 | 0.291 |
+| es-bzd        | 3.1 | 0.183 |
+| es-cni        | 1.4 | 0.250 |
+| es-gn         | 2.8 | 0.258 |
+| es-hch        | 7.3 | 0.267 |
+| es-nah        | 1.6 | 0.260 |
+| es-oto        | 0.3 | 0.120 |
+| es-quy        | 2.1 | 0.285 |
+| es-shp        | 1.6 | 0.182 |
+| es-tar        | 0.4 | 0.175 |
+
+
+## Multilingual models with OPUS data, with backtranslations (Jörg)
+
+| Language pair | *BLEU* | *chrF2* |
+| ------------- | ----- | ----- |
+| es-aym        | 3.6 | 0.295 |
+| es-bzd        | 3.4 | 0.183 |
+| es-cni        | 1.8 | 0.271 |
+| es-gn         | 3.7 | 0.278 |
+| es-hch        | 7.0 | 0.267 |
+| es-nah        | 2.6 | 0.237 |
+| es-oto        | 0.5 | 0.129 |
+| es-quy        | 2.8 | 0.303 |
+| es-shp        | 3.3 | 0.241 |
+| es-tar        | 0.9 | 0.181 |
