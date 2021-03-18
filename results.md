@@ -38,6 +38,23 @@
 | es-shp        | 2.10 | 0.158 | shp-es        | 5.85 | 0.256 |
 | es-tar        | 1.21 | 0.162 | tar-es        | 1.19 | 0.189 |
 
+## Multilingual models with backtranslation without English (Raul)
+ - standard transformer with language tags in the src sentence
+ - many-to-many 200k steps
+ 
+
+| Language pair | BLEU  | chrF2 | Language pair | BLEU  | chrF2 |
+| ------------- | ----- | ----- | ------------- | ----- | ----- |
+| es-aym        | 3.22 | 0.245 | aym-es        | 4.67 | 0.220 |
+| es-bzd        | 3.39 | 0.188 | bzd-es        | 5.39 | 0.255 |
+| es-cni        | 2.78 | 0.240 | cni-es        | 3.56 | 0.193 |
+| es-gn         | 4.05 | 0.260 | gn-es         | 5.54 | 0.244 |
+| es-hch        | 7.22 | 0.255 | hch-es        | 4.23 | 0.230 |
+| es-nah        | 2.67 | 0.251 | nah-es        | 4.27 | 0.220 |
+| es-oto        | 0.97 | 0.138 | oto-es        | 1.35 | 0.176 |
+| es-quy        | 2.92 | 0.245 | quy-es        | 6.37 | 0.273 |
+| es-shp        | 4.58 | 0.292 | shp-es        | 6.82 | 0.265 |
+| es-tar        | 1.04 | 0.159 | tar-es        | 1.21 | 0.188 |
 
 ## Multilingual models with English
 
