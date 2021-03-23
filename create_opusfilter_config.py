@@ -318,14 +318,21 @@ class RaramuriTrainCleaner(opusfilter.PreprocessorABC):
 
 
 
-def main(config_output, workdir, tokenize=False):
+def main(config_output, workdir, single=None, tokenize=False, bibles=True, dev=True, monolingual=True):
     # WORKDIR = 'processed_data'
     # OUTPUT = 'opusfilter.yaml'
+
+    if single:
+        logging.info("Creating config for %s data", single)
+    if tokenize:
+        logging.info("Tokenization enabled")
 
     steps = []
 
     # Preprocess/copy train sets
     for lang in LANGUAGES:
+        if single and lang != single:
+            continue
         inputs = get_input_files(lang, 'train')
         outputs = get_work_files(lang, 'train')
         preprocessors = []
@@ -351,25 +358,30 @@ def main(config_output, workdir, tokenize=False):
         })
 
     # Preprocess/copy dev sets
-    for lang in LANGUAGES:
-        inputs = get_input_files(lang, 'dev')
-        outputs = get_work_files(lang, 'dev')
-        preprocessors = []
-        if lang == 'bribri':
-            preprocessors.append({'BribriNormalizer': {}, 'module': 'create_opusfilter_config'})
-        else:
-            pass  # no preprocessing needed
-        steps.append({
-            'type': 'preprocess',
-            'parameters': {
-                'inputs': inputs,
-                'outputs': outputs,
-                'preprocessors': preprocessors
-            }
-        })
+    if dev:
+        for lang in LANGUAGES:
+            if single and lang != single:
+                continue
+            inputs = get_input_files(lang, 'dev')
+            outputs = get_work_files(lang, 'dev')
+            preprocessors = []
+            if lang == 'bribri':
+                preprocessors.append({'BribriNormalizer': {}, 'module': 'create_opusfilter_config'})
+            else:
+                pass  # no preprocessing needed
+            steps.append({
+                'type': 'preprocess',
+                'parameters': {
+                    'inputs': inputs,
+                    'outputs': outputs,
+                    'preprocessors': preprocessors
+                }
+            })
 
     # Combine extra data sets
     for lang in EXTRA:
+        if single and lang != single:
+            continue
         inputs = [get_input_files(lang, **params) for params in EXTRA[lang]]
         for idx in [0, 1]:
             steps.append({
@@ -382,6 +394,8 @@ def main(config_output, workdir, tokenize=False):
 
     # Preprocess/copy extra corpora
     for lang in EXTRA:
+        if single and lang != single:
+            continue
         inputs = get_work_files(lang, 'extra-raw')
         outputs = get_work_files(lang, 'extra')
         preprocessors = []
@@ -400,6 +414,8 @@ def main(config_output, workdir, tokenize=False):
 
     # Combine training and extra data sets
     for lang in LANGUAGES:
+        if single and lang != single:
+            continue
         inputs = [get_work_files(lang, 'train')]
         if lang in EXTRA:
             inputs.append(get_work_files(lang, 'extra'))
@@ -414,6 +430,8 @@ def main(config_output, workdir, tokenize=False):
 
     # Normalize whitespaces
     for lang in LANGUAGES:
+        if single and lang != single:
+            continue
         inputs = get_work_files(lang, 'combined')
         outputs = get_work_files(lang, 'input')
         steps.append({
@@ -427,6 +445,8 @@ def main(config_output, workdir, tokenize=False):
 
     # Remove duplicates
     for lang in LANGUAGES:
+        if single and lang != single:
+            continue
         inputs = get_work_files(lang, 'input')
         steps.append({
             'type': 'remove_duplicates',
@@ -461,6 +481,8 @@ def main(config_output, workdir, tokenize=False):
     }
 
     for lang in LANGUAGES:
+        if single and lang != single:
+            continue
         inputs = get_work_files(lang, 'dedup')
         outputs = get_work_files(lang, 'dedup_filtered')
         filters = [{filt: filter_params[filt]} for filt in active_filters[lang]]
@@ -477,57 +499,65 @@ def main(config_output, workdir, tokenize=False):
     # * at most k=5 entries per line
     # * all tokenized -> detokenize
     # * wixarika should use normalization in normwix.py
-    for lang in LANGUAGES:
-        inputs = [get_bible_files('spanish'), get_bible_files(lang)]
-        raw = get_work_files(lang, 'bibles-raw')
-        outputs = get_work_files(lang, 'bibles')
-        steps.append({
-            'type': 'product',
-            'parameters': {
-                'inputs': inputs,
-                'outputs': raw,
-                'skip_empty': True,
-                'skip_duplicates': True,
-                'k': 5,
-                'seed': 'bibles'
-            }
-        })
-        preprocessors = []
-        if lang == 'wixarika':
-            preprocessors.append({'WixarikaNormalizer': {}, 'module': 'create_opusfilter_config'})
-        elif lang == 'raramuri':
-            preprocessors.append({'RaramuriNormalizer': {}, 'module': 'create_opusfilter_config'})
-        preprocessors.append(
-            {'Detokenizer': {
-                'tokenizer': 'moses',
-                'languages': ['es', LANGCODE[lang]]
-            }}
-        )
-        steps.append({
-            'type': 'preprocess',
-            'parameters': {
-                'inputs': raw,
-                'outputs': outputs,
-                'preprocessors': preprocessors
-            }
-        })
+    if bibles:
+        for lang in LANGUAGES:
+            if single and lang != single:
+                continue
+            inputs = [get_bible_files('spanish'), get_bible_files(lang)]
+            raw = get_work_files(lang, 'bibles-raw')
+            outputs = get_work_files(lang, 'bibles')
+            steps.append({
+                'type': 'product',
+                'parameters': {
+                    'inputs': inputs,
+                    'outputs': raw,
+                    'skip_empty': True,
+                    'skip_duplicates': True,
+                    'k': 5,
+                    'seed': 'bibles'
+                }
+            })
+            preprocessors = []
+            if lang == 'wixarika':
+                preprocessors.append({'WixarikaNormalizer': {}, 'module': 'create_opusfilter_config'})
+            elif lang == 'raramuri':
+                preprocessors.append({'RaramuriNormalizer': {}, 'module': 'create_opusfilter_config'})
+            preprocessors.append(
+                {'Detokenizer': {
+                    'tokenizer': 'moses',
+                    'languages': ['es', LANGCODE[lang]]
+                }}
+            )
+            steps.append({
+                'type': 'preprocess',
+                'parameters': {
+                    'inputs': raw,
+                    'outputs': outputs,
+                    'preprocessors': preprocessors
+                }
+            })
 
     # Combine monolingual data sets
-    for lang in MONOLINGUAL:
-        inputs = get_monolingual_files(lang)
-        output = get_work_files(lang, 'monolingual')[1]
-        steps.append({
-            'type': 'concatenate',
-            'parameters': {
-                'inputs': inputs,
-                'output': output
-            }
-        })
+    if monolingual:
+        for lang in MONOLINGUAL:
+            if single and lang != single:
+                continue
+            inputs = get_monolingual_files(lang)
+            output = get_work_files(lang, 'monolingual')[1]
+            steps.append({
+                'type': 'concatenate',
+                'parameters': {
+                    'inputs': inputs,
+                    'output': output
+                }
+            })
 
     if tokenize:
         # Tokenize training sets
         # FIXME: does not work properly at least for wixarika
         for lang in LANGUAGES:
+            if single and lang != single:
+                continue
             inputs = get_work_files(lang, 'dedup_filtered')
             outputs = get_work_files(lang, 'dedup_filtered_tokenized')
             steps.append({
@@ -545,6 +575,8 @@ def main(config_output, workdir, tokenize=False):
             })
         # Tokenize dev sets
         for lang in LANGUAGES:
+            if single and lang != single:
+                continue
             inputs = get_work_files(lang, prefix='dev')
             outputs = get_work_files(lang, prefix='dev_tokenized')
             steps.append({
@@ -578,6 +610,12 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Create OpusFilter configuration')
     parser.add_argument('output', metavar='FILE', help='OpusFilter config file')
     parser.add_argument('workdir', metavar='DIR', help='Work directory for OpusFilter')
+    parser.add_argument('--no-bibles', dest='bibles', action='store_false', help='Exclude Bibles')
+    parser.add_argument('--no-dev', dest='dev', action='store_false', help='Exclude dev sets')
+    parser.add_argument('--no-monolingual', dest='monolingual', action='store_false', help='Exclude monolingual sets')
+    parser.add_argument('--tokenize', action='store_true', help='Include tokenization')
+    parser.add_argument('--single', default=None, help='Use single language')
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO)
-    main(args.output, args.workdir)
+    main(args.output, args.workdir, single=args.single, tokenize=args.tokenize,
+         bibles=args.bibles, dev=args.dev, monolingual=args.monolingual)
