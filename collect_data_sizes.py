@@ -26,7 +26,7 @@ if __name__ == '__main__':
     prefixes = ['train', 'extra', 'combined', 'dedup', 'dedup_filtered', 'bibles', 'monolingual', 'dev']
 
     table = {}
-    table['language'] = [l.replace('_', ' ').title() for l in LANGUAGES]
+    table['language'] = [l.replace('_', '-').title() for l in LANGUAGES]
     table['code'] = [LANGCODE[l] for l in LANGUAGES]
     for prefix in prefixes:
         row = []
