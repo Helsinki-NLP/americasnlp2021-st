@@ -23,12 +23,13 @@ if __name__ == '__main__':
 
     logging.basicConfig(level=logging.INFO)
     
-    prefixes = ['train', 'extra', 'combined', 'dedup', 'dedup_filtered', 'bibles', 'monolingual', 'dev']
+    prefixes = ['train', 'extra', 'combined', 'dedup', 'dedup_filtered', 'bibles_filtered', 'monolingual_filtered', 'dev']
+    labels = ['train', 'extra', 'combined', 'dedup', 'filtered', 'bibles', 'monolingual', 'dev']
 
     table = {}
     table['language'] = [l.replace('_', '-').title() for l in LANGUAGES]
     table['code'] = [LANGCODE[l] for l in LANGUAGES]
-    for prefix in prefixes:
+    for prefix, label in zip(prefixes, labels):
         row = []
         for lang in LANGUAGES:
             src, tgt = get_work_files(lang, prefix)
@@ -39,10 +40,6 @@ if __name__ == '__main__':
                 lines = 0
             row.append(lines)
             logging.info("%s %s", fname, lines)
-        if prefix == 'dedup_filtered':
-            label = 'filtered'
-        else:
-            label = prefix
         table[label] = row
 
     print(tabulate(table, headers=table.keys(), tablefmt='latex'))

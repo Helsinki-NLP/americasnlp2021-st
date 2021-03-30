@@ -337,6 +337,16 @@ class RaramuriTrainCleaner(opusfilter.PreprocessorABC):
             yield esp, tar
 
 
+class BlankFilter(opusfilter.FilterABC):
+    """Filter out lines containing only BLANK (for data from Bibles)"""
+
+    def score(self, pairs):
+        for pair in pairs:
+            yield [(sentence.strip() != 'BLANK') for sentence in pair]
+
+    def accept(self, score):
+        return all(score)
+
 
 def main(config_output, workdir, single=None, tokenize=False, bibles=True, dev=True,
          monolingual=True, restricted_extra=False, filtering=True):
@@ -544,6 +554,7 @@ def main(config_output, workdir, single=None, tokenize=False, bibles=True, dev=T
             inputs = [get_bible_files('spanish'), get_bible_files(lang)]
             raw = get_work_files(lang, 'bibles-raw')
             outputs = get_work_files(lang, 'bibles')
+            filtered_outputs = get_work_files(lang, 'bibles_filtered')
             steps.append({
                 'type': 'product',
                 'parameters': {
@@ -574,6 +585,16 @@ def main(config_output, workdir, single=None, tokenize=False, bibles=True, dev=T
                     'preprocessors': preprocessors
                 }
             })
+            steps.append({
+                'type': 'filter',
+                'parameters': {
+                    'inputs': outputs,
+                    'outputs': filtered_outputs,
+                    'filters': [
+                        {'BlankFilter': {}, 'module': 'create_opusfilter_config'}
+                    ]
+                }
+            })
 
     # Combine monolingual data sets
     if monolingual:
@@ -582,11 +603,22 @@ def main(config_output, workdir, single=None, tokenize=False, bibles=True, dev=T
                 continue
             inputs = get_monolingual_files(lang)
             output = get_work_files(lang, 'monolingual')[1]
+            output_filtered = get_work_files(lang, 'monolingual_filtered')[1]
             steps.append({
                 'type': 'concatenate',
                 'parameters': {
                     'inputs': inputs,
                     'output': output
+                }
+            })
+            steps.append({
+                'type': 'filter',
+                'parameters': {
+                    'inputs': [output],
+                    'outputs': [output_filtered],
+                    'filters': [
+                        {'LengthFilter': {'unit': 'word', 'min_length': 1, 'max_length': 500}}
+                    ]
                 }
             })
 
