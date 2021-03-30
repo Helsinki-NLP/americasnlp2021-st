@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import argparse
+import copy
 import logging
 import os
 import re
@@ -82,6 +83,25 @@ EXTRA = {
         # {'prefix': 'extra/corp-train', 'code': 'wix'},
         # {'prefix': 'extra/corp-dev', 'code': 'wix'},
         # {'prefix': 'extra/corp-test', 'code': 'wix'}
+    ]
+}
+
+# Only parallel datasets provided by the organizers
+RESTRICTED_EXTRA = {
+    'aymara': [
+        {'prefix': 'parallel_data/es-aym/opus_globalvoices.es-aym'}
+    ],
+    'quechua': [
+        {'prefix': 'dict'},
+        {'prefix': 'parallel_data/es-quy/dict_misc.quy-es'},
+        {'prefix': 'parallel_data/es-quy/jw300.es-quy'},
+        {'prefix': 'parallel_data/es-quy/minedu.quy-es'},
+        {'prefix': 'parallel_data/es-quz/jw300.es-quz', 'code': 'quz'},
+    ],
+    'shipibo_konibo': [
+        {'prefix': 'parallel_data/dictionary'},
+        {'prefix': 'parallel_data/educational'},
+        {'prefix': 'parallel_data/flashcards'},
     ]
 }
 
@@ -318,7 +338,8 @@ class RaramuriTrainCleaner(opusfilter.PreprocessorABC):
 
 
 
-def main(config_output, workdir, single=None, tokenize=False, bibles=True, dev=True, monolingual=True):
+def main(config_output, workdir, single=None, tokenize=False, bibles=True, dev=True,
+         monolingual=True, restricted_extra=False, filtering=True):
     # WORKDIR = 'processed_data'
     # OUTPUT = 'opusfilter.yaml'
 
@@ -326,6 +347,19 @@ def main(config_output, workdir, single=None, tokenize=False, bibles=True, dev=T
         logging.info("Creating config for %s data", single)
     if tokenize:
         logging.info("Tokenization enabled")
+    if not bibles:
+        logging.info("Bibles disabled")
+    if not dev:
+        logging.info("Dev sets disabled")
+    if not monolingual:
+        logging.info("Monolingual sets disabled")
+    if restricted_extra:
+        logging.info("Using restricted extra data")
+        extra_datasets = RESTRICTED_EXTRA
+    else:
+        extra_datasets = EXTRA
+    if not filtering:
+        logging.info("Filtering disabled")
 
     steps = []
 
@@ -379,10 +413,10 @@ def main(config_output, workdir, single=None, tokenize=False, bibles=True, dev=T
             })
 
     # Combine extra data sets
-    for lang in EXTRA:
+    for lang in extra_datasets:
         if single and lang != single:
             continue
-        inputs = [get_input_files(lang, **params) for params in EXTRA[lang]]
+        inputs = [get_input_files(lang, **params) for params in extra_datasets[lang]]
         for idx in [0, 1]:
             steps.append({
                 'type': 'concatenate',
@@ -393,7 +427,7 @@ def main(config_output, workdir, single=None, tokenize=False, bibles=True, dev=T
             })
 
     # Preprocess/copy extra corpora
-    for lang in EXTRA:
+    for lang in extra_datasets:
         if single and lang != single:
             continue
         inputs = get_work_files(lang, 'extra-raw')
@@ -417,7 +451,7 @@ def main(config_output, workdir, single=None, tokenize=False, bibles=True, dev=T
         if single and lang != single:
             continue
         inputs = [get_work_files(lang, 'train')]
-        if lang in EXTRA:
+        if lang in extra_datasets:
             inputs.append(get_work_files(lang, 'extra'))
         for idx in [0, 1]:
             steps.append({
@@ -443,57 +477,61 @@ def main(config_output, workdir, single=None, tokenize=False, bibles=True, dev=T
             }
         })
 
-    # Remove duplicates
-    for lang in LANGUAGES:
-        if single and lang != single:
-            continue
-        inputs = get_work_files(lang, 'input')
-        steps.append({
-            'type': 'remove_duplicates',
-            'parameters': {
-                'inputs': inputs,
-                'outputs': get_work_files(lang, 'dedup')
-            }
-        })
+    if filtering:
+        # Remove duplicates
+        for lang in LANGUAGES:
+            if single and lang != single:
+                continue
+            inputs = get_work_files(lang, 'input')
+            steps.append({
+                'type': 'remove_duplicates',
+                'parameters': {
+                    'inputs': inputs,
+                    'outputs': get_work_files(lang, 'dedup')
+                }
+            })
 
-    filter_params = {
-        'LengthFilter': {'unit': 'char', 'min_length': 1, 'max_length': 1000},
-        'LengthRatioFilter': {'unit': 'char', 'threshold': 4},
-        'CharacterScoreFilter': {'scripts': ['Latin', 'Latin'], 'thresholds': [0.9, 0.9]},
-        'TerminalPunctuationFilter': {'threshold': -2},
-        'NonZeroNumeralsFilter': {'threshold': 0.5}
-    }
+        filter_params = {
+            'LengthFilter': {'unit': 'char', 'min_length': 1, 'max_length': 1000},
+            'LengthRatioFilter': {'unit': 'char', 'threshold': 4},
+            'CharacterScoreFilter': {'scripts': ['Latin', 'Latin'], 'thresholds': [0.9, 0.9]},
+            'TerminalPunctuationFilter': {'threshold': -2},
+            'NonZeroNumeralsFilter': {'threshold': 0.5}
+        }
 
-    active_filters = {
-        'ashaninka': ['LengthRatioFilter'],
-        'aymara': ['LengthFilter', 'LengthRatioFilter', 'CharacterScoreFilter',
-                   'TerminalPunctuationFilter', 'NonZeroNumeralsFilter'],
-        'bribri': [],
-        'guarani': ['LengthRatioFilter'],
-        'hñähñu': ['LengthRatioFilter'],
-        'nahuatl': ['LengthFilter', 'LengthRatioFilter'],
-        'quechua': ['LengthFilter', 'LengthRatioFilter', 'CharacterScoreFilter',
-                    'TerminalPunctuationFilter', 'NonZeroNumeralsFilter'],
-        'raramuri': ['LengthFilter', 'LengthRatioFilter', 'CharacterScoreFilter',
-                     'NonZeroNumeralsFilter'],
-        'shipibo_konibo': [],
-        'wixarika': ['LengthRatioFilter', 'NonZeroNumeralsFilter']
-    }
+        active_filters = {
+            'ashaninka': ['LengthRatioFilter'],
+            'aymara': ['LengthFilter', 'LengthRatioFilter', 'CharacterScoreFilter',
+                       'TerminalPunctuationFilter', 'NonZeroNumeralsFilter'],
+            'bribri': [],
+            'guarani': ['LengthRatioFilter'],
+            'hñähñu': ['LengthRatioFilter'],
+            'nahuatl': ['LengthFilter', 'LengthRatioFilter'],
+            'quechua': ['LengthFilter', 'LengthRatioFilter', 'CharacterScoreFilter',
+                        'TerminalPunctuationFilter', 'NonZeroNumeralsFilter'],
+            'raramuri': ['LengthFilter', 'LengthRatioFilter', 'CharacterScoreFilter',
+                         'NonZeroNumeralsFilter'],
+            'shipibo_konibo': [],
+            'wixarika': ['LengthRatioFilter', 'NonZeroNumeralsFilter']
+        }
 
-    for lang in LANGUAGES:
-        if single and lang != single:
-            continue
-        inputs = get_work_files(lang, 'dedup')
-        outputs = get_work_files(lang, 'dedup_filtered')
-        filters = [{filt: filter_params[filt]} for filt in active_filters[lang]]
-        steps.append({
-            'type': 'filter',
-            'parameters': {
-                'inputs': inputs,
-                'outputs': outputs,
-                'filters': filters
-            }
-        })
+        for lang in LANGUAGES:
+            if single and lang != single:
+                continue
+            inputs = get_work_files(lang, 'dedup')
+            outputs = get_work_files(lang, 'dedup_filtered')
+            filters = [{filt: filter_params[filt]} for filt in active_filters[lang]]
+            steps.append({
+                'type': 'filter',
+                'parameters': {
+                    'inputs': inputs,
+                    'outputs': outputs,
+                    'filters': filters
+                }
+            })
+        output_prefix = 'dedup_filtered'
+    else:
+        output_prefix = 'input'
 
     # Bibles
     # * at most k=5 entries per line
@@ -558,8 +596,8 @@ def main(config_output, workdir, single=None, tokenize=False, bibles=True, dev=T
         for lang in LANGUAGES:
             if single and lang != single:
                 continue
-            inputs = get_work_files(lang, 'dedup_filtered')
-            outputs = get_work_files(lang, 'dedup_filtered_tokenized')
+            inputs = get_work_files(lang, output_prefix)
+            outputs = get_work_files(lang, output_prefix + '_tokenized')
             steps.append({
                 'type': 'preprocess',
                 'parameters': {
@@ -613,9 +651,13 @@ if __name__ == '__main__':
     parser.add_argument('--no-bibles', dest='bibles', action='store_false', help='Exclude Bibles')
     parser.add_argument('--no-dev', dest='dev', action='store_false', help='Exclude dev sets')
     parser.add_argument('--no-monolingual', dest='monolingual', action='store_false', help='Exclude monolingual sets')
+    parser.add_argument('--restricted-extra', dest='restricted_extra', action='store_true',
+                        help='Exclude extra parallel data sets not provided by the organizers')
+    parser.add_argument('--no-filtering', dest='filtering', action='store_false', help='Exclude filtering')
     parser.add_argument('--tokenize', action='store_true', help='Include tokenization')
     parser.add_argument('--single', default=None, help='Use single language')
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO)
     main(args.output, args.workdir, single=args.single, tokenize=args.tokenize,
-         bibles=args.bibles, dev=args.dev, monolingual=args.monolingual)
+         bibles=args.bibles, dev=args.dev, monolingual=args.monolingual,
+         restricted_extra=args.restricted_extra, filtering=args.filtering)
