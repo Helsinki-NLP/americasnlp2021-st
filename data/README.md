@@ -3,7 +3,9 @@
 - ashaninka-spanish
   - `mono`: from <https://github.com/iapucp/multilingual-data-peru/edit/master/ShaShiYaYi>
 - aymara-spanish
-  - `extra`: boconst
+  - `extra`:
+    - boconst
+    - JW300 from OPUS (*not used in experiments*)
   - `mono`: Wikipedia data from Tatoeba challenge
 - bribri-spanish
   - nothing :(
