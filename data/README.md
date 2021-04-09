@@ -1,4 +1,4 @@
-# Overview of added data
+# Overview of additional data
 
 - ashaninka-spanish
   - `mono`: from <https://github.com/iapucp/multilingual-data-peru/edit/master/ShaShiYaYi>
