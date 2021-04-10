@@ -1,0 +1,21 @@
+1. Original data
+  61,434,251 ost.en
+   2,009,073 Europarl.en
+   1,882,521 jw.en
+     416,846 TED2020.en
+     380,619 GlobalVoices.en
+     256,414 News-Commentary.en
+     207,517 Tatoeba.en
+      62,191 bible-uedin.en
+      14,522 WMT-News.en [held-out dev set]
+
+2. Filtering of OST
+  61,434,251 ost.en
+  48,303,511 ost_dedup.en
+  17,597,703 ost_filt.en
+  (filtering did not finish, just continuing with corrupted gz)
+
+3. Concatenating and filtering of other data
+   5,215,181 other.en
+   5,000,788 other_dedup.en
+   4,409,393 other_filt.en

@@ -1,0 +1,96 @@
+train_from: ../model_step_52000.pt
+save_data: data
+src_vocab: ../data/vocab.am
+tgt_vocab: ../data/vocab.es
+overwrite: False
+
+# Tokenization options
+src_subword_type: sentencepiece
+src_subword_model: ../../spm/other2_32k.model
+tgt_subword_type: sentencepiece
+tgt_subword_model: ../../spm/es2_16k.model
+
+# Number of candidates for SentencePiece sampling
+subword_nbest: 20
+# Smoothing parameter for SentencePiece sampling
+subword_alpha: 0.1
+# Specific arguments for pyonmttok
+src_onmttok_kwargs: "{'mode': 'none', 'spacer_annotate': True}"
+tgt_onmttok_kwargs: "{'mode': 'none', 'spacer_annotate': True}"
+src_seq_length: 500
+tgt_seq_length: 500
+
+# Corpus opts:
+data:
+    corpus_en_other:
+        path_src: ../../spa-eng/opusdata/other_filt.en
+        path_tgt: ../../spa-eng/opusdata/other_filt.es
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __en__
+        tgt_prefix: __en__
+        weight: 1
+    corpus_en_ost:
+        path_src: ../../spa-eng/opusdata/ost_filt.en
+        path_tgt: ../../spa-eng/opusdata/ost_filt.es
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __en__
+        tgt_prefix: __en__
+        weight: 1
+    corpus_shp_std:
+        path_src: ../../americasnlp2021-st/processed_data/shipibo_konibo/dedup_filtered.shp.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/shipibo_konibo/dedup_filtered.es.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __shp__
+        tgt_prefix: __shp__
+        weight: 1
+    corpus_shp_bib:
+        path_src: ../../americasnlp2021-st/processed_data/shipibo_konibo/bibles.shp.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/shipibo_konibo/bibles.es.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __shp__
+        tgt_prefix: __shp__
+        weight: 1
+    valid:
+        path_src: ../../americasnlp2021-st/processed_data/shipibo_konibo/dev.shp.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/shipibo_konibo/dev.es.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __shp__
+        tgt_prefix: __shp__
+
+
+skip_empty_level: warning
+train_steps: 80000
+save_checkpoint_steps: 4000
+valid_steps: 4000
+world_size: 1
+gpu_ranks: 0
+
+encoder_type: transformer
+decoder_type: transformer
+enc_layers: 8
+dec_layers: 8
+rnn_size: 1024
+word_vec_size: 1024
+transformer_ff: 4096
+heads: 16
+position_encoding: True
+
+share_decoder_embeddings: True
+batch_type: tokens
+normalization: tokens
+accum_count: 4
+optim: adam
+adam_beta2: 0.997
+decay_method: noam
+warmup_steps: 16000
+learning_rate: 2
+max_grad_norm: 0
+param_init: 0
+param_init_glorot: True
+dropout: 0.1
+label_smoothing: 0.1
+max_generator_batches: 16
+batch_size: 9200
+seed: 1024
+model_dtype: fp16
+max_relative_positions: 4

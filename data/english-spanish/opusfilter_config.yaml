@@ -1,0 +1,123 @@
+common:
+    output_directory: opusdata
+
+steps:
+
+    - type: opus_read
+      parameters:
+            corpus_name: JW300
+            source_language: es
+            target_language: en
+            release: v1b
+            preprocessing: raw
+            src_output: jw.es.gz
+            tgt_output: jw.en.gz
+
+# The following corpora were copied directly for efficiency reasons, but can
+# also be downloaded with the opus_read command:
+# OpenSubtitles (handled separately), Europarl, JW300, GlobalVoices,
+# News-Commentary, TED2020, Tatoeba, bible-uedin, WMT-News (for validation)
+
+    - type: concatenate
+      parameters:
+            inputs:
+                - jw.es.gz
+                - bible-uedin.es
+                - Europarl.es
+                - GlobalVoices.es
+                - News-Commentary.es
+                - Tatoeba.es
+                - TED2020.es
+            output: other.es.gz
+
+    - type: concatenate
+      parameters:
+            inputs:
+                - jw.en.gz
+                - bible-uedin.en
+                - Europarl.en
+                - GlobalVoices.en
+                - News-Commentary.en
+                - Tatoeba.en
+                - TED2020.en
+            output: other.en.gz
+
+    - type: remove_duplicates 
+      parameters:
+            inputs:
+                - other.es.gz
+                - other.en.gz
+            outputs:
+                - other_dedup.es.gz
+                - other_dedup.en.gz
+
+    - type: filter
+      parameters:
+            inputs:
+                - other_dedup.es.gz
+                - other_dedup.en.gz 
+            outputs:
+                - other_filt.es.gz
+                - other_filt.en.gz
+            filters:
+                - LengthFilter:
+                    unit: word
+                    min_length: 2
+                    max_length: 100
+                - LengthRatioFilter:
+                    unit: word
+                    threshold: 2
+                - LongWordFilter:
+                    threshold: 40
+                - HtmlTagFilter: {}
+                - CharacterScoreFilter:
+                    scripts:
+                        - Latin
+                        - Latin
+                    thresholds:
+                        - 1
+                        - 1
+                - TerminalPunctuationFilter:
+                    threshold: -2
+                - NonZeroNumeralsFilter:
+                    threshold: 0.5
+                - LanguageIDFilter:
+                    languages:
+                        - es
+                        - en
+                    thresholds:
+                        - 0.9
+                        - 0.9
+
+   - type: remove_duplicates 
+      parameters:
+            inputs:
+                - ost.es
+                - ost.en
+            outputs:
+                - ost_dedup.es.gz
+                - ost_dedup.en.gz 
+
+    - type: filter
+      parameters:
+            inputs:
+                - ost_dedup.es.gz
+                - ost_dedup.en.gz 
+            outputs:
+                - ost_filt.es.gz
+                - ost_filt.en.gz
+            filters:
+                - LengthFilter:
+                    unit: word
+                    min_length: 5
+                    max_length: 30
+                - LengthRatioFilter:
+                    unit: word
+                    threshold: 1.5
+                - LanguageIDFilter:
+                    languages:
+                        - es
+                        - en
+                    thresholds:
+                        - 0.9
+                        - 0.9

@@ -1,0 +1,346 @@
+train_from: model_ml_step_156000.pt
+save_data: data
+src_vocab: data/vocab.all
+overwrite: False
+share_vocab: True
+share_embeddings: True
+
+# Tokenization options
+src_subword_type: sentencepiece
+src_subword_model: spm/all2_32k.model
+tgt_subword_type: sentencepiece
+tgt_subword_model: spm/all2_32k.model
+
+# Number of candidates for SentencePiece sampling
+subword_nbest: 20
+# Smoothing parameter for SentencePiece sampling
+subword_alpha: 0.1
+# Specific arguments for pyonmttok
+src_onmttok_kwargs: "{'mode': 'none', 'spacer_annotate': True}"
+tgt_onmttok_kwargs: "{'mode': 'none', 'spacer_annotate': True}"
+src_seq_length: 500
+tgt_seq_length: 500
+
+# Corpus opts:
+data:
+    corpus_en_other:
+        path_src: ../../spa-eng/opusdata/other_filt.es
+        path_tgt: ../../spa-eng/opusdata/other_filt.en
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __en__
+        tgt_prefix: __en__
+        weight: 20
+    corpus_en_ost:
+        path_src: ../../spa-eng/opusdata/ost_filt.es
+        path_tgt: ../../spa-eng/opusdata/ost_filt.en
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __en__
+        tgt_prefix: __en__
+        weight: 20
+    corpus_cni_std:
+        path_src: ../../americasnlp2021-st/processed_data/ashaninka/dedup_filtered.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/ashaninka/dedup_filtered.cni.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __cni__
+        tgt_prefix: __cni__
+        weight: 3
+    corpus_cni_bib:
+        path_src: ../../americasnlp2021-st/processed_data/ashaninka/bibles.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/ashaninka/bibles.cni.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __cni__
+        tgt_prefix: __cni__
+        weight: 2
+    corpus_cni_bt:
+        path_src: ../../backtrans/merged/backtrans_cni.dedup.es
+        path_tgt: ../../backtrans/merged/backtrans_cni.dedup.cni
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __cni__
+        tgt_prefix: __cni__
+        weight: 2
+    corpus_cni_dev:
+        path_src: ../../americasnlp2021-st/processed_data/ashaninka/dev.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/ashaninka/dev.cni.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __cni__
+        tgt_prefix: __cni__
+        weight: 1
+    corpus_aym_std:
+        path_src: ../../americasnlp2021-st/processed_data/aymara/dedup_filtered.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/aymara/dedup_filtered.aym.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __aym__
+        tgt_prefix: __aym__
+        weight: 3
+    corpus_aym_bib:
+        path_src: ../../americasnlp2021-st/processed_data/aymara/bibles.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/aymara/bibles.aym.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __aym__
+        tgt_prefix: __aym__
+        weight: 2
+    corpus_aym_bt:
+        path_src: ../../backtrans/merged/backtrans_aym.dedup.es
+        path_tgt: ../../backtrans/merged/backtrans_aym.dedup.aym
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __aym__
+        tgt_prefix: __aym__
+        weight: 2
+    corpus_aym_dev:
+        path_src: ../../americasnlp2021-st/processed_data/aymara/dev.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/aymara/dev.aym.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __aym__
+        tgt_prefix: __aym__
+        weight: 1
+    corpus_bzd_std:
+        path_src: ../../americasnlp2021-st/processed_data/bribri/dedup_filtered.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/bribri/dedup_filtered.bzd.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __bzd__
+        tgt_prefix: __bzd__
+        weight: 3
+    corpus_bzd_bib:
+        path_src: ../../americasnlp2021-st/processed_data/bribri/bibles.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/bribri/bibles.bzd.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __bzd__
+        tgt_prefix: __bzd__
+        weight: 3
+    corpus_bzd_dev:
+        path_src: ../../americasnlp2021-st/processed_data/bribri/dev.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/bribri/dev.bzd.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __bzd__
+        tgt_prefix: __bzd__
+        weight: 1
+    corpus_gn_std:
+        path_src: ../../americasnlp2021-st/processed_data/guarani/dedup_filtered.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/guarani/dedup_filtered.gn.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __gn__
+        tgt_prefix: __gn__
+        weight: 3
+    corpus_gn_bib:
+        path_src: ../../americasnlp2021-st/processed_data/guarani/bibles.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/guarani/bibles.gn.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __gn__
+        tgt_prefix: __gn__
+        weight: 2
+    corpus_gn_bt:
+        path_src: ../../backtrans/merged/backtrans_gn.dedup.es
+        path_tgt: ../../backtrans/merged/backtrans_gn.dedup.gn
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __gn__
+        tgt_prefix: __gn__
+        weight: 2
+    corpus_gn_dev:
+        path_src: ../../americasnlp2021-st/processed_data/guarani/dev.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/guarani/dev.gn.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __gn__
+        tgt_prefix: __gn__
+        weight: 1
+    corpus_oto_std:
+        path_src: ../../americasnlp2021-st/processed_data/hñähñu/dedup_filtered.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/hñähñu/dedup_filtered.oto.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __oto__
+        tgt_prefix: __oto__
+        weight: 3
+    corpus_oto_bib:
+        path_src: ../../americasnlp2021-st/processed_data/hñähñu/bibles.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/hñähñu/bibles.oto.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __oto__
+        tgt_prefix: __oto__
+        weight: 2
+    corpus_oto_bt:
+        path_src: ../../backtrans/merged/backtrans_oto.dedup.es
+        path_tgt: ../../backtrans/merged/backtrans_oto.dedup.oto
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __oto__
+        tgt_prefix: __oto__
+        weight: 2
+    corpus_oto_dev:
+        path_src: ../../americasnlp2021-st/processed_data/hñähñu/dev.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/hñähñu/dev.oto.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __oto__
+        tgt_prefix: __oto__
+        weight: 1
+    corpus_nah_std:
+        path_src: ../../americasnlp2021-st/processed_data/nahuatl/dedup_filtered.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/nahuatl/dedup_filtered.nah.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __nah__
+        tgt_prefix: __nah__
+        weight: 3
+    corpus_nah_bib:
+        path_src: ../../americasnlp2021-st/processed_data/nahuatl/bibles.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/nahuatl/bibles.nah.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __nah__
+        tgt_prefix: __nah__
+        weight: 2
+    corpus_nah_bt:
+        path_src: ../../backtrans/merged/backtrans_nah.dedup.es
+        path_tgt: ../../backtrans/merged/backtrans_nah.dedup.nah
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __nah__
+        tgt_prefix: __nah__
+        weight: 2
+    corpus_nah_dev:
+        path_src: ../../americasnlp2021-st/processed_data/nahuatl/dev.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/nahuatl/dev.nah.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __nah__
+        tgt_prefix: __nah__
+        weight: 1
+    corpus_quy_std:
+        path_src: ../../americasnlp2021-st/processed_data/quechua/dedup_filtered.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/quechua/dedup_filtered.quy.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __quy__
+        tgt_prefix: __quy__
+        weight: 3
+    corpus_quy_bib:
+        path_src: ../../americasnlp2021-st/processed_data/quechua/bibles.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/quechua/bibles.quy.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __quy__
+        tgt_prefix: __quy__
+        weight: 2
+    corpus_quy_bt:
+        path_src: ../../backtrans/merged/backtrans_quy.dedup.es
+        path_tgt: ../../backtrans/merged/backtrans_quy.dedup.quy
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __quy__
+        tgt_prefix: __quy__
+        weight: 2
+    corpus_quy_dev:
+        path_src: ../../americasnlp2021-st/processed_data/quechua/dev.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/quechua/dev.quy.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __quy__
+        tgt_prefix: __quy__
+        weight: 1
+    corpus_tar_std:
+        path_src: ../../americasnlp2021-st/processed_data/raramuri/dedup_filtered.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/raramuri/dedup_filtered.tar.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __tar__
+        tgt_prefix: __tar__
+        weight: 3
+    corpus_tar_bib:
+        path_src: ../../americasnlp2021-st/processed_data/raramuri/bibles.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/raramuri/bibles.tar.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __tar__
+        tgt_prefix: __tar__
+        weight: 3
+    corpus_tar_dev:
+        path_src: ../../americasnlp2021-st/processed_data/raramuri/dev.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/raramuri/dev.tar.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __tar__
+        tgt_prefix: __tar__
+        weight: 1
+    corpus_shp_std:
+        path_src: ../../americasnlp2021-st/processed_data/shipibo_konibo/dedup_filtered.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/shipibo_konibo/dedup_filtered.shp.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __shp__
+        tgt_prefix: __shp__
+        weight: 3
+    corpus_shp_bib:
+        path_src: ../../americasnlp2021-st/processed_data/shipibo_konibo/bibles.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/shipibo_konibo/bibles.shp.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __shp__
+        tgt_prefix: __shp__
+        weight: 2
+    corpus_shp_bt:
+        path_src: ../../backtrans/merged/backtrans_shp.dedup.es
+        path_tgt: ../../backtrans/merged/backtrans_shp.dedup.shp
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __shp__
+        tgt_prefix: __shp__
+        weight: 2
+    corpus_shp_dev:
+        path_src: ../../americasnlp2021-st/processed_data/shipibo_konibo/dev.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/shipibo_konibo/dev.shp.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __shp__
+        tgt_prefix: __shp__
+        weight: 1
+    corpus_hch_std:
+        path_src: ../../americasnlp2021-st/processed_data/wixarika/dedup_filtered.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/wixarika/dedup_filtered.hch.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __hch__
+        tgt_prefix: __hch__
+        weight: 3
+    corpus_hch_bib:
+        path_src: ../../americasnlp2021-st/processed_data/wixarika/bibles.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/wixarika/bibles.hch.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __hch__
+        tgt_prefix: __hch__
+        weight: 2
+    corpus_hch_bt:
+        path_src: ../../backtrans/merged/backtrans_hch.dedup.es
+        path_tgt: ../../backtrans/merged/backtrans_hch.dedup.hch
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __hch__
+        tgt_prefix: __hch__
+        weight: 2
+    corpus_hch_dev:
+        path_src: ../../americasnlp2021-st/processed_data/wixarika/dev.es.txt
+        path_tgt: ../../americasnlp2021-st/processed_data/wixarika/dev.hch.txt
+        transforms: [onmt_tokenize, filtertoolong, prefix]
+        src_prefix: __hch__
+        tgt_prefix: __hch__
+        weight: 1
+    valid:
+        path_src: ../mldev/dev_all.es.tok
+        path_tgt: ../mldev/dev_all.am.tok
+        transforms: [filtertoolong]
+
+skip_empty_level: warning
+train_steps: 200000
+save_checkpoint_steps: 2000
+valid_steps: 2000
+world_size: 1
+gpu_ranks: 0
+
+encoder_type: transformer
+decoder_type: transformer
+enc_layers: 8
+dec_layers: 8
+rnn_size: 1024
+word_vec_size: 1024
+transformer_ff: 4096
+heads: 16
+position_encoding: True
+
+share_decoder_embeddings: True
+batch_type: tokens
+normalization: tokens
+accum_count: 4
+optim: adam
+adam_beta2: 0.997
+decay_method: noam
+warmup_steps: 16000
+learning_rate: 2
+max_grad_norm: 0
+param_init: 0
+param_init_glorot: True
+dropout: 0.1
+label_smoothing: 0.1
+max_generator_batches: 16
+batch_size: 4600
+seed: 1024
+model_dtype: fp16
+max_relative_positions: 4
