@@ -57,6 +57,57 @@
 | tar-es        | 1.19 | 0.189 | 1.21 | 0.188 | 3.141	| 0.213	|
 
 
+## Multilingual models for Spanish -> X (without dev set, track 2)
+
+**Model A (Raul):**
+- multilingual model without English
+- no backtranslations added
+- standard transformer with language tags in the src sentence
+- many-to-many 200k steps
+
+**Model A+BT (Raul):**
+- same as A, but with added backtranslations
+
+**Model B (Yves):**
+- High-capacity transformers (run 3 with data bug fixes and joint vocab)
+- Pretraining: 90% English, 10% remaining languages
+- SentencePiece joint 32k vocab
+- Evaluated on dev set after 72k pretraining steps (no finetuning, no backtranslations)
+
+**Model B+FT74 (Yves):**
+- Finetuning from step 72k to step 74k
+- 50% English, 50% remaining languages
+- Backtranslations included
+
+**Model B+FT118 (Yves):**
+- Same as above, but finetuning from step 72k to step 118k
+
+**Model B+FT156 (Yves):**
+- Same as above, but finetuning from step 72k to step 156k
+
+**Model C (Jörg):**
+- with OPUS data, no backtranslations
+
+**Model C+BT (Jörg):**
+- with OPUS data, with backtranslations
+
+| Language pair | BLEU | chrF2 | BLEU | chrF2 | BLEU | chrF2 | BLEU | chrF2 | BLEU | chrF2 | BLEU | chrF2 | BLEU | chrF2 | BLEU | chrF2 |
+| ------------- | ---- | ----- | ---- | ----- | ---- | ----- | ---- | ----- | ---- | ----- | ---- | ----- | ---- | ----- | ---- | ----- |
+|  | A | | A+BT |  | B |  | B+FT74 |  | B+FT118 |  | B+FT150 |  | C |  | C+BT |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| es-aym | 3.4 | 0.223 | 3.22 | 0.245 | 3.374 | 0.306 | 4.442 | 0.322 | 4.524 | 0.327 | 4.207 | 0.324 | 2.9 | 0.291 | 3.6 | 0.295 |
+| es-bzd | 3.35 | 0.203 | 3.39 | 0.188 | 4.773 | 0.225 | 5.169 | 0.232 | 5.115 | 0.233 | 5.274 | 0.238 | 3.1 | 0.183 | 3.4 | 0.183 |
+| es-cni | 2.36 | 0.222 | 2.78 | 0.24 | 2.636 | 0.239 | 2.967 | 0.255 | 2.473 | 0.255 | 2.73 | 0.268 | 1.4 | 0.25 | 1.8 | 0.271 |
+| es-gn | 3.88 | 0.247 | 4.05 | 0.26 | 5.345 | 0.299 | 5.096 | 0.299 | 5.449 | 0.311 | 5.424 | 0.311 | 2.8 | 0.258 | 3.7 | 0.278 |
+| es-hch | 6.32 | 0.258 | 7.22 | 0.255 | 8.669 | 0.303 | 6.582 | 0.29 | 6.398 | 0.289 | 7.325 | 0.299 | 7.3 | 0.267 | 7 | 0.267 |
+| es-nah | 2.05 | 0.242 | 2.67 | 0.251 | 2.681 | 0.279 | 3.471 | 0.298 | 3.051 | 0.284 | 2.927 | 0.273 | 1.6 | 0.26 | 2.6 | 0.237 |
+| es-oto | 1.08 | 0.137 | 0.97 | 0.138 | 1.043 | 0.139 | 1.104 | 0.142 | 1.143 | 0.147 | 1.022 | 0.146 | 0.3 | 0.12 | 0.5 | 0.129 |
+| es-quy | 2.34 | 0.206 | 2.92 | 0.245 | 2.22 | 0.265 | 3.889 | 0.338 | 3.479 | 0.326 | 3.462 | 0.316 | 2.1 | 0.285 | 2.8 | 0.303 |
+| es-shp | 2.1 | 0.158 | 4.58 | 0.292 | 4.519 | 0.299 | 4.69 | 0.259 | 5.627 | 0.317 | 5.402 | 0.317 | 1.6 | 0.182 | 3.3 | 0.241 |
+| es-tar | 1.21 | 0.162 | 1.04 | 0.159 | 1.184 | 0.173 | 1.092 | 0.185 | 1.551 | 0.196 | 1.138 | 0.19 | 0.4 | 0.175 | 0.9 | 0.181 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Mean | 2.809 | 0.2058 | 3.284 | 0.2273 | 3.6444 | 0.2527 | 3.8502 | 0.262 | 3.881 | 0.2685 | 3.8911 | 0.2682 | 2.35 | 0.2271 | 2.96 | 0.2385 |
+
 
 ## Multilingual models without English (Raul)
  - standard transformer with language tags in the src sentence
