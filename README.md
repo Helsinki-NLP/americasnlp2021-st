@@ -4,6 +4,14 @@ This is the official repository for the [AmericasNLP 2021 Shared Task on Open Ma
 
 A example of data in the shared task's format can be found in ```pilot_data/```, and ```evaluate.py``` is an example of the metrics and evaluations that will be used for submitted MT systems.
 
+## Additional resources about the Helsinki submissions
+
+- Overview of additional data (see also language-specific subfolders): https://github.com/Helsinki-NLP/americasnlp2021-st/tree/main/data
+- Instruction for data filtering with OpusFilter: https://github.com/Helsinki-NLP/americasnlp2021-st/blob/main/README-opusfilter.md
+- Overview of results: https://github.com/Helsinki-NLP/americasnlp2021-st/blob/main/results.md
+- Documentation of the (winning) Model B: https://github.com/Helsinki-NLP/americasnlp2021-st/tree/main/ModelB
+- The translated test sets submitted to the shared task: https://github.com/Helsinki-NLP/americasnlp2021-st/tree/main/submissions
+
 ## Data sources
 
 If you use one or more of the datasets included in this repository, please do not forget to cite each of te original papers.
