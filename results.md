@@ -109,6 +109,38 @@
 | Mean | 2.809 | 0.2058 | 3.284 | 0.2273 | 3.6444 | 0.2527 | 3.8502 | 0.262 | 3.881 | **0.2685** | **3.8911** | 0.2682 | 2.35 | 0.2271 | 2.96 | 0.2385 |
 
 
+## Multilingual models for Spanish -> X (with dev set, track 1)
+
+**Model A25 (Raul):**
+- multilingual model without English
+- finetuning from step 200k to 202.5k with 50% of dev set
+
+**Model A50 (Raul):**
+- multilingual model without English
+- finetuning from step 200k to 205k with 50% of dev set
+
+**Model B (Yves):**
+- Finetuning from step 72k to step 156k
+- 50% English, 50% remaining languages
+- Backtranslations + 50% of dev set included
+
+All evaluations on the other 50% of the dev set.
+
+| Language pair | BLEU | chrF2 | BLEU | chrF2 | BLEU | chrF2 |
+| ------------- | ---- | ----- | ---- | ----- | ---- | ----- |
+|  | A25 | | A50 |  | B |  |
+|  |  |  |  |  |  |  |
+| es-aym | 6.36 | 0.323 | 6.43 | 0.330 | 9.326 | 0.39 |
+| es-bzd | 11.70 | 0.322 | 11.47 | 0.316 | 16.977 | 0.392 |
+| es-cni | 9.80 | 0.382 | 9.27 | 0.385 | 8.332 | 0.414 |
+| es-gn | 8.03 | 0.337 | 8.06 | 0.337 | 11.072 | 0.408 |
+| es-hch | 14.83 | 0.351 | 13.99 | 0.340 | 19.637 | 0.409 |
+| es-nah | 7.43 | 0.358 | 5.93 | 0.359 | 8.779 | 0.426 |
+| es-oto | 7.10 | 0.251 | 6.50 | 0.247 | 12.14 | 0.313 |
+| es-quy | 5.23 | 0.361 | 4.94 | 0.360 | 8.456 | 0.457 |
+| es-shp |      |       |      |       | 12.238 | 0.452 |
+| es-tar | 5.23 | 0.264 | 5.61 | 0.272 | 6.856 | 0.317 |
+
 ## Multilingual models without English (Raul)
  - standard transformer with language tags in the src sentence
  - many-to-many 200k steps
