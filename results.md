@@ -2,10 +2,10 @@
 
 ## Simple bilingual baseline models
 
-(1) (Raul):
+**(1) (Raul):**
 - produced using the provided baseline system with the data without previous preprocessing
 
-(2) (Yves):
+**(2) (Yves):**
 - Standard transformers, 100k training steps
 - SentencePiece joint 8k vocab
 - evaluated on dev set
@@ -23,6 +23,39 @@
 | es-quy        |       |        | 1.205 | 0.275 | quy-es        | 4.870 | 0.250 |
 | es-shp        |       |        | 0.544 | 0.187 | shp-es        | 1.448 | 0.165 |
 | es-tar        | 0.01  | 0.046 	| 0.056 | 0.143 |               |       |       |
+
+
+## Multilingual models for X -> Spanish (back-translation)
+
+**Model A (Raul):**
+- multilingual model without English
+- no backtranslations added
+- standard transformer with language tags in the src sentence
+- many-to-many 200k steps
+
+**Model A+BT (Raul):**
+- same as A, but with added backtranslations
+
+**Model B' (Yves):**
+- High-capacity transformers
+- Pretraining: 90% English, 10% remaining languages
+- SentencePiece separate vocabs: 16k es, 32k en+other
+- Evaluated on dev set after 52k pretraining steps (no finetuning)
+
+| Language pair | BLEU | chrF2 | BLEU | chrF2 | BLEU  | chrF2 |
+| ------------- | ---- | ----- | ---- | ----- | ----- | ----- |
+|               | A    | A     | A+BT | A+BT  | B'    | B'    |
+| aym-es        | 4.40 | 0.221 | 4.67 | 0.220 | 8.833	| 0.270	|
+| bzd-es        | 5.23 | 0.249 | 5.39 | 0.255 | 9.744	| 0.316	|
+| cni-es        | 3.39 | 0.199 | 3.56 | 0.193 | 4.558	| 0.211	|
+| gn-es         | 4.98 | 0.238 | 5.54 | 0.244 | 9.696	| 0.296	|
+| hch-es        | 4.35 | 0.232 | 4.23 | 0.230 | 7.025	| 0.268	|
+| nah-es        | 3.80 | 0.218 | 4.27 | 0.220 | 8.629	| 0.275	|
+| oto-es        | 1.60 | 0.175 | 1.35 | 0.176 | 1.837	| 0.172	|
+| quy-es        | 5.77 | 0.271 | 6.37 | 0.273 | 9.555	| 0.302	|
+| shp-es        | 5.85 | 0.256 | 6.82 | 0.265 | 10.31	| 0.323	|
+| tar-es        | 1.19 | 0.189 | 1.21 | 0.188 | 3.141	| 0.213	|
+
 
 
 ## Multilingual models without English (Raul)
