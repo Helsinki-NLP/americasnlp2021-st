@@ -10,6 +10,7 @@ A example of data in the shared task's format can be found in ```pilot_data/```,
 - Instruction for data filtering with OpusFilter: https://github.com/Helsinki-NLP/americasnlp2021-st/blob/main/README-opusfilter.md
 - Overview of results: https://github.com/Helsinki-NLP/americasnlp2021-st/blob/main/results.md
 - Documentation of the (winning) Model B: https://github.com/Helsinki-NLP/americasnlp2021-st/tree/main/ModelB
+- Pretrained model files of Model B: https://doi.org/10.5281/zenodo.4906353
 - The translated test sets submitted to the shared task: https://github.com/Helsinki-NLP/americasnlp2021-st/tree/main/submissions
 
 ## Data sources
